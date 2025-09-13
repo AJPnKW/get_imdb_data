@@ -1,0 +1,24 @@
+[
+  {
+    "air_date": "2024-11-12",
+    "episode_count": 18,
+    "id": 388746,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/2LVXrQVsEzLlekzNmxZqKa06CV3.jpg",
+    "season_number": 1,
+    "vote_average": 8.1,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/2LVXrQVsEzLlekzNmxZqKa06CV3.jpg"
+  },
+  {
+    "air_date": "2025-11-03",
+    "episode_count": 2,
+    "id": 454051,
+    "name": "Season 2",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 2,
+    "vote_average": 0.0,
+    "_season_poster_url": ""
+  }
+]

@@ -1,0 +1,681 @@
+{
+  "adult": false,
+  "backdrop_path": "/xEtiiv2uhGr9IPgeruuECIfyfin.jpg",
+  "created_by": [
+    {
+      "id": 57532,
+      "credit_id": "53180153c3a3685c4a000b77",
+      "name": "Andrew W. Marlowe",
+      "original_name": "Andrew W. Marlowe",
+      "gender": 2,
+      "profile_path": "/9o7IDvGaaxKjbJ5UQuiR1u9uLMA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2009-03-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1419,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2016-05-16",
+  "last_episode_to_air": {
+    "id": 1191118,
+    "name": "Crossfire",
+    "overview": "With their best lead in hand, Castle and Beckett are ready to take on LokSat. But an unforeseen twist puts their case – and their lives – in jeopardy.",
+    "vote_average": 6.8,
+    "vote_count": 12,
+    "air_date": "2016-05-16",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "822",
+    "runtime": 44,
+    "season_number": 8,
+    "show_id": 1419,
+    "still_path": "/gi3cSj8EvUFUDUvrDhoYrfuMIjv.jpg"
+  },
+  "name": "Castle",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/ndAvF4JLsliGreX87jAc9GdjmJY.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 173,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Castle",
+  "overview": "After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.",
+  "popularity": 54.7381,
+  "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+  "production_companies": [
+    {
+      "id": 10157,
+      "logo_path": "/iMTZBY3vbW1PMKbdVh50j1Z21WU.png",
+      "name": "Beacon Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 20631,
+      "logo_path": null,
+      "name": "Experimental Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 247323,
+      "logo_path": null,
+      "name": "The Barry Schindel Company",
+      "origin_country": ""
+    },
+    {
+      "id": 183128,
+      "logo_path": null,
+      "name": "MilMar Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-03-09",
+      "episode_count": 10,
+      "id": 3741,
+      "name": "Season 1",
+      "overview": "A murder-mystery writer and a detective team up to catch a serial killer who is reenacting murders from his books. Once the case is solved, the unlikely pair continue to work together to probe New York City's most unusual homicides.",
+      "poster_path": "/9OE42PKojV7IueBxAAhbQbyfc6L.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2009-09-21",
+      "episode_count": 24,
+      "id": 3740,
+      "name": "Season 2",
+      "overview": "Best-selling mystery novelist Rick Castle’s unique approach to crime solving may have won over Detective Kate Beckett, but after crossing her, Castle is going to have to do his best work to get her back on his side.",
+      "poster_path": "/xA3s9Ti1p2kfoW9GBUXeZ2U6NE8.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2010-09-20",
+      "episode_count": 24,
+      "id": 3742,
+      "name": "Season 3",
+      "overview": "She’s still armed. He’s still dangerous. And their chemistry is hotter than ever. Season three finds both Richard Castle and Detective Kate Beckett pursuing romantic options of their own. Their signals may be crossed, but this duo hasn’t lost any of their spark. With Beckett’s intrepid police work and Castle’s uncanny insight, solving murder has never been so much fun. ",
+      "poster_path": "/d5IgnFWM6r3K8N2S8SROdUZwpsE.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2011-09-19",
+      "episode_count": 23,
+      "id": 3743,
+      "name": "Season 4",
+      "overview": "Prepare for a season full of suspense as Castle works to identify Beckett's shooter while Beckett struggles with the aftermath of her near-death encounter. All the while, the duo tackles a new batch of New Your City's most interesting cases.",
+      "poster_path": "/1A0iHY52nytMmcbAY2aLmAvRYz1.jpg",
+      "season_number": 4,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2012-09-24",
+      "episode_count": 24,
+      "id": 3744,
+      "name": "Season 5",
+      "overview": "Now that Castle and Beckett have finally given in to their true feelings for each other, how will it affect their work together? As they try to keep their new relationship under wraps from their co-workers, the unlikely duo must track down the murderer of Beckett's mother, find the perpetrator of a major conspiracy and untangle a line of investigation that links Castle to a ritualistic killing.",
+      "poster_path": "/xKcKk1lkagwIOC4ygfeQhCECdFh.jpg",
+      "season_number": 5,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2013-09-23",
+      "episode_count": 23,
+      "id": 3746,
+      "name": "Season 6",
+      "overview": "After Castle's stunning romantic proposal to Beckett, what happens next? The magnetic crime-fighting couple faces a whole new set of challenges as they juggle wedding plans and their most intriguing cases yet.\n\nBeckett's new job with the Justice Department takes her away from the wisecracking love of her life. But Castle's devotion to his new fiancee - and her fascinating line of work - jeopardizes her career and creates a chain of events that might separate them forever. Back on the home front, Castle is none too pleased to discover his daughter has seemingly been captivated by, and now living with, her new, free-spirited boyfriend.",
+      "poster_path": "/ccJOoVJQt3Cny1vchKmPtopa4SA.jpg",
+      "season_number": 6,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2014-09-29",
+      "episode_count": 23,
+      "id": 62048,
+      "name": "Season 7",
+      "overview": "The wedding bells are ringing, but will Castle and Beckett really tie the knot? On the biggest day of his life, Castle is nowhere to be found, and it's not because he has cold feet. Now, in a season of brilliant twists and turns, Castle and Beckett take on New York City's most fascinating cases while they try to solve the mystery of their own relationship.",
+      "poster_path": "/fLVi4LHqAcwGALlrLbVsqRHLOj3.jpg",
+      "season_number": 7,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2015-09-21",
+      "episode_count": 22,
+      "id": 68815,
+      "name": "Season 8",
+      "overview": "In the Season 7 finale, Beckett was faced with a choice about her future.  Now that she's been promoted to Captain, how will New York's famous  couple adapt in Season 8?",
+      "poster_path": "/4kBBvhlXb60ggaEEBiL7pURcFga.jpg",
+      "season_number": 8,
+      "vote_average": 7.2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "A whole new chapter in crime solving.",
+  "type": "Scripted",
+  "vote_average": 7.986,
+  "vote_count": 1973,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51797,
+        "known_for_department": "Acting",
+        "name": "Nathan Fillion",
+        "original_name": "Nathan Fillion",
+        "popularity": 5.3619,
+        "profile_path": "/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+        "character": "Richard Castle",
+        "credit_id": "5256d9b619c2956ff60abf9e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34408,
+        "known_for_department": "Acting",
+        "name": "Stana Katic",
+        "original_name": "Stana Katic",
+        "popularity": 1.8793,
+        "profile_path": "/4Kw0xJTzRc4VPfOVlaMr7OTfvN2.jpg",
+        "character": "Kate Beckett",
+        "credit_id": "5256d9b619c2956ff60abfde",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96349,
+        "known_for_department": "Acting",
+        "name": "Molly C. Quinn",
+        "original_name": "Molly C. Quinn",
+        "popularity": 1.905,
+        "profile_path": "/c3pWyH63Z7RHZkU3y3u6O8f07qf.jpg",
+        "character": "Alexis Castle",
+        "credit_id": "526fe08b19c29551390e3644",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62095,
+        "known_for_department": "Acting",
+        "name": "Jon Huertas",
+        "original_name": "Jon Huertas",
+        "popularity": 0.7684,
+        "profile_path": "/fNNJu1SJLQlpD8LVFFGJw1JlQSn.jpg",
+        "character": "Javier Esposito",
+        "credit_id": "5256d9b819c2956ff60ac13c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114035,
+        "known_for_department": "Acting",
+        "name": "Seamus Dever",
+        "original_name": "Seamus Dever",
+        "popularity": 0.8877,
+        "profile_path": "/izuwVXJowfoI5L51whUuHyjmdf8.jpg",
+        "character": "Kevin Ryan",
+        "credit_id": "5256d9b619c2956ff60ac0ce",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 543204,
+        "known_for_department": "Acting",
+        "name": "Susan Sullivan",
+        "original_name": "Susan Sullivan",
+        "popularity": 1.0,
+        "profile_path": "/cafgP4eWAKCwPP76qO7xSkbrSUz.jpg",
+        "character": "Martha Rodgers",
+        "credit_id": "5256d9b619c2956ff60ac064",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59154,
+        "known_for_department": "Acting",
+        "name": "Tamala Jones",
+        "original_name": "Tamala Jones",
+        "popularity": 0.8029,
+        "profile_path": "/oPdfyRpJNaf7oO0pJlxAKmc9egX.jpg",
+        "character": "Lanie Parish",
+        "credit_id": "5256d9b619c2956ff60ac02e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1256258,
+        "known_for_department": "Acting",
+        "name": "Toks Olagundoye",
+        "original_name": "Toks Olagundoye",
+        "popularity": 0.7702,
+        "profile_path": "/2tKnfTA0gh6QnTcHb18hj8o70uG.jpg",
+        "character": "Hayley Shipton",
+        "credit_id": "561a54e19251413e980002c1",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2998539,
+        "known_for_department": "Directing",
+        "name": "Zach Cannon",
+        "original_name": "Zach Cannon",
+        "popularity": 0.0596,
+        "profile_path": null,
+        "credit_id": "60414cb7af6e94006ea2a524",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67855,
+        "known_for_department": "Writing",
+        "name": "Alexi Hawley",
+        "original_name": "Alexi Hawley",
+        "popularity": 0.4088,
+        "profile_path": "/eIyGbyHTfsIxEOPlD5lByW9A80y.jpg",
+        "credit_id": "56d5ceb8c3a36870ac003f38",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553985,
+        "known_for_department": "Production",
+        "name": "Terence Paul Winter",
+        "original_name": "Terence Paul Winter",
+        "popularity": 0.2137,
+        "profile_path": null,
+        "credit_id": "56d5cfed9251413932003c6d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1585052,
+        "known_for_department": "Production",
+        "name": "Mark S. Glick",
+        "original_name": "Mark S. Glick",
+        "popularity": 0.0286,
+        "profile_path": null,
+        "credit_id": "56d5e5fdc3a3681e3c019d1d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51797,
+        "known_for_department": "Acting",
+        "name": "Nathan Fillion",
+        "original_name": "Nathan Fillion",
+        "popularity": 5.3619,
+        "profile_path": "/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+        "credit_id": "56d5cb20c3a3681e500160e0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213367,
+        "known_for_department": "Writing",
+        "name": "Barry O'Brien",
+        "original_name": "Barry O'Brien",
+        "popularity": 0.1177,
+        "profile_path": "/7PU7FivEukXqOFSOnSWdvfjkJTt.jpg",
+        "credit_id": "56d5dc00c3a3681e360173d4",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34408,
+        "known_for_department": "Acting",
+        "name": "Stana Katic",
+        "original_name": "Stana Katic",
+        "popularity": 1.8793,
+        "profile_path": "/4Kw0xJTzRc4VPfOVlaMr7OTfvN2.jpg",
+        "credit_id": "56d5cc05925141719e001c84",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66529,
+        "known_for_department": "Writing",
+        "name": "Chad Gomez Creasey",
+        "original_name": "Chad Gomez Creasey",
+        "popularity": 0.0946,
+        "profile_path": null,
+        "credit_id": "56d5dc3cc3a3681e50016312",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42466,
+        "known_for_department": "Writing",
+        "name": "Jim Adler",
+        "original_name": "Jim Adler",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "credit_id": "56d5dc969251413402013ede",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224181,
+        "known_for_department": "Writing",
+        "name": "Rob Hanning",
+        "original_name": "Rob Hanning",
+        "popularity": 0.1521,
+        "profile_path": "/ubzkMCom76NymhnyEXcKWDJZVEd.jpg",
+        "credit_id": "56d5d0db925141391f003ed3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59249,
+        "known_for_department": "Writing",
+        "name": "Christine Roum",
+        "original_name": "Christine Roum",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "56d5d246c3a36870ac003f9d",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1584999,
+        "known_for_department": "Production",
+        "name": "Marc A. Kahn",
+        "original_name": "Marc A. Kahn",
+        "popularity": 0.0499,
+        "profile_path": null,
+        "credit_id": "56d5c8dd925141391f003da3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 954395,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luke Reichle",
+        "original_name": "Luke Reichle",
+        "popularity": 0.0712,
+        "profile_path": null,
+        "credit_id": "56d5e98b9251413932003fb3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1585054,
+        "known_for_department": "Production",
+        "name": "Kendra Castleberry",
+        "original_name": "Kendra Castleberry",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "56d5e8b092514112cd0003bd",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1234217,
+        "known_for_department": "Production",
+        "name": "Howard Grigsby",
+        "original_name": "Howard Grigsby",
+        "popularity": 0.1129,
+        "profile_path": null,
+        "credit_id": "56d5c5579251413402013c06",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57532,
+        "known_for_department": "Writing",
+        "name": "Andrew W. Marlowe",
+        "original_name": "Andrew W. Marlowe",
+        "popularity": 0.2788,
+        "profile_path": "/9o7IDvGaaxKjbJ5UQuiR1u9uLMA.jpg",
+        "credit_id": "56d5dcc7925141719e001e9c",
+        "department": "Production",
+        "job": "Executive Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12523,
+        "known_for_department": "Directing",
+        "name": "Rob Bowman",
+        "original_name": "Rob Bowman",
+        "popularity": 0.1588,
+        "profile_path": "/k6a9XQHJBYi8hqRnwj65yBp0Xdj.jpg",
+        "credit_id": "56d5cd15c3a3681e44019906",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 933574,
+        "known_for_department": "Production",
+        "name": "Donna Rosenstein",
+        "original_name": "Donna Rosenstein",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "credit_id": "56d5e91ac3a3681e50016478",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41587,
+        "known_for_department": "Production",
+        "name": "Armyan Bernstein",
+        "original_name": "Armyan Bernstein",
+        "popularity": 0.1543,
+        "profile_path": "/8zJR5pHnTPwAshoK8ZrBYgtRCJm.jpg",
+        "credit_id": "56d5d1dc9251411884002f04",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2964729,
+        "known_for_department": "Art",
+        "name": "Tiffany Cowsill",
+        "original_name": "Tiffany Cowsill",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "601c3ecd07291c0040814726",
+        "department": "Art",
+        "job": "Set Dresser"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "M"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "12+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "NC16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PH",
+        "rating": "PG"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IN",
+        "rating": "U"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "AA"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "NR"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FI",
+        "rating": "K12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "15"
+      }
+    ]
+  }
+}

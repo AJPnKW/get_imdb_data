@@ -1,0 +1,253 @@
+{
+  "adult": false,
+  "backdrop_path": "/nV9VruLiUkiqOYuQoY70UCdweVG.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "6082b55d9e4586006f2d5846",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "id": 16957,
+      "credit_id": "68677c0292cd19931d7b7a71",
+      "name": "Fenton Bailey",
+      "original_name": "Fenton Bailey",
+      "gender": 2,
+      "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg"
+    },
+    {
+      "id": 16958,
+      "credit_id": "68677c093cb96579ce991f95",
+      "name": "Randy Barbato",
+      "original_name": "Randy Barbato",
+      "gender": 2,
+      "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2021-05-01",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.stan.com.au/watch/rupauls-drag-race-down-under",
+  "id": 122692,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-12-20",
+  "last_episode_to_air": {
+    "id": 5720491,
+    "name": "Grand Finale",
+    "overview": "The final queens compete for the $50,000 by writing their own verses and learning their most challenging choreography yet for their last Main Stage performance. We’re ready to crown a winner, baby!",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2024-12-20",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 56,
+    "season_number": 4,
+    "show_id": 122692,
+    "still_path": "/DtSSPRWSlcVNrfhYjlb6NdYDql.jpg"
+  },
+  "name": "RuPaul's Drag Race Down Under",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1255,
+      "logo_path": "/1akCJMjyZsiS4v3NTJD5Y0LFZ4R.png",
+      "name": "Stan",
+      "origin_country": "AU"
+    },
+    {
+      "id": 5450,
+      "logo_path": "/uJurSPk6q0o6XxAz539UGCTTqLF.png",
+      "name": "TVNZ+",
+      "origin_country": "NZ"
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "AU",
+    "NZ"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race Down Under",
+  "overview": "Drag queen contestants compete in an elimination-style contest and strut their stuff in a variety of challenges - all to prove that they’ve got what it takes to be Down Under's next Drag Queen Superstar!",
+  "popularity": 2.9872,
+  "poster_path": "/uWZPjouQgLs1lMVL0lu8P5J1jBc.jpg",
+  "production_companies": [
+    {
+      "id": 105378,
+      "logo_path": "/i0eUreidhS6PzQgkfErhT2QIkKm.png",
+      "name": "Warner Bros. International Television Production New Zealand",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 74346,
+      "logo_path": "/1akCJMjyZsiS4v3NTJD5Y0LFZ4R.png",
+      "name": "Stan",
+      "origin_country": "AU"
+    },
+    {
+      "id": 1421,
+      "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+      "name": "World of Wonder",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-03-05",
+      "episode_count": 6,
+      "id": 461388,
+      "name": "Specials",
+      "overview": "Meet the Queens",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-04-30",
+      "episode_count": 8,
+      "id": 189613,
+      "name": "Season 1",
+      "overview": "Shantay, g’day! RuPaul hosts the first-ever season of RuPaul’s Drag Race Down Under, where Australia and New Zealand's most sick'ning drag queens compete to prove that they’ve got what it takes to be Down Under's First Drag Superstar!",
+      "poster_path": "/j4FPSAPRDkYKIb8XkIa9v5S2aV1.jpg",
+      "season_number": 1,
+      "vote_average": 3.9
+    },
+    {
+      "air_date": "2022-07-30",
+      "episode_count": 8,
+      "id": 298186,
+      "name": "Season 2",
+      "overview": "RuPaul is seeking out the very best in Australasian drag as the brightest in Aussie and Kiwi talent compete for the title of the Down Under’s Next Drag Superstar. Each week the queens are given outrageous challenges that test their fashion, acting, dancing, singing, and comedy skills.",
+      "poster_path": "/7QkRBMWpoVTHiN3wQPdQ3H9rZzm.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2023-07-28",
+      "episode_count": 8,
+      "id": 346920,
+      "name": "Season 3",
+      "overview": "This electrifying competition series brings together the most dazzling drag queens from Australia and New Zealand for a no-holds-barred battle to be crowned the next drag superstar. This season promises to be an absolute riot of outrageous fashion, jaw-dropping performances, and plenty of drama and laughs along the way. From the wild and wonderful challenges to the larger-than-life personalities of the contestants, you won't be able to tear your eyes away from the screen.",
+      "poster_path": "/nrmPPD0CCVE6sidhszx41utxvw9.jpg",
+      "season_number": 3,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2024-11-01",
+      "episode_count": 8,
+      "id": 383161,
+      "name": "Season 4",
+      "overview": "This electrifying competition series brings together the most dazzling drag queens from Australia and New Zealand for a no-holds-barred battle to be crowned the next drag superstar. This season promises to be an absolute riot of outrageous fashion, jaw-dropping performances, and plenty of drama and laughs along the way. From the wild and wonderful challenges to the larger-than-life personalities of the contestants, you won't be able to tear your eyes away from the screen.",
+      "poster_path": "/uWZPjouQgLs1lMVL0lu8P5J1jBc.jpg",
+      "season_number": 4,
+      "vote_average": 7.1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "It's her house now.",
+  "type": "Reality",
+  "vote_average": 5.2,
+  "vote_count": 25,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1581751,
+        "known_for_department": "Acting",
+        "name": "Michelle Visage",
+        "original_name": "Michelle Visage",
+        "popularity": 0.3861,
+        "profile_path": "/sA43jCIrZE7VkX0Wy0IBoMb0MvC.jpg",
+        "character": "Self - Host / Judge",
+        "credit_id": "65fdbd7904733f0164e8bf0b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1818911,
+        "known_for_department": "Acting",
+        "name": "Rhys Nicholson",
+        "original_name": "Rhys Nicholson",
+        "popularity": 0.1143,
+        "profile_path": "/bgOzTtPaHWRhWV0c36mhtWIGfZy.jpg",
+        "character": "Self - Judge",
+        "credit_id": "6082b65e126ec3003f25207c",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt14192040",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 368747,
+    "tvrage_id": null,
+    "wikidata_id": "Q70068406",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "_poster_url": "https://image.tmdb.org/t/p/w500/uWZPjouQgLs1lMVL0lu8P5J1jBc.jpg",
+  "_backdrop_url": "https://image.tmdb.org/t/p/w780/nV9VruLiUkiqOYuQoY70UCdweVG.jpg",
+  "_providers": {
+    "providers_flatrate_CA": "WOW Presents Plus",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "",
+    "providers_ads_CA": "",
+    "providers_link_CA": "https://www.themoviedb.org/tv/122692-rupaul-s-drag-race-down-under/watch?locale=CA"
+  }
+}

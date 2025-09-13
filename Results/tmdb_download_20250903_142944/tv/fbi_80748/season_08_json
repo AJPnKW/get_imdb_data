@@ -1,0 +1,46 @@
+{
+  "_id": "6871a75de0d36590801055d6",
+  "air_date": "2025-10-13",
+  "episodes": [
+    {
+      "air_date": "2025-10-13",
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 6374509,
+      "name": "Takeover",
+      "overview": "After a federal judge disappears, a routine investigation takes a dark turn as the team uncovers that the judge had been searching for his missing son on a secluded island on the city's edge, where authority has crumbled. Meanwhile, reality weighs heavy on Jubal as he takes on a new leadership role.",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 8,
+      "show_id": 80748,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2025-10-20",
+      "episode_number": 2,
+      "episode_type": "standard",
+      "id": 6488869,
+      "name": "Captured",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 8,
+      "show_id": 80748,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    }
+  ],
+  "name": "Season 8",
+  "overview": "",
+  "id": 464998,
+  "poster_path": null,
+  "season_number": 8,
+  "vote_average": 0.0
+}

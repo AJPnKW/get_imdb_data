@@ -1,0 +1,223 @@
+{
+  "adult": false,
+  "backdrop_path": "/tQKdXH7y2XyN9xAIWi8DyFnhfnf.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "634dfc85d100b60082f3fe26",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "id": 16957,
+      "credit_id": "68677d51bec92d9eca7b7a42",
+      "name": "Fenton Bailey",
+      "original_name": "Fenton Bailey",
+      "gender": 2,
+      "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg"
+    },
+    {
+      "id": 16958,
+      "credit_id": "68677d56bf2581460579e1fe",
+      "name": "Randy Barbato",
+      "original_name": "Randy Barbato",
+      "gender": 2,
+      "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2022-11-18",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 203734,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-08-23",
+  "last_episode_to_air": {
+    "id": 5473656,
+    "name": "Grand Finale",
+    "overview": "All queens return for the finale, and the top queens battle for the crown in a lip sync extravaganza.",
+    "vote_average": 8.0,
+    "vote_count": 2,
+    "air_date": "2024-08-23",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 2,
+    "show_id": 203734,
+    "still_path": "/yKWwx20lIxoZ4GWBPZ10Ij8p37O.jpg"
+  },
+  "name": "Canada's Drag Race: Canada vs The World",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1344,
+      "logo_path": "/xlVkcuR2NqruUHh8gPaAw9BvOCT.png",
+      "name": "Crave",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Canada's Drag Race: Canada vs The World",
+  "overview": "A battle that brings back fan-favourites from the international Drag Race family for an elite competition.",
+  "popularity": 0.838,
+  "poster_path": "/amJ1PVPOAoke0B6xo3YyephlFh3.jpg",
+  "production_companies": [
+    {
+      "id": 1421,
+      "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+      "name": "World of Wonder",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-10-17",
+      "episode_count": 2,
+      "id": 461407,
+      "name": "Specials",
+      "overview": "Meet the Queens of Canada's Drag Race Vs The World",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-11-18",
+      "episode_count": 6,
+      "id": 296848,
+      "name": "Season 1",
+      "overview": "After three wildly successful seasons of Canada’s Drag Race, our queens of the north have proven they can “sleigh” in every way. Now it’s time to raise the stakes and go global! At this level of competition, there are no weak links - just nine seasoned queens with a thirst for victory. Let the international games begin!",
+      "poster_path": "/2WXnJ6FWbMy7aQIiZRwxlui74rS.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2024-07-19",
+      "episode_count": 6,
+      "id": 400054,
+      "name": "Season 2",
+      "overview": "Queens from the international Drag Race family will compete to become the Ultimate Drag Race Superstar! With Canada acting as host nation, this six-episode battle will bring back fan favourites and top talent from across the globe for an elite competition to crown the Queen of the Mother-Pucking World.",
+      "poster_path": "/kDCIvmexeNW0fQVQtLVKfzFTT0y.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 4.7,
+  "vote_count": 10,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2419358,
+        "known_for_department": "Acting",
+        "name": "Brooke Lynn Hytes",
+        "original_name": "Brooke Lynn Hytes",
+        "popularity": 0.1697,
+        "profile_path": "/KR9wsbvgZ3w3lBWbtkrqA2vSVo.jpg",
+        "character": "Self - Host / Judge",
+        "credit_id": "62a2027d35d1bc37302b077c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239491,
+        "known_for_department": "Acting",
+        "name": "Brad Goreski",
+        "original_name": "Brad Goreski",
+        "popularity": 0.0796,
+        "profile_path": "/9MAj1K83VohZ7hedxj1NBONAuIN.jpg",
+        "character": "Self - Judge",
+        "credit_id": "62a2028c7d5db502f72300ba",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.6701,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - RuMail",
+        "credit_id": "63828579b3316b00aff48ab2",
+        "order": 3
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt19357598",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 419302,
+    "tvrage_id": null,
+    "wikidata_id": "Q117829690",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "_poster_url": "https://image.tmdb.org/t/p/w500/amJ1PVPOAoke0B6xo3YyephlFh3.jpg",
+  "_backdrop_url": "https://image.tmdb.org/t/p/w780/tQKdXH7y2XyN9xAIWi8DyFnhfnf.jpg",
+  "_providers": {
+    "providers_flatrate_CA": "Crave",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "Apple TV",
+    "providers_ads_CA": "",
+    "providers_link_CA": "https://www.themoviedb.org/tv/203734-canada-s-drag-race-canada-vs-the-world/watch?locale=CA"
+  }
+}

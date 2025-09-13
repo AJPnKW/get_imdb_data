@@ -1,0 +1,68 @@
+[
+  {
+    "air_date": "2020-01-06",
+    "episode_count": 14,
+    "id": 133716,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/uhwzWXHZnhIS9rqO4OQd1bZlZAQ.jpg",
+    "season_number": 1,
+    "vote_average": 8.0,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/uhwzWXHZnhIS9rqO4OQd1bZlZAQ.jpg"
+  },
+  {
+    "air_date": "2020-11-16",
+    "episode_count": 15,
+    "id": 166425,
+    "name": "Season 2",
+    "overview": "",
+    "poster_path": "/o22CG78OSDzW7KpgLugjXTrRXTz.jpg",
+    "season_number": 2,
+    "vote_average": 8.3,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/o22CG78OSDzW7KpgLugjXTrRXTz.jpg"
+  },
+  {
+    "air_date": "2021-09-20",
+    "episode_count": 22,
+    "id": 202000,
+    "name": "Season 3",
+    "overview": "",
+    "poster_path": "/3Yyxq2X4ZwUpdwgMvarTuEc87fi.jpg",
+    "season_number": 3,
+    "vote_average": 8.5,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/3Yyxq2X4ZwUpdwgMvarTuEc87fi.jpg"
+  },
+  {
+    "air_date": "2022-09-19",
+    "episode_count": 22,
+    "id": 298430,
+    "name": "Season 4",
+    "overview": "",
+    "poster_path": "/vpprgWCuDJ4CucJhFB4fBHdX9D7.jpg",
+    "season_number": 4,
+    "vote_average": 8.4,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/vpprgWCuDJ4CucJhFB4fBHdX9D7.jpg"
+  },
+  {
+    "air_date": "2024-02-12",
+    "episode_count": 13,
+    "id": 365561,
+    "name": "Season 5",
+    "overview": "",
+    "poster_path": "/830PknG9zNF4Fc1Dc8FJs6TBnWv.jpg",
+    "season_number": 5,
+    "vote_average": 8.2,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/830PknG9zNF4Fc1Dc8FJs6TBnWv.jpg"
+  },
+  {
+    "air_date": "2024-10-15",
+    "episode_count": 22,
+    "id": 402114,
+    "name": "Season 6",
+    "overview": "",
+    "poster_path": "/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg",
+    "season_number": 6,
+    "vote_average": 6.8,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg"
+  }
+]

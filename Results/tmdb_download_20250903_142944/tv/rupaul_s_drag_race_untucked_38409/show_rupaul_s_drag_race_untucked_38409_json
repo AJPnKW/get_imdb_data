@@ -1,0 +1,390 @@
+{
+  "adult": false,
+  "backdrop_path": "/xxgmphUJJOGwhKFKFU3aIKPv96O.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    21
+  ],
+  "first_air_date": "2010-02-01",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.mtv.com/shows/rupauls-drag-race-untucked",
+  "id": 38409,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-04",
+  "last_episode_to_air": {
+    "id": 6067961,
+    "name": "How's Your Headliner?",
+    "overview": "The top Queens enter the Untucked lounge for the final time. Their fates are uncertain, but they all agree that they have had the time of their lives. Guest judge, Tracee Ellis Ross stops by to thank the Queens for putting on an amazing show.",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2025-04-04",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 16,
+    "show_id": 38409,
+    "still_path": "/5NcG3pLcIHtNMDNtm0JXeNsykiy.jpg"
+  },
+  "name": "RuPaul's Drag Race: Untucked",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 33,
+      "logo_path": "/w4qtv7xBkSVsbOQdSzjUjlyOuSr.png",
+      "name": "MTV",
+      "origin_country": "US"
+    },
+    {
+      "id": 62,
+      "logo_path": "/ztSNqnJ8W1GOYfa3525xFBDb3NY.png",
+      "name": "Logo",
+      "origin_country": "US"
+    },
+    {
+      "id": 158,
+      "logo_path": "/w9oUxxUiXTC1O1MzJSvsMjQbgft.png",
+      "name": "VH1",
+      "origin_country": "US"
+    },
+    {
+      "id": 247,
+      "logo_path": "/9Ga8A5QegQmiSVHp4hyusfMfpVk.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 196,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race: Untucked",
+  "overview": "The access-all-areas pass to the drama that you didn't see on the runway—the backstage bitchiness, the catfights, the struggles, the tears and the secrets. See what happens behind the scenes of RuPaul's Drag Race when the queens let their tucks breathe... and let their emotions flow.",
+  "popularity": 9.6951,
+  "poster_path": "/35b9oBymLiEOUL9e3WRrJF6aDUK.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-02-01",
+      "episode_count": 10,
+      "id": 49920,
+      "name": "Season 1",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the second season of RuPaul's Drag Race.",
+      "poster_path": "/hsPkpIDLOQm6lX15ointkWwqhXJ.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2011-01-24",
+      "episode_count": 13,
+      "id": 49921,
+      "name": "Season 2",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the third season of RuPaul's Drag Race.",
+      "poster_path": "/7tZz1nAy8bDvaWCKyhM1h41LaaI.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2012-01-30",
+      "episode_count": 11,
+      "id": 49923,
+      "name": "Season 3",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the fourth season of RuPaul's Drag Race.",
+      "poster_path": "/zkhpp1OvYFlUj6AKseWqBhTjwtl.jpg",
+      "season_number": 3,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2013-01-28",
+      "episode_count": 11,
+      "id": 116962,
+      "name": "Season 4",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the fifth season of RuPaul's Drag Race.",
+      "poster_path": "/rzDwNLbO1TTH3sORbGYj2vkBuWn.jpg",
+      "season_number": 4,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2014-02-24",
+      "episode_count": 12,
+      "id": 116963,
+      "name": "Season 5",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the sixth season of RuPaul's Drag Race.",
+      "poster_path": "/hsC5IKwcAkYJFj1oSncAYchp470.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2015-03-02",
+      "episode_count": 12,
+      "id": 116966,
+      "name": "Season 6",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the seventh season of RuPaul's Drag Race.",
+      "poster_path": "/2qp9dH0rdYkwmm89ymLeozUzp8w.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2016-03-07",
+      "episode_count": 9,
+      "id": 116967,
+      "name": "Season 7",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the eighth season of RuPaul's Drag Race.",
+      "poster_path": "/yocxaM1pJ0a337xdlDHPIL2OYex.jpg",
+      "season_number": 7,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2017-03-24",
+      "episode_count": 12,
+      "id": 116968,
+      "name": "Season 8",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the ninth season of RuPaul's Drag Race.",
+      "poster_path": "/cxkfDfiXQzQ2cPRqbCdzuqWPPaO.jpg",
+      "season_number": 8,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2018-03-22",
+      "episode_count": 12,
+      "id": 116969,
+      "name": "Season 9",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the tenth season of RuPaul's Drag Race.",
+      "poster_path": "/nuCr52awyg3XDqN5hc4OgYXo8ZX.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-03-01",
+      "episode_count": 12,
+      "id": 120562,
+      "name": "Season 10",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the eleventh season of RuPaul's Drag Race.",
+      "poster_path": "/8cYQ8NoRCeuhWJ41O4fVSN83qcX.jpg",
+      "season_number": 10,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2020-02-28",
+      "episode_count": 12,
+      "id": 144231,
+      "name": "Season 11",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the twelfth season of RuPaul's Drag Race.",
+      "poster_path": "/xORRiVnV4IH3yI2E1JYIxoKb3ef.jpg",
+      "season_number": 11,
+      "vote_average": 4.0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 14,
+      "id": 171650,
+      "name": "Season 12",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the thirteenth season of RuPaul's Drag Race.",
+      "poster_path": "/OHpeP4Ek3XD04mc8WjtMOPmft.jpg",
+      "season_number": 12,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "2022-01-07",
+      "episode_count": 14,
+      "id": 239101,
+      "name": "Season 13",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the fourteenth season of RuPaul's Drag Race.",
+      "poster_path": "/khbEjHijn96kOYkyX6bsZwnZLr9.jpg",
+      "season_number": 13,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2023-01-06",
+      "episode_count": 14,
+      "id": 323353,
+      "name": "Season 14",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the fifteenth season of RuPaul's Drag Race.",
+      "poster_path": "/9palwm4RadB5FPaXUTbhAiBXZcu.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-01-05",
+      "episode_count": 14,
+      "id": 369623,
+      "name": "Season 15",
+      "overview": "An access-all-areas pass to the drama that you didn't see on the runway of the sixteenth season of RuPaul's Drag Race.",
+      "poster_path": "/57D7AEiEGkVNQCxzYnKoxU0Ndhe.jpg",
+      "season_number": 15,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-01-03",
+      "episode_count": 14,
+      "id": 431893,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/35b9oBymLiEOUL9e3WRrJF6aDUK.jpg",
+      "season_number": 16,
+      "vote_average": 7.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "If you're not watching Untucked, you're only getting half the story!",
+  "type": "Reality",
+  "vote_average": 6.2,
+  "vote_count": 48,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.5045,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - Narrator",
+        "credit_id": "5c4282df92514121460ab646",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5647127,
+        "known_for_department": "Art",
+        "name": "Gavin Smith",
+        "original_name": "Gavin Smith",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "credit_id": "68abb092dfa562a3e2548416",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.5045,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "credit_id": "6633b4c3e92d83012ad224c4",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B-15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "HU",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CZ",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "19"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "12"
+      }
+    ]
+  }
+}

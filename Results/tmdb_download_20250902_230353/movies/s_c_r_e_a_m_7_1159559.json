@@ -1,0 +1,844 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": {
+    "id": 2602,
+    "name": "Scream Collection",
+    "poster_path": "/p3EjClFy20jjT0u06dzBs4lvvhi.jpg",
+    "backdrop_path": "/fG6GzZAwtsW3v2mhB4EyQLMRjUV.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1159559,
+  "imdb_id": "tt27047903",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Scream 7",
+  "overview": "The seventh installment in the 'Scream' franchise. Plot TBA.",
+  "popularity": 2.8161,
+  "poster_path": "/jcejzY3BakzUVvRX3I4bsDQPlTd.jpg",
+  "production_companies": [
+    {
+      "id": 143790,
+      "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+      "name": "Spyglass Media Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 130448,
+      "logo_path": "/yHWTTGKbOGZKUd1cp6l3uLyDeiv.png",
+      "name": "Project X Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-25",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Post Production",
+  "tagline": "",
+  "title": "Scream 7",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9206,
+        "known_for_department": "Acting",
+        "name": "Neve Campbell",
+        "original_name": "Neve Campbell",
+        "popularity": 1.8052,
+        "profile_path": "/eojcMcfl7fZbvElRSg89r7zyFfY.jpg",
+        "cast_id": 34,
+        "character": "Sidney Prescott",
+        "credit_id": "65f09a48946318018562610f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1972974,
+        "known_for_department": "Acting",
+        "name": "Isabel May",
+        "original_name": "Isabel May",
+        "popularity": 3.6159,
+        "profile_path": "/9AT39NSHNQ44VebDrqupxplmyLK.jpg",
+        "cast_id": 41,
+        "character": "",
+        "credit_id": "673ea7248e1abaf482db5c5b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1972881,
+        "known_for_department": "Acting",
+        "name": "Celeste O'Connor",
+        "original_name": "Celeste O'Connor",
+        "popularity": 0.6422,
+        "profile_path": "/jI3pNOhj9Gr7ym9cUcv8vsI0lCF.jpg",
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "674e46f3af824866f81166df",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2659895,
+        "known_for_department": "Acting",
+        "name": "Asa Germann",
+        "original_name": "Asa Germann",
+        "popularity": 0.4217,
+        "profile_path": "/kVUVy9wL2LYkt69EOxgqywMZSqJ.jpg",
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "6752364f0e8c237986a8fb22",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1172108,
+        "known_for_department": "Acting",
+        "name": "Mckenna Grace",
+        "original_name": "Mckenna Grace",
+        "popularity": 3.3939,
+        "profile_path": "/1bOvCILCRZDohuNKKOBqADRNNn9.jpg",
+        "cast_id": 48,
+        "character": "",
+        "credit_id": "675b50bb3941c6f1ea0205b7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3132260,
+        "known_for_department": "Acting",
+        "name": "Sam Rechner",
+        "original_name": "Sam Rechner",
+        "popularity": 0.2705,
+        "profile_path": "/cjFwkjJY7G2MxNnTzPuM1rPXG3G.jpg",
+        "cast_id": 49,
+        "character": "",
+        "credit_id": "675cb77ce269c682230fe4ed",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 221098,
+        "known_for_department": "Acting",
+        "name": "Anna Camp",
+        "original_name": "Anna Camp",
+        "popularity": 1.8517,
+        "profile_path": "/32H0SJbTK3tvLVgf3X1aiaUdcxe.jpg",
+        "cast_id": 52,
+        "character": "",
+        "credit_id": "6761fb81292a67b3a1ff7cc9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2174509,
+        "known_for_department": "Acting",
+        "name": "Mason Gooding",
+        "original_name": "Mason Gooding",
+        "popularity": 1.2601,
+        "profile_path": "/bmlry1xqBzNgv8Chm783ss93Cvg.jpg",
+        "cast_id": 51,
+        "character": "Chad Meeks-Martin",
+        "credit_id": "6760c4632afe5946286be696",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14405,
+        "known_for_department": "Acting",
+        "name": "Courteney Cox",
+        "original_name": "Courteney Cox",
+        "popularity": 1.5997,
+        "profile_path": "/yA8dicwtcVuxG3gh94QsaRb5gNb.jpg",
+        "cast_id": 69,
+        "character": "Gale Weathers",
+        "credit_id": "679c75c535e31dcee74d1ebe",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74949,
+        "known_for_department": "Acting",
+        "name": "Joel McHale",
+        "original_name": "Joel McHale",
+        "popularity": 1.0818,
+        "profile_path": "/7iwIiaYhIPaiAyiaZOc2Gl1ZAY4.jpg",
+        "cast_id": 70,
+        "character": "Mark Evans",
+        "credit_id": "679c75e5f7cfe3476e4d10d8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1508653,
+        "known_for_department": "Acting",
+        "name": "Jasmin Savoy Brown",
+        "original_name": "Jasmin Savoy Brown",
+        "popularity": 0.4843,
+        "profile_path": "/qvN5Zb1WJJvKgUTnffPfzLaVIXc.jpg",
+        "cast_id": 59,
+        "character": "Mindy Meeks-Martin",
+        "credit_id": "67898319947b19f78b97a1f9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112143,
+        "known_for_department": "Acting",
+        "name": "Mark Consuelos",
+        "original_name": "Mark Consuelos",
+        "popularity": 0.44,
+        "profile_path": "/wz06awHQuxEwRiYgFl6f1iGLbJC.jpg",
+        "cast_id": 71,
+        "character": "Robbie Rivers",
+        "credit_id": "679c75edf7cfe3476e4d10dd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35595,
+        "known_for_department": "Acting",
+        "name": "Scott Foley",
+        "original_name": "Scott Foley",
+        "popularity": 1.1541,
+        "profile_path": "/91jhs4Biigdhwvco0UdlpobnUaL.jpg",
+        "cast_id": 67,
+        "character": "",
+        "credit_id": "679bd78d4448da3d2abd9e38",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26457,
+        "known_for_department": "Acting",
+        "name": "Matthew Lillard",
+        "original_name": "Matthew Lillard",
+        "popularity": 2.8022,
+        "profile_path": "/mIEKAfe0iC41RDXibbTy48LtNOi.jpg",
+        "cast_id": 68,
+        "character": "",
+        "credit_id": "679c1e1035e31dcee74d0fa2",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58019,
+        "known_for_department": "Acting",
+        "name": "Ethan Embry",
+        "original_name": "Ethan Embry",
+        "popularity": 1.4228,
+        "profile_path": "/oC5m2pfIcfAD6jrPTNhR77Uldm9.jpg",
+        "cast_id": 74,
+        "character": "",
+        "credit_id": "67a1213280e593d5fde2b833",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15234,
+        "known_for_department": "Acting",
+        "name": "David Arquette",
+        "original_name": "David Arquette",
+        "popularity": 1.1157,
+        "profile_path": "/8J68lAEKjx5z2Aj7hhDtQ2YQffv.jpg",
+        "cast_id": 82,
+        "character": "Dewey Riley",
+        "credit_id": "67c7817284da21133eaca72a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1902690,
+        "known_for_department": "Acting",
+        "name": "Michelle Randolph",
+        "original_name": "Michelle Randolph",
+        "popularity": 0.9162,
+        "profile_path": "/eIkSMaOjj4Buh8vBKH9j2cgtRYe.jpg",
+        "cast_id": 83,
+        "character": "",
+        "credit_id": "67cf594b2794b0d5982ae041",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1304335,
+        "known_for_department": "Acting",
+        "name": "Jimmy Tatro",
+        "original_name": "Jimmy Tatro",
+        "popularity": 0.6789,
+        "profile_path": "/xehT2IK65qXKSctcYChrWLE04pI.jpg",
+        "cast_id": 84,
+        "character": "",
+        "credit_id": "67cf594e2794b0d5982ae046",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51957,
+        "known_for_department": "Acting",
+        "name": "Roger L. Jackson",
+        "original_name": "Roger L. Jackson",
+        "popularity": 0.5322,
+        "profile_path": "/kDAoLRPVKgfTXRhDep0JNouhyAV.jpg",
+        "cast_id": 90,
+        "character": "‘The Voice’ (voice)",
+        "credit_id": "68b3adf9b8a5c0869b2006c0",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2564279,
+        "known_for_department": "Production",
+        "name": "Paul Neinstein",
+        "original_name": "Paul Neinstein",
+        "popularity": 0.0368,
+        "profile_path": "/6oVqQswuGkDLFpKIvFXvVThC8Dm.jpg",
+        "credit_id": "64d70ed8b6c2641155f10643",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 409,
+        "known_for_department": "Production",
+        "name": "Cathy Konrad",
+        "original_name": "Cathy Konrad",
+        "popularity": 1.5826,
+        "profile_path": "/mh7WHdgZy5sBH01m60SndsyNas1.jpg",
+        "credit_id": "64d715bdd051d9011fcb5909",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61122,
+        "known_for_department": "Production",
+        "name": "William Sherak",
+        "original_name": "William Sherak",
+        "popularity": 0.2028,
+        "profile_path": "/lOh6jL1NKoCbaNZgRF0VMkwT0xb.jpg",
+        "credit_id": "64d70ee1b6c264115959581a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35581,
+        "known_for_department": "Production",
+        "name": "Marianne Maddalena",
+        "original_name": "Marianne Maddalena",
+        "popularity": 0.4386,
+        "profile_path": "/gMyJNJHIo8ltMCZh95mBt7I9VM6.jpg",
+        "credit_id": "64d715d9bf31f201ca8c045f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4507,
+        "known_for_department": "Production",
+        "name": "Gary Barber",
+        "original_name": "Gary Barber",
+        "popularity": 0.1803,
+        "profile_path": "/5hl0IF9xGyWojIQj0kMrWh88BNw.jpg",
+        "credit_id": "64d715c7b6c2641155f10add",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26458,
+        "known_for_department": "Writing",
+        "name": "Kevin Williamson",
+        "original_name": "Kevin Williamson",
+        "popularity": 0.6034,
+        "profile_path": "/jWgZZoKBU1WFaCO5C7jpMBZ7xJs.jpg",
+        "credit_id": "64d715d1f14dad00c6f8649d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1662775,
+        "known_for_department": "Production",
+        "name": "Peter Oillataguerre",
+        "original_name": "Peter Oillataguerre",
+        "popularity": 0.0441,
+        "profile_path": null,
+        "credit_id": "64d715e1b6c26411569ba819",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1939468,
+        "known_for_department": "Production",
+        "name": "Ron Lynch",
+        "original_name": "Ron Lynch",
+        "popularity": 0.0941,
+        "profile_path": null,
+        "credit_id": "64d715f1f495ee02924e8f5e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661850,
+        "known_for_department": "Writing",
+        "name": "Guy Busick",
+        "original_name": "Guy Busick",
+        "popularity": 0.1804,
+        "profile_path": "/JREA3WijyjCgG70P8PI9OcngTg.jpg",
+        "credit_id": "65f0a442a06645017c2c208d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661850,
+        "known_for_department": "Writing",
+        "name": "Guy Busick",
+        "original_name": "Guy Busick",
+        "popularity": 0.1804,
+        "profile_path": "/JREA3WijyjCgG70P8PI9OcngTg.jpg",
+        "credit_id": "65f0cfcb6dea3a017c77be42",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20204,
+        "known_for_department": "Writing",
+        "name": "James Vanderbilt",
+        "original_name": "James Vanderbilt",
+        "popularity": 0.3124,
+        "profile_path": "/pg4kZ7a3GDoSqmuF8Tmw4jw5L6N.jpg",
+        "credit_id": "65f0cfd2d64ac201645cecae",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26458,
+        "known_for_department": "Writing",
+        "name": "Kevin Williamson",
+        "original_name": "Kevin Williamson",
+        "popularity": 0.6034,
+        "profile_path": "/jWgZZoKBU1WFaCO5C7jpMBZ7xJs.jpg",
+        "credit_id": "64cf639e303c85011dd40645",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 26458,
+        "known_for_department": "Writing",
+        "name": "Kevin Williamson",
+        "original_name": "Kevin Williamson",
+        "popularity": 0.6034,
+        "profile_path": "/jWgZZoKBU1WFaCO5C7jpMBZ7xJs.jpg",
+        "credit_id": "675b02365c42a8c6ed8d11f4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1485876,
+        "known_for_department": "Camera",
+        "name": "Tim Ives",
+        "original_name": "Tim Ives",
+        "popularity": 0.0984,
+        "profile_path": "/cgQkPbS2akrEZlawCi5DN0AkPqs.jpg",
+        "credit_id": "677dc9cc43fc7b2ae8baf579",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1025712,
+        "known_for_department": "Art",
+        "name": "John Collins",
+        "original_name": "John Collins",
+        "popularity": 0.0646,
+        "profile_path": "/qNdypAblYaYfxfcpuwCYPYbyMsN.jpg",
+        "credit_id": "6789a9e4c9e03e442d9763bb",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1680435,
+        "known_for_department": "Art",
+        "name": "Kevin Houlihan",
+        "original_name": "Kevin Houlihan",
+        "popularity": 0.0798,
+        "profile_path": "/yRQeXkbC2DAS81nRgOzqzWmeg2T.jpg",
+        "credit_id": "6789aa35c9e03e442d9763e7",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2079392,
+        "known_for_department": "Directing",
+        "name": "Rudy Persico",
+        "original_name": "Rudy Persico",
+        "popularity": 0.1005,
+        "profile_path": null,
+        "credit_id": "6789aa50a64feb16c91d6bf1",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1399126,
+        "known_for_department": "Crew",
+        "name": "Jennifer Badger",
+        "original_name": "Jennifer Badger",
+        "popularity": 0.3306,
+        "profile_path": "/KCHafCk2phip2nruX8kDg3gcNN.jpg",
+        "credit_id": "6789aa7879cf13ee41ad42fb",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928272,
+        "known_for_department": "Production",
+        "name": "Rich Delia",
+        "original_name": "Rich Delia",
+        "popularity": 0.3057,
+        "profile_path": "/UiNvcLDmStXxpEmx6JrGKRI7UF.jpg",
+        "credit_id": "678c0499d8a5b0d00c43141a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2071754,
+        "known_for_department": "Production",
+        "name": "Emily Kacere",
+        "original_name": "Emily Kacere",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "678c04b2880f6bd3846dd82b",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42633,
+        "known_for_department": "Editing",
+        "name": "Jim Page",
+        "original_name": "Jim Page",
+        "popularity": 0.1864,
+        "profile_path": null,
+        "credit_id": "67ba7e88b97367fcd40a93a8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2969804,
+        "known_for_department": "Crew",
+        "name": "Noah Bain Garret",
+        "original_name": "Noah Bain Garret",
+        "popularity": 0.0261,
+        "profile_path": "/fe4149rQ47GWH486JhAwFLG43IN.jpg",
+        "credit_id": "67ba7ec884e930a0210a8503",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1586107,
+        "known_for_department": "Production",
+        "name": "Adam Richards",
+        "original_name": "Adam Richards",
+        "popularity": 1.9119,
+        "profile_path": null,
+        "credit_id": "67ba7f0584e930a0210a8506",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3324508,
+        "known_for_department": "Editing",
+        "name": "Rafael Baez Jr.",
+        "original_name": "Rafael Baez Jr.",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "67ba7f2084e930a0210a8513",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9206,
+        "known_for_department": "Acting",
+        "name": "Neve Campbell",
+        "original_name": "Neve Campbell",
+        "popularity": 1.8052,
+        "profile_path": "/eojcMcfl7fZbvElRSg89r7zyFfY.jpg",
+        "credit_id": "67bb289255dd812fad467db8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1635187,
+        "known_for_department": "Sound",
+        "name": "James Peterson",
+        "original_name": "James Peterson",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "67d37ef262e7d2336353aad4",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7229,
+        "known_for_department": "Sound",
+        "name": "Marco Beltrami",
+        "original_name": "Marco Beltrami",
+        "popularity": 0.2298,
+        "profile_path": "/fb3TfFITlOC0BN3kNpUXj1FL0LN.jpg",
+        "credit_id": "680e3e7f71dedcb8aceaf5fb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1407340,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Melizah Anguiano Wheat",
+        "original_name": "Melizah Anguiano Wheat",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "6817b8be58bf96a32d576f39",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2928977,
+        "known_for_department": "Crew",
+        "name": "Nadia Lorencz",
+        "original_name": "Nadia Lorencz",
+        "popularity": 0.0687,
+        "profile_path": "/oVFfNSoYs1jOWcj0MH65n42Jqoe.jpg",
+        "credit_id": "68470d7f5b8d2a1845bb3321",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3322858,
+        "known_for_department": "Art",
+        "name": "Brittany Upchurch",
+        "original_name": "Brittany Upchurch",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "686076778523d88878fdc6eb",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      }
+    ]
+  }
+}

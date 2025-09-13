@@ -1,0 +1,52 @@
+[
+  {
+    "air_date": "2016-07-15",
+    "episode_count": 8,
+    "id": 77680,
+    "name": "Season 1",
+    "overview": "Strange things are afoot in Hawkins, Indiana, where a young boy's sudden disappearance unearths a young girl with otherworldly powers.",
+    "poster_path": "/hb4KmdA4F1XMnf0vVjevPKKBEjV.jpg",
+    "season_number": 1,
+    "vote_average": 8.4
+  },
+  {
+    "air_date": "2017-10-27",
+    "episode_count": 9,
+    "id": 83248,
+    "name": "Stranger Things 2",
+    "overview": "It's been nearly a year since Will's strange disappearance. But life's hardly back to normal in Hawkins. Not even close.",
+    "poster_path": "/74nFJmiapxKuUBXRbSu6VqGGcuo.jpg",
+    "season_number": 2,
+    "vote_average": 8.1
+  },
+  {
+    "air_date": "2019-07-04",
+    "episode_count": 8,
+    "id": 115216,
+    "name": "Stranger Things 3",
+    "overview": "Budding romance. A brand-new mall. And rabid rats running toward danger. It's the summer of 1985 in Hawkins ... and one summer can change everything.",
+    "poster_path": "/sDms9g40ZBhjMIfX9YqqaqId8sK.jpg",
+    "season_number": 3,
+    "vote_average": 8.0
+  },
+  {
+    "air_date": "2022-05-27",
+    "episode_count": 9,
+    "id": 163313,
+    "name": "Stranger Things 4",
+    "overview": "Darkness returns to Hawkins just in time for spring break, igniting fresh terror, disturbing memories — and an ominous new threat.",
+    "poster_path": "/5xiUqrCFgT6wU2KzynZMu5CXkM6.jpg",
+    "season_number": 4,
+    "vote_average": 8.5
+  },
+  {
+    "air_date": "2025-11-26",
+    "episode_count": 8,
+    "id": 402292,
+    "name": "Stranger Things 5",
+    "overview": "Hawkins is scarred by the opening of the Rifts, and our heroes are united by a single goal: find and kill Vecna. But he has vanished — his whereabouts and plans unknown. Complicating their mission, the government has placed the town under military quarantine and intensified its hunt for Eleven, forcing her back into hiding. As the anniversary of Will's disappearance approaches, so does a heavy, familiar dread. The final battle is looming — and with it, a darkness more powerful and more deadly than anything they've faced before. To end this nightmare, they'll need everyone — the full party — standing together, one last time.",
+    "poster_path": "/gPQRpAwN1yzGL1CqSVDdLH7DoG4.jpg",
+    "season_number": 5,
+    "vote_average": 0.0
+  }
+]

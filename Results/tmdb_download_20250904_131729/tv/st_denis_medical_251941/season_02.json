@@ -1,0 +1,48 @@
+{
+  "_id": "6811cd9c5e042af18a27ec44",
+  "air_date": "2025-11-03",
+  "episodes": [
+    {
+      "air_date": "2025-11-03",
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 6414036,
+      "name": "Episode 1",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 2,
+      "show_id": 251941,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": [],
+      "_still_url": ""
+    },
+    {
+      "air_date": "2025-11-03",
+      "episode_number": 2,
+      "episode_type": "standard",
+      "id": 6414037,
+      "name": "Episode 2",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 2,
+      "show_id": 251941,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": [],
+      "_still_url": ""
+    }
+  ],
+  "name": "Season 2",
+  "overview": "",
+  "id": 454051,
+  "poster_path": null,
+  "season_number": 2,
+  "vote_average": 0.0
+}

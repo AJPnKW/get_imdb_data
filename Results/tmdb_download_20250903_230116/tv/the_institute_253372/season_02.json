@@ -1,0 +1,63 @@
+{
+  "_id": "68af3e227b60f4d4ba4ed2a3",
+  "air_date": null,
+  "episodes": [
+    {
+      "air_date": null,
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 6485999,
+      "name": "Episode 1",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 2,
+      "show_id": 253372,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    },
+    {
+      "air_date": null,
+      "episode_number": 2,
+      "episode_type": "standard",
+      "id": 6488874,
+      "name": "Episode 2",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 2,
+      "show_id": 253372,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    },
+    {
+      "air_date": null,
+      "episode_number": 3,
+      "episode_type": "standard",
+      "id": 6491080,
+      "name": "Episode 3",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 2,
+      "show_id": 253372,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    }
+  ],
+  "name": "Season 2",
+  "overview": "",
+  "id": 471908,
+  "poster_path": null,
+  "season_number": 2,
+  "vote_average": 0.0
+}

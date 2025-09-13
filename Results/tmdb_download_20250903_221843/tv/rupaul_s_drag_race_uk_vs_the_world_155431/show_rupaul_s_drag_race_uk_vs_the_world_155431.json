@@ -1,0 +1,235 @@
+{
+  "adult": false,
+  "backdrop_path": "/fsDaHL8Nz0Ao9EVZoTUOiYt78C0.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "65aab9110c4c1600d17b9e62",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "id": 16957,
+      "credit_id": "68677c6b5380c569e4eeb3af",
+      "name": "Fenton Bailey",
+      "original_name": "Fenton Bailey",
+      "gender": 2,
+      "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg"
+    },
+    {
+      "id": 16958,
+      "credit_id": "68677c725a2d2e0acb677290",
+      "name": "Randy Barbato",
+      "original_name": "Randy Barbato",
+      "gender": 2,
+      "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg"
+    }
+  ],
+  "episode_run_time": [
+    74
+  ],
+  "first_air_date": "2022-02-01",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/p0bfgdvt",
+  "id": 155431,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-03-29",
+  "last_episode_to_air": {
+    "id": 5166955,
+    "name": "Grand Finale",
+    "overview": "It's the finale! The queens return for an electrifying reunion and the finalists tackle the ultimate Lip-Sync Smackdown. Who will RuPaul crown Queen of the Mothertucking World?",
+    "vote_average": 6.3,
+    "vote_count": 3,
+    "air_date": "2024-03-29",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 70,
+    "season_number": 2,
+    "show_id": 155431,
+    "still_path": "/k1ywPbsbk24NH85wz3NJ6xBd8Qh.jpg"
+  },
+  "name": "RuPaul's Drag Race UK vs The World",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3,
+      "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+      "name": "BBC Three",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 14,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race UK vs The World",
+  "overview": "RuPaul host as nine international queens compete to be Queen of the Mothertucking World.",
+  "popularity": 0.9488,
+  "poster_path": "/62tel7mkQN3n60W6UmDI6nsbkML.jpg",
+  "production_companies": [
+    {
+      "id": 1421,
+      "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+      "name": "World of Wonder",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-01-18",
+      "episode_count": 2,
+      "id": 240404,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-02-01",
+      "episode_count": 6,
+      "id": 239608,
+      "name": "Series 1",
+      "overview": "The UK is the host nation as nine fan favorite queens enter the international arena to compete for the title of \"Queen of the Mothertucking World!”. Each week their charisma, uniqueness, nerve, and talent is put to the test through next level fashion, dancing, singing, and comedy.",
+      "poster_path": "/r1NhZD6npcpgd2BGEZWf8nfhF6I.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2024-02-08",
+      "episode_count": 8,
+      "id": 374274,
+      "name": "Series 2",
+      "overview": "We're headed back to the Top of the Mothertucking World! RuPaul's Drag Race UK vs The World is back, starring queens from across the Drag Race franchise competing to be crowned Queen of the Mothertucking World.",
+      "poster_path": "/vkeHnXg10j4tDwC7fV2CUUet0Ko.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 458022,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The battle to become Queen of the Mothertucking World!",
+  "type": "Reality",
+  "vote_average": 6.1,
+  "vote_count": 17,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.5045,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - Host",
+        "credit_id": "61ddfa00a6fdaa0068f562d7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1581751,
+        "known_for_department": "Acting",
+        "name": "Michelle Visage",
+        "original_name": "Michelle Visage",
+        "popularity": 0.2098,
+        "profile_path": "/sA43jCIrZE7VkX0Wy0IBoMb0MvC.jpg",
+        "character": "Self - Judge",
+        "credit_id": "61ddfa0f0b5fd600674cd37e",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16957,
+        "known_for_department": "Directing",
+        "name": "Fenton Bailey",
+        "original_name": "Fenton Bailey",
+        "popularity": 0.1143,
+        "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg",
+        "credit_id": "65cbd84fa34911017d7d42e4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16958,
+        "known_for_department": "Directing",
+        "name": "Randy Barbato",
+        "original_name": "Randy Barbato",
+        "popularity": 0.3069,
+        "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg",
+        "credit_id": "65cbd8626611b40184323864",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2099494,
+        "known_for_department": "Production",
+        "name": "Tom Campbell",
+        "original_name": "Tom Campbell",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "65cbd86d8c0a480149b720e0",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      }
+    ]
+  }
+}

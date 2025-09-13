@@ -1,0 +1,371 @@
+{
+  "adult": false,
+  "backdrop_path": "/adOjU80AEcr70IPTXe6ALLyXGxF.jpg",
+  "created_by": [
+    {
+      "id": 117443,
+      "credit_id": "5b44f3b40e0a26711602f563",
+      "name": "Dick Wolf",
+      "original_name": "Dick Wolf",
+      "gender": 2,
+      "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg"
+    },
+    {
+      "id": 1631017,
+      "credit_id": "5e7c6ce1caaca2793af5243b",
+      "name": "Craig Turk",
+      "original_name": "Craig Turk",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2018-09-25",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/fbi/",
+  "id": 80748,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-20",
+  "last_episode_to_air": {
+    "id": 6072513,
+    "name": "A New Day",
+    "overview": "After Jubal narrowly escapes a calculated assault on a secret FBI office, the team discovers a rogue terrorist group has infiltrated the FBI. Unsure of who to trust, the team must work in the shadows to unmask the culprits threatening the sanctity of the New York field office.",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2025-05-20",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 80748,
+    "still_path": "/j55ArRmmLuEkPhE7OvThyfF5bDP.jpg"
+  },
+  "name": "FBI",
+  "next_episode_to_air": {
+    "id": 6374509,
+    "name": "Takeover",
+    "overview": "After a federal judge disappears, a routine investigation takes a dark turn as the team uncovers that the judge had been searching for his missing son on a secluded island on the city's edge, where authority has crumbled. Meanwhile, reality weighs heavy on Jubal as he takes on a new leadership role.",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-10-13",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 80748,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 137,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "FBI",
+  "overview": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+  "popularity": 36.1698,
+  "poster_path": "/bircXcCsvP2DUximyQUOn5p2s4.jpg",
+  "production_companies": [
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 22,
+      "id": 106154,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uJZUfoGqtiuGfGXtVgYqIafZ1Ii.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2019-09-23",
+      "episode_count": 19,
+      "id": 126157,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/g2BK0uwB25o35giSpFHfqRXE4Bp.jpg",
+      "season_number": 2,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2020-11-16",
+      "episode_count": 15,
+      "id": 166426,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2021-09-20",
+      "episode_count": 21,
+      "id": 201999,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg",
+      "season_number": 4,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2022-09-20",
+      "episode_count": 23,
+      "id": 298428,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/lFTHqAw2lHisXGB0bcoyEvKRYad.jpg",
+      "season_number": 5,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2024-02-13",
+      "episode_count": 13,
+      "id": 365559,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/tBDxVLHCsiA3fp9D2eWrq8QImEC.jpg",
+      "season_number": 6,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "2024-10-15",
+      "episode_count": 22,
+      "id": 402113,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/bircXcCsvP2DUximyQUOn5p2s4.jpg",
+      "season_number": 7,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2025-10-13",
+      "episode_count": 2,
+      "id": 464998,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 852,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 34434,
+        "known_for_department": "Acting",
+        "name": "Missy Peregrym",
+        "original_name": "Missy Peregrym",
+        "popularity": 0.9922,
+        "profile_path": "/buMPx9vULW4crzXI2W3hAt3yg7.jpg",
+        "character": "Maggie Bell",
+        "credit_id": "5b44f428c3a368409e021fdb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1370998,
+        "known_for_department": "Acting",
+        "name": "Zeeko Zaki",
+        "original_name": "Zeeko Zaki",
+        "popularity": 1.0229,
+        "profile_path": "/r38igYNkkjIYnuZQhFtGV5t8ZLs.jpg",
+        "character": "Omar Adom 'OA' Zidan",
+        "credit_id": "5b44f4629251414f340287b8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58621,
+        "known_for_department": "Acting",
+        "name": "John Boyd",
+        "original_name": "John Boyd",
+        "popularity": 0.6673,
+        "profile_path": "/oHgkm4VtuG1kFNqRCqPd5pKKMd0.jpg",
+        "character": "Stuart Scola",
+        "credit_id": "5dadd6544350110015483792",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23958,
+        "known_for_department": "Acting",
+        "name": "Jeremy Sisto",
+        "original_name": "Jeremy Sisto",
+        "popularity": 1.1915,
+        "profile_path": "/1XfuASLjBhGOhJ4os7juRJot2we.jpg",
+        "character": "Jubal Valentine",
+        "credit_id": "5b44f4440e0a26711a02cfb3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1218281,
+        "known_for_department": "Acting",
+        "name": "Alana de la Garza",
+        "original_name": "Alana de la Garza",
+        "popularity": 1.1502,
+        "profile_path": "/mspGEt558g1s1ZHGCPrIu2cRMRq.jpg",
+        "character": "Isobel Castille",
+        "credit_id": "5d669bd858361b0011224783",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2969415,
+        "known_for_department": "Acting",
+        "name": "Juliana Aidén Martinez",
+        "original_name": "Juliana Aidén Martinez",
+        "popularity": 0.4245,
+        "profile_path": "/qTbSpmvbrbOKRzgo3LxmuQ0yxkp.jpg",
+        "character": "",
+        "credit_id": "68758b54e75c57f5255c4887",
+        "order": 9
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [
+          "Violence",
+          "Injury"
+        ],
+        "iso_3166_1": "DE",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "LT",
+        "rating": "N-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "12AP"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B-15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "G"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "16+"
+      }
+    ]
+  }
+}

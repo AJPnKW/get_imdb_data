@@ -1,0 +1,22 @@
+[
+  {
+    "air_date": "2024-04-17",
+    "episode_count": 6,
+    "id": 387390,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/tcRVTDVfRJ4eNiiDabrZXcP7SAU.jpg",
+    "season_number": 1,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2025-04-16",
+    "episode_count": 6,
+    "id": 444929,
+    "name": "Season 2",
+    "overview": "",
+    "poster_path": "/2AOPwf6CLe37EdTx1wao9Le1NF7.jpg",
+    "season_number": 2,
+    "vote_average": 0.0
+  }
+]

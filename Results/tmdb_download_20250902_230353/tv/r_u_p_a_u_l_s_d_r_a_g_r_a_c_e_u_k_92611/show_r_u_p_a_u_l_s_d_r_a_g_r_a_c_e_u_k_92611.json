@@ -1,0 +1,263 @@
+{
+  "adult": false,
+  "backdrop_path": "/AaJVYiHTFNeehKde1H4o57m4Gw8.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "6082bac1c439c0007945c3f3",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "id": 16957,
+      "credit_id": "6867795ebaee896bc37b7a3e",
+      "name": "Fenton Bailey",
+      "original_name": "Fenton Bailey",
+      "gender": 2,
+      "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg"
+    },
+    {
+      "id": 16958,
+      "credit_id": "6867796e7704bb6b925e3655",
+      "name": "Randy Barbato",
+      "original_name": "Randy Barbato",
+      "gender": 2,
+      "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2019-10-03",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/p07kt8b4",
+  "id": 92611,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-11-28",
+  "last_episode_to_air": {
+    "id": 5721947,
+    "name": "Episode 10",
+    "overview": "It’s the grand finale! Michelle Visage, Alan Carr, Graham Norton and the eliminated queens are all on hand as RuPaul crowns the UK’s next Drag Race superstar.",
+    "vote_average": 4.5,
+    "vote_count": 2,
+    "air_date": "2024-11-28",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 70,
+    "season_number": 6,
+    "show_id": 92611,
+    "still_path": "/iqgFwrAmMDmpyCYIPTDzo4vGaVo.jpg"
+  },
+  "name": "RuPaul's Drag Race UK",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3,
+      "logo_path": "/s22fRhj8xFPbiexrJwiAOcDEIrS.png",
+      "name": "BBC Three",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 59,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race UK",
+  "overview": "RuPaul has made the trip across the pond in search of a queen with the most charisma, uniqueness, nerve and talent in all the land.",
+  "popularity": 6.9383,
+  "poster_path": "/rffFiZHh5gWOefFZnJkuCr83qq5.jpg",
+  "production_companies": [
+    {
+      "id": 218794,
+      "logo_path": "/kI5RScTW9ohsdrItHEVPLfF1Htv.png",
+      "name": "World of Wonder",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-03",
+      "episode_count": 9,
+      "id": 133239,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/bpVEXgerXLRmKLX2mF3iqLnulVG.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-10-03",
+      "episode_count": 8,
+      "id": 130394,
+      "name": "Series 1",
+      "overview": "RuPaul brings the award-winning global phenomenon to the UK for the first time. Ten of the country’s most fabulous drag queens will compete in the Olympics of drag in the hope that RuPaul, queen of queens, will crown them as the UK’s first Drag Race Superstar.",
+      "poster_path": "/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2021-01-14",
+      "episode_count": 10,
+      "id": 172460,
+      "name": "Series 2",
+      "overview": "The award winning RuPaul’s Drag Race UK returns for a second series. Over the course of ten weeks twelve of the country’s most fabulous drag queens will compete to be crowned the UK’s Next Drag Race Superstar.",
+      "poster_path": "/56MjvYy6ioFXmGoLiyhLYZLjAcd.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2021-09-22",
+      "episode_count": 10,
+      "id": 206689,
+      "name": "Series 3",
+      "overview": "The multi award winning RuPaul’s Drag Race UK is back for series 3! Over the course of ten weeks twelve fabulous drag queens will compete to be crowned The UK’s Next Drag Race Superstar.",
+      "poster_path": "/vfp8MyIE8DYRajF5ClMp5DXKGc1.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2022-09-22",
+      "episode_count": 10,
+      "id": 306962,
+      "name": "Series 4",
+      "overview": "RuPaul presides as twelve queens compete to be crowned the next Drag Race UK superstar.",
+      "poster_path": "/lbnXbVXa7IDUyHVv7S7Sc9rdNiA.jpg",
+      "season_number": 4,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2023-09-28",
+      "episode_count": 10,
+      "id": 355058,
+      "name": "Series 5",
+      "overview": "A brand spanking new series of RuPaul’s Drag Race UK returns! Over the next ten weeks, a cast of fabulous new drag queens will compete for RuPaul’s seal of approval and the much coveted title of UK’s Next Drag Race Superstar.",
+      "poster_path": "/eAo2DRFTf9KafUpUmg7noeg2PQI.jpg",
+      "season_number": 5,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2024-09-26",
+      "episode_count": 10,
+      "id": 415247,
+      "name": "Series 6",
+      "overview": "Mama Ru is back with a hot new cast of rambunctious drag queens ready to do battle for the crown! Over the next ten weeks, the queens compete in a range of spicy challenges designed to test their drag mettle as they bid for the coveted title of the UK’s Next Drag Race Superstar.",
+      "poster_path": "/l1pPqCXYJi2CJE5S9c5fVBrygCT.jpg",
+      "season_number": 6,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 458025,
+      "name": "Series 7",
+      "overview": "Rest Easy. Mama's back! Start your engines, as a brand new set of fabulous queens enter the werkroom, hoping to win Mama Ru's seal of approval and take home the crown.",
+      "poster_path": "/zfG7AAh2lGB5X0bykQQ4eEB6ASC.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.2,
+  "vote_count": 55,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.5533,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - Host / Judge",
+        "credit_id": "5d5cff576743fa00146fa528",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1581751,
+        "known_for_department": "Acting",
+        "name": "Michelle Visage",
+        "original_name": "Michelle Visage",
+        "popularity": 0.3021,
+        "profile_path": "/jQqse7fq6V7bcNVAzCBUuOTG3V1.jpg",
+        "character": "Self - Judge",
+        "credit_id": "5d5cff616743fa00146fa533",
+        "order": 1
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "13+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      }
+    ]
+  }
+}

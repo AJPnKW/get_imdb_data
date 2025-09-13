@@ -1,0 +1,445 @@
+show_id,show_name,season_number,episode_number,name,air_date,runtime,vote_average,vote_count
+125935,Abbott Elementary,5,1,Episode 1,2025-10-01,,0.0,0
+125935,Abbott Elementary,5,2,Episode 2,2025-10-08,,0.0,0
+157239,Alien: Earth,1,1,Neverland,2025-08-12,65,7.7,55
+157239,Alien: Earth,1,2,Mr. October,2025-08-12,56,7.9,45
+157239,Alien: Earth,1,3,Metamorphosis,2025-08-19,55,7.6,28
+157239,Alien: Earth,1,4,Observation,2025-08-26,60,7.1,20
+157239,Alien: Earth,1,5,"In Space, No One...",2025-09-02,64,7.2,9
+157239,Alien: Earth,1,6,The Fly,2025-09-09,,0.0,0
+157239,Alien: Earth,1,7,Emergence,2025-09-16,,0.0,0
+157239,Alien: Earth,1,8,The Real Monsters,2025-09-23,,0.0,0
+94038,Canada's Drag Race,5,1,Go Off Queen,2024-11-21,60,7.0,1
+94038,Canada's Drag Race,5,2,Greetings Queenlings,2024-11-28,60,6.0,1
+94038,Canada's Drag Race,5,3,The Slayoffs: Teams Edition,2024-12-05,60,8.0,1
+94038,Canada's Drag Race,5,4,Fast Fashion,2024-12-12,61,7.0,1
+94038,Canada's Drag Race,5,5,The One Where They Went ‘90s,2024-12-19,60,8.0,1
+94038,Canada's Drag Race,5,6,Surviving Snatch Game,2024-12-26,60,6.0,1
+94038,Canada's Drag Race,5,7,The Devil Wore Custom,2025-01-02,60,7.0,1
+94038,Canada's Drag Race,5,8,What Just Happened?!,2025-01-09,60,6.0,1
+94038,Canada's Drag Race,5,9,Grand Finale,2025-01-16,60,8.0,1
+203734,Canada's Drag Race: Canada vs The World,2,1,Drag Pop,2024-07-19,70,7.0,2
+203734,Canada's Drag Race: Canada vs The World,2,2,The Hole,2024-07-26,59,7.0,2
+203734,Canada's Drag Race: Canada vs The World,2,3,Glamorous Drag Queen Ball Challenge,2024-08-02,59,6.5,2
+203734,Canada's Drag Race: Canada vs The World,2,4,Reading Battles,2024-08-09,59,8.0,2
+203734,Canada's Drag Race: Canada vs The World,2,5,Snatch Game: The Rusical,2024-08-16,60,6.5,2
+203734,Canada's Drag Race: Canada vs The World,2,6,Grand Finale,2024-08-23,59,8.0,2
+1419,Castle,8,1,XY (1),2015-09-21,44,7.6,14
+1419,Castle,8,2,XX (2),2015-09-28,44,6.9,13
+1419,Castle,8,3,PhDead,2015-10-05,44,6.8,14
+1419,Castle,8,4,What Lies Beneath,2015-10-12,44,7.2,12
+1419,Castle,8,5,The Nose,2015-10-19,44,7.7,14
+1419,Castle,8,6,Cool Boys,2015-11-09,44,7.6,12
+1419,Castle,8,7,The Last Seduction,2015-11-16,44,7.5,12
+1419,Castle,8,8,Mr. & Mrs. Castle,2015-11-23,43,6.8,12
+1419,Castle,8,9,Tone Death,2016-02-08,44,7.2,13
+1419,Castle,8,10,Witness for the Prosecution,2016-02-14,44,6.7,14
+1419,Castle,8,11,Dead Red,2016-02-15,44,7.1,14
+1419,Castle,8,12,The Blame Game,2016-02-22,44,7.3,13
+1419,Castle,8,13,And Justice for All,2016-02-29,44,7.3,13
+1419,Castle,8,14,The G.D.S.,2016-03-07,44,6.9,15
+1419,Castle,8,15,Fidelis Ad Mortem,2016-03-21,44,7.5,13
+1419,Castle,8,16,Heartbreaker,2016-04-04,44,7.4,13
+1419,Castle,8,17,Death Wish,2016-04-11,43,7.2,13
+1419,Castle,8,18,Backstabber,2016-04-18,44,7.4,12
+1419,Castle,8,19,Dead Again,2016-04-25,44,7.6,14
+1419,Castle,8,20,Much Ado About Murder,2016-05-02,44,7.1,14
+1419,Castle,8,21,Hell to Pay,2016-05-09,44,7.5,18
+1419,Castle,8,22,Crossfire,2016-05-16,44,6.8,12
+4057,Criminal Minds,18,1,Swimmer's Calculus,2025-05-08,48,8.6,5
+4057,Criminal Minds,18,2,The Zookeeper,2025-05-15,58,8.0,2
+4057,Criminal Minds,18,3,Time to Say Goodbye,2025-05-22,58,7.0,1
+4057,Criminal Minds,18,4,"I'm Fine, It's Fine. Everything Is Fine",2025-05-29,55,7.0,1
+4057,Criminal Minds,18,5,The Brutal Man,2025-06-05,53,7.0,1
+4057,Criminal Minds,18,6,Hell Is Empty…,2025-06-12,53,7.0,1
+4057,Criminal Minds,18,7,…All the Devils are Here,2025-06-19,50,7.0,1
+4057,Criminal Minds,18,8,Tara,2025-06-26,54,6.0,1
+4057,Criminal Minds,18,9,CollateRal,2025-07-03,49,7.0,1
+4057,Criminal Minds,18,10,The Disciple,2025-07-10,55,6.0,1
+1431,CSI: Crime Scene Investigation,15,1,The CSI Effect,2014-09-28,43,7.8,9
+1431,CSI: Crime Scene Investigation,15,2,Buzz Kill,2014-10-05,43,7.6,8
+1431,CSI: Crime Scene Investigation,15,3,Bad Blood,2014-10-12,43,7.8,8
+1431,CSI: Crime Scene Investigation,15,4,The Book of Shadows,2014-10-19,43,7.5,8
+1431,CSI: Crime Scene Investigation,15,5,Girls Gone Wilder,2014-11-09,42,7.9,9
+1431,CSI: Crime Scene Investigation,15,6,The Twin Paradox,2014-11-16,43,6.9,10
+1431,CSI: Crime Scene Investigation,15,7,Road to Recovery,2014-11-23,42,7.6,9
+1431,CSI: Crime Scene Investigation,15,8,Rubbery Homicide,2014-11-30,43,6.7,10
+1431,CSI: Crime Scene Investigation,15,9,Let's Make a Deal,2014-12-07,43,7.9,9
+1431,CSI: Crime Scene Investigation,15,10,Dead Rails,2014-12-14,42,7.5,10
+1431,CSI: Crime Scene Investigation,15,11,Angle of Attack,2014-12-21,43,7.0,10
+1431,CSI: Crime Scene Investigation,15,12,Dead Woods,2014-12-28,43,7.8,9
+1431,CSI: Crime Scene Investigation,15,13,The Greater Good,2015-01-04,44,7.7,9
+1431,CSI: Crime Scene Investigation,15,14,Merchants of Menace,2015-01-25,43,7.9,9
+1431,CSI: Crime Scene Investigation,15,15,Hero to Zero,2015-01-25,44,7.6,9
+1431,CSI: Crime Scene Investigation,15,16,The Last Ride,2015-01-27,43,7.3,9
+1431,CSI: Crime Scene Investigation,15,17,Under My Skin,2015-02-15,42,7.0,13
+1431,CSI: Crime Scene Investigation,15,18,The End Game,2015-02-15,43,7.045,11
+1405,Dexter,8,1,A Beautiful Day,2013-06-30,53,7.8,65
+1405,Dexter,8,2,Every Silver Lining...,2013-07-07,58,7.237,59
+1405,Dexter,8,3,What's Eating Dexter Morgan?,2013-07-14,49,7.482,56
+1405,Dexter,8,4,Scar Tissue,2013-07-21,50,7.4,56
+1405,Dexter,8,5,This Little Piggy,2013-07-28,48,7.3,56
+1405,Dexter,8,6,A Little Reflection,2013-08-04,56,7.1,58
+1405,Dexter,8,7,Dress Code,2013-08-11,53,7.2,56
+1405,Dexter,8,8,Are We There Yet?,2013-08-18,53,7.3,56
+1405,Dexter,8,9,Make Your Own Kind of Music,2013-08-25,56,6.9,55
+1405,Dexter,8,10,Goodbye Miami,2013-09-08,53,6.5,58
+1405,Dexter,8,11,Monkey in a Box,2013-09-15,53,6.5,61
+1405,Dexter,8,12,Remember the Monsters?,2013-09-22,57,5.27,87
+131927,Dexter: New Blood,1,1,Cold Snap,2021-11-07,58,7.8,71
+131927,Dexter: New Blood,1,2,Storm of Fuck,2021-11-14,53,7.4,49
+131927,Dexter: New Blood,1,3,Smoke Signals,2021-11-21,52,7.4,40
+131927,Dexter: New Blood,1,4,H Is for Hero,2021-11-28,45,7.7,37
+131927,Dexter: New Blood,1,5,Runaway,2021-12-05,58,7.4,38
+131927,Dexter: New Blood,1,6,Too Many Tuna Sandwiches,2021-12-12,59,7.8,37
+131927,Dexter: New Blood,1,7,Skin of Her Teeth,2021-12-19,46,7.2,38
+131927,Dexter: New Blood,1,8,Unfair Game,2021-12-26,44,7.7,37
+131927,Dexter: New Blood,1,9,The Family Business,2022-01-02,58,7.9,41
+131927,Dexter: New Blood,1,10,Sins of the Father,2022-01-09,58,4.7,50
+219937,Dexter: Original Sin,1,1,And in the beginning...,2024-12-15,50,8.0,57
+219937,Dexter: Original Sin,1,2,Kid in a Candy Store,2024-12-22,47,7.8,28
+219937,Dexter: Original Sin,1,3,Miami Vice,2024-12-22,59,8.1,27
+219937,Dexter: Original Sin,1,4,Fender Bender,2024-12-29,50,8.2,24
+219937,Dexter: Original Sin,1,5,F Is for Fuck-Up,2025-01-05,52,8.3,22
+219937,Dexter: Original Sin,1,6,The Joy of Killing,2025-01-12,50,8.2,19
+219937,Dexter: Original Sin,1,7,The Big Bad Body Problem,2025-01-26,49,8.2,20
+219937,Dexter: Original Sin,1,8,Business and Pleasure,2025-02-02,52,8.7,18
+219937,Dexter: Original Sin,1,9,Blood Drive,2025-02-09,51,8.6,16
+219937,Dexter: Original Sin,1,10,Code Blues,2025-02-16,50,9.0,16
+259909,Dexter: Resurrection,1,1,A Beating Heart...,2025-07-13,52,8.5,24
+259909,Dexter: Resurrection,1,2,Camera Shy,2025-07-13,48,8.5,21
+259909,Dexter: Resurrection,1,3,Backseat Driver,2025-07-20,52,8.7,18
+259909,Dexter: Resurrection,1,4,Call Me Red,2025-07-27,67,9.3,21
+259909,Dexter: Resurrection,1,5,Murder Horny,2025-08-03,50,8.9,13
+259909,Dexter: Resurrection,1,6,Cats & Mouse,2025-08-10,57,8.9,10
+259909,Dexter: Resurrection,1,7,Course Correction,2025-08-17,54,9.1,14
+259909,Dexter: Resurrection,1,8,The Kill Room Where It Happens,2025-08-24,46,8.8,13
+259909,Dexter: Resurrection,1,9,Touched by an Ángel,2025-08-31,48,8.571,7
+259909,Dexter: Resurrection,1,10,And Justice for All…,2025-09-07,,0.0,0
+57243,Doctor Who,13,1,The Halloween Apocalypse,2021-10-31,51,6.974,38
+57243,Doctor Who,13,2,War of the Sontarans,2021-11-07,60,7.057,35
+57243,Doctor Who,13,3,"Once, Upon Time",2021-11-14,50,6.176,34
+57243,Doctor Who,13,4,Village of the Angels,2021-11-21,57,7.368,38
+57243,Doctor Who,13,5,Survivors of the Flux,2021-11-28,51,6.235,34
+57243,Doctor Who,13,6,The Vanquishers,2021-12-05,60,5.857,35
+80748,FBI,8,1,Takeover,2025-10-13,,0.0,0
+80748,FBI,8,2,Captured,2025-10-20,,0.0,0
+121658,FBI: International,4,1,"A Leader, Not a Tourist",2024-10-15,41,8.7,3
+121658,FBI: International,4,2,The Other Hard Part,2024-10-22,41,9.7,3
+121658,FBI: International,4,3,Nothing Sudden About It,2024-10-29,42,8.3,3
+121658,FBI: International,4,4,The Unwinnable War,2024-11-12,43,8.5,2
+121658,FBI: International,4,5,The Future's Looking Bright,2024-11-19,42,8.5,2
+121658,FBI: International,4,6,They Paid More,2024-12-03,43,9.0,2
+121658,FBI: International,4,7,Keen as a Bean,2024-12-10,43,9.0,2
+121658,FBI: International,4,8,You'll Never See It Coming,2024-12-17,40,8.8,4
+121658,FBI: International,4,9,The Kill Floor,2025-01-28,41,7.2,4
+121658,FBI: International,4,10,Keep Calm and Deliver the Biotoxin,2025-02-04,43,9.0,3
+121658,FBI: International,4,11,Veritas Fidelis,2025-02-11,42,8.0,3
+121658,FBI: International,4,12,Blood Doesn't Become Water,2025-02-18,43,8.3,3
+121658,FBI: International,4,13,You've Been Greenlit,2025-02-25,42,8.0,3
+121658,FBI: International,4,14,A Winged Lion for Protection,2025-03-11,43,8.7,3
+121658,FBI: International,4,15,They May Get Their Wish,2025-03-18,43,8.3,3
+121658,FBI: International,4,16,Little Angel,2025-04-01,43,8.7,3
+121658,FBI: International,4,17,Dead Dead,2025-04-08,43,9.0,3
+121658,FBI: International,4,18,Lone Wolf,2025-04-15,42,8.7,3
+121658,FBI: International,4,19,Flinch Now and It's Over,2025-04-22,43,8.3,3
+121658,FBI: International,4,20,We're Out of Here,2025-05-06,43,8.5,2
+121658,FBI: International,4,21,Herbivore Man (1),2025-05-13,41,8.7,3
+121658,FBI: International,4,22,Gaijin (2),2025-05-20,43,7.0,1
+94372,FBI: Most Wanted,6,1,Aquarium Drinker,2024-10-15,43,6.0,3
+94372,FBI: Most Wanted,6,2,Varsity Blues,2024-10-22,43,6.0,3
+94372,FBI: Most Wanted,6,3,White Buffalo,2024-10-29,43,5.3,3
+94372,FBI: Most Wanted,6,4,Pig Butchering,2024-11-12,43,5.7,3
+94372,FBI: Most Wanted,6,5,Money Moves,2024-11-19,43,8.0,1
+94372,FBI: Most Wanted,6,6,Pageantry,2024-12-03,41,4.5,2
+94372,FBI: Most Wanted,6,7,Highway to Hell,2024-12-10,43,7.5,2
+94372,FBI: Most Wanted,6,8,The Electric Company,2024-12-17,43,8.0,1
+94372,FBI: Most Wanted,6,9,Moving On,2025-01-28,42,7.5,2
+94372,FBI: Most Wanted,6,10,Ars Moriendi,2025-02-04,42,7.0,4
+94372,FBI: Most Wanted,6,11,Do You Realize??,2025-02-11,44,7.5,2
+94372,FBI: Most Wanted,6,12,68 Seconds,2025-02-18,43,8.0,2
+94372,FBI: Most Wanted,6,13,Greek Tragedy,2025-02-25,42,4.5,2
+94372,FBI: Most Wanted,6,14,100%,2025-03-11,43,5.3,3
+94372,FBI: Most Wanted,6,15,Four Bodies,2025-03-18,42,7.5,2
+94372,FBI: Most Wanted,6,16,Toxic Behavior,2025-04-01,43,8.0,2
+94372,FBI: Most Wanted,6,17,Gut Job,2025-04-08,43,7.5,2
+94372,FBI: Most Wanted,6,18,Trust,2025-04-15,42,7.5,2
+94372,FBI: Most Wanted,6,19,Starman,2025-04-22,43,7.5,2
+94372,FBI: Most Wanted,6,20,Trash Day,2025-05-06,42,7.5,2
+94372,FBI: Most Wanted,6,21,Souls on ICE,2025-05-13,43,7.0,1
+94372,FBI: Most Wanted,6,22,The Circle Game,2025-05-20,43,0.0,0
+1399,Game of Thrones,8,1,Winterfell,2019-04-14,55,7.106,287
+1399,Game of Thrones,8,2,A Knight of the Seven Kingdoms,2019-04-21,59,7.392,269
+1399,Game of Thrones,8,3,The Long Night,2019-04-28,82,6.843,331
+1399,Game of Thrones,8,4,The Last of the Starks,2019-05-05,79,5.652,287
+1399,Game of Thrones,8,5,The Bells,2019-05-12,80,5.915,300
+1399,Game of Thrones,8,6,The Iron Throne,2019-05-19,80,4.578,371
+39416,Geordie Shore,25,1,"Geordie Shore, Thai-Aye!",2025-01-07,44,0.0,0
+39416,Geordie Shore,25,2,"Sun, Sea & Scotty-T!",2025-01-07,44,0.0,0
+39416,Geordie Shore,25,3,Trouble in Paradise!,2025-01-14,44,0.0,0
+39416,Geordie Shore,25,4,It's A Family Affair,2025-01-21,44,0.0,0
+39416,Geordie Shore,25,5,Full Moon Carnage,2025-01-28,44,0.0,0
+39416,Geordie Shore,25,6,A Decent Proposal,2025-02-04,43,0.0,0
+39416,Geordie Shore,25,7,"Will She, Won't She?",2025-02-11,44,0.0,0
+39416,Geordie Shore,25,8,Ko Samui Kick Off,2025-02-18,43,0.0,0
+39416,Geordie Shore,25,9,What Did You Call Me?!,2025-02-25,43,0.0,0
+39416,Geordie Shore,25,10,Never say Never!,2025-03-04,44,0.0,0
+253896,Happy's Place,2,1,Episode 1,2025-11-07,,0.0,0
+253896,Happy's Place,2,2,Episode 2,2025-11-07,,0.0,0
+124834,Heartstopper,3,1,Love,2024-10-03,33,8.609,23
+124834,Heartstopper,3,2,Home,2024-10-03,39,8.6,14
+124834,Heartstopper,3,3,Talk,2024-10-03,37,9.4,12
+124834,Heartstopper,3,4,Journey,2024-10-03,34,8.9,13
+124834,Heartstopper,3,5,Winter,2024-10-03,34,8.8,13
+124834,Heartstopper,3,6,Body,2024-10-03,36,8.7,13
+124834,Heartstopper,3,7,Together,2024-10-03,35,8.8,13
+124834,Heartstopper,3,8,Apart,2024-10-03,36,8.9,13
+226637,High Potential,2,1,Pawns,2025-09-16,,0.0,0
+226637,High Potential,2,2,Checkmate,2025-09-23,,0.0,0
+226637,High Potential,2,3,Eleven Minutes,2025-09-30,,0.0,0
+226637,High Potential,2,4,Episode 4,2025-10-07,,0.0,0
+549,Law & Order,0,1,Special: The Cast: The Early Years,,45,0.0,0
+549,Law & Order,0,2,Interview: Dick Wolfe: Creator,,45,0.0,0
+549,Law & Order,0,3,Interview: Jerry Orbach,,45,0.0,0
+549,Law & Order,0,4,Interview: Jesse L. Martin,,45,0.0,0
+549,Law & Order,0,5,Interview: Fred Dalton Thompson,,45,0.0,0
+549,Law & Order,0,6,"Interview: Park Dietz, MD: Inside The Criminal Mind",,45,0.0,0
+549,Law & Order,0,7,Special: The First Three Years,,45,0.0,0
+549,Law & Order,25,1,Episode 1,2025-09-25,,0.0,0
+90,Mayday,25,1,Pacific Ditching (Transair Flight 810),2025-02-03,44,0.0,0
+90,Mayday,25,2,Running on Empty (Air Tahoma Flight 185),2025-02-10,44,0.0,0
+90,Mayday,25,3,Power Struggle,2025-02-17,43,0.0,0
+90,Mayday,25,4,Second Thoughts (Luxair Flight 9642),2025-02-24,44,0.0,0
+90,Mayday,25,5,Powerless Plunge (Loganair Flight 670A),2025-03-03,44,0.0,0
+90,Mayday,25,6,Cabin Chaos,2025-03-10,43,0.0,0
+90,Mayday,25,7,Deadly Climb (Midwest Express Airlines Flight 105),2025-03-17,44,0.0,0
+90,Mayday,25,8,Firebomber Down,2025-03-24,44,0.0,0
+90,Mayday,25,9,Collision Catastrophe (2002 Überlingen mid-air collision),2025-03-31,44,10.0,1
+90,Mayday,25,10,Fatal Test Flight (Airborne Express Flight 827),2025-04-07,42,0.0,0
+90,Mayday,25,11,No Exit (US Air 1493),2025-05-26,44,0.0,0
+246381,Prime Target,1,1,A New Pattern,2025-01-22,49,6.0,8
+246381,Prime Target,1,2,Syracuse,2025-01-22,46,7.0,4
+246381,Prime Target,1,3,The Sequence,2025-01-29,44,7.0,4
+246381,Prime Target,1,4,Kaplar,2025-02-05,43,5.8,5
+246381,Prime Target,1,5,House of Wisdom,2025-02-12,51,6.0,4
+246381,Prime Target,1,6,The Last Link,2025-02-19,44,6.2,5
+246381,Prime Target,1,7,Prime Finder,2025-02-26,58,6.75,4
+246381,Prime Target,1,8,The Key,2025-03-05,52,5.3,3
+67482,RuPaul's Drag Race All Stars,10,1,"Winner Winner, Chicken Dinner",2025-05-09,69,6.5,2
+67482,RuPaul's Drag Race All Stars,10,2,Murder On The Dance Floor,2025-05-09,63,5.5,2
+67482,RuPaul's Drag Race All Stars,10,3,Hoop Queens Makeover,2025-05-16,62,6.0,2
+67482,RuPaul's Drag Race All Stars,10,4,Eight Ball,2025-05-23,65,6.5,2
+67482,RuPaul's Drag Race All Stars,10,5,Rappin' Roast,2025-05-30,63,7.3,3
+67482,RuPaul's Drag Race All Stars,10,6,Starrbooty: The Rebooty,2025-06-06,,6.7,3
+67482,RuPaul's Drag Race All Stars,10,7,Wicked Good,2025-06-13,67,6.0,2
+67482,RuPaul's Drag Race All Stars,10,8,Stagecooch,2025-06-20,,5.5,2
+67482,RuPaul's Drag Race All Stars,10,9,The Golden Bitchelor,2025-06-27,,4.5,2
+67482,RuPaul's Drag Race All Stars,10,10,Tournament of All Stars Snatch Game,2025-07-04,63,5.5,2
+67482,RuPaul's Drag Race All Stars,10,11,Tournament of All Stars Talent Invitational,2025-07-11,63,6.5,2
+67482,RuPaul's Drag Race All Stars,10,12,Tournament of All Stars Smackdown for the Crown,2025-07-18,63,7.0,3
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,1,"Winner Winner, Chicken Dinner",2025-05-09,22,8.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,2,Murder on the Dance Floor,2025-05-09,22,8.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,3,Hoop Queens Makeovers,2025-05-16,22,7.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,4,Eight Ball,2025-05-23,22,6.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,5,Rappin' Roast,2025-05-30,22,7.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,6,Starrbooty: The Rebooty,2025-06-06,22,7.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,7,Wicked Good,2025-06-13,22,7.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,8,Stagecooch,2025-06-20,21,7.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,9,The Golden Bitchelor,2025-06-27,21,7.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,10,Tournament of All Stars Snatch Game,2025-07-04,21,7.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,11,Tournament of All Stars Talent Invitational,2025-07-11,21,7.0,1
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,12,Tournament of All Stars Smackdown for the Crown,2025-07-18,21,7.0,1
+122692,RuPaul's Drag Race Down Under,4,1,Doubling Down,2024-11-01,58,7.0,2
+122692,RuPaul's Drag Race Down Under,4,2,Mr. Right or Mr. Right Now?,2024-11-08,54,6.0,1
+122692,RuPaul's Drag Race Down Under,4,3,Snatch Me Out Of Here,2024-11-15,56,7.0,1
+122692,RuPaul's Drag Race Down Under,4,4,Fierce Fabulous Fashion,2024-11-22,57,8.0,1
+122692,RuPaul's Drag Race Down Under,4,5,Booked And Beautiful,2024-11-29,58,8.0,1
+122692,RuPaul's Drag Race Down Under,4,6,Platy-Pussies On Fire,2024-12-06,56,6.0,1
+122692,RuPaul's Drag Race Down Under,4,7,The Rhys Roast,2024-12-13,57,7.0,1
+122692,RuPaul's Drag Race Down Under,4,8,Grand Finale,2024-12-20,56,8.0,1
+251306,RuPaul's Drag Race Live Untucked,2,1,New Queen on the Strip,2025-04-16,24,0.0,0
+251306,RuPaul's Drag Race Live Untucked,2,2,Not a Dress Rehearsal,2025-04-23,27,0.0,0
+251306,RuPaul's Drag Race Live Untucked,2,3,Season 16 Sisters,2025-04-30,23,0.0,0
+251306,RuPaul's Drag Race Live Untucked,2,4,When You’re Here You’re Family,2025-05-07,25,0.0,0
+251306,RuPaul's Drag Race Live Untucked,2,5,Hidden Talent,2025-05-14,23,0.0,0
+251306,RuPaul's Drag Race Live Untucked,2,6,The Fly Girls,2025-05-21,23,0.0,0
+92611,RuPaul's Drag Race UK,7,1,Episode 1,,,0.0,0
+38409,RuPaul's Drag Race: Untucked,16,1,Squirrel Games,2025-01-03,21,7.0,1
+38409,RuPaul's Drag Race: Untucked,16,2,Drag Queens Got Talent - Part 2,2025-01-10,21,7.0,1
+38409,RuPaul's Drag Race: Untucked,16,3,Monopulence!,2025-01-17,21,0.0,0
+38409,RuPaul's Drag Race: Untucked,16,4,"Bitch, I'm a Drag Queen!",2025-01-24,21,8.0,1
+38409,RuPaul's Drag Race: Untucked,16,5,RDR Live!,2025-01-31,21,0.0,0
+38409,RuPaul's Drag Race: Untucked,16,6,Let's Get Sea Sickening Ball,2025-02-07,21,8.0,1
+38409,RuPaul's Drag Race: Untucked,16,7,Snatch Game,2025-02-14,21,7.0,1
+38409,RuPaul's Drag Race: Untucked,16,8,The Wicked Wiz of Oz: The Rusical!,2025-02-21,21,7.0,1
+38409,RuPaul's Drag Race: Untucked,16,9,Heavens To Betsey!,2025-02-28,21,8.0,1
+38409,RuPaul's Drag Race: Untucked,16,10,The Villains Roast,2025-03-07,21,8.0,1
+38409,RuPaul's Drag Race: Untucked,16,11,Ross Mathews vs. The Ducks,2025-03-14,21,7.0,1
+38409,RuPaul's Drag Race: Untucked,16,12,"Charisma, Uniqueness, Nerve & Talent Monologues",2025-03-21,21,0.0,0
+38409,RuPaul's Drag Race: Untucked,16,13,Drag Baby Mamas,2025-03-28,21,7.0,1
+38409,RuPaul's Drag Race: Untucked,16,14,How's Your Headliner?,2025-04-04,21,8.0,1
+260471,Shifting Gears,2,1,Episode 1,2025-10-01,,0.0,0
+260471,Shifting Gears,2,2,Episode 2,2025-10-08,,0.0,0
+260471,Shifting Gears,2,3,Episode 3,2025-10-15,,0.0,0
+251941,St. Denis Medical,2,1,Episode 1,2025-11-03,,0.0,0
+251941,St. Denis Medical,2,2,Episode 2,2025-11-03,,0.0,0
+66732,Stranger Things,5,1,Chapter One: The Crawl,2025-11-26,,0.0,0
+66732,Stranger Things,5,2,Chapter Two: The Vanishing of ...,2025-11-26,,0.0,0
+66732,Stranger Things,5,3,Chapter Three: The Turnbow Trap,2025-11-26,,0.0,0
+66732,Stranger Things,5,4,Chapter Four: Sorcerer,2025-11-26,,0.0,0
+66732,Stranger Things,5,5,Chapter Five: Shock Jock,2025-12-25,,0.0,0
+66732,Stranger Things,5,6,Chapter Six: Escape from Camazotz,2025-12-25,,0.0,0
+66732,Stranger Things,5,7,Chapter Seven: The Bridge,2025-12-25,,0.0,0
+66732,Stranger Things,5,8,Chapter Eight: The Rightside Up,2025-12-31,150,0.0,0
+28172,The Boys,1,1,Don't Call Me Ed,1993-08-20,30,0.0,0
+28172,The Boys,1,2,Ladies' Night,1993-08-27,30,0.0,0
+28172,The Boys,1,3,"Strike One, You're Out",1993-09-03,30,0.0,0
+28172,The Boys,1,4,The Writing Class,1993-09-10,30,0.0,0
+28172,The Boys,1,5,Ninety-Five in the Shade,1993-09-17,30,0.0,0
+28172,The Boys,1,6,The Wicker Moosehead,1993-09-17,30,0.0,0
+28172,The Boys,1,7,The Wicker Moosehead,,30,0.0,0
+222766,The Day of the Jackal,1,1,Episode 1,2024-11-07,57,8.354,99
+222766,The Day of the Jackal,1,2,Episode 2,2024-11-07,53,7.12,50
+222766,The Day of the Jackal,1,3,Episode 3,2024-11-07,50,6.786,42
+222766,The Day of the Jackal,1,4,Episode 4,2024-11-08,49,6.886,44
+222766,The Day of the Jackal,1,5,Episode 5,2024-11-08,49,7.143,42
+222766,The Day of the Jackal,1,6,Episode 6,2024-11-14,49,6.902,41
+222766,The Day of the Jackal,1,7,Episode 7,2024-11-21,45,6.553,38
+222766,The Day of the Jackal,1,8,Episode 8,2024-11-28,47,6.949,39
+222766,The Day of the Jackal,1,9,Episode 9,2024-12-05,47,7.35,40
+222766,The Day of the Jackal,1,10,Episode 10,2024-12-12,62,7.054,37
+253372,The Institute,2,1,Episode 1,,,0.0,0
+253372,The Institute,2,2,Episode 2,,,0.0,0
+253372,The Institute,2,3,Episode 3,,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,1,Bubble Trouble,2025-06-03,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,2,The Drone Zone,2025-06-10,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,3,Smoke It Out,2025-06-17,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,4,Bursting the Bubble,2025-06-24,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,5,Pushing Boundaries,2025-07-01,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,6,Posting Up,2025-07-08,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,7,Lights Out,2025-07-15,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,8,Swarm Weather,2025-07-22,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,9,Darting Around,2025-07-29,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,10,Hard Target,2025-08-05,,0.0,1
+101359,The Secret of Skinwalker Ranch,6,11,Hard to Handle,2025-08-12,,0.0,0
+101359,The Secret of Skinwalker Ranch,6,12,Hard Boiled,2025-08-19,,8.0,1
+101359,The Secret of Skinwalker Ranch,6,13,Fire in the Holes,2025-08-26,,7.0,1
+101359,The Secret of Skinwalker Ranch,6,14,Meeting of the Minds,2025-09-02,,0.0,0
+70,This Hour Has 22 Minutes,2,1,Episode 21,,,0.0,0
+70,This Hour Has 22 Minutes,2,2,Episode 22,,,0.0,0
+70,This Hour Has 22 Minutes,2,3,Episode 23,,,0.0,0
+70,This Hour Has 22 Minutes,2,4,Episode 24,,,0.0,0
+70,This Hour Has 22 Minutes,2,5,Episode 25,,,0.0,0
+70,This Hour Has 22 Minutes,2,6,Episode 26,,,0.0,0
+70,This Hour Has 22 Minutes,2,7,Episode 27,,,0.0,0
+70,This Hour Has 22 Minutes,2,8,Episode 28,,,0.0,0
+70,This Hour Has 22 Minutes,2,9,Episode 29,,,0.0,0
+70,This Hour Has 22 Minutes,2,10,Episode 30,,,0.0,0
+70,This Hour Has 22 Minutes,2,11,Episode 31,,,0.0,0
+70,This Hour Has 22 Minutes,2,12,Episode 32,,,0.0,0
+70,This Hour Has 22 Minutes,2,13,Episode 33,,,0.0,0
+70,This Hour Has 22 Minutes,2,14,Episode 34,,,0.0,0
+70,This Hour Has 22 Minutes,2,15,Episode 35,,,0.0,0
+70,This Hour Has 22 Minutes,2,16,Episode 36,,,0.0,0
+70,This Hour Has 22 Minutes,2,17,Episode 37,,,0.0,0
+70,This Hour Has 22 Minutes,2,18,Episode 38,,,0.0,0
+70,This Hour Has 22 Minutes,2,19,Episode 39,,,0.0,0
+70,This Hour Has 22 Minutes,2,20,Episode 40,,,0.0,0
+70,This Hour Has 22 Minutes,2,21,Episode 41,,,0.0,0
+70,This Hour Has 22 Minutes,6,1,Episode 123,,,0.0,0
+70,This Hour Has 22 Minutes,6,2,Episode 124,,,0.0,0
+70,This Hour Has 22 Minutes,6,3,Episode 125,,,0.0,0
+70,This Hour Has 22 Minutes,6,4,Episode 126,,,0.0,0
+70,This Hour Has 22 Minutes,6,5,Episode 127,,,0.0,0
+70,This Hour Has 22 Minutes,6,6,Episode 128,,,0.0,0
+70,This Hour Has 22 Minutes,6,7,Episode 129,,,0.0,0
+70,This Hour Has 22 Minutes,24,1,"October 4, 2016",2016-10-04,22,0.0,0
+70,This Hour Has 22 Minutes,24,2,"October 11, 2016",2016-10-11,22,0.0,0
+70,This Hour Has 22 Minutes,24,3,"October 18, 2016",2016-10-18,22,0.0,0
+70,This Hour Has 22 Minutes,24,4,"October 25, 2016",2016-10-25,22,0.0,0
+70,This Hour Has 22 Minutes,24,5,"November 1, 2016",2016-11-01,22,0.0,0
+70,This Hour Has 22 Minutes,24,6,The 22 Minutes Election Night Special,2016-11-08,22,0.0,0
+70,This Hour Has 22 Minutes,24,7,"November 15, 2016",2016-11-15,22,0.0,0
+70,This Hour Has 22 Minutes,24,8,"November 22, 2016",2016-11-22,22,0.0,0
+70,This Hour Has 22 Minutes,24,9,"November 29, 2016",2016-11-29,22,0.0,0
+70,This Hour Has 22 Minutes,24,10,"December 6, 2016",2016-12-06,22,0.0,0
+70,This Hour Has 22 Minutes,24,11,"January 10, 2017",2017-01-10,22,0.0,0
+70,This Hour Has 22 Minutes,24,12,"January 17, 2017",2017-01-17,22,0.0,0
+70,This Hour Has 22 Minutes,24,13,"January 24, 2017",2017-01-24,22,0.0,0
+70,This Hour Has 22 Minutes,24,14,"January 31, 2017",2017-01-31,22,0.0,0
+70,This Hour Has 22 Minutes,24,15,"February 7, 2017",2017-02-07,22,0.0,0
+70,This Hour Has 22 Minutes,24,16,"February 14, 2017",2017-02-14,22,0.0,0
+70,This Hour Has 22 Minutes,24,17,"February 28, 2017",2017-02-28,22,0.0,0
+70,This Hour Has 22 Minutes,24,18,"March 7, 2017",2017-03-07,22,0.0,0
+70,This Hour Has 22 Minutes,24,19,"March 14, 2017",2017-03-14,22,0.0,0
+70,This Hour Has 22 Minutes,24,20,"March 21, 2017",2017-03-21,22,0.0,0
+70,This Hour Has 22 Minutes,24,21,"March 28, 2017",2017-03-28,22,0.0,0
+70,This Hour Has 22 Minutes,24,22,Canada's 150th Special,2017-04-04,22,0.0,0
+70,This Hour Has 22 Minutes,26,1,Notwithstanding Ford,2018-09-18,22,0.0,0
+70,This Hour Has 22 Minutes,26,2,Party of One,2018-09-25,22,0.0,0
+70,This Hour Has 22 Minutes,26,3,Call Me Jay-Pay,2018-10-02,22,0.0,0
+70,This Hour Has 22 Minutes,26,4,In A Pinch,2018-10-09,22,0.0,0
+70,This Hour Has 22 Minutes,26,5,Winter Is Coming (To NB),2018-10-16,22,0.0,0
+70,This Hour Has 22 Minutes,26,6,Carbon Query,2018-10-30,22,0.0,0
+70,This Hour Has 22 Minutes,26,7,Hot Canadian Nights,2018-11-06,22,0.0,0
+70,This Hour Has 22 Minutes,26,8,From Statscan to Skynet,2018-11-13,22,0.0,0
+70,This Hour Has 22 Minutes,26,9,Brison & The Budget,2018-11-27,22,0.0,0
+70,This Hour Has 22 Minutes,26,10,Hudson's Baywatch,2018-12-04,22,0.0,0
+70,This Hour Has 22 Minutes,26,11,Holiday Special,2018-12-11,22,0.0,0
+70,This Hour Has 22 Minutes,26,12,You Keep on Knocking,2019-01-08,22,0.0,0
+70,This Hour Has 22 Minutes,26,13,Use Responsibly,2019-01-15,22,0.0,0
+70,This Hour Has 22 Minutes,26,14,What's Your Sign?,2019-01-22,22,0.0,0
+70,This Hour Has 22 Minutes,26,15,Temptation Island PEI,2019-01-29,22,0.0,0
+70,This Hour Has 22 Minutes,26,16,Welcome To Canada,2019-02-05,22,0.0,0
+70,This Hour Has 22 Minutes,26,17,Scheer Ambush,2019-02-19,22,0.0,0
+70,This Hour Has 22 Minutes,26,18,"Thank U, Next",2019-02-26,22,0.0,0
+70,This Hour Has 22 Minutes,26,19,Singh's Strategy,2019-03-05,22,0.0,0
+70,This Hour Has 22 Minutes,26,20,Border Bud,2019-03-12,22,0.0,0
+70,This Hour Has 22 Minutes,27,1,Election Fever,2019-09-17,22,0.0,0
+70,This Hour Has 22 Minutes,27,2,Heating Up,2019-09-24,22,0.0,0
+70,This Hour Has 22 Minutes,27,3,How Dare You,2019-10-01,22,0.0,0
+70,This Hour Has 22 Minutes,27,4,Undecided Voter,2019-10-08,22,0.0,0
+70,This Hour Has 22 Minutes,27,5,Cut The Wire,2019-10-15,22,0.0,0
+70,This Hour Has 22 Minutes,27,6,The Results Are In,2019-10-22,22,0.0,0
+70,This Hour Has 22 Minutes,27,7,Follow The Leaders,2019-10-29,22,0.0,0
+70,This Hour Has 22 Minutes,27,8,Coup d'Etat,2019-11-05,22,0.0,0
+70,This Hour Has 22 Minutes,27,9,Back To Business,2019-11-12,22,0.0,0
+70,This Hour Has 22 Minutes,27,10,Hitting The Ice,2019-11-19,22,0.0,0
+70,This Hour Has 22 Minutes,27,11,Hindsight Is 20-19,2020-01-07,22,0.0,0
+70,This Hour Has 22 Minutes,27,12,Dry January,2020-01-14,22,0.0,0
+70,This Hour Has 22 Minutes,27,13,A Part of Our Heritage,2020-01-21,22,0.0,0
+70,This Hour Has 22 Minutes,27,14,Eastern Hospitality,2020-01-28,22,0.0,0
+70,This Hour Has 22 Minutes,27,15,Party Rules,2020-02-04,22,0.0,0
+70,This Hour Has 22 Minutes,27,16,Yes B'y,2020-02-11,22,0.0,0
+70,This Hour Has 22 Minutes,27,17,You Should Go To Emergency,2020-02-18,22,0.0,0
+70,This Hour Has 22 Minutes,27,18,Plategate,2020-02-25,22,0.0,0
+70,This Hour Has 22 Minutes,27,19,"Canada, The Board Game (Season Finale)",2020-03-03,22,0.0,0
+70,This Hour Has 22 Minutes,32,1,WE’RE BAAACK,2024-09-17,22,0.0,0
+70,This Hour Has 22 Minutes,32,2,Every Day is Hump Day,2024-09-24,22,0.0,0
+70,This Hour Has 22 Minutes,32,3,Hijinx in The House,2024-10-01,22,0.0,0
+70,This Hour Has 22 Minutes,32,4,Talkin' Turkey,2024-10-08,22,0.0,0
+70,This Hour Has 22 Minutes,32,5,High Hopes,2024-10-22,22,0.0,0
+70,This Hour Has 22 Minutes,32,6,Monster Bash,2024-10-29,22,0.0,0
+70,This Hour Has 22 Minutes,32,7,This Hour has 22 Minutes has 44 Minutes - A U.S. Election Special,2024-11-04,44,0.0,0
+70,This Hour Has 22 Minutes,32,8,Booze Clues,2024-11-12,22,0.0,0
+70,This Hour Has 22 Minutes,32,9,Fight of the Century,2024-11-19,22,0.0,0
+70,This Hour Has 22 Minutes,32,10,Striking Out,2024-11-26,22,0.0,0
+70,This Hour Has 22 Minutes,32,11,Vocal Fry Christmas,2024-12-03,22,0.0,0
+70,This Hour Has 22 Minutes,32,12,This Hour Has 22 Minutes Has 44 Minutes - A NYE Pregame Special,2024-12-31,44,0.0,0
+70,This Hour Has 22 Minutes,32,13,Downfall,2025-01-07,22,0.0,0
+70,This Hour Has 22 Minutes,32,14,Risk!,2025-01-14,22,0.0,0
+70,This Hour Has 22 Minutes,32,15,Chrystia's Time,2025-01-21,22,0.0,0
+70,This Hour Has 22 Minutes,32,16,Trade War,2025-01-28,22,0.0,0
+70,This Hour Has 22 Minutes,32,17,Tarrifying,2025-02-04,22,0.0,0
+70,This Hour Has 22 Minutes,32,18,Border Crisis?,2025-02-11,22,0.0,0
+70,This Hour Has 22 Minutes,32,19,Going Viral (Compilation Episode),2025-02-18,22,0.0,0
+70,This Hour Has 22 Minutes,32,20,Which Way Is Up?,2025-02-25,22,0.0,0
+70,This Hour Has 22 Minutes,32,21,Oval Office Showdown,2025-03-04,22,0.0,0
+70,This Hour Has 22 Minutes,32,22,Elbows Up,2025-03-11,22,0.0,0
+70,This Hour Has 22 Minutes,32,23,A Message from the King,2025-03-25,22,0.0,0
+70,This Hour Has 22 Minutes,32,24,Canadienne!,2025-04-01,22,0.0,0
+70,This Hour Has 22 Minutes,32,25,Liberation Day,2025-04-08,22,0.0,0
+70,This Hour Has 22 Minutes,32,26,Electile Dysfunction,2025-04-15,22,0.0,0
+70,This Hour Has 22 Minutes,32,27,Vote Canadian: 22 Minutes Election Special,2025-04-26,44,0.0,0
+211288,Tracker,3,1,The Process,2025-10-19,,0.0,0
+211288,Tracker,3,2,Leverage,2025-10-26,,0.0,0

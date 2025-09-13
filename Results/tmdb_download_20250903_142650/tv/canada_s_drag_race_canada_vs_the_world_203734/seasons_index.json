@@ -1,0 +1,32 @@
+[
+  {
+    "air_date": "2022-10-17",
+    "episode_count": 2,
+    "id": 461407,
+    "name": "Specials",
+    "overview": "Meet the Queens of Canada's Drag Race Vs The World",
+    "poster_path": null,
+    "season_number": 0,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2022-11-18",
+    "episode_count": 6,
+    "id": 296848,
+    "name": "Season 1",
+    "overview": "After three wildly successful seasons of Canada’s Drag Race, our queens of the north have proven they can “sleigh” in every way. Now it’s time to raise the stakes and go global! At this level of competition, there are no weak links - just nine seasoned queens with a thirst for victory. Let the international games begin!",
+    "poster_path": "/2WXnJ6FWbMy7aQIiZRwxlui74rS.jpg",
+    "season_number": 1,
+    "vote_average": 7.5
+  },
+  {
+    "air_date": "2024-07-19",
+    "episode_count": 6,
+    "id": 400054,
+    "name": "Season 2",
+    "overview": "Queens from the international Drag Race family will compete to become the Ultimate Drag Race Superstar! With Canada acting as host nation, this six-episode battle will bring back fan favourites and top talent from across the globe for an elite competition to crown the Queen of the Mother-Pucking World.",
+    "poster_path": "/kDCIvmexeNW0fQVQtLVKfzFTT0y.jpg",
+    "season_number": 2,
+    "vote_average": 7.2
+  }
+]

@@ -1,0 +1,1 @@
+﻿param([string]\, [string[]]\=@(), [switch]\); if(-not \){ Write-Error 'Provide -M3U'; exit 1 }; \=Join-Path .venv 'Scripts\python.exe'; if(-not(Test-Path \)){ \='python' }; \ = @('--m3u', \); foreach(\ in \){ \ += @('--epg', \) }; if(\){ \ += '--filtered-xmltv' }; & \ 'src\epg_compare.py' @args

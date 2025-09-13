@@ -1,0 +1,381 @@
+{
+  "adult": false,
+  "backdrop_path": "/w3mBUviE0R9jYHoPLP5IP8vAbJ8.jpg",
+  "created_by": [
+    {
+      "id": 2971702,
+      "credit_id": "65f309ef6dea3a017c7c8fae",
+      "name": "Stacey Aglok MacDonald",
+      "original_name": "Stacey Aglok MacDonald",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1357328,
+      "credit_id": "65f309f9c49048018619f819",
+      "name": "Alethea Arnaquq-Baril",
+      "original_name": "Alethea Arnaquq-Baril",
+      "gender": 1,
+      "profile_path": "/2qnfxx6JN0XEymM6sqLKicUs6on.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-07",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://gem.cbc.ca/north-of-north",
+  "id": 249023,
+  "in_production": true,
+  "languages": [
+    "en",
+    "iu"
+  ],
+  "last_air_date": "2025-02-18",
+  "last_episode_to_air": {
+    "id": 5791432,
+    "name": "Bad Influences",
+    "overview": "Siaja and Helen put the final touches on their pitch for the polar research station, when Helen is pulled away. Siaja uses this opportunity to view the only available apartment in town with Kuuk’s help.",
+    "vote_average": 8.5,
+    "vote_count": 2,
+    "air_date": "2025-02-18",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 249023,
+    "still_path": "/A7iysMH99eaN0I9gK84WTMdTnib.jpg"
+  },
+  "name": "North of North",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 23,
+      "logo_path": "/cw5WW6cc9UANam4A6o1BDua9njN.png",
+      "name": "CBC Television",
+      "origin_country": "CA"
+    },
+    {
+      "id": 477,
+      "logo_path": "/qqTeEEAdCEfvYlTFXll8uu8Ld8K.png",
+      "name": "Aboriginal Peoples Television Network",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "North of North",
+  "overview": "A young Inuk woman wants to build a new future for herself after a spontaneous and extremely public exit from her marriage. It won't be easy in a small Arctic town where everybody knows your business.",
+  "popularity": 2.3542,
+  "poster_path": "/yAtcsq5ciJ6TBfGzM0b6BzVCaPA.jpg",
+  "production_companies": [
+    {
+      "id": 177664,
+      "logo_path": "/1BDguism7M4ao9N8lP1rTlxrgmL.png",
+      "name": "Red Marrow Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 88009,
+      "logo_path": null,
+      "name": "Northwood Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-07",
+      "episode_count": 8,
+      "id": 383646,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yAtcsq5ciJ6TBfGzM0b6BzVCaPA.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 454050,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Inuktitut",
+      "iso_639_1": "iu",
+      "name": ""
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Cold town. Hot mess.",
+  "type": "Scripted",
+  "vote_average": 6.793,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2307481,
+        "known_for_department": "Acting",
+        "name": "Anna Lambe",
+        "original_name": "Anna Lambe",
+        "popularity": 0.2755,
+        "profile_path": "/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg",
+        "character": "Siaja",
+        "credit_id": "65f3068d06f984018546fd61",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1717234,
+        "known_for_department": "Acting",
+        "name": "Maika Harper",
+        "original_name": "Maika Harper",
+        "popularity": 0.2032,
+        "profile_path": "/5SK1RLR3DXZpNHbipGw0Z0Gm1bN.jpg",
+        "character": "Neevee",
+        "credit_id": "65f307b22fe2fa0185eecb8f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3096421,
+        "known_for_department": "Acting",
+        "name": "Braeden Clarke",
+        "original_name": "Braeden Clarke",
+        "popularity": 0.4847,
+        "profile_path": "/iAZ3feygLQBJI6qFy79mEQKQgTA.jpg",
+        "character": "Kuuk",
+        "credit_id": "65f307b9eea34d0164145d0f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4592113,
+        "known_for_department": "Acting",
+        "name": "Zorga Qaunaq",
+        "original_name": "Zorga Qaunaq",
+        "popularity": 0.0143,
+        "profile_path": "/104BExSgHsNXy48em12hh1yulsP.jpg",
+        "character": "Millie",
+        "credit_id": "65f3082dc49048016319e329",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4675290,
+        "known_for_department": "Acting",
+        "name": "Bailey Poching",
+        "original_name": "Bailey Poching",
+        "popularity": 0.0071,
+        "profile_path": "/9RNpyAU2PUQm9yabNBM9KP03nEc.jpg",
+        "character": "Colin",
+        "credit_id": "684b73f1d374eef39f3fd99c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223901,
+        "known_for_department": "Acting",
+        "name": "Jay Ryan",
+        "original_name": "Jay Ryan",
+        "popularity": 0.956,
+        "profile_path": "/oN7Fix6XhwLGrWFN0lmGbsAe5Rp.jpg",
+        "character": "Alistair",
+        "credit_id": "65f307c36dea3a017c7c8d57",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25884,
+        "known_for_department": "Acting",
+        "name": "Mary Lynn Rajskub",
+        "original_name": "Mary Lynn Rajskub",
+        "popularity": 1.0692,
+        "profile_path": "/oi94VPrp5Ur0nkIqyk6jRu8Eayz.jpg",
+        "character": "Helen",
+        "credit_id": "65f307ab470ead017e9fca6c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4592101,
+        "known_for_department": "Acting",
+        "name": "Keira Cooper",
+        "original_name": "Keira Cooper",
+        "popularity": 0.0,
+        "profile_path": null,
+        "character": "Bun",
+        "credit_id": "65f306b26dea3a017c7c8c94",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4329309,
+        "known_for_department": "Acting",
+        "name": "Kelly William",
+        "original_name": "Kelly William",
+        "popularity": 0.078,
+        "profile_path": "/ciYZ8T0Vp56zpCXUWwk42BlaD4O.jpg",
+        "character": "Ting",
+        "credit_id": "65f308192fdec6018923ad8c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4493681,
+        "known_for_department": "Acting",
+        "name": "Doreen Simmonds",
+        "original_name": "Doreen Simmonds",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "character": "Elisapee",
+        "credit_id": "65f308346dea3a014978efdc",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1357328,
+        "known_for_department": "Directing",
+        "name": "Alethea Arnaquq-Baril",
+        "original_name": "Alethea Arnaquq-Baril",
+        "popularity": 0.0528,
+        "profile_path": "/2qnfxx6JN0XEymM6sqLKicUs6on.jpg",
+        "credit_id": "65f3073b2fe2fa0148ed19ec",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2971702,
+        "known_for_department": "Production",
+        "name": "Stacey Aglok MacDonald",
+        "original_name": "Stacey Aglok MacDonald",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "65f30745470ead01629db0ca",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236605,
+        "known_for_department": "Production",
+        "name": "Miranda de Pencier",
+        "original_name": "Miranda de Pencier",
+        "popularity": 0.6537,
+        "profile_path": "/78Nuks6NhRFpnmAyetAHqElFNKz.jpg",
+        "credit_id": "65f3074f5a78840163d782e0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 270400,
+        "known_for_department": "Acting",
+        "name": "Susan Coyne",
+        "original_name": "Susan Coyne",
+        "popularity": 0.188,
+        "profile_path": "/lQdXLkDhxJo2pdqt91sMp6c6F1v.jpg",
+        "credit_id": "65f30758eea34d018816705f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1896558,
+        "known_for_department": "Production",
+        "name": "Garry Campbell",
+        "original_name": "Garry Campbell",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "65f30774470ead017e9fca50",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2254959,
+        "known_for_department": "Directing",
+        "name": "Anya Adams",
+        "original_name": "Anya Adams",
+        "popularity": 0.1346,
+        "profile_path": "/tRfg1JVoNmtHb6pIcPUr8bqPXtr.jpg",
+        "credit_id": "65f30852470ead017e9fcb08",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "M18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "M"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "12"
+      }
+    ]
+  }
+}

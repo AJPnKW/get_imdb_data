@@ -1,0 +1,101 @@
+[
+  {
+    "air_date": "2009-10-25",
+    "episode_count": 42,
+    "id": 59533,
+    "name": "Specials",
+    "overview": "",
+    "poster_path": "/Ast1fRXfgqMPskoKVEQYPlCNA3w.jpg",
+    "season_number": 0,
+    "vote_average": 0.0,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/Ast1fRXfgqMPskoKVEQYPlCNA3w.jpg"
+  },
+  {
+    "air_date": "2006-10-01",
+    "episode_count": 12,
+    "id": 59499,
+    "name": "Season 1",
+    "overview": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
+    "poster_path": "/rmhoMEHK3ZP2EAXX2VpxuKpW3Bf.jpg",
+    "season_number": 1,
+    "vote_average": 8.2,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/rmhoMEHK3ZP2EAXX2VpxuKpW3Bf.jpg"
+  },
+  {
+    "air_date": "2007-09-30",
+    "episode_count": 12,
+    "id": 59500,
+    "name": "Season 2",
+    "overview": "In season two, the bodies of Dexter's victims are uncovered and an investigation is launched in Dexter's own department to find the killer, dubbed the \"Bay Harbor Butcher.\" Debra struggles to recover, and Rita sends Dexter to Narcotics Anonymous meetings when she suspects that he has an addiction. Sergeant James Doakes, stalks Dexter, suspecting that he is connected with the \"Ice Truck Killer\" killings.",
+    "poster_path": "/t8o6P0pTsnfgsUo6AXSuaiw9fgG.jpg",
+    "season_number": 2,
+    "vote_average": 8.2,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/t8o6P0pTsnfgsUo6AXSuaiw9fgG.jpg"
+  },
+  {
+    "air_date": "2008-09-28",
+    "episode_count": 12,
+    "id": 59502,
+    "name": "Season 3",
+    "overview": "After a runin with a man, Dexter initiates a friendship with his brother, Assistant District Attorney Miguel Prado. In the meantime, Rita discovers that she is pregnant, and Debra investigates the murders of a new serial killer, called \"The Skinner,\" hoping to gain a promotion to detective.",
+    "poster_path": "/8zyoh0AtArOyTq0F2USckRGzZEU.jpg",
+    "season_number": 3,
+    "vote_average": 7.9,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/8zyoh0AtArOyTq0F2USckRGzZEU.jpg"
+  },
+  {
+    "air_date": "2009-09-27",
+    "episode_count": 12,
+    "id": 59504,
+    "name": "Season 4",
+    "overview": "Dexter as a father and husband struggles to figure out how to survive for years to come. He seeks to learn from Arthur Mitchell, a serial killer and family man, who has murdered for over thirty years without being discovered.",
+    "poster_path": "/1Oh0QmXVTnyV9QqpDcEpvxtKYFw.jpg",
+    "season_number": 4,
+    "vote_average": 8.4,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/1Oh0QmXVTnyV9QqpDcEpvxtKYFw.jpg"
+  },
+  {
+    "air_date": "2010-09-26",
+    "episode_count": 12,
+    "id": 59506,
+    "name": "Season 5",
+    "overview": "In season five, Dexter comes to terms with the aftermath of the Season 4 finale, stopping a group of serial rapists and avoiding a corrupt cop who learns his deadly secret.",
+    "poster_path": "/sKDHRvdaHfhiYzCFCXQoo1TuHhb.jpg",
+    "season_number": 5,
+    "vote_average": 8.2,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/sKDHRvdaHfhiYzCFCXQoo1TuHhb.jpg"
+  },
+  {
+    "air_date": "2011-10-02",
+    "episode_count": 12,
+    "id": 59509,
+    "name": "Season 6",
+    "overview": "Season six follows Dexter's and Miami Metro's investigations into a string of bizarre ritualistic killings featuring overtly religious apocalyptic symbolism.",
+    "poster_path": "/yxylCqF28NttybWJvQtHztTdDKr.jpg",
+    "season_number": 6,
+    "vote_average": 7.8,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/yxylCqF28NttybWJvQtHztTdDKr.jpg"
+  },
+  {
+    "air_date": "2012-09-30",
+    "episode_count": 12,
+    "id": 59510,
+    "name": "Season 7",
+    "overview": "Season seven follows Dexter's tangles with a Ukrainian mob boss and introduces Hannah McKay, a mysterious widow with a green thumb and a checkered past.",
+    "poster_path": "/lM4EY2L324exlZ1hF2YpBM0a97J.jpg",
+    "season_number": 7,
+    "vote_average": 8.0,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/lM4EY2L324exlZ1hF2YpBM0a97J.jpg"
+  },
+  {
+    "air_date": "2013-06-30",
+    "episode_count": 12,
+    "id": 59512,
+    "name": "Season 8",
+    "overview": "As Deb struggles to deal with the consequences of her actions, a mysterious woman comes to work with Miami Metro, offering first-hand information on Dexter's past.",
+    "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+    "season_number": 8,
+    "vote_average": 7.0,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg"
+  }
+]

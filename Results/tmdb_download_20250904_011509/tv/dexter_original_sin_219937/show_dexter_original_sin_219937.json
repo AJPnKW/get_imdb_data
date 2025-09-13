@@ -1,0 +1,447 @@
+{
+  "adult": false,
+  "backdrop_path": "/jmcRdwSOb1Bo1snMtxTSWOqbvgR.jpg",
+  "created_by": [
+    {
+      "id": 1212409,
+      "credit_id": "6762958ea0cc3de647ffe6a7",
+      "name": "Clyde Phillips",
+      "original_name": "Clyde Phillips",
+      "gender": 2,
+      "profile_path": "/ue6gnd9FRbl5wKZ9yHVtWp6ra4y.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-12-15",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/shows/dexter-original-sin",
+  "id": 219937,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-16",
+  "last_episode_to_air": {
+    "id": 5714756,
+    "name": "Code Blues",
+    "overview": "Dexter races to find the missing kidnapped child before it's too late. Deb visits her godfather in the hospital and rethinks her future. Harry comes face-to-face with a serial killer... leading to a shocking result.",
+    "vote_average": 9.0,
+    "vote_count": 16,
+    "air_date": "2025-02-16",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 219937,
+    "still_path": "/oQv6EFPLSG3j5PHr9xy852Nq7rq.jpg"
+  },
+  "name": "Dexter: Original Sin",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6631,
+      "logo_path": "/zFEsDBjBEj5OiM0FDRYY1NnG7a9.png",
+      "name": "Paramount+ with Showtime",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dexter: Original Sin",
+  "overview": "In 1991 Miami, Dexter Morgan transitions from student to avenging serial killer. When his bloodthirsty urges can't be ignored any longer, Dexter must learn to channel his inner darkness. With the guidance of his father, Harry, he adopts a Code designed to help him find and kill people who deserve to be eliminated from society without getting on law enforcements' radar. This is a particular challenge for young Dexter as he begins a forensics internship at the Miami Metro Police Department.",
+  "popularity": 13.4251,
+  "poster_path": "/j5bP7spdfS0NpDLKDlqJYyJPi1j.jpg",
+  "production_companies": [
+    {
+      "id": 238896,
+      "logo_path": null,
+      "name": "Counterpart Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 238897,
+      "logo_path": null,
+      "name": "Showtime Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 17595,
+      "logo_path": null,
+      "name": "Clyde Phillips Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 247697,
+      "logo_path": null,
+      "name": "Sal Centric",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-12-14",
+      "episode_count": 10,
+      "id": 327790,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bdWD2QHLISAQFR47Mdtpn3MwnGi.jpg",
+      "season_number": 1,
+      "vote_average": 8.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "They're catching killers. He's about to become one.",
+  "type": "Scripted",
+  "vote_average": 8.238,
+  "vote_count": 280,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379407,
+        "known_for_department": "Acting",
+        "name": "Patrick Gibson",
+        "original_name": "Patrick Gibson",
+        "popularity": 1.1262,
+        "profile_path": "/1pCUKn2BqJJB5IuktEZGgYw6hbt.jpg",
+        "character": "Dexter Morgan",
+        "credit_id": "664f4e272bff5bec4182b6e4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224,
+        "known_for_department": "Acting",
+        "name": "Christian Slater",
+        "original_name": "Christian Slater",
+        "popularity": 1.9766,
+        "profile_path": "/6ww3uweEEXMlvtNjTlgBHxLErPF.jpg",
+        "character": "Harry Morgan",
+        "credit_id": "664f4e32ad75b870a44f830a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1877932,
+        "known_for_department": "Acting",
+        "name": "Molly Brown",
+        "original_name": "Molly Brown",
+        "popularity": 0.8761,
+        "profile_path": "/qB9WaA6ekkULwwiiNxcXUsdDi9q.jpg",
+        "character": "Debra Morgan",
+        "credit_id": "664f4e3e5cc84de27b9b052d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18352,
+        "known_for_department": "Acting",
+        "name": "Patrick Dempsey",
+        "original_name": "Patrick Dempsey",
+        "popularity": 1.8298,
+        "profile_path": "/2PpaYtXdaDmNi3jap4qPIdyVesL.jpg",
+        "character": "Aaron Spencer",
+        "credit_id": "66748aa89598e8951f4eb71c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37936,
+        "known_for_department": "Acting",
+        "name": "Christina Milian",
+        "original_name": "Christina Milian",
+        "popularity": 0.8478,
+        "profile_path": "/txRX0NtRekqLXCMfzvB6XREenZr.jpg",
+        "character": "Maria LaGuerta",
+        "credit_id": "6660648e2d254dd2c54f63d2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1448621,
+        "known_for_department": "Acting",
+        "name": "Alex Shimizu",
+        "original_name": "Alex Shimizu",
+        "popularity": 0.278,
+        "profile_path": "/qjMzGOfSGZ9tcVjznpDk5tTQdwF.jpg",
+        "character": "Vince Masuka",
+        "credit_id": "666064968fdc6d374bb74723",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104482,
+        "known_for_department": "Acting",
+        "name": "James Martinez",
+        "original_name": "James Martinez",
+        "popularity": 0.3049,
+        "profile_path": "/xWGHtcBUmNO9MBqoDHPtetQZ3k7.jpg",
+        "character": "Angel Batista",
+        "credit_id": "6660648655c1ff74a8691147",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117187,
+        "known_for_department": "Acting",
+        "name": "Reno Wilson",
+        "original_name": "Reno Wilson",
+        "popularity": 0.5778,
+        "profile_path": "/odYnlRblq5nQHqFgOAu5zPUJCde.jpg",
+        "character": "Bobby Watt",
+        "credit_id": "666064f1e1b697234d008364",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53820,
+        "known_for_department": "Acting",
+        "name": "Michael C. Hall",
+        "original_name": "Michael C. Hall",
+        "popularity": 3.348,
+        "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg",
+        "character": "Dexter's Inner Voice (voice)",
+        "credit_id": "66a488234c95813f070cc7cf",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252207,
+        "known_for_department": "Production",
+        "name": "Tony Hernandez",
+        "original_name": "Tony Hernandez",
+        "popularity": 0.0736,
+        "profile_path": "/t27d9MElkdjLnrGoEDXknUPoejj.jpg",
+        "credit_id": "664f4f1f82a2ffadf09b048c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53820,
+        "known_for_department": "Acting",
+        "name": "Michael C. Hall",
+        "original_name": "Michael C. Hall",
+        "popularity": 3.348,
+        "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg",
+        "credit_id": "664f4f0b8099a69b7418c8c0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1368020,
+        "known_for_department": "Writing",
+        "name": "Mary Leah Sutton",
+        "original_name": "Mary Leah Sutton",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "664f4f14898659cfd782b72c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212409,
+        "known_for_department": "Writing",
+        "name": "Clyde Phillips",
+        "original_name": "Clyde Phillips",
+        "popularity": 0.2808,
+        "profile_path": "/ue6gnd9FRbl5wKZ9yHVtWp6ra4y.jpg",
+        "credit_id": "664f4e73898659cfd782b723",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1252208,
+        "known_for_department": "Production",
+        "name": "Lilly Burns",
+        "original_name": "Lilly Burns",
+        "popularity": 0.0297,
+        "profile_path": null,
+        "credit_id": "664f4f30ff39eafbeacaed9e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223919,
+        "known_for_department": "Production",
+        "name": "Robert Lloyd Lewis",
+        "original_name": "Robert Lloyd Lewis",
+        "popularity": 0.1306,
+        "profile_path": null,
+        "credit_id": "664f4f3c898659cfd782b730",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223911,
+        "known_for_department": "Writing",
+        "name": "Scott Reynolds",
+        "original_name": "Scott Reynolds",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "664f4f01dd7f58f659953fff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223737,
+        "known_for_department": "Writing",
+        "name": "James Manos Jr.",
+        "original_name": "James Manos Jr.",
+        "popularity": 0.2965,
+        "profile_path": "/iFPjg94U6LFZnp6oaN1Twift0Hn.jpg",
+        "credit_id": "6762940367c96321804a23f6",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52160,
+        "known_for_department": "Production",
+        "name": "John Goldwyn",
+        "original_name": "John Goldwyn",
+        "popularity": 0.1406,
+        "profile_path": "/sKcukctjmlltKGujIBDrIZ4zPf9.jpg",
+        "credit_id": "67629448cc2b6d9fccaaf74a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 949179,
+        "known_for_department": "Production",
+        "name": "Sara Colleton",
+        "original_name": "Sara Colleton",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "credit_id": "6762946d161ab7dec5ffe286",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223918,
+        "known_for_department": "Writing",
+        "name": "Jeff Lindsay",
+        "original_name": "Jeff Lindsay",
+        "popularity": 0.0445,
+        "profile_path": "/eKe6NuZfCqik9AyMvjdedE1skz4.jpg",
+        "credit_id": "6884636b3628225df7d9a983",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "C"
+      },
+      {
+        "descriptors": [
+          "Violence",
+          "Injury"
+        ],
+        "iso_3166_1": "DE",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IL",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "19"
+      }
+    ]
+  }
+}

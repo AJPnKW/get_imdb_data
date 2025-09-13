@@ -1,0 +1,383 @@
+{
+  "adult": false,
+  "backdrop_path": "/8J0SjKToFBbg8dKpocVOCsrC77C.jpg",
+  "created_by": [
+    {
+      "id": 1212409,
+      "credit_id": "67bdd41976904c59c85e9f6c",
+      "name": "Clyde Phillips",
+      "original_name": "Clyde Phillips",
+      "gender": 2,
+      "profile_path": "/ue6gnd9FRbl5wKZ9yHVtWp6ra4y.jpg"
+    }
+  ],
+  "episode_run_time": [
+    53
+  ],
+  "first_air_date": "2025-07-13",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/shows/dexter-resurrection/",
+  "id": 259909,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-08-31",
+  "last_episode_to_air": {
+    "id": 6201599,
+    "name": "Touched by an Ángel",
+    "overview": "Prater and Charley's revelation forces Dexter to go to extreme lengths.",
+    "vote_average": 8.571,
+    "vote_count": 7,
+    "air_date": "2025-08-31",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 1,
+    "show_id": 259909,
+    "still_path": "/35X0k5JHwJtehW37ELaVWOHGbb0.jpg"
+  },
+  "name": "Dexter: Resurrection",
+  "next_episode_to_air": {
+    "id": 6201600,
+    "name": "And Justice for All…",
+    "overview": "Charley's allegiance to Prater is pushed to its limit, forcing him to make a choice. Dexter and Harrison find themselves in a final confrontation, facing the consequences of their darkness. Season finale.",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-09-07",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 259909,
+    "still_path": "/WTBlw7Sq76wFABHwMbnxZJuZTn.jpg"
+  },
+  "networks": [
+    {
+      "id": 6631,
+      "logo_path": "/zFEsDBjBEj5OiM0FDRYY1NnG7a9.png",
+      "name": "Paramount+ with Showtime",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dexter: Resurrection",
+  "overview": "Dexter Morgan awakens from a coma to find Harrison gone without a trace. Realizing the weight of what he put his son through, Dexter sets out for New York City, determined to find him and make things right. But closure won't come easy. When Miami Metro's Angel Batista arrives with questions, Dexter realizes his past is catching up to him fast. As father and son navigate their own darkness in the city that never sleeps, they soon find themselves deeper than they ever imagined - and that the only way out is together.",
+  "popularity": 88.9511,
+  "poster_path": "/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+  "production_companies": [
+    {
+      "id": 17595,
+      "logo_path": null,
+      "name": "Clyde Phillips Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 247697,
+      "logo_path": null,
+      "name": "Sal Centric",
+      "origin_country": ""
+    },
+    {
+      "id": 238896,
+      "logo_path": null,
+      "name": "Counterpart Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 238897,
+      "logo_path": null,
+      "name": "Showtime Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-07-13",
+      "episode_count": 10,
+      "id": 403778,
+      "name": "Season 1",
+      "overview": "Set a few weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "poster_path": "/hRD9kvYLbySRvtt9Nh7QK6XECZX.jpg",
+      "season_number": 1,
+      "vote_average": 8.8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "He's alive & killing it.",
+  "type": "Scripted",
+  "vote_average": 8.9,
+  "vote_count": 178,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53820,
+        "known_for_department": "Acting",
+        "name": "Michael C. Hall",
+        "original_name": "Michael C. Hall",
+        "popularity": 3.3514,
+        "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg",
+        "character": "Dexter Morgan",
+        "credit_id": "66a48907ed72580c2bad69ce",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2638213,
+        "known_for_department": "Acting",
+        "name": "Jack Alcott",
+        "original_name": "Jack Alcott",
+        "popularity": 1.5017,
+        "profile_path": "/jJEcVQx10KNASfMmwGE9KPRQW8u.jpg",
+        "character": "Harrison Morgan",
+        "credit_id": "677d7e6c25e0e91c57754b7a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1736,
+        "known_for_department": "Acting",
+        "name": "James Remar",
+        "original_name": "James Remar",
+        "popularity": 2.3626,
+        "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg",
+        "character": "Harry Morgan",
+        "credit_id": "677d7e8155d4b38f936767a1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22821,
+        "known_for_department": "Acting",
+        "name": "David Zayas",
+        "original_name": "David Zayas",
+        "popularity": 2.4151,
+        "profile_path": "/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg",
+        "character": "Angel Batista",
+        "credit_id": "677d7e5855d4b38f93676785",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 139,
+        "known_for_department": "Acting",
+        "name": "Uma Thurman",
+        "original_name": "Uma Thurman",
+        "popularity": 4.2307,
+        "profile_path": "/sBgAZWi3o4FsnaTvnTNtK6jpQcF.jpg",
+        "character": "Charley",
+        "credit_id": "678fefb98385321bcdf086ae",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22970,
+        "known_for_department": "Acting",
+        "name": "Peter Dinklage",
+        "original_name": "Peter Dinklage",
+        "popularity": 3.1127,
+        "profile_path": "/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg",
+        "character": "Leon Prater",
+        "credit_id": "68a8c3c879e32ab66d9da520",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16760,
+        "known_for_department": "Acting",
+        "name": "Ntare Guma Mbaho Mwine",
+        "original_name": "Ntare Guma Mbaho Mwine",
+        "popularity": 0.5576,
+        "profile_path": "/nmwMBGmrqVgeAOdWJJJJi9A2l7C.jpg",
+        "character": "Blessing Kamara",
+        "credit_id": "67ae71d0edf4b566e6d0c779",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3280981,
+        "known_for_department": "Acting",
+        "name": "Kadia Saraf",
+        "original_name": "Kadia Saraf",
+        "popularity": 1.6104,
+        "profile_path": "/lHaOGTMcq4SQeaHxC2BSeAwony9.jpg",
+        "character": "Claudette Wallace",
+        "credit_id": "67ae71e641483dd5ccd0d88b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154784,
+        "known_for_department": "Acting",
+        "name": "Dominic Fumusa",
+        "original_name": "Dominic Fumusa",
+        "popularity": 0.6973,
+        "profile_path": "/1wgHvqNM0LisAhkInYDD9JIGPJ0.jpg",
+        "character": "Melvin Oliva",
+        "credit_id": "67ae71fa41483dd5ccd0d89e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3458685,
+        "known_for_department": "Acting",
+        "name": "Emilia Suárez",
+        "original_name": "Emilia Suárez",
+        "popularity": 0.2502,
+        "profile_path": "/o2jgZz18J0sNAqfMnN1ufXh08nU.jpg",
+        "character": "Elsa Rivera",
+        "credit_id": "67ae72098c5579ba6e370a6c",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53820,
+        "known_for_department": "Acting",
+        "name": "Michael C. Hall",
+        "original_name": "Michael C. Hall",
+        "popularity": 3.3514,
+        "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg",
+        "credit_id": "66a4898ed8a52d72cf87cbb1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212409,
+        "known_for_department": "Writing",
+        "name": "Clyde Phillips",
+        "original_name": "Clyde Phillips",
+        "popularity": 0.2751,
+        "profile_path": "/ue6gnd9FRbl5wKZ9yHVtWp6ra4y.jpg",
+        "credit_id": "66a4898578615a9e092262d9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223918,
+        "known_for_department": "Writing",
+        "name": "Jeff Lindsay",
+        "original_name": "Jeff Lindsay",
+        "popularity": 0.0557,
+        "profile_path": "/eKe6NuZfCqik9AyMvjdedE1skz4.jpg",
+        "credit_id": "68846397a231441fb516bc4e",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "C"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IT",
+        "rating": "VM18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "18"
+      }
+    ]
+  }
+}

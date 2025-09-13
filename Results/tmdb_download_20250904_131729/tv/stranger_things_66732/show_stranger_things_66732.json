@@ -1,0 +1,1018 @@
+{
+  "adult": false,
+  "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+  "created_by": [
+    {
+      "id": 1179422,
+      "credit_id": "57599b039251410a99001cce",
+      "name": "Ross Duffer",
+      "original_name": "Ross Duffer",
+      "gender": 2,
+      "profile_path": "/kN1HdFViQkcJOQlNcvvFJIx9Uju.jpg"
+    },
+    {
+      "id": 1179419,
+      "credit_id": "57599b0e925141378a002c87",
+      "name": "Matt Duffer",
+      "original_name": "Matt Duffer",
+      "gender": 2,
+      "profile_path": "/kXO5CnSxC0znMAICGxnPeuGP73U.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2016-07-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80057281",
+  "id": 66732,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-07-01",
+  "last_episode_to_air": {
+    "id": 3325045,
+    "name": "Chapter Nine: The Piggyback",
+    "overview": "With selfless hearts and a clash of metal, heroes fight from every corner of the battlefield to save Hawkins — and the world itself.",
+    "vote_average": 8.586,
+    "vote_count": 185,
+    "air_date": "2022-07-01",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 143,
+    "season_number": 4,
+    "show_id": 66732,
+    "still_path": "/jQeh2GYSQ4QxHkkBJ1LC2hPzfNm.jpg"
+  },
+  "name": "Stranger Things",
+  "next_episode_to_air": {
+    "id": 5477828,
+    "name": "Chapter One: The Crawl",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-11-26",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 66732,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 42,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Stranger Things",
+  "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+  "popularity": 70.7513,
+  "poster_path": "/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "production_companies": [
+    {
+      "id": 2575,
+      "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+      "name": "21 Laps Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 170090,
+      "logo_path": null,
+      "name": "Monkey Massacre Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 184664,
+      "logo_path": "/9D9Dh4qT6vfyyGz5tp1PNx7E08y.png",
+      "name": "Upside Down Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-07-15",
+      "episode_count": 8,
+      "id": 77680,
+      "name": "Season 1",
+      "overview": "Strange things are afoot in Hawkins, Indiana, where a young boy's sudden disappearance unearths a young girl with otherworldly powers.",
+      "poster_path": "/hb4KmdA4F1XMnf0vVjevPKKBEjV.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2017-10-27",
+      "episode_count": 9,
+      "id": 83248,
+      "name": "Stranger Things 2",
+      "overview": "It's been nearly a year since Will's strange disappearance. But life's hardly back to normal in Hawkins. Not even close.",
+      "poster_path": "/74nFJmiapxKuUBXRbSu6VqGGcuo.jpg",
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2019-07-04",
+      "episode_count": 8,
+      "id": 115216,
+      "name": "Stranger Things 3",
+      "overview": "Budding romance. A brand-new mall. And rabid rats running toward danger. It's the summer of 1985 in Hawkins ... and one summer can change everything.",
+      "poster_path": "/sDms9g40ZBhjMIfX9YqqaqId8sK.jpg",
+      "season_number": 3,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2022-05-27",
+      "episode_count": 9,
+      "id": 163313,
+      "name": "Stranger Things 4",
+      "overview": "Darkness returns to Hawkins just in time for spring break, igniting fresh terror, disturbing memories — and an ominous new threat.",
+      "poster_path": "/5xiUqrCFgT6wU2KzynZMu5CXkM6.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2025-11-26",
+      "episode_count": 8,
+      "id": 402292,
+      "name": "Stranger Things 5",
+      "overview": "Hawkins is scarred by the opening of the Rifts, and our heroes are united by a single goal: find and kill Vecna. But he has vanished — his whereabouts and plans unknown. Complicating their mission, the government has placed the town under military quarantine and intensified its hunt for Eleven, forcing her back into hiding. As the anniversary of Will's disappearance approaches, so does a heavy, familiar dread. The final battle is looming — and with it, a darkness more powerful and more deadly than anything they've faced before. To end this nightmare, they'll need everyone — the full party — standing together, one last time.",
+      "poster_path": "/gPQRpAwN1yzGL1CqSVDdLH7DoG4.jpg",
+      "season_number": 5,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "One last adventure.",
+  "type": "Scripted",
+  "vote_average": 8.596,
+  "vote_count": 18673,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1356210,
+        "known_for_department": "Acting",
+        "name": "Millie Bobby Brown",
+        "original_name": "Millie Bobby Brown",
+        "popularity": 3.2549,
+        "profile_path": "/xbcHTGvYAhJSVT9hwAS54055aHc.jpg",
+        "character": "Jane 'Eleven' Hopper",
+        "credit_id": "579f8d3092514178bf003120",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1442069,
+        "known_for_department": "Acting",
+        "name": "Finn Wolfhard",
+        "original_name": "Finn Wolfhard",
+        "popularity": 2.2624,
+        "profile_path": "/5OVmquAk0W5BIsRlVKslEP497JD.jpg",
+        "character": "Mike Wheeler",
+        "credit_id": "5759b9909251416bab0002c4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653291,
+        "known_for_department": "Acting",
+        "name": "Gaten Matarazzo",
+        "original_name": "Gaten Matarazzo",
+        "popularity": 1.5494,
+        "profile_path": "/sUHpObjk9EkRVfpAY0auTZj3xx5.jpg",
+        "character": "Dustin Henderson",
+        "credit_id": "57a49317c3a36865ed000ee2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1474123,
+        "known_for_department": "Acting",
+        "name": "Caleb McLaughlin",
+        "original_name": "Caleb McLaughlin",
+        "popularity": 1.2553,
+        "profile_path": "/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg",
+        "character": "Lucas Sinclair",
+        "credit_id": "57a4932f9251411765000c50",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1590797,
+        "known_for_department": "Acting",
+        "name": "Sadie Sink",
+        "original_name": "Sadie Sink",
+        "popularity": 2.7167,
+        "profile_path": "/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg",
+        "character": "Max Mayfield",
+        "credit_id": "5a036004c3a3686391020cb3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35029,
+        "known_for_department": "Acting",
+        "name": "David Harbour",
+        "original_name": "David Harbour",
+        "popularity": 1.8016,
+        "profile_path": "/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg",
+        "character": "Jim Hopper",
+        "credit_id": "5759b986c3a3683e7c003967",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1920,
+        "known_for_department": "Acting",
+        "name": "Winona Ryder",
+        "original_name": "Winona Ryder",
+        "popularity": 2.994,
+        "profile_path": "/dlffgYbqr1BllWacVLhAFw23nLl.jpg",
+        "character": "Joyce Byers",
+        "credit_id": "5759b97bc3a3684ea90029c1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1039011,
+        "known_for_department": "Acting",
+        "name": "Natalia Dyer",
+        "original_name": "Natalia Dyer",
+        "popularity": 1.2366,
+        "profile_path": "/w4nRFdEFpf3rAJsVgozJYzKc6vK.jpg",
+        "character": "Nancy Wheeler",
+        "credit_id": "5759b9a8c3a3683e9d0037d3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1467219,
+        "known_for_department": "Acting",
+        "name": "Joe Keery",
+        "original_name": "Joe Keery",
+        "popularity": 2.0841,
+        "profile_path": "/8B45gAoJx4OvrYqCWid51MBXfeK.jpg",
+        "character": "Steve Harrington",
+        "credit_id": "5759b9d89251410a9900213e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1448222,
+        "known_for_department": "Acting",
+        "name": "Charlie Heaton",
+        "original_name": "Charlie Heaton",
+        "popularity": 1.1344,
+        "profile_path": "/8Se6WZuvRmoB990bT29OPgVAyBo.jpg",
+        "character": "Jonathan Byers",
+        "credit_id": "5759b9b8c3a3684ea90029cf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1903874,
+        "known_for_department": "Acting",
+        "name": "Maya Hawke",
+        "original_name": "Maya Hawke",
+        "popularity": 1.7049,
+        "profile_path": "/abroQsos8bGN0ATm8j05z2THoOw.jpg",
+        "character": "Robin Buckley",
+        "credit_id": "5a9c029092514128be030605",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 224197,
+        "known_for_department": "Acting",
+        "name": "Brett Gelman",
+        "original_name": "Brett Gelman",
+        "popularity": 0.9086,
+        "profile_path": "/ub2IuMWFNQGYghHTPq0lpmn2Ue0.jpg",
+        "character": "Murray Bauman",
+        "credit_id": "5d257896e24e3a00112be743",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 781,
+        "known_for_department": "Acting",
+        "name": "Paul Reiser",
+        "original_name": "Paul Reiser",
+        "popularity": 0.9038,
+        "profile_path": "/rGryzG00uSk8LsidacSBXVgo3iv.jpg",
+        "character": "Sam Owens",
+        "credit_id": "5d25a3a969d2802c6e006eb3",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83356,
+        "known_for_department": "Acting",
+        "name": "Jamie Campbell Bower",
+        "original_name": "Jamie Campbell Bower",
+        "popularity": 1.4158,
+        "profile_path": "/jVAkrPb3lNHZLerfzVxTzh170L7.jpg",
+        "character": "Henry Creel",
+        "credit_id": "66eb07e0b2917eb1800bc695",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8654,
+        "known_for_department": "Acting",
+        "name": "Matthew Modine",
+        "original_name": "Matthew Modine",
+        "popularity": 1.6753,
+        "profile_path": "/z974QEHL12qUvLyk6hlWGAmDgom.jpg",
+        "character": "Martin Brenner",
+        "credit_id": "5759b9c4c3a3683e7c003977",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2150480,
+        "known_for_department": "Directing",
+        "name": "Justin Bischoff",
+        "original_name": "Justin Bischoff",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "credit_id": "67bb6d8ab7c35459adbeedd3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3811080,
+        "known_for_department": "Visual Effects",
+        "name": "Victor Van De Velde",
+        "original_name": "Victor Van De Velde",
+        "popularity": 0.0363,
+        "profile_path": "/s0ITdqk7WVjo1uxlSLzMG8gNTIG.jpg",
+        "credit_id": "67725dac05c46ab3fc92a325",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3511930,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nix Herrera",
+        "original_name": "Nix Herrera",
+        "popularity": 0.077,
+        "profile_path": "/9UzkXCe2fTudGfyNDjXdJTQHDDk.jpg",
+        "credit_id": "661572468ee0a90165a48541",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2256001,
+        "known_for_department": "Crew",
+        "name": "Maciej Kubica",
+        "original_name": "Maciej Kubica",
+        "popularity": 0.0933,
+        "profile_path": "/cikpIcudWdwprIl7qT1mQ3kCg1y.jpg",
+        "credit_id": "65a1d912d4fe0401223c551f",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1685634,
+        "known_for_department": "Crew",
+        "name": "Joshua Kohl Hegmann",
+        "original_name": "Joshua Kohl Hegmann",
+        "popularity": 0.0256,
+        "profile_path": null,
+        "credit_id": "629765c9a44d095276df5f3e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2387486,
+        "known_for_department": "Production",
+        "name": "Emily Morris",
+        "original_name": "Emily Morris",
+        "popularity": 0.1513,
+        "profile_path": null,
+        "credit_id": "629765961e9225009cdf851f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1228522,
+        "known_for_department": "Directing",
+        "name": "Richard Denault",
+        "original_name": "Richard Denault",
+        "popularity": 0.1023,
+        "profile_path": null,
+        "credit_id": "62976585ca83541354701911",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937878,
+        "known_for_department": "Writing",
+        "name": "Curtis Gwinn",
+        "original_name": "Curtis Gwinn",
+        "popularity": 0.1603,
+        "profile_path": "/1jciurTIeGHlkHZt3qAU89JU4ld.jpg",
+        "credit_id": "62975f42d48cee2c4633a379",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1708858,
+        "known_for_department": "Visual Effects",
+        "name": "Terron Pratt",
+        "original_name": "Terron Pratt",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "6297663c1e9225009cdf86a0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1762796,
+        "known_for_department": "Directing",
+        "name": "Tudor Jones",
+        "original_name": "Tudor Jones",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "credit_id": "6297656e1e9225004f7d875b",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113659,
+        "known_for_department": "Production",
+        "name": "Lampton Enochs",
+        "original_name": "Lampton Enochs",
+        "popularity": 0.1019,
+        "profile_path": null,
+        "credit_id": "62976552cddbbc130eef3df0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3153656,
+        "known_for_department": "Art",
+        "name": "Mike Maher",
+        "original_name": "Mike Maher",
+        "popularity": 0.102,
+        "profile_path": null,
+        "credit_id": "6297660a5507e914925ed80e",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 573297,
+        "known_for_department": "Crew",
+        "name": "Lea Prainsack",
+        "original_name": "Lea Prainsack",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "629766455507e914925ed871",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2028802,
+        "known_for_department": "Art",
+        "name": "John Snow",
+        "original_name": "John Snow",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "62938a5c5a46900067c805f3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1824567,
+        "known_for_department": "Sound",
+        "name": "Nora Felder",
+        "original_name": "Nora Felder",
+        "popularity": 0.1354,
+        "profile_path": null,
+        "credit_id": "629764fda44d095276df5d09",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2025119,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amy Parris",
+        "original_name": "Amy Parris",
+        "popularity": 0.1388,
+        "profile_path": null,
+        "credit_id": "629764b3a44d095274c3e4a8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1887703,
+        "known_for_department": "Production",
+        "name": "Paula Kramer",
+        "original_name": "Paula Kramer",
+        "popularity": 0.1762,
+        "profile_path": null,
+        "credit_id": "6297605acddbbc130cc3e27e",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64723,
+        "known_for_department": "Production",
+        "name": "Iain Paterson",
+        "original_name": "Iain Paterson",
+        "popularity": 0.0752,
+        "profile_path": null,
+        "credit_id": "644d8baf9affc00546df9556",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1423257,
+        "known_for_department": "Art",
+        "name": "Sean Brennan",
+        "original_name": "Sean Brennan",
+        "popularity": 0.0956,
+        "profile_path": null,
+        "credit_id": "629762d6f8e98225613cc364",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1448743,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amy L. Forsythe",
+        "original_name": "Amy L. Forsythe",
+        "popularity": 0.1557,
+        "profile_path": null,
+        "credit_id": "57eac2469251410d5f000059",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 966560,
+        "known_for_department": "Art",
+        "name": "Chris Trujillo",
+        "original_name": "Chris Trujillo",
+        "popularity": 0.1212,
+        "profile_path": null,
+        "credit_id": "57eac1fb9251410d63000029",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025043,
+        "known_for_department": "Production",
+        "name": "Rand Geiger",
+        "original_name": "Rand Geiger",
+        "popularity": 0.3731,
+        "profile_path": null,
+        "credit_id": "59fca6afc3a3681aa5032812",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1533587,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sarah Hindsgaul",
+        "original_name": "Sarah Hindsgaul",
+        "popularity": 0.2114,
+        "profile_path": "/mBiQtZV33h0BW98ERjQpwXuEJ40.jpg",
+        "credit_id": "6297639ed48cee2c45c3bb68",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2225636,
+        "known_for_department": "Sound",
+        "name": "Michael Stein",
+        "original_name": "Michael Stein",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "60a81e21d55e4d003f146125",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1685626,
+        "known_for_department": "Sound",
+        "name": "Kyle Dixon",
+        "original_name": "Kyle Dixon",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "60a81e185541fa006df080d3",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1718785,
+        "known_for_department": "Production",
+        "name": "Dan Cohen",
+        "original_name": "Dan Cohen",
+        "popularity": 0.1663,
+        "profile_path": "/41OIfhCF9WTknhygke5sUioUe9R.jpg",
+        "credit_id": "62975f53d48cee2c45c3b031",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179422,
+        "known_for_department": "Writing",
+        "name": "Ross Duffer",
+        "original_name": "Ross Duffer",
+        "popularity": 0.4448,
+        "profile_path": "/kN1HdFViQkcJOQlNcvvFJIx9Uju.jpg",
+        "credit_id": "59fcad9bc3a3681a3f02c2a4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17825,
+        "known_for_department": "Directing",
+        "name": "Shawn Levy",
+        "original_name": "Shawn Levy",
+        "popularity": 1.5958,
+        "profile_path": "/oxj7TgUY5bbj0wE838MCobWrak1.jpg",
+        "credit_id": "59fcae48c3a3681a1b032109",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179419,
+        "known_for_department": "Writing",
+        "name": "Matt Duffer",
+        "original_name": "Matt Duffer",
+        "popularity": 0.3222,
+        "profile_path": "/kXO5CnSxC0znMAICGxnPeuGP73U.jpg",
+        "credit_id": "59fcac1992514113a602e2f6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1729244,
+        "known_for_department": "Production",
+        "name": "Diego Garzon",
+        "original_name": "Diego Garzon",
+        "popularity": 0.0992,
+        "profile_path": null,
+        "credit_id": "59553f6ac3a368382e037222",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230436,
+        "known_for_department": "Production",
+        "name": "Barbara Harris",
+        "original_name": "Barbara Harris",
+        "popularity": 0.5512,
+        "profile_path": "/d1BGeZT2b81Wa9gCOPdrXGWUtmR.jpg",
+        "credit_id": "6463608ba672540185894a9e",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 51922,
+        "known_for_department": "Production",
+        "name": "Carmen Cuba",
+        "original_name": "Carmen Cuba",
+        "popularity": 0.3445,
+        "profile_path": "/994fHTwOhrpvO8mnroGaGHZ2s11.jpg",
+        "credit_id": "57eac1ed9251410d6600003e",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1285825,
+        "known_for_department": "Art",
+        "name": "Jess Royal",
+        "original_name": "Jess Royal",
+        "popularity": 1.0124,
+        "profile_path": null,
+        "credit_id": "57eac21a9251410bfc000043",
+        "department": "Art",
+        "job": "Set Decoration"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "16+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "NC16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IN",
+        "rating": "U/A 16+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GR",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PR",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "VI",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "NR"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "HU",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CZ",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "AP"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AR",
+        "rating": "SAM 16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BG",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FI",
+        "rating": "K16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MA",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NZ",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "UA",
+        "rating": "16+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ZA",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "13+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TW",
+        "rating": "15+"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt4574334",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 305288,
+    "tvrage_id": 48493,
+    "wikidata_id": "Q19798734",
+    "facebook_id": "StrangerThingsTV",
+    "instagram_id": "strangerthingstv",
+    "twitter_id": "Stranger_Things"
+  },
+  "_poster_url": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "_backdrop_url": "https://image.tmdb.org/t/p/w780/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+  "_providers": {
+    "providers_flatrate_CA": "Netflix|Netflix Standard with Ads",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "",
+    "providers_ads_CA": "",
+    "providers_link_CA": "https://www.themoviedb.org/tv/66732-stranger-things/watch?locale=CA"
+  }
+}

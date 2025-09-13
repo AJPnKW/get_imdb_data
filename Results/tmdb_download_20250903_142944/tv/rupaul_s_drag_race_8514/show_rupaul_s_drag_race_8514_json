@@ -1,0 +1,514 @@
+{
+  "adult": false,
+  "backdrop_path": "/hEtBwhqAzHKihQ1H9QD2kj8bJ5.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "5ed62a3cc4f552001fc001de",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "id": 16957,
+      "credit_id": "68620339fa5639a97c7b4e50",
+      "name": "Fenton Bailey",
+      "original_name": "Fenton Bailey",
+      "gender": 2,
+      "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg"
+    },
+    {
+      "id": 16958,
+      "credit_id": "6862033eb7b72c94828e0df9",
+      "name": "Randy Barbato",
+      "original_name": "Randy Barbato",
+      "gender": 2,
+      "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2009-02-02",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.mtv.com/shows/rupauls-drag-race",
+  "id": 8514,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-18",
+  "last_episode_to_air": {
+    "id": 5813447,
+    "name": "Grand Finale",
+    "overview": "The top queens face off in an epic evening of performances and lip syncs as they compete for a grand prize of $200,000. Superstar Liza Minnelli joins RuPaul on stage.",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "air_date": "2025-04-18",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 17,
+    "show_id": 8514,
+    "still_path": "/l5fa4Wy9pgUUyJ0cS7JTI4ORPHn.jpg"
+  },
+  "name": "RuPaul's Drag Race",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 33,
+      "logo_path": "/w4qtv7xBkSVsbOQdSzjUjlyOuSr.png",
+      "name": "MTV",
+      "origin_country": "US"
+    },
+    {
+      "id": 62,
+      "logo_path": "/ztSNqnJ8W1GOYfa3525xFBDb3NY.png",
+      "name": "Logo",
+      "origin_country": "US"
+    },
+    {
+      "id": 158,
+      "logo_path": "/w9oUxxUiXTC1O1MzJSvsMjQbgft.png",
+      "name": "VH1",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 239,
+  "number_of_seasons": 18,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race",
+  "overview": "Join RuPaul, the world's most famous drag queen, as the host, mentor and judge for the ultimate in drag queen competitions. The top drag queens in the U.S. will vie for drag stardom as RuPaul, in full glamazon drag, will reign supreme in all judging and eliminations while helping guide the contestants as they prepare for each challenge.",
+  "popularity": 31.6065,
+  "poster_path": "/lgJvUN66DXJZyZjfYzbkwMAi1iI.jpg",
+  "production_companies": [
+    {
+      "id": 1421,
+      "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+      "name": "World of Wonder",
+      "origin_country": "US"
+    },
+    {
+      "id": 6329,
+      "logo_path": "/4lZJiVHPClma8YB9hXodraFXSwi.png",
+      "name": "MTV Entertainment Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-11-13",
+      "episode_count": 39,
+      "id": 18416,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/2Gi31HSneDVeKF0Ot0mANWms6Kv.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2009-02-02",
+      "episode_count": 9,
+      "id": 18411,
+      "name": "Season 1",
+      "overview": "Nine contestants were selected to compete in the running of becoming \"America's Next Drag Superstar\". The winner of the first season won the following prizes: a lifetime supply of MAC Cosmetics, be featured an LA Eyeworks campaign, join the Logo Drag Race tour, and a cash prize of $20,000.",
+      "poster_path": "/cGDMm6qIujyvADyYDsbTtaRWJv.jpg",
+      "season_number": 1,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2010-02-01",
+      "episode_count": 12,
+      "id": 18412,
+      "name": "Season 2",
+      "overview": "For season two, the number of contestants was increased from nine to twelve, and the prizes were slightly modified: a lifetime supply of Nyx Cosmetics and be the face of nyxcosmetics.com, an exclusive one year public relations contract with LGBT firm Project Publicity, be featured an LA Eyeworks campaign, join the Logo Drag Race tour, and a cash prize of $25,000.",
+      "poster_path": "/ejy05NVupvoOm1YaaqJCK0TGVX8.jpg",
+      "season_number": 2,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2011-01-24",
+      "episode_count": 16,
+      "id": 18413,
+      "name": "Season 3",
+      "overview": "The third season of RuPaul's Drag Race began airing on January 24, 2011. Thirteen drag queens competed for the title of \"America's Next Drag Superstar\", a headlining spot on the Absolut Tour, a lifetime supply of Kryolan makeup, and a cash prize of $75,000.\n\nThis season saw Michelle Visage replacing Merle Ginsberg at the judge's table and Billy B., Mike Ruiz, and Jeffrey Moran filling in for Santino Rice's absence during several episodes.",
+      "poster_path": "/skuRDaRlOwVQhkfpVD0EJVaIPbK.jpg",
+      "season_number": 3,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2012-01-30",
+      "episode_count": 14,
+      "id": 18414,
+      "name": "Season 4",
+      "overview": "The winner of season four will headline Logo's Drag Race Tour featuring Absolut Vodka, wins a one-of-a-kind trip, a lifetime supply of NYX Cosmetics, a cash prize of $100,000, and the title of \"America's Next Drag Superstar.\"",
+      "poster_path": "/tE1NWQMBiUdl7EjvMRYxNXHg1G.jpg",
+      "season_number": 4,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2013-01-28",
+      "episode_count": 14,
+      "id": 18415,
+      "name": "Season 5",
+      "overview": "The fifth season of RuPaul's Drag Race began airing on January 28, 2013, with a 90-minute premiere episode. The winner of season five headlined Logo's Drag Race Tour featuring Absolut Vodka, won a one-of-a-kind trip, a lifetime supply of Colorevolution Cosmetics, and a cash prize of $100,000.",
+      "poster_path": "/mRiKVOY6NMZlvxSTcYbarO7MJR8.jpg",
+      "season_number": 5,
+      "vote_average": 6.0
+    },
+    {
+      "air_date": "2014-02-24",
+      "episode_count": 14,
+      "id": 73885,
+      "name": "Season 6",
+      "overview": "Just when you thought you knew what to expect from RuPaul’s Drag Race, along comes the ferociously fabulous and funny Season Six, with enough tricks up its silk chiffon sleeve to keep you on your painted toes! This crop of queens is our most diverse yet, from seasoned pros, to an international drag star, to a former American Idol contestant, and even some fresh-faced ingénue queens who were inspired to be drag performers by watching Season One of RuPaul’s Drag Race! That’s one leggy legacy. Have we mentioned that these boys are hot? Because they are. Have we mentioned they make even hotter women? Because they do.",
+      "poster_path": "/u8fN42R2sgxRGqNyBFj17GO3Hxa.jpg",
+      "season_number": 6,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2015-03-02",
+      "episode_count": 14,
+      "id": 65178,
+      "name": "Season 7",
+      "overview": "​​​RuPaul's Drag Race returns with a court of queens so ingenious, a competition so unpredictable and a judges' panel so packed with talent, you'll be seeing stars It's all the artistry, all the humanity and all the head-turning twists you love but if you think you know this Race, honey, you have no idea.​​",
+      "poster_path": "/45OSv4nvaGliItfODO9JTMCtnRO.jpg",
+      "season_number": 7,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2016-03-07",
+      "episode_count": 10,
+      "id": 75105,
+      "name": "Season 8",
+      "overview": "RuPaul is back to light up the runway with 12 new queens competing for the title of \"American's Next Drag Superstar.\" Season 8 marks a drag milestone: the 100th episode and the 100th queen! Watch as these talented ladies of drag join the ranks of the fabulous 88 queens who fought for the crown before them. The 12 Queens to compete include: Acid Betty, Bob the Drag Queen, Chi Chi DeVayne, Cynthia Lee Fontaine, Dax ExclamationPoint, Derrick Barry, Kim Chi, Laila McQueen, Naomi Smalls, Nayasha Lopez, Robbie Turner, and Thorgy Thor.",
+      "poster_path": "/ntBL9REggTUwg8m5lNLx4Pg4L3E.jpg",
+      "season_number": 8,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2017-03-24",
+      "episode_count": 14,
+      "id": 85708,
+      "name": "Season 9",
+      "overview": "Season Nine’s drag queens are fiercer than ever, competing to snatch the coveted title of \"America's Next Drag Superstar.\" This year’s cutthroat race to the crown features unpredictable competition, gag-worthy performances, and jaw-dropping moments.",
+      "poster_path": "/sB5rCEjGDzKCcMRM1a3MhS9jL74.jpg",
+      "season_number": 9,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2018-03-22",
+      "episode_count": 14,
+      "id": 101162,
+      "name": "Season 10",
+      "overview": "The tenth season of RuPaul's Drag Race began airing on March 22, 2018, on VH1. The premiere was broadcast one week after the finale of the third season of RuPaul's Drag Race All Stars, and episodes are to be followed by RuPaul's Drag Race: Untucked.",
+      "poster_path": "/aysMLBFqnOM6iL7HdCXwGdpR9Mi.jpg",
+      "season_number": 10,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2019-02-28",
+      "episode_count": 14,
+      "id": 119659,
+      "name": "Season 11",
+      "overview": "RuPaul's Drag Race and Untucked return with more sickening styles, fierce challenges and backstage drama. Michelle Visage, Carson Kressley, Ross Mathews and celeb guest judges join RuPaul as she sets out to crown America's Next Drag Superstar.",
+      "poster_path": "/nuk2vcqVcuT0MDnBb1UkTjzYAjg.jpg",
+      "season_number": 11,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2020-02-28",
+      "episode_count": 14,
+      "id": 130297,
+      "name": "Season 12",
+      "overview": "The twelfth season of RuPaul's Drag Race premiered on February 28 and concluded on May 29, 2020. The competition was broadcast on VH1 in the United States and saw 13 new queens competing for the title of \"America's Next Drag Superstar\".",
+      "poster_path": "/e3Y1jNEJvqHcSNKI6iqO9DStPXm.jpg",
+      "season_number": 12,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 16,
+      "id": 171649,
+      "name": "Season 13",
+      "overview": "The thirteenth season of RuPaul's Drag Race premiered on January 1 and concluded on April 23, 2021. The cast was announced via Twitter on December 9, 2020. The competition is broadcast on VH1 in the United States and showcases 13 new queens competing for the title of \"America's Next Drag Superstar\".",
+      "poster_path": "/1a7nBLw0ajBkDHGUx9sV8AMDVqc.jpg",
+      "season_number": 13,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2022-01-07",
+      "episode_count": 16,
+      "id": 234110,
+      "name": "Season 14",
+      "overview": "The fourteenth season of RuPaul's Drag Race premiered on January 7, 2022. The reality competition series, broadcast on VH1 in the United States, showcases 14 new queens competing for the title of \"America's Next Drag Superstar\".",
+      "poster_path": "/dY2GdZfx71CaOj7HeW2nFg4akPF.jpg",
+      "season_number": 14,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-01-06",
+      "episode_count": 16,
+      "id": 296179,
+      "name": "Season 15",
+      "overview": "This season features the largest cast in the show's history, with sixteen queens competing and the largest cash prize, with the winner earning $200,000. It is also the first season to feature biological relatives, twins Sugar and Spice. Series judges Michelle Visage, Carson Kressley, and Ross Mathews returned, and Ts Madison, who had previously appeared as a recurring guest judge, joined the rotating judges panel.",
+      "poster_path": "/rM31D4ecYfpqUZ6s0o6yoxwK5UG.jpg",
+      "season_number": 15,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2024-01-05",
+      "episode_count": 16,
+      "id": 367961,
+      "name": "Season 16",
+      "overview": "The sixteenth season of Drag Race showcases fourteen drag queens competing for the title of America's Next Drag Superstar, a one-year supply of Anastasia Beverly Hills cosmetics, a crown and scepter from Fierce Drag Jewels and a cash prize of $200,000.",
+      "poster_path": "/6LThfVcGWSLswQaQh2vvk1Q2IoH.jpg",
+      "season_number": 16,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2025-01-03",
+      "episode_count": 16,
+      "id": 430013,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/zSuuQuxB3Xllbahy6krViT8BLqw.jpg",
+      "season_number": 17,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 458066,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The splashiest season in herstory!",
+  "type": "Reality",
+  "vote_average": 7.5,
+  "vote_count": 256,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.5045,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - Host",
+        "credit_id": "54f726bdc3a368352000157f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1581751,
+        "known_for_department": "Acting",
+        "name": "Michelle Visage",
+        "original_name": "Michelle Visage",
+        "popularity": 0.2098,
+        "profile_path": "/sA43jCIrZE7VkX0Wy0IBoMb0MvC.jpg",
+        "character": "Self - Judge",
+        "credit_id": "57e1165292514104490053b2",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5647127,
+        "known_for_department": "Art",
+        "name": "Gavin Smith",
+        "original_name": "Gavin Smith",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "credit_id": "68abb04fbdd4f40c236ce8ce",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "M"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IN",
+        "rating": "A"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ID",
+        "rating": "D"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IL",
+        "rating": "15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IT",
+        "rating": "VM14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "9"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NZ",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NO",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "12AP"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "M18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "19"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B-15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "HU",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CZ",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BE",
+        "rating": "9"
+      }
+    ]
+  }
+}

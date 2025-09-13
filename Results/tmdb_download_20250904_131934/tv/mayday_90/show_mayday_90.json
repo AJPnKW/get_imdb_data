@@ -1,0 +1,576 @@
+{
+  "adult": false,
+  "backdrop_path": "/zocVz88wzfCd2y3RPKxI8qjhRKc.jpg",
+  "created_by": [
+    {
+      "id": 1706457,
+      "credit_id": "5883d17fc3a368063900f392",
+      "name": "Bernard Vaillot",
+      "original_name": "Bernard Vaillot",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1714518,
+      "credit_id": "5883d16bc3a3684f3a00bfe9",
+      "name": "André Barro",
+      "original_name": "André Barro",
+      "gender": 2,
+      "profile_path": "/xD37vRbcp81TP24kpDFqqP0FeJW.jpg"
+    }
+  ],
+  "episode_run_time": [
+    46
+  ],
+  "first_air_date": "2003-09-03",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.discovery.ca/Shows/Mayday",
+  "id": 90,
+  "in_production": true,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "ja",
+    "ru",
+    "es"
+  ],
+  "last_air_date": "2025-05-26",
+  "last_episode_to_air": {
+    "id": 6237187,
+    "name": "No Exit (US Air 1493)",
+    "overview": "Following a catastrophic runway collision at LAX, passengers on USAIR Flight 1493 struggle to escape the burning plane.",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-26",
+    "episode_number": 11,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 25,
+    "show_id": 90,
+    "still_path": null
+  },
+  "name": "Mayday",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 99,
+      "logo_path": "/tAOMutfVve2or2LTYQfIa42sc33.png",
+      "name": "5",
+      "origin_country": "GB"
+    },
+    {
+      "id": 106,
+      "logo_path": "/cjw4Msu4fkMWOsV6LlA7x8ZOQ1l.png",
+      "name": "Discovery",
+      "origin_country": "CA"
+    },
+    {
+      "id": 1755,
+      "logo_path": "/mzLlbqnnLiDIzriohlvfSbWlEfR.png",
+      "name": "Sky History",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1825,
+      "logo_path": "/q9rPBG1rHbUjII1Qn98VG2v7cFa.png",
+      "name": "National Geographic Channel",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6750,
+      "logo_path": "/sod2MjmV36sun77LS2EYcHi1ZFx.png",
+      "name": "National Geographic",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 230,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Mayday",
+  "overview": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of the incident based on cockpit voice recorders and air traffic control transcripts, as well as eyewitnesses recounts and interviews with aviation experts.",
+  "popularity": 28.0688,
+  "poster_path": "/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+  "production_companies": [
+    {
+      "id": 32205,
+      "logo_path": "/dQmrjj3YjGoXlulrQu6IHPf5Vmj.png",
+      "name": "Cineflix Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-06-26",
+      "episode_count": 59,
+      "id": 265,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/bGc6mW2FjKmNVhYb9KF2HKQ1vGf.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2003-09-03",
+      "episode_count": 6,
+      "id": 261,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/oF4Z7159vBpSPglhETeKP6R41lL.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2005-01-23",
+      "episode_count": 6,
+      "id": 260,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/x4AdQgmt04QHcYhAfZ55i1WViBb.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2005-09-14",
+      "episode_count": 13,
+      "id": 259,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/2xPqKfDRVlg2WsOPycmEGZiXnOC.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2007-04-15",
+      "episode_count": 10,
+      "id": 258,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/jVecrv1JengYGW6cn8C06hMVymR.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2008-04-09",
+      "episode_count": 10,
+      "id": 262,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/A9aBuBAcddz5Zdl8gBSGTtvkYq1.jpg",
+      "season_number": 5,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2007-12-16",
+      "episode_count": 3,
+      "id": 263,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/4NV9F8xIBsp1zC577FYuTlO58MD.jpg",
+      "season_number": 6,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2009-11-04",
+      "episode_count": 8,
+      "id": 264,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/4jcb73bLhuzVDtypz4Gz4Bf895f.jpg",
+      "season_number": 7,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2009-06-10",
+      "episode_count": 2,
+      "id": 266,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/3DBuW5Ak7yfdvxQZwQFvSmCz1cS.jpg",
+      "season_number": 8,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2010-09-08",
+      "episode_count": 8,
+      "id": 267,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/tLRNEYQQdGjgDjWAyzju3CjeOBh.jpg",
+      "season_number": 9,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2011-02-28",
+      "episode_count": 6,
+      "id": 268,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/1s1zGhEcrLs4fq2smVaUxymPas8.jpg",
+      "season_number": 10,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2011-08-12",
+      "episode_count": 13,
+      "id": 269,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/kVwTr7GOY1KBjcJJTYFwciRmrsE.jpg",
+      "season_number": 11,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2012-08-03",
+      "episode_count": 13,
+      "id": 270,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/fiFxbhv3jgik8nbptlf9yVNSYmg.jpg",
+      "season_number": 12,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2013-12-16",
+      "episode_count": 10,
+      "id": 60209,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/1aR5lIS1IPrE1VlnhPiaUenMJGR.jpg",
+      "season_number": 13,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 11,
+      "id": 64969,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/wfxI5mzChiy0DZoP78QlumwF02l.jpg",
+      "season_number": 14,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2016-01-02",
+      "episode_count": 10,
+      "id": 64970,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/j5KMJCfjkOnfms9unnfji9CnHsT.jpg",
+      "season_number": 15,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2016-06-07",
+      "episode_count": 10,
+      "id": 77895,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/rD84j6VpLpbNJXqqwcIYYEIlDB5.jpg",
+      "season_number": 16,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2017-02-20",
+      "episode_count": 10,
+      "id": 85287,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/pf83ig0lJofd9rdRPjQnMqbiDGV.jpg",
+      "season_number": 17,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2018-02-13",
+      "episode_count": 10,
+      "id": 98079,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/x5TwzsZhWKRSPE5qlZnBXo6FUjF.jpg",
+      "season_number": 18,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 10,
+      "id": 116653,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/hySuBQWEGDwn84jlQTjMdy6Tnx.jpg",
+      "season_number": 19,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2020-01-09",
+      "episode_count": 10,
+      "id": 140558,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/k4IEN0ycqBzkT6WvJtyjDdIiofJ.jpg",
+      "season_number": 20,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2021-04-04",
+      "episode_count": 10,
+      "id": 178151,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/szgzRP2iOo45mN3mriE2UEoklAs.jpg",
+      "season_number": 21,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 10,
+      "id": 238373,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/8lZQCLxeb8PoFw0N2vKiZayHT5w.jpg",
+      "season_number": 22,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2023-02-13",
+      "episode_count": 10,
+      "id": 325452,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/jzoQKf9WWqwMK4CscDcRXQOEFNz.jpg",
+      "season_number": 23,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2024-02-18",
+      "episode_count": 10,
+      "id": 373805,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/9UzyP0SuiNJ93KfIZQbMpc38InU.jpg",
+      "season_number": 24,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2025-02-03",
+      "episode_count": 11,
+      "id": 440431,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/swenXyByfVdSv6uOUOZesHGeDGf.jpg",
+      "season_number": 25,
+      "vote_average": 10.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 8.2,
+  "vote_count": 266,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32031,
+        "known_for_department": "Acting",
+        "name": "Stephen Bogaert",
+        "original_name": "Stephen Bogaert",
+        "popularity": 0.7616,
+        "profile_path": "/iEnR0LaAnlJBwE9gDlB5r0v4XIt.jpg",
+        "character": "Self - Narrator (voice)",
+        "credit_id": "6304866654508d007e288481",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "PG"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "NR"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "A"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "G"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DK",
+        "rating": "11"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IN",
+        "rating": "U"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PH",
+        "rating": "G"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "13+"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0386950",
+    "freebase_mid": "/m/0bqkj3",
+    "freebase_id": null,
+    "tvdb_id": 79771,
+    "tvrage_id": null,
+    "wikidata_id": "Q527965",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "_poster_url": "https://image.tmdb.org/t/p/w500/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+  "_backdrop_url": "https://image.tmdb.org/t/p/w780/zocVz88wzfCd2y3RPKxI8qjhRKc.jpg",
+  "_providers": {
+    "providers_flatrate_CA": "Amazon Prime Video|Crave|CTV|Amazon Prime Video with Ads",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "",
+    "providers_ads_CA": "Tubi TV|Noovo",
+    "providers_link_CA": "https://www.themoviedb.org/tv/90-mayday/watch?locale=CA"
+  }
+}

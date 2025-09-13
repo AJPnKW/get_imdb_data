@@ -1,0 +1,196 @@
+{
+  "adult": false,
+  "backdrop_path": "/dYhpvGjWCIuINjCqPtY83Z5K8BF.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "6697ad2b1991576f5048c887",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "id": 16957,
+      "credit_id": "686779a76b3f69de397b7a48",
+      "name": "Fenton Bailey",
+      "original_name": "Fenton Bailey",
+      "gender": 2,
+      "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg"
+    },
+    {
+      "id": 16958,
+      "credit_id": "686779ad2074a6cac27ab815",
+      "name": "Randy Barbato",
+      "original_name": "Randy Barbato",
+      "gender": 2,
+      "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg"
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2024-08-16",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/shows/rupauls-drag-race-global-all-stars/",
+  "id": 232821,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-10-25",
+  "last_episode_to_air": {
+    "id": 5534290,
+    "name": "Dance Like The World Is Watching",
+    "overview": "It's the final! And there is just one more challenge standing between our 4 remaining Queens and that Global All Stars Crown - not to mention the $200K prize money. They've got to create a music video that will impress Ru and the judges.",
+    "vote_average": 7.7,
+    "vote_count": 3,
+    "air_date": "2024-10-25",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 1,
+    "show_id": 232821,
+    "still_path": "/aYdzTsP0euO6jLWGHiDnwbqlNsx.jpg"
+  },
+  "name": "RuPaul's Drag Race Global All Stars",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4330,
+      "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+      "name": "Paramount+",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race Global All Stars",
+  "overview": "Twelve fan favorites drag queens from around the world will each represent their countries as they compete for the title of \"Queen of the Mothertucking World,\" a grand prize of $200,000, and a spot in the international pavilion at the Drag Race Hall of Fame.",
+  "popularity": 1.7053,
+  "poster_path": "/jbtW0zyr2fwo6SEOLK9jbq7ihZZ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-07-15",
+      "episode_count": 1,
+      "id": 461953,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-08-16",
+      "episode_count": 12,
+      "id": 353090,
+      "name": "Season 1",
+      "overview": "RuPaul invites 12 of the world's best ever Drag Race queens to come together to compete in a series of hilarious and glamorous challenges. But only one queen will get to wear the crown in this, the first ever, season of Drag Race Global Allstars.",
+      "poster_path": "/jbtW0zyr2fwo6SEOLK9jbq7ihZZ.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 458026,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.5,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.5045,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - Host / Judge",
+        "credit_id": "64de8559d100b614b4ccfc6a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1581751,
+        "known_for_department": "Acting",
+        "name": "Michelle Visage",
+        "original_name": "Michelle Visage",
+        "popularity": 0.2098,
+        "profile_path": "/sA43jCIrZE7VkX0Wy0IBoMb0MvC.jpg",
+        "character": "Self - Judge",
+        "credit_id": "6697ad477ba3b068fd22e3ce",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29215,
+        "known_for_department": "Crew",
+        "name": "Jamal Sims",
+        "original_name": "Jamal Sims",
+        "popularity": 0.1321,
+        "profile_path": "/OXnZk1sduWNbGy10tXU1ukC0t.jpg",
+        "character": "Self - Judge",
+        "credit_id": "6697ad5cd9b459138f0cee48",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "adult": false,
+  "backdrop_path": "/uVnGusAwehV4WdxgKwFg0UJql1R.jpg",
+  "created_by": [
+    {
+      "id": 2347594,
+      "credit_id": "65528a51ea84c7109225eb3c",
+      "name": "Ben H. Winters",
+      "original_name": "Ben H. Winters",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-02-11",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/tracker/",
+  "id": 211288,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-11",
+  "last_episode_to_air": {
+    "id": 6063451,
+    "name": "Echo Ridge",
+    "overview": "Colter returns to Echo Ridge to investigate a diner owner's disappearance, only to uncover a decades-old kidnapping and a shocking family secret.",
+    "vote_average": 6.0,
+    "vote_count": 3,
+    "air_date": "2025-05-11",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 2,
+    "show_id": 211288,
+    "still_path": "/rGKGEbnMyH1Mk2AM9tz0YSfEAI6.jpg"
+  },
+  "name": "Tracker",
+  "next_episode_to_air": {
+    "id": 6390335,
+    "name": "The Process",
+    "overview": "As Colter grapples with the shocking truth surrounding his father’s death, Russell joins forces with his brother to help track down the missing wife and daughter of one of Reenie’s clients. Their reunion finds them mixed up in a chain of events involving a sinister underground operation known as ‘The Process.’",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-10-19",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 211288,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 35,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Tracker",
+  "overview": "Lone-wolf survivalist Colter Shaw roams the country as a “reward seeker,” using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
+  "popularity": 20.5354,
+  "poster_path": "/nU9zGHC1GRHVoTSTaKiRy1RljNd.jpg",
+  "production_companies": [
+    {
+      "id": 176830,
+      "logo_path": null,
+      "name": "ChangeUp Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 60436,
+      "logo_path": null,
+      "name": "AfterPortsmouth Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 220689,
+      "logo_path": null,
+      "name": "Beekeeper Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-02-11",
+      "episode_count": 13,
+      "id": 310691,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ivhqGQa4ndqDatKiASIfSMJIJuh.jpg",
+      "season_number": 1,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2024-10-13",
+      "episode_count": 20,
+      "id": 402123,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/jbvxqU4lwt6ZjvFROoKaLRyJbxC.jpg",
+      "season_number": 2,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2025-10-19",
+      "episode_count": 2,
+      "id": 466011,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "We're all looking for something.",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 209,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222596,
+        "known_for_department": "Acting",
+        "name": "Justin Hartley",
+        "original_name": "Justin Hartley",
+        "popularity": 1.1737,
+        "profile_path": "/oo7vqWz30pA1tY6quUOnS6O0AgB.jpg",
+        "character": "Colter Shaw",
+        "credit_id": "6336d9f5e9da69007cc9fd0f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1485985,
+        "known_for_department": "Acting",
+        "name": "Fiona Rene",
+        "original_name": "Fiona Rene",
+        "popularity": 1.2105,
+        "profile_path": "/vfi2WLLy6BeNnO2n3zXc5hllRjf.jpg",
+        "character": "Reenie Greene",
+        "credit_id": "645bbac13fe16000e329aeca",
+        "order": 4
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PR",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "VI",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "M18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BG",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FI",
+        "rating": "K16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "HU",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DK",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NO",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SE",
+        "rating": "Från 15 år"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "M"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "18+"
+      }
+    ]
+  }
+}

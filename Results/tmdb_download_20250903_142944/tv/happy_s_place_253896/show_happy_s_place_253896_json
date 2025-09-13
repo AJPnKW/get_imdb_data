@@ -1,0 +1,292 @@
+{
+  "adult": false,
+  "backdrop_path": "/m4bKIo3tmM9F7hiOW0drwgjAsCb.jpg",
+  "created_by": [
+    {
+      "id": 2046925,
+      "credit_id": "66e59a9efb3914e255fd79e7",
+      "name": "Kevin Abbott",
+      "original_name": "Kevin Abbott",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2024-10-18",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.nbc.com/happys-place",
+  "id": 253896,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-21",
+  "last_episode_to_air": {
+    "id": 5875032,
+    "name": "Alarm Bells",
+    "overview": "When Isabella requests Emmett's help getting a security system installed, Bobbie claims she can protect her sister better than any alarm or man, leading to Bobbie and Emmett having a competition over who's the better protector.",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "air_date": "2025-03-21",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 253896,
+    "still_path": null
+  },
+  "name": "Happy's Place",
+  "next_episode_to_air": {
+    "id": 6414138,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-11-07",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 253896,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Happy's Place",
+  "overview": "Bobbie inherits her father's restaurant and is less than thrilled to discover that she has a new business partner in the half-sister she never knew she had.",
+  "popularity": 1.606,
+  "poster_path": "/stOjdi0LW7VxOL32WG3HLbauy6L.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 244763,
+      "logo_path": null,
+      "name": "NestEgg Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-10-18",
+      "episode_count": 18,
+      "id": 392774,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/stOjdi0LW7VxOL32WG3HLbauy6L.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2025-11-07",
+      "episode_count": 2,
+      "id": 467371,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 12,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21986,
+        "known_for_department": "Acting",
+        "name": "Reba McEntire",
+        "original_name": "Reba McEntire",
+        "popularity": 0.5989,
+        "profile_path": "/q4T5XDHzVepqQi4NoqI9GKJcD3s.jpg",
+        "character": "Bobbie",
+        "credit_id": "663b01eaa6aed97a50e574aa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2381442,
+        "known_for_department": "Acting",
+        "name": "Belissa Escobedo",
+        "original_name": "Belissa Escobedo",
+        "popularity": 0.2877,
+        "profile_path": "/584tOsPVFbzq7GJxET5diOGZ8p0.jpg",
+        "character": "Isabella",
+        "credit_id": "663b0216080c74727e6787c6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145816,
+        "known_for_department": "Acting",
+        "name": "Melissa Peterman",
+        "original_name": "Melissa Peterman",
+        "popularity": 0.5205,
+        "profile_path": "/dyWRlAOJnSGzRwhVVfMIkYC4cp7.jpg",
+        "character": "Gabby",
+        "credit_id": "663b021d413a17c307b56799",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16937,
+        "known_for_department": "Acting",
+        "name": "Rex Linn",
+        "original_name": "Rex Linn",
+        "popularity": 0.9325,
+        "profile_path": "/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg",
+        "character": "Emmett",
+        "credit_id": "663b023323b085be4e0b18ce",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3412654,
+        "known_for_department": "Acting",
+        "name": "Pablo Castelblanco",
+        "original_name": "Pablo Castelblanco",
+        "popularity": 0.2023,
+        "profile_path": "/10RmdpGNsEF51OAn7ZZS1CgnZyl.jpg",
+        "character": "Steve",
+        "credit_id": "663b02245dac3aaab763a084",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1380163,
+        "known_for_department": "Acting",
+        "name": "Tokala Black Elk",
+        "original_name": "Tokala Black Elk",
+        "popularity": 0.4963,
+        "profile_path": "/fZ4wmUVQdyfRCHpcWKeAyyvdc9g.jpg",
+        "character": "Takoda",
+        "credit_id": "663b022d23b085be4e0b18c7",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3157754,
+        "known_for_department": "Acting",
+        "name": "Julie Abbott",
+        "original_name": "Julie Abbott",
+        "popularity": 0.441,
+        "profile_path": null,
+        "credit_id": "663b026e98b5540525e571e2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1246524,
+        "known_for_department": "Production",
+        "name": "Mindy Schultheis",
+        "original_name": "Mindy Schultheis",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "663b02653fbfecd5d70581e4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2046925,
+        "known_for_department": "Writing",
+        "name": "Kevin Abbott",
+        "original_name": "Kevin Abbott",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "663b0242510f26d0e13f1889",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1246522,
+        "known_for_department": "Production",
+        "name": "Michael Hanel",
+        "original_name": "Michael Hanel",
+        "popularity": 0.0584,
+        "profile_path": null,
+        "credit_id": "663b025ccd7d508e365bb965",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21986,
+        "known_for_department": "Acting",
+        "name": "Reba McEntire",
+        "original_name": "Reba McEntire",
+        "popularity": 0.5989,
+        "profile_path": "/q4T5XDHzVepqQi4NoqI9GKJcD3s.jpg",
+        "credit_id": "663b02763fbfecd5d70581ec",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-PG"
+      }
+    ]
+  }
+}

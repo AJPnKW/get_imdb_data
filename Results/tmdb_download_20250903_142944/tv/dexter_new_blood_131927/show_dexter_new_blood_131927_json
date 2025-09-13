@@ -1,0 +1,583 @@
+{
+  "adult": false,
+  "backdrop_path": "/e6v08948EZVvLrx0sWpmglguY9e.jpg",
+  "created_by": [
+    {
+      "id": 1212409,
+      "credit_id": "6192c4fcccde0400610ed835",
+      "name": "Clyde Phillips",
+      "original_name": "Clyde Phillips",
+      "gender": 2,
+      "profile_path": "/ue6gnd9FRbl5wKZ9yHVtWp6ra4y.jpg"
+    }
+  ],
+  "episode_run_time": [
+    53
+  ],
+  "first_air_date": "2021-11-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/shows/dexter-new-blood",
+  "id": 131927,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-01-09",
+  "last_episode_to_air": {
+    "id": 3359218,
+    "name": "Sins of the Father",
+    "overview": "Dexter and Harrison try to live a normal life in a place that they have discovered is not as normal as they thought it was. Will the two of them be able to live happily ever after, despite all the threats coming their way?",
+    "vote_average": 4.7,
+    "vote_count": 50,
+    "air_date": "2022-01-09",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 1,
+    "show_id": 131927,
+    "still_path": "/uXOcTNfG6okOpBpQgkSknyHNGhg.jpg"
+  },
+  "name": "Dexter: New Blood",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 67,
+      "logo_path": "/Allse9kbjiP6ExaQrnSpIhkurEi.png",
+      "name": "Showtime",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dexter: New Blood",
+  "overview": "10 years after Dexter went missing in the eye of Hurricane Laura, we find him living under an assumed name in the small town of Iron Lake, New York.  Dexter may be embracing his new life, but in the wake of unexpected events in this close-knit community, his Dark Passenger beckons.",
+  "popularity": 23.2017,
+  "poster_path": "/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg",
+  "production_companies": [
+    {
+      "id": 4343,
+      "logo_path": "/rXq1B1Hnkdnw6soz1zoGcslK3wb.png",
+      "name": "Showtime Networks",
+      "origin_country": "US"
+    },
+    {
+      "id": 17595,
+      "logo_path": null,
+      "name": "Clyde Phillips Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 17594,
+      "logo_path": null,
+      "name": "John Goldwyn Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12261,
+      "logo_path": null,
+      "name": "The Colleton Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-11-07",
+      "episode_count": 10,
+      "id": 207411,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/onnYrRDxvfEAjeXHxq1BoyUF419.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Long time no spree.",
+  "type": "Miniseries",
+  "vote_average": 7.957,
+  "vote_count": 1361,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53820,
+        "known_for_department": "Acting",
+        "name": "Michael C. Hall",
+        "original_name": "Michael C. Hall",
+        "popularity": 3.348,
+        "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg",
+        "character": "Jim Lindsay / Dexter Morgan",
+        "credit_id": "6125a66559008600623b270f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2638213,
+        "known_for_department": "Acting",
+        "name": "Jack Alcott",
+        "original_name": "Jack Alcott",
+        "popularity": 1.4132,
+        "profile_path": "/jJEcVQx10KNASfMmwGE9KPRQW8u.jpg",
+        "character": "Harrison Morgan",
+        "credit_id": "613c74d8efca000088f9585b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87310,
+        "known_for_department": "Acting",
+        "name": "Julia Jones",
+        "original_name": "Julia Jones",
+        "popularity": 1.0854,
+        "profile_path": "/5MDt4lh6Zwrv5aCJfTV2i3rxwXl.jpg",
+        "character": "Angela Bishop",
+        "credit_id": "613c745e08cf8700620b6126",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1295282,
+        "known_for_department": "Acting",
+        "name": "Johnny Sequoyah",
+        "original_name": "Johnny Sequoyah",
+        "popularity": 0.6035,
+        "profile_path": "/taFfjOB4lPAx75kJo9yFylKT1ek.jpg",
+        "character": "Audrey Bishop",
+        "credit_id": "613c748f9653f60043e76127",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6574,
+        "known_for_department": "Acting",
+        "name": "Clancy Brown",
+        "original_name": "Clancy Brown",
+        "popularity": 3.0277,
+        "profile_path": "/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg",
+        "character": "Kurt Caldwell",
+        "credit_id": "613c7436322b2b005fc99119",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53828,
+        "known_for_department": "Acting",
+        "name": "Jennifer Carpenter",
+        "original_name": "Jennifer Carpenter",
+        "popularity": 2.939,
+        "profile_path": "/haxhKRJoWl71dAUWMLlDIaSd5bN.jpg",
+        "character": "Debra Morgan",
+        "credit_id": "613c750fc68b69002bc805f3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1104619,
+        "known_for_department": "Acting",
+        "name": "Alano Miller",
+        "original_name": "Alano Miller",
+        "popularity": 0.1123,
+        "profile_path": "/2oBVU9VKgmSTOJKyJaXDIya7eJW.jpg",
+        "character": "Logan",
+        "credit_id": "613c74ad60c751008d83e3d3",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3302159,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Candace Masterson",
+        "original_name": "Candace Masterson",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "6189ca2635d1bc00432fa2f7",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1318466,
+        "known_for_department": "Art",
+        "name": "Sophie Carlhian",
+        "original_name": "Sophie Carlhian",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "6189ca02fe6318008fbd0851",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2193264,
+        "known_for_department": "Art",
+        "name": "Jennifer LaFace",
+        "original_name": "Jennifer LaFace",
+        "popularity": 0.0357,
+        "profile_path": null,
+        "credit_id": "6189ca142f266b0093d0c983",
+        "department": "Art",
+        "job": "Set Decoration Buyer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60453,
+        "known_for_department": "Art",
+        "name": "Eric Weiler",
+        "original_name": "Eric Weiler",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "credit_id": "61844b88c5c1ef0061e9a9b9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1099260,
+        "known_for_department": "Art",
+        "name": "Jennifer Engel",
+        "original_name": "Jennifer Engel",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "61844b771fd36f0042b54929",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1329938,
+        "known_for_department": "Art",
+        "name": "Heather R. Dumas",
+        "original_name": "Heather R. Dumas",
+        "popularity": 0.0758,
+        "profile_path": null,
+        "credit_id": "61844b83d388ae002cfdc383",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223911,
+        "known_for_department": "Writing",
+        "name": "Scott Reynolds",
+        "original_name": "Scott Reynolds",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "61844dadddd52d006161c4ac",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 774676,
+        "known_for_department": "Sound",
+        "name": "Pat Irwin",
+        "original_name": "Pat Irwin",
+        "popularity": 0.066,
+        "profile_path": null,
+        "credit_id": "61844d093e2ec8002a9cf347",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212409,
+        "known_for_department": "Writing",
+        "name": "Clyde Phillips",
+        "original_name": "Clyde Phillips",
+        "popularity": 0.2808,
+        "profile_path": "/ue6gnd9FRbl5wKZ9yHVtWp6ra4y.jpg",
+        "credit_id": "61844da43faba0006256e494",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53820,
+        "known_for_department": "Acting",
+        "name": "Michael C. Hall",
+        "original_name": "Michael C. Hall",
+        "popularity": 3.348,
+        "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg",
+        "credit_id": "61844d9ef6596f0088aa4f38",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23420,
+        "known_for_department": "Production",
+        "name": "Bill Carraro",
+        "original_name": "Bill Carraro",
+        "popularity": 0.0684,
+        "profile_path": "/qt2ZxwwjbQe0kytalxbdLka6Vzn.jpg",
+        "credit_id": "61844d77f6596f0088aa4f0c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1464956,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carla Antonino",
+        "original_name": "Carla Antonino",
+        "popularity": 0.1093,
+        "profile_path": "/zrG5z9FGgAqbN5wcVTG6uomSmd1.jpg",
+        "credit_id": "61844e6ed388ae0043fa4289",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52160,
+        "known_for_department": "Production",
+        "name": "John Goldwyn",
+        "original_name": "John Goldwyn",
+        "popularity": 0.1406,
+        "profile_path": "/sKcukctjmlltKGujIBDrIZ4zPf9.jpg",
+        "credit_id": "61844d8f3e2ec8008d1eb36b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74062,
+        "known_for_department": "Directing",
+        "name": "Marcos Siega",
+        "original_name": "Marcos Siega",
+        "popularity": 0.139,
+        "profile_path": "/uZD2ihL4iKzQxMtcLDH47AikT1V.jpg",
+        "credit_id": "61844deecb6db5008d535318",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 949179,
+        "known_for_department": "Production",
+        "name": "Sara Colleton",
+        "original_name": "Sara Colleton",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "credit_id": "61844d7be93e950042d84957",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2064791,
+        "known_for_department": "Production",
+        "name": "Lisa Lobel",
+        "original_name": "Lisa Lobel",
+        "popularity": 0.3458,
+        "profile_path": null,
+        "credit_id": "61844b8df8aee800435af087",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1419605,
+        "known_for_department": "Visual Effects",
+        "name": "Brooke Lyndon-Stanford",
+        "original_name": "Brooke Lyndon-Stanford",
+        "popularity": 0.146,
+        "profile_path": null,
+        "credit_id": "61f01734d40d4c00d33a364a",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4337771,
+        "known_for_department": "Visual Effects",
+        "name": "Thurman Martin III",
+        "original_name": "Thurman Martin III",
+        "popularity": 1.4981,
+        "profile_path": "/eyeqgSRnOBJQ77cqMdTX8W4t39X.jpg",
+        "credit_id": "653823210fb17f0138fc6869",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2717105,
+        "known_for_department": "Acting",
+        "name": "Mike Kerr",
+        "original_name": "Mike Kerr",
+        "popularity": 0.0429,
+        "profile_path": "/fnlkYs7FiKd4fjL9arGmzt2Etw8.jpg",
+        "credit_id": "6560ece8706e5600e15288a1",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2717108,
+        "known_for_department": "Acting",
+        "name": "Ben Thatcher",
+        "original_name": "Ben Thatcher",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "6560ecf7497560011db0faa4",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4516868,
+        "known_for_department": "Production",
+        "name": "Brett Duffy",
+        "original_name": "Brett Duffy",
+        "popularity": 0.0311,
+        "profile_path": "/qFOiVjGUbXZfomyxTwHNEOGUFh3.jpg",
+        "credit_id": "65beb7ce6c449c01638cba3b",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223918,
+        "known_for_department": "Writing",
+        "name": "Jeff Lindsay",
+        "original_name": "Jeff Lindsay",
+        "popularity": 0.0445,
+        "profile_path": "/eKe6NuZfCqik9AyMvjdedE1skz4.jpg",
+        "credit_id": "6887fe12976736e15d24734d",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "C"
+      }
+    ]
+  }
+}

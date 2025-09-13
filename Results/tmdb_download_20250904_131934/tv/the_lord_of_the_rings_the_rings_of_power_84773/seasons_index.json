@@ -1,0 +1,46 @@
+[
+  {
+    "air_date": "2022-09-03",
+    "episode_count": 36,
+    "id": 311036,
+    "name": "Specials",
+    "overview": "Specials",
+    "poster_path": "/friNlTnLbsg38DRnUYLfKLdLBJE.jpg",
+    "season_number": 0,
+    "vote_average": 0.0,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/friNlTnLbsg38DRnUYLfKLdLBJE.jpg"
+  },
+  {
+    "air_date": "2022-09-01",
+    "episode_count": 8,
+    "id": 114041,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/umRaUV2ku9MMtEunMQt3uCO1OgE.jpg",
+    "season_number": 1,
+    "vote_average": 6.5,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/umRaUV2ku9MMtEunMQt3uCO1OgE.jpg"
+  },
+  {
+    "air_date": "2024-08-29",
+    "episode_count": 8,
+    "id": 382474,
+    "name": "Season 2",
+    "overview": "Sauron has returned. Cast out by Galadriel, the Dark Lord must now rely on his own cunning to rebuild his strength and forge the legendary Rings of Power, threatening to bind all peoples of Middle-earth to his sinister will. Season 2 plunges its most beloved characters into a rising tide of darkness, challenging each to find his or her place in a world on the brink of calamity.",
+    "poster_path": "/m93DIqlwcHWiepTl6WXPiOlw4E9.jpg",
+    "season_number": 2,
+    "vote_average": 6.5,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/m93DIqlwcHWiepTl6WXPiOlw4E9.jpg"
+  },
+  {
+    "air_date": null,
+    "episode_count": 0,
+    "id": 467821,
+    "name": "Season 3",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 3,
+    "vote_average": 0.0,
+    "_season_poster_url": ""
+  }
+]

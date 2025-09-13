@@ -1,0 +1,32 @@
+[
+  {
+    "air_date": "2024-02-11",
+    "episode_count": 13,
+    "id": 310691,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/ivhqGQa4ndqDatKiASIfSMJIJuh.jpg",
+    "season_number": 1,
+    "vote_average": 6.6
+  },
+  {
+    "air_date": "2024-10-13",
+    "episode_count": 20,
+    "id": 402123,
+    "name": "Season 2",
+    "overview": "",
+    "poster_path": "/jbvxqU4lwt6ZjvFROoKaLRyJbxC.jpg",
+    "season_number": 2,
+    "vote_average": 7.0
+  },
+  {
+    "air_date": "2025-10-19",
+    "episode_count": 2,
+    "id": 466011,
+    "name": "Season 3",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 3,
+    "vote_average": 0.0
+  }
+]

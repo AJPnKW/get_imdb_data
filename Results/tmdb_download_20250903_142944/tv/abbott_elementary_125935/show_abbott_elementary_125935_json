@@ -1,0 +1,486 @@
+{
+  "adult": false,
+  "backdrop_path": "/fUOau1xdpQdJmVWs32IDZlKYYvr.jpg",
+  "created_by": [
+    {
+      "id": 1745988,
+      "credit_id": "60a57e3a56b9f70076726d2b",
+      "name": "Quinta Brunson",
+      "original_name": "Quinta Brunson",
+      "gender": 1,
+      "profile_path": "/50gY1qgG5ddSLPY77K8zAq9TwJo.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-12-07",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://abc.com/shows/abbott-elementary",
+  "id": 125935,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-16",
+  "last_episode_to_air": {
+    "id": 5890156,
+    "name": "Please Touch Museum",
+    "overview": "Abbott Elementary goes on a schoolwide field trip to the Please Touch Museum, which has some of the older kids skeptical.",
+    "vote_average": 6.2,
+    "vote_count": 6,
+    "air_date": "2025-04-16",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 4,
+    "show_id": 125935,
+    "still_path": "/qqkr99Tshsg5NmOAHyTyK6sjrl8.jpg"
+  },
+  "name": "Abbott Elementary",
+  "next_episode_to_air": {
+    "id": 6388496,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-10-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 125935,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/ndAvF4JLsliGreX87jAc9GdjmJY.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 72,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Abbott Elementary",
+  "overview": "In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don’t love the school district’s less-than-stellar attitude toward educating children.",
+  "popularity": 9.6624,
+  "poster_path": "/7bZwZ1of6HCUarYoJDIivzk9h2G.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 174302,
+      "logo_path": null,
+      "name": "Delicious Non-Sequitur",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 235686,
+      "logo_path": null,
+      "name": "Fifth Chance",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-12-07",
+      "episode_count": 13,
+      "id": 195960,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/AsaunUQLjC4tnRVALu0D4jtzwFy.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2022-09-21",
+      "episode_count": 22,
+      "id": 297657,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/nkktkKeIfzuQfuS6f2hXenoTtJz.jpg",
+      "season_number": 2,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2024-02-07",
+      "episode_count": 13,
+      "id": 366033,
+      "name": "Season 3",
+      "overview": "The teachers continue to navigate the challenges of working at a chronically underfunded school. Janine and Gregory's relationship faces ups and downs as they balance their personal and professional lives. The school competes against rivals in academic competitions, leading to comedic rivalries. Meanwhile, the teachers work to address student enrollment issues and safety concerns while constantly butting heads with the school administration.",
+      "poster_path": "/11l2yxOAI1XHD9vTq6AAUJ5eW0g.jpg",
+      "season_number": 3,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2024-10-09",
+      "episode_count": 22,
+      "id": 401697,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/vYZKmKdxqc1Gj94vLevYAvAcBIB.jpg",
+      "season_number": 4,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2025-10-01",
+      "episode_count": 2,
+      "id": 450836,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "This is how the honor rolls.",
+  "type": "Scripted",
+  "vote_average": 7.46,
+  "vote_count": 223,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1745988,
+        "known_for_department": "Acting",
+        "name": "Quinta Brunson",
+        "original_name": "Quinta Brunson",
+        "popularity": 0.4501,
+        "profile_path": "/50gY1qgG5ddSLPY77K8zAq9TwJo.jpg",
+        "character": "Janine Teagues",
+        "credit_id": "60a57c9e663627006fc4b401",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214870,
+        "known_for_department": "Acting",
+        "name": "Tyler James Williams",
+        "original_name": "Tyler James Williams",
+        "popularity": 1.1252,
+        "profile_path": "/iuPSybfJYExEgUfSmIdN540gdHp.jpg",
+        "character": "Gregory Eddie",
+        "credit_id": "60a57ceb543398003eb16ba0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33613,
+        "known_for_department": "Acting",
+        "name": "Sheryl Lee Ralph",
+        "original_name": "Sheryl Lee Ralph",
+        "popularity": 0.3251,
+        "profile_path": "/8S9CilET8kJKkxOQPEsA3OYSZGg.jpg",
+        "character": "Barbara Howard",
+        "credit_id": "60a57e022f3b1700584241ba",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4494,
+        "known_for_department": "Acting",
+        "name": "Lisa Ann Walter",
+        "original_name": "Lisa Ann Walter",
+        "popularity": 0.9844,
+        "profile_path": "/56vu6e7zmXLVwDG7eVa9phEe4gA.jpg",
+        "character": "Melissa Schemmenti",
+        "credit_id": "60a57df299d5c3007aeb8bbf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1344739,
+        "known_for_department": "Acting",
+        "name": "Chris Perfetti",
+        "original_name": "Chris Perfetti",
+        "popularity": 0.2962,
+        "profile_path": "/qBTVPc07f3lxqCnM9ou4SOHt9js.jpg",
+        "character": "Jacob Hill",
+        "credit_id": "60a57de36636270040e955a0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2692283,
+        "known_for_department": "Acting",
+        "name": "Janelle James",
+        "original_name": "Janelle James",
+        "popularity": 0.2479,
+        "profile_path": "/vLiXGdCRCfWhamrPdUGYiBRZk6y.jpg",
+        "character": "Ava Coleman",
+        "credit_id": "60a57d054b0c630078d11e4c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1227552,
+        "known_for_department": "Acting",
+        "name": "William Stanford Davis",
+        "original_name": "William Stanford Davis",
+        "popularity": 0.1262,
+        "profile_path": "/rCQ0Q7dvG21EhwcrxNPjTFmqfPv.jpg",
+        "character": "Mr. Johnson",
+        "credit_id": "62598702d236e60066add2d7",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1745988,
+        "known_for_department": "Acting",
+        "name": "Quinta Brunson",
+        "original_name": "Quinta Brunson",
+        "popularity": 0.4501,
+        "profile_path": "/50gY1qgG5ddSLPY77K8zAq9TwJo.jpg",
+        "credit_id": "60a57f1556b9f700291d1655",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1252067,
+        "known_for_department": "Writing",
+        "name": "Justin Halpern",
+        "original_name": "Justin Halpern",
+        "popularity": 0.0752,
+        "profile_path": null,
+        "credit_id": "60a57f229a9e2000580b1040",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1252066,
+        "known_for_department": "Writing",
+        "name": "Patrick Schumacker",
+        "original_name": "Patrick Schumacker",
+        "popularity": 0.0459,
+        "profile_path": null,
+        "credit_id": "60a57f312476f20029ee437b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215572,
+        "known_for_department": "Directing",
+        "name": "Randall Einhorn",
+        "original_name": "Randall Einhorn",
+        "popularity": 0.2994,
+        "profile_path": "/oY6fG94AZHBr6PnQ2lroNVOd5uX.jpg",
+        "credit_id": "6265d140f794ad004feeaa3e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1835197,
+        "known_for_department": "Production",
+        "name": "Ross Cavanaugh",
+        "original_name": "Ross Cavanaugh",
+        "popularity": 0.044,
+        "profile_path": null,
+        "credit_id": "6265d1886ca9a000660e6960",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1296523,
+        "known_for_department": "Writing",
+        "name": "Brian Rubenstein",
+        "original_name": "Brian Rubenstein",
+        "popularity": 0.0409,
+        "profile_path": null,
+        "credit_id": "6265d1a51d820f0065ff623a",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3507665,
+        "known_for_department": "Production",
+        "name": "Scott Sites",
+        "original_name": "Scott Sites",
+        "popularity": 0.0168,
+        "profile_path": null,
+        "credit_id": "6265d1af75f1ad00aab135a1",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-PG"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "PG"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "NC16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "6"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IL",
+        "rating": "12+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "13+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "6"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DK",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SE",
+        "rating": "Från 15 år"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FI",
+        "rating": "K12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NO",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "12AP"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "LU",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "12"
+      }
+    ]
+  }
+}

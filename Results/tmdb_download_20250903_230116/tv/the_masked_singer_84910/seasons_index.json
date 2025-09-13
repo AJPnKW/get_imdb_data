@@ -1,0 +1,152 @@
+[
+  {
+    "air_date": "2019-09-14",
+    "episode_count": 2,
+    "id": 131211,
+    "name": "Specials",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 0,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2019-01-02",
+    "episode_count": 10,
+    "id": 114262,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/3hCRiuZRUd4uytBafTejtHQ90zJ.jpg",
+    "season_number": 1,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2019-09-25",
+    "episode_count": 13,
+    "id": 127063,
+    "name": "Season 2",
+    "overview": "",
+    "poster_path": "/58XRTZSKu9beFoLd8cCTZRa7NGs.jpg",
+    "season_number": 2,
+    "vote_average": 7.0
+  },
+  {
+    "air_date": "2020-02-02",
+    "episode_count": 22,
+    "id": 134984,
+    "name": "Season 3",
+    "overview": "This season, the 18 fully disguised celebrity singers will be split into three groups of six: Group A, Group B and Group C. Group A will kick off the first three episodes as they are whittled down to three singers, taking off masks as they go. Then Group B will take the stage as they go from six to three, then Group C. The final nine masked contestants from all three groups will then come together as they continue to battle for the Golden Mask Trophy. Season Three will introduce all-new custom-made costumes for the celebrity singers to wear, including The Robot, The Frog, The Banana, The Mouse, Miss Monster and The Llama, among others.",
+    "poster_path": "/AmbHki0cYU6tVOLiT51mumr4VT4.jpg",
+    "season_number": 3,
+    "vote_average": 1.0
+  },
+  {
+    "air_date": "2020-09-23",
+    "episode_count": 13,
+    "id": 157664,
+    "name": "Season 4",
+    "overview": "",
+    "poster_path": "/y90vIG3LY7okHfF444hK1IgHnvg.jpg",
+    "season_number": 4,
+    "vote_average": 8.0
+  },
+  {
+    "air_date": "2021-03-10",
+    "episode_count": 12,
+    "id": 180564,
+    "name": "Season 5",
+    "overview": "The Season Five contestants boast a combined 26 Grammy Award nominations, nine multi-Platinum singles, four Academy Award nominations, three Super Bowl appearances, six gold medals and two world records! All will be unmasked, but only one will win the coveted Golden Mask Trophy.",
+    "poster_path": "/uyYpPPIV3iNPBkgdtGtSmempBeZ.jpg",
+    "season_number": 5,
+    "vote_average": 10.0
+  },
+  {
+    "air_date": "2021-09-22",
+    "episode_count": 15,
+    "id": 203677,
+    "name": "Season 6",
+    "overview": "The Season Six contestants boast a combined 85 Grammy Nominations and 27 wins, three Academy Award nominations, 12 Emmy Nominations, 12 Razzie Award Nominations, two Super Bowl appearances and two Lifetime Achievement Awards.",
+    "poster_path": "/wxzZUSr09FgS8Vyz56qSVR2jh0w.jpg",
+    "season_number": 6,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2022-03-09",
+    "episode_count": 11,
+    "id": 241596,
+    "name": "Season 7",
+    "overview": "",
+    "poster_path": "/4zhML13LMnDrdWsKlFCX69106tS.jpg",
+    "season_number": 7,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2022-09-21",
+    "episode_count": 12,
+    "id": 297015,
+    "name": "Season 8",
+    "overview": "The formatting for the season sees three contestants battle in each episode, with one eliminated mid-show while the other two battle out. A king/queen is crowned at the end of each episode who then moves on to the following episode, while the other in the top two gets eliminated. The season also includes themed nights for the first time.",
+    "poster_path": "/oDRyaEl0OfSfoX1yVQSi75un1Wq.jpg",
+    "season_number": 8,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2023-02-15",
+    "episode_count": 14,
+    "id": 324560,
+    "name": "Season 9",
+    "overview": "",
+    "poster_path": "/yMMcPD8z8e1UQr4UlxDeVNopYDM.jpg",
+    "season_number": 9,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2023-09-10",
+    "episode_count": 13,
+    "id": 350544,
+    "name": "Season 10",
+    "overview": "In honor of its milestone 10th season, \"The Masked Singer\" celebrates with the biggest and boldest costumes in the show's history -- with the buzziest and brightest celebrities underneath. The season features the return of special theme nights.",
+    "poster_path": "/g2y2duCEYzCsfG4vbnTKKhUST5w.jpg",
+    "season_number": 10,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2024-03-06",
+    "episode_count": 13,
+    "id": 367867,
+    "name": "Season 11",
+    "overview": "",
+    "poster_path": "/9bNDi2DuqEvsP1RuNKPjO9aLVKs.jpg",
+    "season_number": 11,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2024-09-25",
+    "episode_count": 12,
+    "id": 406943,
+    "name": "Season 12",
+    "overview": "",
+    "poster_path": "/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg",
+    "season_number": 12,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2025-02-12",
+    "episode_count": 13,
+    "id": 435162,
+    "name": "Season 13",
+    "overview": "",
+    "poster_path": "/sIqGAS5o1WsuCaZ1q5Qnuj4Z4Q5.jpg",
+    "season_number": 13,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": null,
+    "episode_count": 0,
+    "id": 467430,
+    "name": "Season 14",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 14,
+    "vote_average": 0.0
+  }
+]

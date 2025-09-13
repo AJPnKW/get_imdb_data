@@ -1,0 +1,429 @@
+{
+  "adult": false,
+  "backdrop_path": "/w1beuDq08J0zUmi5uJPMvpWK9rv.jpg",
+  "created_by": [
+    {
+      "id": 3350499,
+      "credit_id": "6262ac24f48e0d0067455141",
+      "name": "Alice Oseman",
+      "original_name": "Alice Oseman",
+      "gender": 1,
+      "profile_path": "/2ULv1kjveMBdg0YX0q8jBn6EBok.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2022-04-22",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81059939",
+  "id": 124834,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-10-03",
+  "last_episode_to_air": {
+    "id": 5525537,
+    "name": "Apart",
+    "overview": "Nick and the girls go on a road trip to look at unis, as he tries to decide whether to stay near Charlie or move away. Sahar's band plays at a fete.",
+    "vote_average": 8.9,
+    "vote_count": 13,
+    "air_date": "2024-10-03",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 36,
+    "season_number": 3,
+    "show_id": 124834,
+    "still_path": "/K8WdfAa0usM6re9RANr6UHcNBJ.jpg"
+  },
+  "name": "Heartstopper",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Heartstopper",
+  "overview": "Teens Charlie and Nick discover their unlikely friendship might be something more as they navigate school and young love in this coming-of-age series.",
+  "popularity": 8.0722,
+  "poster_path": "/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg",
+  "production_companies": [
+    {
+      "id": 7217,
+      "logo_path": "/vFbexaF70wSMUHRA6Fy6UcuA1ju.png",
+      "name": "See-Saw Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-04-22",
+      "episode_count": 8,
+      "id": 193509,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6WULLvLZYQX3xNfs5S9H6BVFdgD.jpg",
+      "season_number": 1,
+      "vote_average": 9.0
+    },
+    {
+      "air_date": "2023-08-03",
+      "episode_count": 8,
+      "id": 309720,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/p0AtD0ivSlHq2MHY6JFgyhNqAQY.jpg",
+      "season_number": 2,
+      "vote_average": 9.2
+    },
+    {
+      "air_date": "2024-10-03",
+      "episode_count": 8,
+      "id": 355524,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/fBbhBvFEVgVxWrBbOJDzDjcVXM4.jpg",
+      "season_number": 3,
+      "vote_average": 8.8
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "The beginning of one thing can be the rest of everything.",
+  "type": "Scripted",
+  "vote_average": 8.6,
+  "vote_count": 1587,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3467732,
+        "known_for_department": "Acting",
+        "name": "Joe Locke",
+        "original_name": "Joe Locke",
+        "popularity": 0.4276,
+        "profile_path": "/h9yUwpFMoJhfCVZXzVmoNDDUhti.jpg",
+        "character": "Charlie Spring",
+        "credit_id": "6231f4ca71458f0045e0cb41",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1538851,
+        "known_for_department": "Acting",
+        "name": "Kit Connor",
+        "original_name": "Kit Connor",
+        "popularity": 1.3607,
+        "profile_path": "/ut64CyBwiRudb3DxOgUa2j9Wxep.jpg",
+        "character": "Nick Nelson",
+        "credit_id": "60916d33af3da600785fe338",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3350493,
+        "known_for_department": "Acting",
+        "name": "William Gao",
+        "original_name": "William Gao",
+        "popularity": 0.3756,
+        "profile_path": "/vrNkj8V9pYYdOYaN9NFEHQqLpPH.jpg",
+        "character": "Tao Xu",
+        "credit_id": "61bcd3b6d14443004142d954",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3073079,
+        "known_for_department": "Acting",
+        "name": "Yasmin Finney",
+        "original_name": "Yasmin Finney",
+        "popularity": 0.2161,
+        "profile_path": "/lmTvK5OwsAAvHpOnXXnULsYKMQW.jpg",
+        "character": "Elle Argent",
+        "credit_id": "60916d48168ea30079e4e9ac",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1931580,
+        "known_for_department": "Acting",
+        "name": "Corinna Brown",
+        "original_name": "Corinna Brown",
+        "popularity": 0.1948,
+        "profile_path": "/gBcjRX2aTvDjHF81FirMcc3ZMYs.jpg",
+        "character": "Tara Jones",
+        "credit_id": "64948857e22d2800e8d52ffd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3350492,
+        "known_for_department": "Acting",
+        "name": "Kizzy Edgell",
+        "original_name": "Kizzy Edgell",
+        "popularity": 0.1646,
+        "profile_path": "/x7CziqrHsqekyn2jdyAkyDbpJvw.jpg",
+        "character": "Darcy Olsson",
+        "credit_id": "6494886acfe48f013ac2d7cb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3350495,
+        "known_for_department": "Acting",
+        "name": "Tobie Donovan",
+        "original_name": "Tobie Donovan",
+        "popularity": 0.1387,
+        "profile_path": "/mcQbIzEWJoFcaeLCHtY4xH9ECBF.jpg",
+        "character": "Isaac Henderson",
+        "credit_id": "6494896a6b5fc200ad8dbd3e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3350494,
+        "known_for_department": "Acting",
+        "name": "Rhea Norwood",
+        "original_name": "Rhea Norwood",
+        "popularity": 0.1306,
+        "profile_path": "/fUk1l9dIpdjkx31YSc34yqIXh1N.jpg",
+        "character": "Imogen Heaney",
+        "credit_id": "649488afd861af00af35a0bf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3350496,
+        "known_for_department": "Acting",
+        "name": "Jenny Walser",
+        "original_name": "Jenny Walser",
+        "popularity": 0.1897,
+        "profile_path": "/oIgm9HEn0w8lHg1aVJVPjZZAtCU.jpg",
+        "character": "Tori Spring",
+        "credit_id": "64cbe8c2706e56012d64ff3a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4142627,
+        "known_for_department": "Acting",
+        "name": "Leila Khan",
+        "original_name": "Leila Khan",
+        "popularity": 0.1075,
+        "profile_path": "/seA5UflCk288Kwsk0SLQVSMHuEq.jpg",
+        "character": "Sahar Zahid",
+        "credit_id": "64cbeeca764b99013af6ae12",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1937977,
+        "known_for_department": "Directing",
+        "name": "Andy Newbery",
+        "original_name": "Andy Newbery",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "credit_id": "66fe6a94c9a10d46ea7c88fc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2445317,
+        "known_for_department": "Crew",
+        "name": "Simona Susnea",
+        "original_name": "Simona Susnea",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "677c5020ec51791dfe66962c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3350501,
+        "known_for_department": "Sound",
+        "name": "Adiescar Chase",
+        "original_name": "Adiescar Chase",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "677c502b8fd6f5109d72f0db",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3110442,
+        "known_for_department": "Directing",
+        "name": "Sam Arbor",
+        "original_name": "Sam Arbor",
+        "popularity": 0.0214,
+        "profile_path": null,
+        "credit_id": "679d2f1aebb9962403261123",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3350499,
+        "known_for_department": "Writing",
+        "name": "Alice Oseman",
+        "original_name": "Alice Oseman",
+        "popularity": 0.0861,
+        "profile_path": "/2ULv1kjveMBdg0YX0q8jBn6EBok.jpg",
+        "credit_id": "68079ef8b082db6279ee19ee",
+        "department": "Writing",
+        "job": "Graphic Novel"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "6"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TH",
+        "rating": "น 13+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "T"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "LT",
+        "rating": "N-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "R21"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "10"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "HU",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CZ",
+        "rating": "15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NZ",
+        "rating": "M"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "M"
+      }
+    ]
+  }
+}

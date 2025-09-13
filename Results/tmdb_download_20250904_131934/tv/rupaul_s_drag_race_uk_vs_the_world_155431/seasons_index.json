@@ -1,0 +1,46 @@
+[
+  {
+    "air_date": "2022-01-18",
+    "episode_count": 2,
+    "id": 240404,
+    "name": "Specials",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 0,
+    "vote_average": 0.0,
+    "_season_poster_url": ""
+  },
+  {
+    "air_date": "2022-02-01",
+    "episode_count": 6,
+    "id": 239608,
+    "name": "Series 1",
+    "overview": "The UK is the host nation as nine fan favorite queens enter the international arena to compete for the title of \"Queen of the Mothertucking World!”. Each week their charisma, uniqueness, nerve, and talent is put to the test through next level fashion, dancing, singing, and comedy.",
+    "poster_path": "/r1NhZD6npcpgd2BGEZWf8nfhF6I.jpg",
+    "season_number": 1,
+    "vote_average": 6.8,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/r1NhZD6npcpgd2BGEZWf8nfhF6I.jpg"
+  },
+  {
+    "air_date": "2024-02-08",
+    "episode_count": 8,
+    "id": 374274,
+    "name": "Series 2",
+    "overview": "We're headed back to the Top of the Mothertucking World! RuPaul's Drag Race UK vs The World is back, starring queens from across the Drag Race franchise competing to be crowned Queen of the Mothertucking World.",
+    "poster_path": "/vkeHnXg10j4tDwC7fV2CUUet0Ko.jpg",
+    "season_number": 2,
+    "vote_average": 7.7,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/vkeHnXg10j4tDwC7fV2CUUet0Ko.jpg"
+  },
+  {
+    "air_date": null,
+    "episode_count": 0,
+    "id": 458022,
+    "name": "Series 3",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 3,
+    "vote_average": 0.0,
+    "_season_poster_url": ""
+  }
+]

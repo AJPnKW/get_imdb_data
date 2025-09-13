@@ -1,0 +1,32 @@
+[
+  {
+    "air_date": "2024-07-15",
+    "episode_count": 1,
+    "id": 461953,
+    "name": "Specials",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 0,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2024-08-16",
+    "episode_count": 12,
+    "id": 353090,
+    "name": "Season 1",
+    "overview": "RuPaul invites 12 of the world's best ever Drag Race queens to come together to compete in a series of hilarious and glamorous challenges. But only one queen will get to wear the crown in this, the first ever, season of Drag Race Global Allstars.",
+    "poster_path": "/jbtW0zyr2fwo6SEOLK9jbq7ihZZ.jpg",
+    "season_number": 1,
+    "vote_average": 6.7
+  },
+  {
+    "air_date": null,
+    "episode_count": 0,
+    "id": 458026,
+    "name": "Season 2",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 2,
+    "vote_average": 0.0
+  }
+]

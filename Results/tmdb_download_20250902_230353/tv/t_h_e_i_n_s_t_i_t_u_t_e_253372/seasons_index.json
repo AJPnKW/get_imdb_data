@@ -1,0 +1,22 @@
+[
+  {
+    "air_date": "2025-07-13",
+    "episode_count": 8,
+    "id": 391947,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg",
+    "season_number": 1,
+    "vote_average": 8.7
+  },
+  {
+    "air_date": null,
+    "episode_count": 3,
+    "id": 471908,
+    "name": "Season 2",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 2,
+    "vote_average": 0.0
+  }
+]

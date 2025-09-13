@@ -1,0 +1,876 @@
+row_type,show_id,show_name,season_number,episode_number,id,title,name,air_date,runtime,status,genres,vote_average,vote_count,popularity,homepage,poster_url,backdrop_url,imdb_id,providers_flatrate_CA,providers_rent_CA,providers_buy_CA,providers_ads_CA,providers_link_CA,episode_still_url
+movie,,,,,83533,Avatar: Fire and Ash,,2025-12-17,192,Post Production,Science Fiction|Adventure|Fantasy,0.0,0,14.8519,https://www.avatar.com/movies/avatar-fire-and-ash,https://image.tmdb.org/t/p/w500/cf7hE1ifY4UNbS25tGnaTyyDrI2.jpg,https://image.tmdb.org/t/p/w780/pN3eaCl3sqwrerU8UNdp40F2mK0.jpg,tt1757678,,,,,,
+movie,,,,,1125257,Freakier Friday,,2025-08-06,111,Released,Comedy|Fantasy|Family,6.9,153,135.0137,https://movies.disney.com/freakier-friday,https://image.tmdb.org/t/p/w500/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg,https://image.tmdb.org/t/p/w780/dcLV5rEXuQRW0ZlB7IMLArHMyWh.jpg,tt31956415,,,,,,
+movie,,,,,1159559,Scream 7,,2026-02-25,0,Post Production,Horror|Mystery,0.0,0,2.9744,,https://image.tmdb.org/t/p/w500/jcejzY3BakzUVvRX3I4bsDQPlTd.jpg,,tt27047903,,,,,,
+movie,,,,,1078605,Weapons,,2025-08-04,129,Released,Horror|Mystery,7.466,743,180.903,https://www.warnerbros.com/movies/weapons,https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg,https://image.tmdb.org/t/p/w780/Q2OajDi2kcO6yErb1IAyVDTKMs.jpg,tt26581740,,,,,,
+show,125935,Abbott Elementary,,,125935,,Abbott Elementary,2021-12-07,,Returning Series,Comedy,7.46,223,9.7172,https://abc.com/shows/abbott-elementary,https://image.tmdb.org/t/p/w500/7bZwZ1of6HCUarYoJDIivzk9h2G.jpg,https://image.tmdb.org/t/p/w780/fUOau1xdpQdJmVWs32IDZlKYYvr.jpg,tt14218830,Disney Plus,,Apple TV,,https://www.themoviedb.org/tv/125935-abbott-elementary/watch?locale=CA,
+season,125935,Abbott Elementary,1,,125935_S1,,Season 1,2021-12-07,,,,,,,,https://image.tmdb.org/t/p/w342/AsaunUQLjC4tnRVALu0D4jtzwFy.jpg,,,,,,,,
+season,125935,Abbott Elementary,2,,125935_S2,,Season 2,2022-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/nkktkKeIfzuQfuS6f2hXenoTtJz.jpg,,,,,,,,
+season,125935,Abbott Elementary,3,,125935_S3,,Season 3,2024-02-07,,,,,,,,https://image.tmdb.org/t/p/w342/11l2yxOAI1XHD9vTq6AAUJ5eW0g.jpg,,,,,,,,
+season,125935,Abbott Elementary,4,,125935_S4,,Season 4,2024-10-09,,,,,,,,https://image.tmdb.org/t/p/w342/vYZKmKdxqc1Gj94vLevYAvAcBIB.jpg,,,,,,,,
+season,125935,Abbott Elementary,5,,125935_S5,,Season 5,2025-10-01,,,,,,,,,,,,,,,,
+episode,125935,Abbott Elementary,5,1,6388496,,Episode 1,2025-10-01,,,,0.0,0,,,,,,,,,,,
+episode,125935,Abbott Elementary,5,2,6388538,,Episode 2,2025-10-08,,,,0.0,0,,,,,,,,,,,
+show,157239,Alien: Earth,,,157239,,Alien: Earth,2025-08-12,,Returning Series,Sci-Fi & Fantasy|Drama,7.7,317,302.4176,https://www.fxnetworks.com/shows/alien-earth,https://image.tmdb.org/t/p/w500/yueXS3q8BtoWekcHOATFHicLl3e.jpg,https://image.tmdb.org/t/p/w780/25g7mthXoJFcNZhAKz0evk17Bsx.jpg,tt13623632,Disney Plus|Citytvplus Amazon Channel|Citytvplus,,,,https://www.themoviedb.org/tv/157239-alien-earth/watch?locale=CA,
+season,157239,Alien: Earth,1,,157239_S1,,Season 1,2025-08-12,,,,,,,,https://image.tmdb.org/t/p/w342/BlztDCnoRQ31dDxsxa9EY2xdz3.jpg,,,,,,,,
+episode,157239,Alien: Earth,1,1,5324625,,Neverland,2025-08-12,65,,,7.7,55,,,,,,,,,,,https://image.tmdb.org/t/p/w300/d4cydmliyqDZyBWkxkliiED4B0G.jpg
+episode,157239,Alien: Earth,1,2,6231083,,Mr. October,2025-08-12,56,,,7.9,45,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9WuCOVusEcQNN4aQQAkqB8wNwqf.jpg
+episode,157239,Alien: Earth,1,3,6231084,,Metamorphosis,2025-08-19,55,,,7.6,28,,,,,,,,,,,https://image.tmdb.org/t/p/w300/lgAXMdVrNZfKBmI5MFsUP47R18e.jpg
+episode,157239,Alien: Earth,1,4,6231085,,Observation,2025-08-26,60,,,7.1,20,,,,,,,,,,,https://image.tmdb.org/t/p/w300/a4OKNiA0lsdP3PnfFAk9JSBaEsR.jpg
+episode,157239,Alien: Earth,1,5,6231086,,"In Space, No One...",2025-09-02,66,,,7.455,11,,,,,,,,,,,https://image.tmdb.org/t/p/w300/aMF5pmco3ABNI9s663gKF0jE8wg.jpg
+episode,157239,Alien: Earth,1,6,6231388,,The Fly,2025-09-09,,,,0.0,0,,,,,,,,,,,
+episode,157239,Alien: Earth,1,7,6231389,,Emergence,2025-09-16,,,,0.0,0,,,,,,,,,,,
+episode,157239,Alien: Earth,1,8,6231390,,The Real Monsters,2025-09-23,,,,0.0,0,,,,,,,,,,,
+show,94038,Canada's Drag Race,,,94038,,Canada's Drag Race,2020-07-02,,Returning Series,Reality,6.7,26,3.1555,https://www.crave.ca/en/tv-shows/canadas-drag-race,https://image.tmdb.org/t/p/w500/r8G6fGecnYoW5ARqwl3a8hr8djl.jpg,https://image.tmdb.org/t/p/w780/1vmRCkeLKlQee4CXeyah9qcN3pE.jpg,tt11382554,Crave|WOW Presents Plus|OUTtv Amazon Channel|OUTtv Apple TV Channel,,Apple TV,,https://www.themoviedb.org/tv/94038-canada-s-drag-race/watch?locale=CA,
+season,94038,Canada's Drag Race,0,,94038_S0,,Specials,2020-05-14,,,,,,,,https://image.tmdb.org/t/p/w342/8EjTeNQbKOfLl3kaKRlyx8VcB9o.jpg,,,,,,,,
+season,94038,Canada's Drag Race,1,,94038_S1,,Season 1,2020-07-01,,,,,,,,https://image.tmdb.org/t/p/w342/6xw892pAFUs0xdQY3wYFcKcXilS.jpg,,,,,,,,
+season,94038,Canada's Drag Race,2,,94038_S2,,Season 2,2021-10-14,,,,,,,,https://image.tmdb.org/t/p/w342/dBfHSMJXjLHsMdxK9C3xgOgbCwm.jpg,,,,,,,,
+season,94038,Canada's Drag Race,3,,94038_S3,,Season 3,2022-07-14,,,,,,,,https://image.tmdb.org/t/p/w342/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg,,,,,,,,
+season,94038,Canada's Drag Race,4,,94038_S4,,Season 4,2023-11-16,,,,,,,,https://image.tmdb.org/t/p/w342/39zGuG2Tym4bqIvmxcIg6A0herS.jpg,,,,,,,,
+season,94038,Canada's Drag Race,5,,94038_S5,,Season 5,2024-11-21,,,,,,,,https://image.tmdb.org/t/p/w342/bTSVutatNt7AIhUS6v4VPEIsQTX.jpg,,,,,,,,
+episode,94038,Canada's Drag Race,5,1,5696909,,Go Off Queen,2024-11-21,60,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tUlzlPfYsPN1VNTw1KZiQaTpfYS.jpg
+episode,94038,Canada's Drag Race,5,2,5696910,,Greetings Queenlings,2024-11-28,60,,,6.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/mJQpaRF1OnTRFC0DiZ0UR3ia8Yq.jpg
+episode,94038,Canada's Drag Race,5,3,5696911,,The Slayoffs: Teams Edition,2024-12-05,60,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/cnE1SXt7BrwHFaMFnlOTXZhJkJU.jpg
+episode,94038,Canada's Drag Race,5,4,5696912,,Fast Fashion,2024-12-12,61,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/mKRT96fO3lnW8GlnZX17N8DmQNT.jpg
+episode,94038,Canada's Drag Race,5,5,5696913,,The One Where They Went ‘90s,2024-12-19,60,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/sjmlENkkdN7omMCXTVKz8OMuQ46.jpg
+episode,94038,Canada's Drag Race,5,6,5696914,,Surviving Snatch Game,2024-12-26,60,,,6.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/u7pcgZowFgMkd9eNv3IvyXW0GLZ.jpg
+episode,94038,Canada's Drag Race,5,7,5696915,,The Devil Wore Custom,2025-01-02,60,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/jCVGwvfigdbl2dCGNkO6PJJvRsR.jpg
+episode,94038,Canada's Drag Race,5,8,5696916,,What Just Happened?!,2025-01-09,60,,,6.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/buowG063z5mzgX3R7nzfX6NildK.jpg
+episode,94038,Canada's Drag Race,5,9,5696917,,Grand Finale,2025-01-16,60,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rvxuDx96oGV6vjYbbBIbTSu9FfP.jpg
+show,203734,Canada's Drag Race: Canada vs The World,,,203734,,Canada's Drag Race: Canada vs The World,2022-11-18,,Returning Series,Reality,4.7,10,0.838,,https://image.tmdb.org/t/p/w500/amJ1PVPOAoke0B6xo3YyephlFh3.jpg,https://image.tmdb.org/t/p/w780/tQKdXH7y2XyN9xAIWi8DyFnhfnf.jpg,tt19357598,Crave,,Apple TV,,https://www.themoviedb.org/tv/203734-canada-s-drag-race-canada-vs-the-world/watch?locale=CA,
+season,203734,Canada's Drag Race: Canada vs The World,0,,203734_S0,,Specials,2022-10-17,,,,,,,,,,,,,,,,
+season,203734,Canada's Drag Race: Canada vs The World,1,,203734_S1,,Season 1,2022-11-18,,,,,,,,https://image.tmdb.org/t/p/w342/2WXnJ6FWbMy7aQIiZRwxlui74rS.jpg,,,,,,,,
+season,203734,Canada's Drag Race: Canada vs The World,2,,203734_S2,,Season 2,2024-07-19,,,,,,,,https://image.tmdb.org/t/p/w342/kDCIvmexeNW0fQVQtLVKfzFTT0y.jpg,,,,,,,,
+episode,203734,Canada's Drag Race: Canada vs The World,2,1,5438254,,Drag Pop,2024-07-19,70,,,7.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/dzIi5iCpNbs6UhO1MGTe7YHLjqO.jpg
+episode,203734,Canada's Drag Race: Canada vs The World,2,2,5473651,,The Hole,2024-07-26,59,,,7.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/nx2NdnodimtpVZpEHuCuUaz21Xp.jpg
+episode,203734,Canada's Drag Race: Canada vs The World,2,3,5473652,,Glamorous Drag Queen Ball Challenge,2024-08-02,59,,,6.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/sJcjir1U8SrWKQVATDLVKYoTJDW.jpg
+episode,203734,Canada's Drag Race: Canada vs The World,2,4,5473653,,Reading Battles,2024-08-09,59,,,8.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/4HSRqZTL7dgIaFoM6WG97d1SaF3.jpg
+episode,203734,Canada's Drag Race: Canada vs The World,2,5,5473654,,Snatch Game: The Rusical,2024-08-16,60,,,6.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/icjsWDvvZYmJZmRD6D3rmfsKD0R.jpg
+episode,203734,Canada's Drag Race: Canada vs The World,2,6,5473656,,Grand Finale,2024-08-23,59,,,8.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/yKWwx20lIxoZ4GWBPZ10Ij8p37O.jpg
+show,1419,Castle,,,1419,,Castle,2009-03-09,,Canceled,Drama|Crime,7.986,1974,48.0963,,https://image.tmdb.org/t/p/w500/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg,https://image.tmdb.org/t/p/w780/xEtiiv2uhGr9IPgeruuECIfyfin.jpg,tt1219024,Disney Plus|Crave,,Apple TV,,https://www.themoviedb.org/tv/1419-castle/watch?locale=CA,
+season,1419,Castle,1,,1419_S1,,Season 1,2009-03-09,,,,,,,,https://image.tmdb.org/t/p/w342/9OE42PKojV7IueBxAAhbQbyfc6L.jpg,,,,,,,,
+season,1419,Castle,2,,1419_S2,,Season 2,2009-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/xA3s9Ti1p2kfoW9GBUXeZ2U6NE8.jpg,,,,,,,,
+season,1419,Castle,3,,1419_S3,,Season 3,2010-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/d5IgnFWM6r3K8N2S8SROdUZwpsE.jpg,,,,,,,,
+season,1419,Castle,4,,1419_S4,,Season 4,2011-09-19,,,,,,,,https://image.tmdb.org/t/p/w342/1A0iHY52nytMmcbAY2aLmAvRYz1.jpg,,,,,,,,
+season,1419,Castle,5,,1419_S5,,Season 5,2012-09-24,,,,,,,,https://image.tmdb.org/t/p/w342/xKcKk1lkagwIOC4ygfeQhCECdFh.jpg,,,,,,,,
+season,1419,Castle,6,,1419_S6,,Season 6,2013-09-23,,,,,,,,https://image.tmdb.org/t/p/w342/ccJOoVJQt3Cny1vchKmPtopa4SA.jpg,,,,,,,,
+season,1419,Castle,7,,1419_S7,,Season 7,2014-09-29,,,,,,,,https://image.tmdb.org/t/p/w342/fLVi4LHqAcwGALlrLbVsqRHLOj3.jpg,,,,,,,,
+season,1419,Castle,8,,1419_S8,,Season 8,2015-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/4kBBvhlXb60ggaEEBiL7pURcFga.jpg,,,,,,,,
+episode,1419,Castle,8,1,1089781,,XY (1),2015-09-21,44,,,7.6,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/uWrzJXeVgsElPLX1LI9Fw4GFAFK.jpg
+episode,1419,Castle,8,2,1099823,,XX (2),2015-09-28,44,,,6.9,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/7Kv8VGAeO0HKwKkt5CyB8zIfEeH.jpg
+episode,1419,Castle,8,3,1099825,,PhDead,2015-10-05,44,,,6.8,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/dc4kNdL9l10wZSsyRIchk9r57zC.jpg
+episode,1419,Castle,8,4,1099824,,What Lies Beneath,2015-10-12,44,,,7.2,12,,,,,,,,,,,https://image.tmdb.org/t/p/w300/2CeazRPT8O3SvODUkgYkMvKdQMT.jpg
+episode,1419,Castle,8,5,1108117,,The Nose,2015-10-19,44,,,7.7,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/fh4WU2xy5AWRUF5wo4HaGcK4ORv.jpg
+episode,1419,Castle,8,6,1132274,,Cool Boys,2015-11-09,44,,,7.6,12,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tyGS19HbtVMxs03EmnE2cktqhlI.jpg
+episode,1419,Castle,8,7,1108118,,The Last Seduction,2015-11-16,44,,,7.5,12,,,,,,,,,,,https://image.tmdb.org/t/p/w300/Auyzzte3VgVRVl412bUULY0ffgq.jpg
+episode,1419,Castle,8,8,1116407,,Mr. & Mrs. Castle,2015-11-23,43,,,6.8,12,,,,,,,,,,,https://image.tmdb.org/t/p/w300/f49ZHiWYONBhwiF2ufQbVbJX4Tf.jpg
+episode,1419,Castle,8,9,1139468,,Tone Death,2016-02-08,44,,,7.2,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/4nL27bQ4owepZRCLiy2plHiH4qA.jpg
+episode,1419,Castle,8,10,1160193,,Witness for the Prosecution,2016-02-14,44,,,6.7,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/qetdDOtg1voMYwfVyb1UxCbG93x.jpg
+episode,1419,Castle,8,11,1160194,,Dead Red,2016-02-15,44,,,7.1,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/xn4wIEsGAFKtNZpQ7aBZxPILkP8.jpg
+episode,1419,Castle,8,12,1165699,,The Blame Game,2016-02-22,44,,,7.3,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/dvEi1Lc2s3vNvgmgMjKVeV1wEQC.jpg
+episode,1419,Castle,8,13,1165700,,And Justice for All,2016-02-29,44,,,7.3,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/yywShoDqwQVxYMla5SS2GgSirzL.jpg
+episode,1419,Castle,8,14,1165954,,The G.D.S.,2016-03-07,44,,,6.9,15,,,,,,,,,,,https://image.tmdb.org/t/p/w300/70WeayTOAnJc7g9VTS5PrArIX0K.jpg
+episode,1419,Castle,8,15,1165957,,Fidelis Ad Mortem,2016-03-21,44,,,7.5,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/iK3waP5PsaxO0ZCD1pbqaWSVYnC.jpg
+episode,1419,Castle,8,16,1165955,,Heartbreaker,2016-04-04,44,,,7.4,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/jxmpvEJdFSwmRiJACiaCYMuUcC8.jpg
+episode,1419,Castle,8,17,1165956,,Death Wish,2016-04-11,43,,,7.2,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/fA88GxacCNnZwB13K4HHaEbRdRZ.jpg
+episode,1419,Castle,8,18,1172660,,Backstabber,2016-04-18,44,,,7.4,12,,,,,,,,,,,https://image.tmdb.org/t/p/w300/hGW1xDkf1W5OiX0YEiW8A9f2Qc2.jpg
+episode,1419,Castle,8,19,1177125,,Dead Again,2016-04-25,44,,,7.6,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tSDNjS5TOXDXNHnH3V8qNVwhGKf.jpg
+episode,1419,Castle,8,20,1189483,,Much Ado About Murder,2016-05-02,44,,,7.1,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9Qo5uQjrty0Z08xViyr4gRBwZdB.jpg
+episode,1419,Castle,8,21,1189484,,Hell to Pay,2016-05-09,44,,,7.5,18,,,,,,,,,,,https://image.tmdb.org/t/p/w300/lW9XfR4igwebajhXj1Np75Rmpw9.jpg
+episode,1419,Castle,8,22,1191118,,Crossfire,2016-05-16,44,,,6.8,12,,,,,,,,,,,https://image.tmdb.org/t/p/w300/gi3cSj8EvUFUDUvrDhoYrfuMIjv.jpg
+show,4057,Criminal Minds,,,4057,,Criminal Minds,2005-09-22,,Returning Series,Crime|Drama|Mystery,8.3,3914,93.4784,https://www.paramountplus.com/shows/criminal_minds,https://image.tmdb.org/t/p/w500/k6LX0rJOYeF4fNzfVlCGxWPTmE5.jpg,https://image.tmdb.org/t/p/w780/w88B4ooZ2LSYPw5107JOkjvI8PI.jpg,tt0452046,Disney Plus|Paramount Plus|Paramount+ Amazon Channel|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV,CTV,https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=CA,
+season,4057,Criminal Minds,1,,4057_S1,,Season 1,2005-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/7igSTed2htAIEXAMuUJSrk05ERV.jpg,,,,,,,,
+season,4057,Criminal Minds,2,,4057_S2,,Season 2,2006-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/5RkngSb1jo4DpFfTkxCdFGZtubO.jpg,,,,,,,,
+season,4057,Criminal Minds,3,,4057_S3,,Season 3,2007-09-26,,,,,,,,https://image.tmdb.org/t/p/w342/iAMSBqbzn6sL1n2b5KM1INlBqko.jpg,,,,,,,,
+season,4057,Criminal Minds,4,,4057_S4,,Season 4,2008-09-24,,,,,,,,https://image.tmdb.org/t/p/w342/yNZ2AJpahtcAytB5IYdLpRmiDsZ.jpg,,,,,,,,
+season,4057,Criminal Minds,5,,4057_S5,,Season 5,2009-09-23,,,,,,,,https://image.tmdb.org/t/p/w342/uq4zzJkJ3kGEdd2SoFoN4k8tkGl.jpg,,,,,,,,
+season,4057,Criminal Minds,6,,4057_S6,,Season 6,2010-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/6vcbxnn5BDR1bxNUVByEShFNpNf.jpg,,,,,,,,
+season,4057,Criminal Minds,7,,4057_S7,,Season 7,2011-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/3F83aqGQA8gliWPAR4pmS8UUcOJ.jpg,,,,,,,,
+season,4057,Criminal Minds,8,,4057_S8,,Season 8,2012-09-26,,,,,,,,https://image.tmdb.org/t/p/w342/x3iTTaUnnIs2sRmKW1l61LOvwLm.jpg,,,,,,,,
+season,4057,Criminal Minds,9,,4057_S9,,Season 9,2013-09-25,,,,,,,,https://image.tmdb.org/t/p/w342/dNL2tC2EDphFRV5nk0GfpvHXdP2.jpg,,,,,,,,
+season,4057,Criminal Minds,10,,4057_S10,,Season 10,2014-10-01,,,,,,,,https://image.tmdb.org/t/p/w342/4lGrSVKoCaSd3rj0ObErw9aZMhZ.jpg,,,,,,,,
+season,4057,Criminal Minds,11,,4057_S11,,Season 11,2015-09-30,,,,,,,,https://image.tmdb.org/t/p/w342/kKnmgCQCAiqnueSYeAtdhxRipAF.jpg,,,,,,,,
+season,4057,Criminal Minds,12,,4057_S12,,Season 12,2016-09-28,,,,,,,,https://image.tmdb.org/t/p/w342/AkPJTmMLMt9mYjDbU3cXRtVHXUC.jpg,,,,,,,,
+season,4057,Criminal Minds,13,,4057_S13,,Season 13,2017-09-27,,,,,,,,https://image.tmdb.org/t/p/w342/mf7o44gtDHZvbVWzvxxflCYFcKX.jpg,,,,,,,,
+season,4057,Criminal Minds,14,,4057_S14,,Season 14,2018-10-03,,,,,,,,https://image.tmdb.org/t/p/w342/sHcR0u81jydfWPCBjWLVk82llAT.jpg,,,,,,,,
+season,4057,Criminal Minds,15,,4057_S15,,Season 15,2020-01-08,,,,,,,,https://image.tmdb.org/t/p/w342/8GOVxAbq2cPd0rknDnFqODQNccs.jpg,,,,,,,,
+season,4057,Criminal Minds,16,,4057_S16,,Season 16: Evolution,2022-11-24,,,,,,,,https://image.tmdb.org/t/p/w342/4R3NdjNPfA2RTIrFnvFmoP4KGZQ.jpg,,,,,,,,
+season,4057,Criminal Minds,17,,4057_S17,,Season 17: Evolution Season 2,2024-06-06,,,,,,,,https://image.tmdb.org/t/p/w342/8d8qAa4Gt5Rmx0efTB9hNtPh8j3.jpg,,,,,,,,
+season,4057,Criminal Minds,18,,4057_S18,,Season 18: Evolution Season 3,2025-05-08,,,,,,,,https://image.tmdb.org/t/p/w342/gigxjNnACiXAfrwoMox5WJFgc0I.jpg,,,,,,,,
+episode,4057,Criminal Minds,18,1,5671531,,Swimmer's Calculus,2025-05-08,48,,,8.6,5,,,,,,,,,,,https://image.tmdb.org/t/p/w300/en1jjh4HrXZN8OkxyjK69ceXAqK.jpg
+episode,4057,Criminal Minds,18,2,6047488,,The Zookeeper,2025-05-15,58,,,8.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/zk7h1EoYfgL4ua13hDjOyX2TWgv.jpg
+episode,4057,Criminal Minds,18,3,6047489,,Time to Say Goodbye,2025-05-22,58,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rWI494DPLHu4aUM0fgfcqltU2Sp.jpg
+episode,4057,Criminal Minds,18,4,6047490,,"I'm Fine, It's Fine. Everything Is Fine",2025-05-29,55,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/c7bkRPz2mHmcocKNtUAIcRx9NWE.jpg
+episode,4057,Criminal Minds,18,5,5681768,,The Brutal Man,2025-06-05,53,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/2IUDwMEdrlCwc1HtjzGWW1fbRBh.jpg
+episode,4057,Criminal Minds,18,6,6047498,,Hell Is Empty…,2025-06-12,53,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/28SJhxT1ToZSucwVRpSmsBX7Fux.jpg
+episode,4057,Criminal Minds,18,7,6047499,,…All the Devils are Here,2025-06-19,50,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9RFmKuAhSkpMIcYPu6hCsRv7jtm.jpg
+episode,4057,Criminal Minds,18,8,6047500,,Tara,2025-06-26,54,,,6.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9iyujragGDURA417WmFEnV6eUMx.jpg
+episode,4057,Criminal Minds,18,9,6047501,,CollateRal,2025-07-03,49,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/xBAsya13qI4JzdjfAnMXBZHQzn6.jpg
+episode,4057,Criminal Minds,18,10,6047502,,The Disciple,2025-07-10,55,,,6.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/mVs0sS6YiHpXmFFZ2lxdbBF2Zkn.jpg
+show,1431,CSI: Crime Scene Investigation,,,1431,,CSI: Crime Scene Investigation,2000-10-06,,Ended,Crime|Drama|Mystery,7.6,1306,61.9517,http://www.cbs.com/shows/csi/,https://image.tmdb.org/t/p/w500/i5hmoRjHNWady4AtAGICTUXknKH.jpg,https://image.tmdb.org/t/p/w780/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg,tt0247082,Paramount Plus|Paramount+ Amazon Channel|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV,Pluto TV,https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=CA,
+season,1431,CSI: Crime Scene Investigation,0,,1431_S0,,Specials,2015-09-27,,,,,,,,https://image.tmdb.org/t/p/w342/eFPCsMA9Pt82LNAShPnWSg8Un0.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,1,,1431_S1,,Season 1,2000-10-06,,,,,,,,https://image.tmdb.org/t/p/w342/4476Frhzun0BilSwZFgiQ6Nkrb8.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,2,,1431_S2,,Season 2,2001-09-27,,,,,,,,https://image.tmdb.org/t/p/w342/vPNwbSgfIrTsKbRPElYQ5OdDSOv.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,3,,1431_S3,,Season 3,2002-09-25,,,,,,,,https://image.tmdb.org/t/p/w342/t7A6CvGB4zElX8DKv7srwFVQUBo.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,4,,1431_S4,,Season 4,2003-09-24,,,,,,,,https://image.tmdb.org/t/p/w342/b5ya3S8ErtamIWvNORnf1BFA3Dz.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,5,,1431_S5,,Season 5,2004-09-23,,,,,,,,https://image.tmdb.org/t/p/w342/d9zBALX3L8f347LKB64KWBL5Fwx.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,6,,1431_S6,,Season 6,2005-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/iQVrouWJHrrY4CXDIJBj1skMix3.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,7,,1431_S7,,Season 7,2006-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/6IHQ6w0vaDOhXciwXYLlavnwB9d.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,8,,1431_S8,,Season 8,2007-09-27,,,,,,,,https://image.tmdb.org/t/p/w342/fRIDRonYf5twnnIhmGXIuEQHV6h.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,9,,1431_S9,,Season 9,2008-10-09,,,,,,,,https://image.tmdb.org/t/p/w342/zzh7ejjQ3t56IGmdMekrPO4PmHU.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,10,,1431_S10,,Season 10,2009-09-24,,,,,,,,https://image.tmdb.org/t/p/w342/b18YZzXdiTtsMJP0OosYSwHV9Pc.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,11,,1431_S11,,Season 11,2010-09-23,,,,,,,,https://image.tmdb.org/t/p/w342/o5aqgaVdaqx9MnwKvMBvBtYZd9c.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,12,,1431_S12,,Season 12,2011-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/sgSRAvaCmEHPNFKddlzVtBHOavq.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,13,,1431_S13,,Season 13,2012-09-26,,,,,,,,https://image.tmdb.org/t/p/w342/8xg1EYYN7owHAzUubyMRY2O4V6U.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,14,,1431_S14,,Season 14,2013-09-25,,,,,,,,https://image.tmdb.org/t/p/w342/qNa0GND7eCX1UVRTpyv3Bvd1EZ9.jpg,,,,,,,,
+season,1431,CSI: Crime Scene Investigation,15,,1431_S15,,Season 15,2014-09-28,,,,,,,,https://image.tmdb.org/t/p/w342/uQeaYhBz9jnMaDgM0sZXv5HTbTG.jpg,,,,,,,,
+episode,1431,CSI: Crime Scene Investigation,15,1,1000960,,The CSI Effect,2014-09-28,43,,,7.8,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rXkELiQIrvzJlqvz71YEGCLCJ8S.jpg
+episode,1431,CSI: Crime Scene Investigation,15,2,1000961,,Buzz Kill,2014-10-05,43,,,7.6,8,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8BXdgwaovVfdwY78UQ5NSJM9zG.jpg
+episode,1431,CSI: Crime Scene Investigation,15,3,1000962,,Bad Blood,2014-10-12,43,,,7.8,8,,,,,,,,,,,https://image.tmdb.org/t/p/w300/3sONRFs1kfEOY8g6g577Jfbve6W.jpg
+episode,1431,CSI: Crime Scene Investigation,15,4,1010514,,The Book of Shadows,2014-10-19,43,,,7.5,8,,,,,,,,,,,https://image.tmdb.org/t/p/w300/are5gFsOW5Kv69Jaodwtl0wOqbd.jpg
+episode,1431,CSI: Crime Scene Investigation,15,5,1010515,,Girls Gone Wilder,2014-11-09,42,,,7.9,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/cgeOLhbalGqpcttPyPaLGXxYVa.jpg
+episode,1431,CSI: Crime Scene Investigation,15,6,1010516,,The Twin Paradox,2014-11-16,43,,,6.9,10,,,,,,,,,,,https://image.tmdb.org/t/p/w300/qYjhg2YtisoRctfNNZLS5suPfCc.jpg
+episode,1431,CSI: Crime Scene Investigation,15,7,1012237,,Road to Recovery,2014-11-23,42,,,7.6,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/eSJgAQnFTZ6erFmFiIfYlVAVHEb.jpg
+episode,1431,CSI: Crime Scene Investigation,15,8,1012238,,Rubbery Homicide,2014-11-30,43,,,6.7,10,,,,,,,,,,,https://image.tmdb.org/t/p/w300/mFfPS70ATVbBtzOsmButNlOYojc.jpg
+episode,1431,CSI: Crime Scene Investigation,15,9,1012239,,Let's Make a Deal,2014-12-07,43,,,7.9,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/mQPpLrbYggGJpqCPPFzgCBOSa6M.jpg
+episode,1431,CSI: Crime Scene Investigation,15,10,1014452,,Dead Rails,2014-12-14,42,,,7.5,10,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9c3nXa89zMm72syais1u410SxUV.jpg
+episode,1431,CSI: Crime Scene Investigation,15,11,1023095,,Angle of Attack,2014-12-21,43,,,7.0,10,,,,,,,,,,,https://image.tmdb.org/t/p/w300/qVNhOH9REQF6O4e3gI0A5F8PbzR.jpg
+episode,1431,CSI: Crime Scene Investigation,15,12,1023096,,Dead Woods,2014-12-28,43,,,7.8,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/hfGankRtQZ0j4XeAIisimx0cils.jpg
+episode,1431,CSI: Crime Scene Investigation,15,13,1027576,,The Greater Good,2015-01-04,44,,,7.7,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/oy30HrX6xTk2yyo1wtNH2vxEEap.jpg
+episode,1431,CSI: Crime Scene Investigation,15,14,1027577,,Merchants of Menace,2015-01-25,43,,,7.9,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/vE0df3W81JS3v1OCbJwMtKmwFwz.jpg
+episode,1431,CSI: Crime Scene Investigation,15,15,1027578,,Hero to Zero,2015-01-25,44,,,7.6,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/vbhma4SXybDjFRlDFx1zEfpJ5hj.jpg
+episode,1431,CSI: Crime Scene Investigation,15,16,1027579,,The Last Ride,2015-01-27,43,,,7.3,9,,,,,,,,,,,https://image.tmdb.org/t/p/w300/pJnWS2MxlIFsDIsAdFzjtyICORO.jpg
+episode,1431,CSI: Crime Scene Investigation,15,17,1037501,,Under My Skin,2015-02-15,42,,,7.0,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/yb92uR3ZbubMdoXeaV8vtZkKTbx.jpg
+episode,1431,CSI: Crime Scene Investigation,15,18,1037502,,The End Game,2015-02-15,43,,,7.045,11,,,,,,,,,,,https://image.tmdb.org/t/p/w300/nqwhOYpGyppa7yqQXdb1tTFpcin.jpg
+show,1405,Dexter,,,1405,,Dexter,2006-10-01,,Ended,Crime|Drama|Mystery,8.213,4860,198.3205,https://www.paramountplus.com/shows/dexter,https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg,https://image.tmdb.org/t/p/w780/aSGSxGMTP893DPMCvMl9AdnEICE.jpg,tt0773262,Netflix|Paramount Plus|Netflix Standard with Ads|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV,,https://www.themoviedb.org/tv/1405-dexter/watch?locale=CA,
+season,1405,Dexter,0,,1405_S0,,Specials,2009-10-25,,,,,,,,https://image.tmdb.org/t/p/w342/Ast1fRXfgqMPskoKVEQYPlCNA3w.jpg,,,,,,,,
+season,1405,Dexter,1,,1405_S1,,Season 1,2006-10-01,,,,,,,,https://image.tmdb.org/t/p/w342/rmhoMEHK3ZP2EAXX2VpxuKpW3Bf.jpg,,,,,,,,
+season,1405,Dexter,2,,1405_S2,,Season 2,2007-09-30,,,,,,,,https://image.tmdb.org/t/p/w342/t8o6P0pTsnfgsUo6AXSuaiw9fgG.jpg,,,,,,,,
+season,1405,Dexter,3,,1405_S3,,Season 3,2008-09-28,,,,,,,,https://image.tmdb.org/t/p/w342/8zyoh0AtArOyTq0F2USckRGzZEU.jpg,,,,,,,,
+season,1405,Dexter,4,,1405_S4,,Season 4,2009-09-27,,,,,,,,https://image.tmdb.org/t/p/w342/1Oh0QmXVTnyV9QqpDcEpvxtKYFw.jpg,,,,,,,,
+season,1405,Dexter,5,,1405_S5,,Season 5,2010-09-26,,,,,,,,https://image.tmdb.org/t/p/w342/sKDHRvdaHfhiYzCFCXQoo1TuHhb.jpg,,,,,,,,
+season,1405,Dexter,6,,1405_S6,,Season 6,2011-10-02,,,,,,,,https://image.tmdb.org/t/p/w342/yxylCqF28NttybWJvQtHztTdDKr.jpg,,,,,,,,
+season,1405,Dexter,7,,1405_S7,,Season 7,2012-09-30,,,,,,,,https://image.tmdb.org/t/p/w342/lM4EY2L324exlZ1hF2YpBM0a97J.jpg,,,,,,,,
+season,1405,Dexter,8,,1405_S8,,Season 8,2013-06-30,,,,,,,,https://image.tmdb.org/t/p/w342/q8dWfc4JwQuv3HayIZeO84jAXED.jpg,,,,,,,,
+episode,1405,Dexter,8,1,953320,,A Beautiful Day,2013-06-30,53,,,7.8,65,,,,,,,,,,,https://image.tmdb.org/t/p/w300/sMIbqOhRemiQnAZS03uZEAsMKwE.jpg
+episode,1405,Dexter,8,2,953276,,Every Silver Lining...,2013-07-07,58,,,7.237,59,,,,,,,,,,,https://image.tmdb.org/t/p/w300/zlwGYHQLOtyrcuQNFA826uHDsjb.jpg
+episode,1405,Dexter,8,3,953277,,What's Eating Dexter Morgan?,2013-07-14,49,,,7.482,56,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tDR2GuKsD51sCG4NsRugIxF40IG.jpg
+episode,1405,Dexter,8,4,953279,,Scar Tissue,2013-07-21,50,,,7.4,56,,,,,,,,,,,https://image.tmdb.org/t/p/w300/vUhpyOERYLVC49P450zmDeGWMtx.jpg
+episode,1405,Dexter,8,5,953261,,This Little Piggy,2013-07-28,48,,,7.3,56,,,,,,,,,,,https://image.tmdb.org/t/p/w300/1R1HZZRbw5giGm9YCJhnYngheQ2.jpg
+episode,1405,Dexter,8,6,953278,,A Little Reflection,2013-08-04,56,,,7.1,58,,,,,,,,,,,https://image.tmdb.org/t/p/w300/enjTk2EdDnLfbN23qL74WDIQ9Fs.jpg
+episode,1405,Dexter,8,7,953267,,Dress Code,2013-08-11,53,,,7.2,56,,,,,,,,,,,https://image.tmdb.org/t/p/w300/5q68Iy9MB0l1osSi404MePZ1xEx.jpg
+episode,1405,Dexter,8,8,953281,,Are We There Yet?,2013-08-18,53,,,7.3,56,,,,,,,,,,,https://image.tmdb.org/t/p/w300/zzJy8KWJqQPhjMA3uG2h8SbjO81.jpg
+episode,1405,Dexter,8,9,953283,,Make Your Own Kind of Music,2013-08-25,56,,,6.9,55,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9yRjrK62A8nyzJCNICt19k4LKXL.jpg
+episode,1405,Dexter,8,10,953322,,Goodbye Miami,2013-09-08,53,,,6.5,58,,,,,,,,,,,https://image.tmdb.org/t/p/w300/7rtNUEydPUGyoUu4AM2hpJW3S5W.jpg
+episode,1405,Dexter,8,11,953284,,Monkey in a Box,2013-09-15,53,,,6.5,61,,,,,,,,,,,https://image.tmdb.org/t/p/w300/3MefgmO0eYWlXUFSic7Dn45UUur.jpg
+episode,1405,Dexter,8,12,953321,,Remember the Monsters?,2013-09-22,57,,,5.27,87,,,,,,,,,,,https://image.tmdb.org/t/p/w300/eej5sOpA2A73O6SudZxFsw2oB5n.jpg
+show,131927,Dexter: New Blood,,,131927,,Dexter: New Blood,2021-11-07,,Ended,Drama|Crime,7.959,1362,21.6414,https://www.paramountplus.com/shows/dexter-new-blood,https://image.tmdb.org/t/p/w500/9EBKgrFIsCFSV1RZKWhYUdbtGiv.jpg,https://image.tmdb.org/t/p/w780/e6v08948EZVvLrx0sWpmglguY9e.jpg,tt14164730,Paramount Plus|Paramount+ Amazon Channel|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV|Amazon Video,,https://www.themoviedb.org/tv/131927-dexter-new-blood/watch?locale=CA,
+season,131927,Dexter: New Blood,1,,131927_S1,,Season 1,2021-11-07,,,,,,,,https://image.tmdb.org/t/p/w342/onnYrRDxvfEAjeXHxq1BoyUF419.jpg,,,,,,,,
+episode,131927,Dexter: New Blood,1,1,3151078,,Cold Snap,2021-11-07,58,,,7.817,72,,,,,,,,,,,https://image.tmdb.org/t/p/w300/igyYWp2f69LIMMLFZzuMvoSdA8n.jpg
+episode,131927,Dexter: New Blood,1,2,3253568,,Storm of Fuck,2021-11-14,53,,,7.4,49,,,,,,,,,,,https://image.tmdb.org/t/p/w300/a1p7Vl24z6DTWquH2qO8xicO2zj.jpg
+episode,131927,Dexter: New Blood,1,3,3253569,,Smoke Signals,2021-11-21,52,,,7.4,40,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ejZdzYEJLpeGGaFLqMJ2xEgii1w.jpg
+episode,131927,Dexter: New Blood,1,4,3253570,,H Is for Hero,2021-11-28,45,,,7.7,37,,,,,,,,,,,https://image.tmdb.org/t/p/w300/a3bU98DH7BMkz4IBUn0tLPzxA0E.jpg
+episode,131927,Dexter: New Blood,1,5,3319606,,Runaway,2021-12-05,58,,,7.4,38,,,,,,,,,,,https://image.tmdb.org/t/p/w300/p2tMZI0j0petqFxYBtjTZ3BhW4g.jpg
+episode,131927,Dexter: New Blood,1,6,3319607,,Too Many Tuna Sandwiches,2021-12-12,59,,,7.8,37,,,,,,,,,,,https://image.tmdb.org/t/p/w300/3MQoJGTLPxmguUpx1ES0mN3pE5.jpg
+episode,131927,Dexter: New Blood,1,7,3319608,,Skin of Her Teeth,2021-12-19,46,,,7.2,38,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tn9cIOOLnZ3ZYzfJ0evcxL7YQSp.jpg
+episode,131927,Dexter: New Blood,1,8,3319609,,Unfair Game,2021-12-26,44,,,7.7,37,,,,,,,,,,,https://image.tmdb.org/t/p/w300/z6rlhY7HPjqfgxRtBqhTA3JRMFm.jpg
+episode,131927,Dexter: New Blood,1,9,3359217,,The Family Business,2022-01-02,58,,,7.9,41,,,,,,,,,,,https://image.tmdb.org/t/p/w300/AcSxq6Imehetwwj8dkr33CTNeGq.jpg
+episode,131927,Dexter: New Blood,1,10,3359218,,Sins of the Father,2022-01-09,58,,,4.7,50,,,,,,,,,,,https://image.tmdb.org/t/p/w300/uXOcTNfG6okOpBpQgkSknyHNGhg.jpg
+show,219937,Dexter: Original Sin,,,219937,,Dexter: Original Sin,2024-12-15,,Canceled,Crime|Drama,8.2,280,13.4251,https://www.paramountplus.com/shows/dexter-original-sin,https://image.tmdb.org/t/p/w500/j5bP7spdfS0NpDLKDlqJYyJPi1j.jpg,https://image.tmdb.org/t/p/w780/jmcRdwSOb1Bo1snMtxTSWOqbvgR.jpg,tt32252772,Paramount Plus|Paramount+ Amazon Channel|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV|Amazon Video,,https://www.themoviedb.org/tv/219937-dexter-original-sin/watch?locale=CA,
+season,219937,Dexter: Original Sin,1,,219937_S1,,Season 1,2024-12-14,,,,,,,,https://image.tmdb.org/t/p/w342/bdWD2QHLISAQFR47Mdtpn3MwnGi.jpg,,,,,,,,
+episode,219937,Dexter: Original Sin,1,1,4217475,,And in the beginning...,2024-12-15,50,,,8.0,57,,,,,,,,,,,https://image.tmdb.org/t/p/w300/6wL9yVHep3RK77BzBKRZbnOqJqe.jpg
+episode,219937,Dexter: Original Sin,1,2,5498875,,Kid in a Candy Store,2024-12-22,47,,,7.8,28,,,,,,,,,,,https://image.tmdb.org/t/p/w300/7sJQZ2IP1mDTF4CB2HRKJbHrUTW.jpg
+episode,219937,Dexter: Original Sin,1,3,5498876,,Miami Vice,2024-12-22,59,,,8.1,27,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ss59jsTS17HKBmDR9Gy2LB0jj8E.jpg
+episode,219937,Dexter: Original Sin,1,4,5603386,,Fender Bender,2024-12-29,50,,,8.2,24,,,,,,,,,,,https://image.tmdb.org/t/p/w300/m9KRuzFkATE5NdFYFjkwBXdCTMt.jpg
+episode,219937,Dexter: Original Sin,1,5,5603387,,F Is for Fuck-Up,2025-01-05,52,,,8.3,22,,,,,,,,,,,https://image.tmdb.org/t/p/w300/zP1l39X2vVFL00bSHZD9rHTs1bg.jpg
+episode,219937,Dexter: Original Sin,1,6,5603388,,The Joy of Killing,2025-01-12,50,,,8.2,19,,,,,,,,,,,https://image.tmdb.org/t/p/w300/1LWJ4yNSievzjugKFVaB83TVfc3.jpg
+episode,219937,Dexter: Original Sin,1,7,5603389,,The Big Bad Body Problem,2025-01-26,49,,,8.2,20,,,,,,,,,,,https://image.tmdb.org/t/p/w300/oYI3nQSY5tBohvC4fQceb3r6XjG.jpg
+episode,219937,Dexter: Original Sin,1,8,5498877,,Business and Pleasure,2025-02-02,52,,,8.7,18,,,,,,,,,,,https://image.tmdb.org/t/p/w300/u3fZPIXISDYPEniEkR0VrStK2w2.jpg
+episode,219937,Dexter: Original Sin,1,9,5714755,,Blood Drive,2025-02-09,51,,,8.6,16,,,,,,,,,,,https://image.tmdb.org/t/p/w300/laq8ljks21Yl5HGUoxbxW2bFlMS.jpg
+episode,219937,Dexter: Original Sin,1,10,5714756,,Code Blues,2025-02-16,50,,,9.0,16,,,,,,,,,,,https://image.tmdb.org/t/p/w300/oQv6EFPLSG3j5PHr9xy852Nq7rq.jpg
+show,259909,Dexter: Resurrection,,,259909,,Dexter: Resurrection,2025-07-13,,Returning Series,Crime|Drama|Mystery,8.919,179,80.1526,https://www.paramountplus.com/shows/dexter-resurrection/,https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg,https://image.tmdb.org/t/p/w780/8J0SjKToFBbg8dKpocVOCsrC77C.jpg,tt33043892,Paramount Plus|Paramount+ Amazon Channel|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,,,https://www.themoviedb.org/tv/259909-dexter-resurrection/watch?locale=CA,
+season,259909,Dexter: Resurrection,1,,259909_S1,,Season 1,2025-07-13,,,,,,,,https://image.tmdb.org/t/p/w342/hRD9kvYLbySRvtt9Nh7QK6XECZX.jpg,,,,,,,,
+episode,259909,Dexter: Resurrection,1,1,5498853,,A Beating Heart...,2025-07-13,52,,,8.5,24,,,,,,,,,,,https://image.tmdb.org/t/p/w300/cdxZjP0S2K1FGO3NiXbQAM6TqwS.jpg
+episode,259909,Dexter: Resurrection,1,2,6192926,,Camera Shy,2025-07-13,48,,,8.5,21,,,,,,,,,,,https://image.tmdb.org/t/p/w300/gxTEgknl8AequxdxtkLHOMFN5T3.jpg
+episode,259909,Dexter: Resurrection,1,3,6192927,,Backseat Driver,2025-07-20,52,,,8.7,18,,,,,,,,,,,https://image.tmdb.org/t/p/w300/yVtgDRQDFbQ7EMhpFfqhWHzyH5J.jpg
+episode,259909,Dexter: Resurrection,1,4,6201594,,Call Me Red,2025-07-27,67,,,9.3,21,,,,,,,,,,,https://image.tmdb.org/t/p/w300/c1sOxW3Xr6tAu11Gkqzq0ZaVSDp.jpg
+episode,259909,Dexter: Resurrection,1,5,6201595,,Murder Horny,2025-08-03,50,,,8.9,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/nEehUPK1SB6wzjVBOIdPi84CMsb.jpg
+episode,259909,Dexter: Resurrection,1,6,6201596,,Cats & Mouse,2025-08-10,57,,,8.9,10,,,,,,,,,,,https://image.tmdb.org/t/p/w300/sWBM9e5YQLVflxV17puSOlKA7wk.jpg
+episode,259909,Dexter: Resurrection,1,7,6201597,,Course Correction,2025-08-17,54,,,9.1,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/lZPs7ZVXnbhgdaW1bU0mReubEDf.jpg
+episode,259909,Dexter: Resurrection,1,8,6201598,,The Kill Room Where It Happens,2025-08-24,46,,,8.8,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/oNF42UdW8L6P3aBz96Ens0mE0fF.jpg
+episode,259909,Dexter: Resurrection,1,9,6201599,,Touched by an Ángel,2025-08-31,48,,,8.571,7,,,,,,,,,,,https://image.tmdb.org/t/p/w300/35X0k5JHwJtehW37ELaVWOHGbb0.jpg
+episode,259909,Dexter: Resurrection,1,10,6201600,,And Justice for All…,2025-09-07,,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/WTBlw7Sq76wFABHwMbnxZJuZTn.jpg
+show,57243,Doctor Who,,,57243,,Doctor Who,2005-03-26,,Ended,Action & Adventure|Drama|Sci-Fi & Fantasy,7.562,3194,36.5813,http://www.bbc.co.uk/programmes/b006q2x0,https://image.tmdb.org/t/p/w500/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg,https://image.tmdb.org/t/p/w780/vcFW09U4834DyFOeRZpsx9x1D3S.jpg,tt0436992,,,Apple TV,Pluto TV,https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=CA,
+season,57243,Doctor Who,0,,57243_S0,,Specials,2005-11-18,,,,,,,,https://image.tmdb.org/t/p/w342/oKUI2vCVGpakvfZJ4GmEZC8AvRX.jpg,,,,,,,,
+season,57243,Doctor Who,1,,57243_S1,,Series 1,2005-03-26,,,,,,,,https://image.tmdb.org/t/p/w342/9Jt2FFCAME7eHDC28r4qCHErhhF.jpg,,,,,,,,
+season,57243,Doctor Who,2,,57243_S2,,Series 2,2006-04-15,,,,,,,,https://image.tmdb.org/t/p/w342/oXVmsIkZCgJDNcZJJxzvV7zwyb1.jpg,,,,,,,,
+season,57243,Doctor Who,3,,57243_S3,,Series 3,2007-04-01,,,,,,,,https://image.tmdb.org/t/p/w342/67xbjSv353G2rqQIs6dnDKc6P11.jpg,,,,,,,,
+season,57243,Doctor Who,4,,57243_S4,,Series 4,2008-04-05,,,,,,,,https://image.tmdb.org/t/p/w342/h6hogh9U371q87XLhvrJbczg8lm.jpg,,,,,,,,
+season,57243,Doctor Who,5,,57243_S5,,Series 5,2010-04-03,,,,,,,,https://image.tmdb.org/t/p/w342/hUsQerEeMqsu9cVYzMEB2OGJjrw.jpg,,,,,,,,
+season,57243,Doctor Who,6,,57243_S6,,Series 6,2011-04-23,,,,,,,,https://image.tmdb.org/t/p/w342/xmfMcVkVer5r33QhA4e2DpIR78B.jpg,,,,,,,,
+season,57243,Doctor Who,7,,57243_S7,,Series 7,2012-09-01,,,,,,,,https://image.tmdb.org/t/p/w342/6biGcR0OyFnKRxxUW7bGtK49wTd.jpg,,,,,,,,
+season,57243,Doctor Who,8,,57243_S8,,Series 8,2014-08-23,,,,,,,,https://image.tmdb.org/t/p/w342/wLxULmhnIM1wbzjzvFnEq8YXtFB.jpg,,,,,,,,
+season,57243,Doctor Who,9,,57243_S9,,Series 9,2015-09-19,,,,,,,,https://image.tmdb.org/t/p/w342/AeFY6HsLGcanP2fhD6Feii9BhHW.jpg,,,,,,,,
+season,57243,Doctor Who,10,,57243_S10,,Series 10,2017-04-15,,,,,,,,https://image.tmdb.org/t/p/w342/9ExkVNeQw695kQ8xsnm2TJhTEFP.jpg,,,,,,,,
+season,57243,Doctor Who,11,,57243_S11,,Series 11,2018-10-07,,,,,,,,https://image.tmdb.org/t/p/w342/tFu6Or2wZP8xW5CBUy3MROtcF29.jpg,,,,,,,,
+season,57243,Doctor Who,12,,57243_S12,,Series 12,2020-01-01,,,,,,,,https://image.tmdb.org/t/p/w342/cDDb7WA2i7cENhkEEjXEDrXGyNL.jpg,,,,,,,,
+season,57243,Doctor Who,13,,57243_S13,,Flux,2021-10-31,,,,,,,,https://image.tmdb.org/t/p/w342/hnAwYE6NvC4UVdMRPd7FOX52PQy.jpg,,,,,,,,
+episode,57243,Doctor Who,13,1,2615210,,The Halloween Apocalypse,2021-10-31,51,,,6.974,38,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9zdtqxzJrETPeHrJaRp5BhuultY.jpg
+episode,57243,Doctor Who,13,2,3298227,,War of the Sontarans,2021-11-07,60,,,7.057,35,,,,,,,,,,,https://image.tmdb.org/t/p/w300/lZEmZo4iJqvHLKDxhORT9x9C33d.jpg
+episode,57243,Doctor Who,13,3,3321130,,"Once, Upon Time",2021-11-14,50,,,6.176,34,,,,,,,,,,,https://image.tmdb.org/t/p/w300/yTLrnRKrbRJooWr0kQB6ZE44uzD.jpg
+episode,57243,Doctor Who,13,4,3323453,,Village of the Angels,2021-11-21,57,,,7.368,38,,,,,,,,,,,https://image.tmdb.org/t/p/w300/xBkFTHLnA0ZjHAfVLW8NTc2E0FW.jpg
+episode,57243,Doctor Who,13,5,3333767,,Survivors of the Flux,2021-11-28,51,,,6.235,34,,,,,,,,,,,https://image.tmdb.org/t/p/w300/jcEyyiqsYMLA2VdiZanEGfg8oQC.jpg
+episode,57243,Doctor Who,13,6,3336493,,The Vanquishers,2021-12-05,60,,,5.857,35,,,,,,,,,,,https://image.tmdb.org/t/p/w300/20wu1cj5iZWyphnYQvKY1M9yBYQ.jpg
+show,80748,FBI,,,80748,,FBI,2018-09-25,,Returning Series,Crime|Action & Adventure|Drama,7.9,852,33.9681,https://www.cbs.com/shows/fbi/,https://image.tmdb.org/t/p/w500/bircXcCsvP2DUximyQUOn5p2s4.jpg,https://image.tmdb.org/t/p/w780/adOjU80AEcr70IPTXe6ALLyXGxF.jpg,tt7491982,Paramount Plus|Paramount+ Amazon Channel|Club Illico|fuboTV|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV,,https://www.themoviedb.org/tv/80748-fbi/watch?locale=CA,
+season,80748,FBI,1,,80748_S1,,Season 1,2018-09-24,,,,,,,,https://image.tmdb.org/t/p/w342/uJZUfoGqtiuGfGXtVgYqIafZ1Ii.jpg,,,,,,,,
+season,80748,FBI,2,,80748_S2,,Season 2,2019-09-23,,,,,,,,https://image.tmdb.org/t/p/w342/g2BK0uwB25o35giSpFHfqRXE4Bp.jpg,,,,,,,,
+season,80748,FBI,3,,80748_S3,,Season 3,2020-11-16,,,,,,,,https://image.tmdb.org/t/p/w342/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg,,,,,,,,
+season,80748,FBI,4,,80748_S4,,Season 4,2021-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/cGLQRv3MLWGrHMhRGn1zsSa9n2i.jpg,,,,,,,,
+season,80748,FBI,5,,80748_S5,,Season 5,2022-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/lFTHqAw2lHisXGB0bcoyEvKRYad.jpg,,,,,,,,
+season,80748,FBI,6,,80748_S6,,Season 6,2024-02-13,,,,,,,,https://image.tmdb.org/t/p/w342/tBDxVLHCsiA3fp9D2eWrq8QImEC.jpg,,,,,,,,
+season,80748,FBI,7,,80748_S7,,Season 7,2024-10-15,,,,,,,,https://image.tmdb.org/t/p/w342/bircXcCsvP2DUximyQUOn5p2s4.jpg,,,,,,,,
+season,80748,FBI,8,,80748_S8,,Season 8,2025-10-13,,,,,,,,,,,,,,,,
+episode,80748,FBI,8,1,6374509,,Takeover,2025-10-13,,,,0.0,0,,,,,,,,,,,
+episode,80748,FBI,8,2,6488869,,Captured,2025-10-20,,,,0.0,0,,,,,,,,,,,
+show,121658,FBI: International,,,121658,,FBI: International,2021-09-21,,Canceled,Crime|Drama,7.7,215,12.572,https://www.cbs.com/shows/fbi-international,https://image.tmdb.org/t/p/w500/1Ublm6D8zmqMroqrXkn3Fgd353q.jpg,https://image.tmdb.org/t/p/w780/8JtKCIBzf3AYbsxBFSL74NoGH2u.jpg,tt14449470,Paramount Plus|Paramount+ Amazon Channel|Club Illico|StackTV Amazon Channel|fuboTV|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV,,https://www.themoviedb.org/tv/121658-fbi-international/watch?locale=CA,
+season,121658,FBI: International,1,,121658_S1,,Season 1,2021-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/aAJsTMDPuGITCq0CC1JqfXjIDam.jpg,,,,,,,,
+season,121658,FBI: International,2,,121658_S2,,Season 2,2022-09-19,,,,,,,,https://image.tmdb.org/t/p/w342/o8udJ5s6lHbP6B22Eu4R9WwsDpL.jpg,,,,,,,,
+season,121658,FBI: International,3,,121658_S3,,Season 3,2024-02-13,,,,,,,,https://image.tmdb.org/t/p/w342/smHB9FDqxdJePYwE2aUyIkrNdcA.jpg,,,,,,,,
+season,121658,FBI: International,4,,121658_S4,,Season 4,2024-10-14,,,,,,,,https://image.tmdb.org/t/p/w342/zRLTK78fOZc5Wfsc4YAjPnPdzch.jpg,,,,,,,,
+episode,121658,FBI: International,4,1,5474916,,"A Leader, Not a Tourist",2024-10-15,41,,,8.7,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/o05V7pq8cvkjEg3Do4Ck9mdNmGm.jpg
+episode,121658,FBI: International,4,2,5637568,,The Other Hard Part,2024-10-22,41,,,9.7,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/1CFpmREsmn3wvkJdFLos6p6aloD.jpg
+episode,121658,FBI: International,4,3,5641840,,Nothing Sudden About It,2024-10-29,42,,,8.3,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ulrIUrOrv5gRCAXOCBJ2xzIcSOU.jpg
+episode,121658,FBI: International,4,4,5641846,,The Unwinnable War,2024-11-12,43,,,8.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/5bY9aD3WlDYic9Hkyb7PYGZmjax.jpg
+episode,121658,FBI: International,4,5,5693582,,The Future's Looking Bright,2024-11-19,42,,,8.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/36WITJtPHGljGbPxhwmlGOnHZOZ.jpg
+episode,121658,FBI: International,4,6,5693583,,They Paid More,2024-12-03,43,,,9.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9MCbjqccwgrIwYP0wBHODDbVoIN.jpg
+episode,121658,FBI: International,4,7,5769741,,Keen as a Bean,2024-12-10,43,,,9.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/aYKGovbagMctNKNUzKBbog2t3Qj.jpg
+episode,121658,FBI: International,4,8,5782737,,You'll Never See It Coming,2024-12-17,40,,,8.8,4,,,,,,,,,,,https://image.tmdb.org/t/p/w300/sGc1DX6x0i3CHM9W8sY9hdqhT7d.jpg
+episode,121658,FBI: International,4,9,5786213,,The Kill Floor,2025-01-28,41,,,7.2,4,,,,,,,,,,,https://image.tmdb.org/t/p/w300/v9JZgGC3p7uLkAvM9uhePQAP9En.jpg
+episode,121658,FBI: International,4,10,5891481,,Keep Calm and Deliver the Biotoxin,2025-02-04,43,,,9.0,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/b8AEdtcgTynfoI3artJaOasKatk.jpg
+episode,121658,FBI: International,4,11,5908485,,Veritas Fidelis,2025-02-11,42,,,8.0,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tgMousKpt4NYjHyWiHHL0fpdQQ6.jpg
+episode,121658,FBI: International,4,12,5936382,,Blood Doesn't Become Water,2025-02-18,43,,,8.3,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/uxT9nL1IEFkfF45XcbSdLlvyIqo.jpg
+episode,121658,FBI: International,4,13,5970305,,You've Been Greenlit,2025-02-25,42,,,8.0,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/utqvxwPmfd0B3AMTiPheJ3XB1FA.jpg
+episode,121658,FBI: International,4,14,5985228,,A Winged Lion for Protection,2025-03-11,43,,,8.7,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/74gh4AXpX6UmUNcurT4a4gO9WGD.jpg
+episode,121658,FBI: International,4,15,5998184,,They May Get Their Wish,2025-03-18,43,,,8.3,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tBniEh9acgi1ETlse9QYUWFJeA8.jpg
+episode,121658,FBI: International,4,16,6002009,,Little Angel,2025-04-01,43,,,8.7,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/e8CwXRBgcoUNBvyR7lEejXBKp4v.jpg
+episode,121658,FBI: International,4,17,6049769,,Dead Dead,2025-04-08,43,,,9.0,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/7jR1NliTiTt2ttATxVK2svHT6uI.jpg
+episode,121658,FBI: International,4,18,6066743,,Lone Wolf,2025-04-15,42,,,8.7,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/63ry5FiwowwZ5IFCNiSWQNlJYhA.jpg
+episode,121658,FBI: International,4,19,6066744,,Flinch Now and It's Over,2025-04-22,43,,,8.3,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ozcujGZXs5gn5qcj2uxxOKPwTxF.jpg
+episode,121658,FBI: International,4,20,6066745,,We're Out of Here,2025-05-06,43,,,8.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/zZkc99HdpeKsJ9Vd4sJcfOrMioa.jpg
+episode,121658,FBI: International,4,21,6063056,,Herbivore Man (1),2025-05-13,41,,,8.7,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8SKoebRMgS9ToRKKzGUE7xHuDEi.jpg
+episode,121658,FBI: International,4,22,6063057,,Gaijin (2),2025-05-20,43,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/wnOGddDQToBXuq69z45aaK4Nmc5.jpg
+show,94372,FBI: Most Wanted,,,94372,,FBI: Most Wanted,2020-01-07,,Canceled,Crime|Drama,7.7,414,18.355,https://www.cbs.com/shows/fbi-most-wanted/,https://image.tmdb.org/t/p/w500/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg,https://image.tmdb.org/t/p/w780/4BrWdbv2Cqe0zLqvNzkoednZQAb.jpg,tt9742936,Paramount Plus|Paramount+ Amazon Channel|Club Illico|fuboTV|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV,,https://www.themoviedb.org/tv/94372-fbi-most-wanted/watch?locale=CA,
+season,94372,FBI: Most Wanted,1,,94372_S1,,Season 1,2020-01-06,,,,,,,,https://image.tmdb.org/t/p/w342/uhwzWXHZnhIS9rqO4OQd1bZlZAQ.jpg,,,,,,,,
+season,94372,FBI: Most Wanted,2,,94372_S2,,Season 2,2020-11-16,,,,,,,,https://image.tmdb.org/t/p/w342/o22CG78OSDzW7KpgLugjXTrRXTz.jpg,,,,,,,,
+season,94372,FBI: Most Wanted,3,,94372_S3,,Season 3,2021-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/3Yyxq2X4ZwUpdwgMvarTuEc87fi.jpg,,,,,,,,
+season,94372,FBI: Most Wanted,4,,94372_S4,,Season 4,2022-09-19,,,,,,,,https://image.tmdb.org/t/p/w342/vpprgWCuDJ4CucJhFB4fBHdX9D7.jpg,,,,,,,,
+season,94372,FBI: Most Wanted,5,,94372_S5,,Season 5,2024-02-12,,,,,,,,https://image.tmdb.org/t/p/w342/830PknG9zNF4Fc1Dc8FJs6TBnWv.jpg,,,,,,,,
+season,94372,FBI: Most Wanted,6,,94372_S6,,Season 6,2024-10-15,,,,,,,,https://image.tmdb.org/t/p/w342/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg,,,,,,,,
+episode,94372,FBI: Most Wanted,6,1,5474914,,Aquarium Drinker,2024-10-15,43,,,6.0,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/hxiEhLdTATx117HWB1DjsIkaTZa.jpg
+episode,94372,FBI: Most Wanted,6,2,5660352,,Varsity Blues,2024-10-22,43,,,6.0,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8QHtoqCkal0W8cy7MirbfdHhAbn.jpg
+episode,94372,FBI: Most Wanted,6,3,5693586,,White Buffalo,2024-10-29,43,,,5.3,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/xdEkUd2OL9JqM5Czew8YfGxdkel.jpg
+episode,94372,FBI: Most Wanted,6,4,5693587,,Pig Butchering,2024-11-12,43,,,5.7,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tOfJTIgF0k2FwndIeBV0CLMowBA.jpg
+episode,94372,FBI: Most Wanted,6,5,5693588,,Money Moves,2024-11-19,43,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8UAVKcTMnwr7tIMIzhMdPdUILQW.jpg
+episode,94372,FBI: Most Wanted,6,6,5743842,,Pageantry,2024-12-03,41,,,4.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/6Lh7ITOjmiUyMnXhDQTbr2xR2LN.jpg
+episode,94372,FBI: Most Wanted,6,7,5760755,,Highway to Hell,2024-12-10,43,,,7.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/jvstQf1WnCIyhXaA3DEQ5Bx6g8m.jpg
+episode,94372,FBI: Most Wanted,6,8,5811048,,The Electric Company,2024-12-17,43,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/udqZOvdYhaQ248NJaet61IIRghg.jpg
+episode,94372,FBI: Most Wanted,6,9,5811049,,Moving On,2025-01-28,42,,,7.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/xsigvfHdCatSjqqhLVdRPXCgorf.jpg
+episode,94372,FBI: Most Wanted,6,10,5912485,,Ars Moriendi,2025-02-04,42,,,7.0,4,,,,,,,,,,,https://image.tmdb.org/t/p/w300/kr7UtJIKMUGiY4K4nAFzBHYGl5A.jpg
+episode,94372,FBI: Most Wanted,6,11,5912486,,Do You Realize??,2025-02-11,44,,,7.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/6VIDlHeGc02QKbu5QHit5zue0Sj.jpg
+episode,94372,FBI: Most Wanted,6,12,5948756,,68 Seconds,2025-02-18,43,,,8.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/wLbXGtGfUG5Kg1qOcT4EjVnRjMN.jpg
+episode,94372,FBI: Most Wanted,6,13,5978087,,Greek Tragedy,2025-02-25,42,,,4.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/qNsz0W38Vgh6ejtJ4DEMDYwsmZc.jpg
+episode,94372,FBI: Most Wanted,6,14,5978088,,100%,2025-03-11,43,,,5.3,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/Al8PmsmQ4LimfEYyH7GB6m0h921.jpg
+episode,94372,FBI: Most Wanted,6,15,6006874,,Four Bodies,2025-03-18,42,,,7.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/hJb98DE2Nv8PEFSxGdVQZCBVhwY.jpg
+episode,94372,FBI: Most Wanted,6,16,6047781,,Toxic Behavior,2025-04-01,43,,,8.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/pQ37K83mVjmyMwUdA9P8GUMqbLe.jpg
+episode,94372,FBI: Most Wanted,6,17,6047782,,Gut Job,2025-04-08,43,,,7.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/qgSve89hvYZm8W3r9I6Q00F0u2D.jpg
+episode,94372,FBI: Most Wanted,6,18,6090791,,Trust,2025-04-15,42,,,7.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/4PO3D1YqVgu7bxB999DWVWcvhM5.jpg
+episode,94372,FBI: Most Wanted,6,19,6103941,,Starman,2025-04-22,43,,,7.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/zcJ0shKW6fGd4OTEE3zQ57YmmKP.jpg
+episode,94372,FBI: Most Wanted,6,20,6072504,,Trash Day,2025-05-06,42,,,7.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/pJtHI8OcxXW09wEtKRpx16vFyq6.jpg
+episode,94372,FBI: Most Wanted,6,21,6090792,,Souls on ICE,2025-05-13,43,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/pefDkgk2iOw4Eb8ioJjmBfk9d6Q.jpg
+episode,94372,FBI: Most Wanted,6,22,6072505,,The Circle Game,2025-05-20,43,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/zAL34Psd6JJvwdytAIEQMkS1Lkw.jpg
+show,124364,FROM,,,124364,,FROM,2022-02-20,,Returning Series,Mystery|Drama|Sci-Fi & Fantasy,8.188,2091,64.7672,https://www.mgmplus.com/series/from,https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg,https://image.tmdb.org/t/p/w780/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg,tt9813792,Paramount Plus|Paramount+ Amazon Channel|Club Illico|Paramount Plus Apple TV Channel |Paramount Plus Premium|Paramount Plus Basic with Ads,,Apple TV|Amazon Video,,https://www.themoviedb.org/tv/124364-from/watch?locale=CA,
+season,124364,FROM,1,,124364_S1,,Season 1,2022-02-20,,,,,,,,https://image.tmdb.org/t/p/w342/ps46NdLlH70ptDD8ailTL8TCZU3.jpg,,,,,,,,
+season,124364,FROM,2,,124364_S2,,Season 2,2023-04-23,,,,,,,,https://image.tmdb.org/t/p/w342/1JdjopyVdtT8ZcGLfQtqTF2DEx4.jpg,,,,,,,,
+season,124364,FROM,3,,124364_S3,,Season 3,2024-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/sj64QEEb6JM1CdCfXHaIbA3WPx8.jpg,,,,,,,,
+season,124364,FROM,4,,124364_S4,,Season 4,,,,,,,,,,,,,,,,,
+show,1399,Game of Thrones,,,1399,,Game of Thrones,2011-04-17,,Ended,Sci-Fi & Fantasy|Drama|Action & Adventure,8.458,25468,149.347,https://www.hbo.com/game-of-thrones,https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg,https://image.tmdb.org/t/p/w780/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg,tt0944947,Crave,,Apple TV|Amazon Video,,https://www.themoviedb.org/tv/1399-game-of-thrones/watch?locale=CA,
+season,1399,Game of Thrones,0,,1399_S0,,Specials,2010-12-05,,,,,,,,https://image.tmdb.org/t/p/w342/aos6lC1JGYt6ZRL85lgstNsfSeY.jpg,,,,,,,,
+season,1399,Game of Thrones,1,,1399_S1,,Season 1,2011-04-17,,,,,,,,https://image.tmdb.org/t/p/w342/wgfKiqzuMrFIkU1M68DDDY8kGC1.jpg,,,,,,,,
+season,1399,Game of Thrones,2,,1399_S2,,Season 2,2012-04-01,,,,,,,,https://image.tmdb.org/t/p/w342/9xfNkPwDOqyeUvfNhs1XlWA0esP.jpg,,,,,,,,
+season,1399,Game of Thrones,3,,1399_S3,,Season 3,2013-03-31,,,,,,,,https://image.tmdb.org/t/p/w342/5MkZjRnCKiIGn3bkXrXfndEzqOU.jpg,,,,,,,,
+season,1399,Game of Thrones,4,,1399_S4,,Season 4,2014-04-06,,,,,,,,https://image.tmdb.org/t/p/w342/jXIMScXE4J4EVHUba1JgxZnWbo4.jpg,,,,,,,,
+season,1399,Game of Thrones,5,,1399_S5,,Season 5,2015-04-12,,,,,,,,https://image.tmdb.org/t/p/w342/7Q1Hy1AHxAzA2lsmzEMBvuWTX0x.jpg,,,,,,,,
+season,1399,Game of Thrones,6,,1399_S6,,Season 6,2016-04-24,,,,,,,,https://image.tmdb.org/t/p/w342/p1udLh0gfqyZFmXBGa393gk8go5.jpg,,,,,,,,
+season,1399,Game of Thrones,7,,1399_S7,,Season 7,2017-07-16,,,,,,,,https://image.tmdb.org/t/p/w342/oX51n32QyHeFP5kErksemJsJljL.jpg,,,,,,,,
+season,1399,Game of Thrones,8,,1399_S8,,Season 8,2019-04-14,,,,,,,,https://image.tmdb.org/t/p/w342/259Q5FuaD3TNB7DGauTaJVRC8XV.jpg,,,,,,,,
+episode,1399,Game of Thrones,8,1,1551825,,Winterfell,2019-04-14,55,,,7.106,287,,,,,,,,,,,https://image.tmdb.org/t/p/w300/o65qwX1aHJclJ36VDhD3VYzz5em.jpg
+episode,1399,Game of Thrones,8,2,1551826,,A Knight of the Seven Kingdoms,2019-04-21,59,,,7.392,269,,,,,,,,,,,https://image.tmdb.org/t/p/w300/vJ8H9WtzbJGfArfdycc4nagQVRU.jpg
+episode,1399,Game of Thrones,8,3,1551827,,The Long Night,2019-04-28,82,,,6.843,331,,,,,,,,,,,https://image.tmdb.org/t/p/w300/mFtHbZenI5rRPqC5OFafoVmjEjq.jpg
+episode,1399,Game of Thrones,8,4,1551828,,The Last of the Starks,2019-05-05,79,,,5.652,287,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9jgeANvHuZFVnTIkkKSU3PkGJZA.jpg
+episode,1399,Game of Thrones,8,5,1551829,,The Bells,2019-05-12,80,,,5.915,300,,,,,,,,,,,https://image.tmdb.org/t/p/w300/xF9hOs5h9sc37oWdtF4RPHq8dXA.jpg
+episode,1399,Game of Thrones,8,6,1551830,,The Iron Throne,2019-05-19,80,,,4.578,371,,,,,,,,,,,https://image.tmdb.org/t/p/w300/zBi2O5EJfgTS6Ae0HdAYLm9o2nf.jpg
+show,39416,Geordie Shore,,,39416,,Geordie Shore,2011-05-24,,Returning Series,Reality|Drama,6.1,47,4.2788,http://www.mtv.co.uk/shows/geordie-shore,https://image.tmdb.org/t/p/w500/wIejP20xVqiASjr9eKVzkj763PG.jpg,https://image.tmdb.org/t/p/w780/oG4K2smrj7ZBK6MdXCCZogsXKGM.jpg,tt1960255,,,Apple TV,Pluto TV,https://www.themoviedb.org/tv/39416-geordie-shore/watch?locale=CA,
+season,39416,Geordie Shore,0,,39416_S0,,Specials,2011-08-23,,,,,,,,,,,,,,,,
+season,39416,Geordie Shore,1,,39416_S1,,Season 1,2011-05-24,,,,,,,,https://image.tmdb.org/t/p/w342/iXYsS6H5JKSN8EFiW7n6hfXWEWQ.jpg,,,,,,,,
+season,39416,Geordie Shore,2,,39416_S2,,Season 2,2012-01-31,,,,,,,,https://image.tmdb.org/t/p/w342/caJ86GRV3unr7XrZq9C39AI0NEF.jpg,,,,,,,,
+season,39416,Geordie Shore,3,,39416_S3,,Season 3,2012-06-26,,,,,,,,https://image.tmdb.org/t/p/w342/kUMXAYQ5PLXnMqRpf3isttSVSC.jpg,,,,,,,,
+season,39416,Geordie Shore,4,,39416_S4,,Season 4,2012-11-06,,,,,,,,https://image.tmdb.org/t/p/w342/7GVqu2kwpRDUo6wW3QQpXP4vBNV.jpg,,,,,,,,
+season,39416,Geordie Shore,5,,39416_S5,,Season 5,2013-02-19,,,,,,,,https://image.tmdb.org/t/p/w342/vyCaRPPh2VNPAEOmDJSTTCUIiXu.jpg,,,,,,,,
+season,39416,Geordie Shore,6,,39416_S6,,Season 6,2013-07-09,,,,,,,,https://image.tmdb.org/t/p/w342/lvXOjExXjFvcRusCGrlua6gS24H.jpg,,,,,,,,
+season,39416,Geordie Shore,7,,39416_S7,,Season 7,2013-09-17,,,,,,,,https://image.tmdb.org/t/p/w342/uh6ejv9sGrvPWDg0ZlUJfidwLjg.jpg,,,,,,,,
+season,39416,Geordie Shore,8,,39416_S8,,Season 8,2014-07-22,,,,,,,,https://image.tmdb.org/t/p/w342/lZ30EQ79CbuRU7zpl3g9Mv0Oalm.jpg,,,,,,,,
+season,39416,Geordie Shore,9,,39416_S9,,Season 9,2014-10-28,,,,,,,,https://image.tmdb.org/t/p/w342/utqb8Dh8Y4wKQ3boyK99ZSu2zK1.jpg,,,,,,,,
+season,39416,Geordie Shore,10,,39416_S10,,Season 10,2015-04-07,,,,,,,,https://image.tmdb.org/t/p/w342/f4KCrSajxVncj6Y8HoqzXPEjths.jpg,,,,,,,,
+season,39416,Geordie Shore,11,,39416_S11,,Season 11,2015-10-20,,,,,,,,https://image.tmdb.org/t/p/w342/cNWiNZhYK4Q7ifmx9EeitNXTCOG.jpg,,,,,,,,
+season,39416,Geordie Shore,12,,39416_S12,,Season 12,2016-03-15,,,,,,,,https://image.tmdb.org/t/p/w342/h7ZLdWT8Xbj6ae2UcmBst3cM1jW.jpg,,,,,,,,
+season,39416,Geordie Shore,13,,39416_S13,,Season 13,2016-10-25,,,,,,,,https://image.tmdb.org/t/p/w342/b9gUzamrSHbUQ06851ZA4Ez38aZ.jpg,,,,,,,,
+season,39416,Geordie Shore,14,,39416_S14,,Season 14,2017-03-28,,,,,,,,https://image.tmdb.org/t/p/w342/2cDnsp1ePiHsh1xt1mPrNi2MAi0.jpg,,,,,,,,
+season,39416,Geordie Shore,15,,39416_S15,,Season 15,2017-08-29,,,,,,,,https://image.tmdb.org/t/p/w342/YU49k8H6t02Ny4ZjyTSPiOmaX.jpg,,,,,,,,
+season,39416,Geordie Shore,16,,39416_S16,,Season 16,2018-01-09,,,,,,,,https://image.tmdb.org/t/p/w342/vpY9bbz9h6XOccAYulG1xkRlHP8.jpg,,,,,,,,
+season,39416,Geordie Shore,17,,39416_S17,,Season 17,2018-05-15,,,,,,,,https://image.tmdb.org/t/p/w342/zYfTcHl0ZnFGB44FXTqCAljhspz.jpg,,,,,,,,
+season,39416,Geordie Shore,18,,39416_S18,,Season 18,2018-10-16,,,,,,,,https://image.tmdb.org/t/p/w342/sU0yNp5YUOit4LsYPM2xhPUGdS9.jpg,,,,,,,,
+season,39416,Geordie Shore,19,,39416_S19,,Season 19,2019-04-09,,,,,,,,https://image.tmdb.org/t/p/w342/c2RZALcemtDhFcGin4xOdqX0p5h.jpg,,,,,,,,
+season,39416,Geordie Shore,20,,39416_S20,,Season 20,2019-10-29,,,,,,,,https://image.tmdb.org/t/p/w342/iFCPMnwCnXIMBoQKsNQ96MZyif8.jpg,,,,,,,,
+season,39416,Geordie Shore,21,,39416_S21,,Season 21,2020-07-28,,,,,,,,https://image.tmdb.org/t/p/w342/jv9GEmB4cElpTvLoPaCBmz5XCng.jpg,,,,,,,,
+season,39416,Geordie Shore,22,,39416_S22,,Hot Single Summer,2021-10-04,,,,,,,,https://image.tmdb.org/t/p/w342/bG3EudErhY4FmIu9uV8u0R2h2Xu.jpg,,,,,,,,
+season,39416,Geordie Shore,23,,39416_S23,,The Reunion Series,2022-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/7iYqRrmU9bkhrgxzWfSev9O7XVe.jpg,,,,,,,,
+season,39416,Geordie Shore,24,,39416_S24,,Season 24,2024-01-09,,,,,,,,https://image.tmdb.org/t/p/w342/7lmy3PUQ030u6PvIFdScXy5p6hI.jpg,,,,,,,,
+season,39416,Geordie Shore,25,,39416_S25,,Season 25,2025-01-07,,,,,,,,https://image.tmdb.org/t/p/w342/wIejP20xVqiASjr9eKVzkj763PG.jpg,,,,,,,,
+episode,39416,Geordie Shore,25,1,5872190,,"Geordie Shore, Thai-Aye!",2025-01-07,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/iEBJQfY6TTcrPtmR0hqehLPSlgg.jpg
+episode,39416,Geordie Shore,25,2,5888049,,"Sun, Sea & Scotty-T!",2025-01-07,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/isGSkTLu8Bydkx7sUBEIofg8AHZ.jpg
+episode,39416,Geordie Shore,25,3,5894925,,Trouble in Paradise!,2025-01-14,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/2fb1zGG4BOR8q4wfR299Ty4LDpv.jpg
+episode,39416,Geordie Shore,25,4,5894926,,It's A Family Affair,2025-01-21,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/wZCstfw77CNNAaJUFGx8MyOugUz.jpg
+episode,39416,Geordie Shore,25,5,5894927,,Full Moon Carnage,2025-01-28,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/iNIKJdygo7ibNusplhhZ9B3PqcQ.jpg
+episode,39416,Geordie Shore,25,6,5949773,,A Decent Proposal,2025-02-04,43,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8KopXLxJ5UdPMmpNDkU4mSQFOTi.jpg
+episode,39416,Geordie Shore,25,7,5949774,,"Will She, Won't She?",2025-02-11,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/6v98taTrjIQjDac6pouaRF4iOxg.jpg
+episode,39416,Geordie Shore,25,8,5949775,,Ko Samui Kick Off,2025-02-18,43,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/eFXWluNX2XIMOtCJ1xyBpwMSTEP.jpg
+episode,39416,Geordie Shore,25,9,5992516,,What Did You Call Me?!,2025-02-25,43,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tQ1T3GBsw4xTiRbZJWIaqcZGvyl.jpg
+episode,39416,Geordie Shore,25,10,6005071,,Never say Never!,2025-03-04,44,,,0.0,0,,,,,,,,,,,
+show,253896,Happy's Place,,,253896,,Happy's Place,2024-10-18,,Returning Series,Comedy,5.8,12,1.4304,https://www.nbc.com/happys-place,https://image.tmdb.org/t/p/w500/stOjdi0LW7VxOL32WG3HLbauy6L.jpg,https://image.tmdb.org/t/p/w780/m4bKIo3tmM9F7hiOW0drwgjAsCb.jpg,tt31106862,Crave,,Apple TV,,https://www.themoviedb.org/tv/253896-happy-s-place/watch?locale=CA,
+season,253896,Happy's Place,1,,253896_S1,,Season 1,2024-10-18,,,,,,,,https://image.tmdb.org/t/p/w342/stOjdi0LW7VxOL32WG3HLbauy6L.jpg,,,,,,,,
+season,253896,Happy's Place,2,,253896_S2,,Season 2,2025-11-07,,,,,,,,,,,,,,,,
+episode,253896,Happy's Place,2,1,6414138,,Episode 1,2025-11-07,,,,0.0,0,,,,,,,,,,,
+episode,253896,Happy's Place,2,2,6414139,,Episode 2,2025-11-07,,,,0.0,0,,,,,,,,,,,
+show,124834,Heartstopper,,,124834,,Heartstopper,2022-04-22,,Canceled,Drama,8.583,1588,7.8771,https://www.netflix.com/title/81059939,https://image.tmdb.org/t/p/w500/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg,https://image.tmdb.org/t/p/w780/w1beuDq08J0zUmi5uJPMvpWK9rv.jpg,tt10638036,Netflix|Netflix Standard with Ads,,,,https://www.themoviedb.org/tv/124834-heartstopper/watch?locale=CA,
+season,124834,Heartstopper,1,,124834_S1,,Season 1,2022-04-22,,,,,,,,https://image.tmdb.org/t/p/w342/6WULLvLZYQX3xNfs5S9H6BVFdgD.jpg,,,,,,,,
+season,124834,Heartstopper,2,,124834_S2,,Season 2,2023-08-03,,,,,,,,https://image.tmdb.org/t/p/w342/p0AtD0ivSlHq2MHY6JFgyhNqAQY.jpg,,,,,,,,
+season,124834,Heartstopper,3,,124834_S3,,Season 3,2024-10-03,,,,,,,,https://image.tmdb.org/t/p/w342/fBbhBvFEVgVxWrBbOJDzDjcVXM4.jpg,,,,,,,,
+episode,124834,Heartstopper,3,1,4704016,,Love,2024-10-03,33,,,8.609,23,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8AjpwsXWF6hmM3OUGbwJuChcNYj.jpg
+episode,124834,Heartstopper,3,2,5522340,,Home,2024-10-03,39,,,8.6,14,,,,,,,,,,,https://image.tmdb.org/t/p/w300/4tlhXhJEERliNfRBpFaO9yrqqgb.jpg
+episode,124834,Heartstopper,3,3,5522341,,Talk,2024-10-03,37,,,9.4,12,,,,,,,,,,,https://image.tmdb.org/t/p/w300/sPdRCWOLroVD38hLy5PgGd8yyzJ.jpg
+episode,124834,Heartstopper,3,4,5522342,,Journey,2024-10-03,34,,,8.9,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/n1T4ePIvk8TSe1kT5yqsBVJtAZc.jpg
+episode,124834,Heartstopper,3,5,5522343,,Winter,2024-10-03,34,,,8.8,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/25P13klJYhnPtBPmfMNanaijYRV.jpg
+episode,124834,Heartstopper,3,6,5522349,,Body,2024-10-03,36,,,8.7,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/hEBOND17lRNfj24j2NWWgMeBT5P.jpg
+episode,124834,Heartstopper,3,7,5522358,,Together,2024-10-03,35,,,8.8,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/uewgSxlGLMnB9zrxB2umybl0KBZ.jpg
+episode,124834,Heartstopper,3,8,5525537,,Apart,2024-10-03,36,,,8.9,13,,,,,,,,,,,https://image.tmdb.org/t/p/w300/K8WdfAa0usM6re9RANr6UHcNBJ.jpg
+show,226637,High Potential,,,226637,,High Potential,2024-09-17,,Returning Series,Drama|Crime|Mystery,8.02,298,27.0401,https://abc.com/show/a9a37c58-9d88-452f-9ac6-0a95e5a4176e,https://image.tmdb.org/t/p/w500/lMYflruVeOfnWiX4LwoQuOJNLHz.jpg,https://image.tmdb.org/t/p/w780/ijRiyqrXUzrF77INhtzvSS6V6qG.jpg,tt22091076,Disney Plus,,Apple TV,,https://www.themoviedb.org/tv/226637-high-potential/watch?locale=CA,
+season,226637,High Potential,1,,226637_S1,,Season 1,2024-09-17,,,,,,,,https://image.tmdb.org/t/p/w342/ylTZ6bfmPrwUz01A0VpvluGFWsv.jpg,,,,,,,,
+season,226637,High Potential,2,,226637_S2,,Season 2,2025-09-16,,,,,,,,https://image.tmdb.org/t/p/w342/lMYflruVeOfnWiX4LwoQuOJNLHz.jpg,,,,,,,,
+episode,226637,High Potential,2,1,6388491,,Pawns,2025-09-16,,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/kzG9nLSep09shftYHV2JzjiWunA.jpg
+episode,226637,High Potential,2,2,6388492,,Checkmate,2025-09-23,,,,0.0,0,,,,,,,,,,,
+episode,226637,High Potential,2,3,6388493,,Eleven Minutes,2025-09-30,,,,0.0,0,,,,,,,,,,,
+episode,226637,High Potential,2,4,6494308,,Episode 4,2025-10-07,,,,0.0,0,,,,,,,,,,,
+show,549,Law & Order,,,549,,Law & Order,1990-09-13,,Returning Series,Crime|Drama,7.406,629,112.8031,http://www.nbc.com/law-order,https://image.tmdb.org/t/p/w500/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg,https://image.tmdb.org/t/p/w780/4uWvmON2pqDJtpPAsHMggdDFFrn.jpg,tt0098844,Crave|Club Illico|Citytvplus Amazon Channel|Citytvplus,,Apple TV|Amazon Video,,https://www.themoviedb.org/tv/549-law-order/watch?locale=CA,
+season,549,Law & Order,0,,549_S0,,Specials,,,,,,,,,https://image.tmdb.org/t/p/w342/vVUVEqs0KwplqHvv2GyCj2tpMSr.jpg,,,,,,,,
+episode,549,Law & Order,0,1,31048,,Special: The Cast: The Early Years,,45,,,0.0,0,,,,,,,,,,,
+episode,549,Law & Order,0,2,31044,,Interview: Dick Wolfe: Creator,,45,,,0.0,0,,,,,,,,,,,
+episode,549,Law & Order,0,3,31045,,Interview: Jerry Orbach,,45,,,0.0,0,,,,,,,,,,,
+episode,549,Law & Order,0,4,31046,,Interview: Jesse L. Martin,,45,,,0.0,0,,,,,,,,,,,
+episode,549,Law & Order,0,5,31047,,Interview: Fred Dalton Thompson,,45,,,0.0,0,,,,,,,,,,,
+episode,549,Law & Order,0,6,31049,,"Interview: Park Dietz, MD: Inside The Criminal Mind",,45,,,0.0,0,,,,,,,,,,,
+episode,549,Law & Order,0,7,31037,,Special: The First Three Years,,45,,,0.0,0,,,,,,,,,,,
+season,549,Law & Order,1,,549_S1,,Season 1,1990-09-13,,,,,,,,https://image.tmdb.org/t/p/w342/hGrkBU5p60zZj9bMByo9cegZfhl.jpg,,,,,,,,
+season,549,Law & Order,2,,549_S2,,Season 2,1991-09-16,,,,,,,,https://image.tmdb.org/t/p/w342/nykyEGoMsVPnyrnoUL0g93YJPQZ.jpg,,,,,,,,
+season,549,Law & Order,3,,549_S3,,Season 3,1992-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/emKji2D1tLAJsFad84ENA4PufI5.jpg,,,,,,,,
+season,549,Law & Order,4,,549_S4,,Season 4,1993-09-15,,,,,,,,https://image.tmdb.org/t/p/w342/fiSP98l9G7zjC0sBWwQ02Nmhpub.jpg,,,,,,,,
+season,549,Law & Order,5,,549_S5,,Season 5,1994-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/v8yqfobOp6jSDomgcOnotfsGM2i.jpg,,,,,,,,
+season,549,Law & Order,6,,549_S6,,Season 6,1995-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/5GaJYO3BXCUaHKXr9e7wC1IARwo.jpg,,,,,,,,
+season,549,Law & Order,7,,549_S7,,Season 7,1996-09-18,,,,,,,,https://image.tmdb.org/t/p/w342/mEGBAiPkZcp4GgPv7CQmFhOEWrK.jpg,,,,,,,,
+season,549,Law & Order,8,,549_S8,,Season 8,1997-09-24,,,,,,,,https://image.tmdb.org/t/p/w342/caieRmySO32CyyoPydhxGh7iN33.jpg,,,,,,,,
+season,549,Law & Order,9,,549_S9,,Season 9,1998-09-23,,,,,,,,https://image.tmdb.org/t/p/w342/OuntFFHJqftivArTHjnFu1jSPM.jpg,,,,,,,,
+season,549,Law & Order,10,,549_S10,,Season 10,1999-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/fnYm6dcs1bmYvl3afnGxofsVgyw.jpg,,,,,,,,
+season,549,Law & Order,11,,549_S11,,Season 11,2000-10-17,,,,,,,,https://image.tmdb.org/t/p/w342/u5MyTy53EWtnsMQewECGfNDywme.jpg,,,,,,,,
+season,549,Law & Order,12,,549_S12,,Season 12,2001-09-25,,,,,,,,https://image.tmdb.org/t/p/w342/xAazzYBfFquWWqes5dozpQ0x4jW.jpg,,,,,,,,
+season,549,Law & Order,13,,549_S13,,Season 13,2002-10-01,,,,,,,,https://image.tmdb.org/t/p/w342/2DzgIJzKVY9OfYxRMJjJLIZRhfi.jpg,,,,,,,,
+season,549,Law & Order,14,,549_S14,,Season 14,2003-09-23,,,,,,,,https://image.tmdb.org/t/p/w342/26ByCQKroHuBs7ZgbkwHTsHvU77.jpg,,,,,,,,
+season,549,Law & Order,15,,549_S15,,Season 15,2004-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/z07aBZ5euhdhl0hyzWhwU1mGsrN.jpg,,,,,,,,
+season,549,Law & Order,16,,549_S16,,Season 16,2005-09-20,,,,,,,,https://image.tmdb.org/t/p/w342/vo1hHZ1Bpt7XOYDqab7rqw5VTZL.jpg,,,,,,,,
+season,549,Law & Order,17,,549_S17,,Season 17,2006-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/zjSZrjqz9f3n6XoPYpaIgzwDQT3.jpg,,,,,,,,
+season,549,Law & Order,18,,549_S18,,Season 18,2008-01-01,,,,,,,,https://image.tmdb.org/t/p/w342/q0nVi8xzk7DHpeFnQ678f8asYxC.jpg,,,,,,,,
+season,549,Law & Order,19,,549_S19,,Season 19,2008-11-04,,,,,,,,https://image.tmdb.org/t/p/w342/fIIoj3EzsHcgF9Yd0ISWKinmLX8.jpg,,,,,,,,
+season,549,Law & Order,20,,549_S20,,Season 20,2009-09-24,,,,,,,,https://image.tmdb.org/t/p/w342/yoISWagCsb16Hnoi16Ot1nur2FV.jpg,,,,,,,,
+season,549,Law & Order,21,,549_S21,,Season 21,2022-02-23,,,,,,,,https://image.tmdb.org/t/p/w342/l7qr5Q5iJXeja9iDmdXagoUZ0Vm.jpg,,,,,,,,
+season,549,Law & Order,22,,549_S22,,Season 22,2022-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg,,,,,,,,
+season,549,Law & Order,23,,549_S23,,Season 23,2024-01-17,,,,,,,,https://image.tmdb.org/t/p/w342/m9zTQr4TYS98UFSiA1k0mMfECPe.jpg,,,,,,,,
+season,549,Law & Order,24,,549_S24,,Season 24,2024-10-03,,,,,,,,https://image.tmdb.org/t/p/w342/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg,,,,,,,,
+season,549,Law & Order,25,,549_S25,,Season 25,2025-09-25,,,,,,,,,,,,,,,,
+episode,549,Law & Order,25,1,6414038,,Episode 1,2025-09-25,,,,0.0,0,,,,,,,,,,,
+show,90,Mayday,,,90,,Mayday,2003-09-03,,Returning Series,Documentary|Drama|Crime,8.2,266,28.0688,http://www.discovery.ca/Shows/Mayday,https://image.tmdb.org/t/p/w500/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg,https://image.tmdb.org/t/p/w780/zocVz88wzfCd2y3RPKxI8qjhRKc.jpg,tt0386950,Amazon Prime Video|Crave|CTV|Amazon Prime Video with Ads,,,Tubi TV|Noovo,https://www.themoviedb.org/tv/90-mayday/watch?locale=CA,
+season,90,Mayday,0,,90_S0,,Specials,2004-06-26,,,,,,,,https://image.tmdb.org/t/p/w342/bGc6mW2FjKmNVhYb9KF2HKQ1vGf.jpg,,,,,,,,
+season,90,Mayday,1,,90_S1,,Season 1,2003-09-03,,,,,,,,https://image.tmdb.org/t/p/w342/oF4Z7159vBpSPglhETeKP6R41lL.jpg,,,,,,,,
+season,90,Mayday,2,,90_S2,,Season 2,2005-01-23,,,,,,,,https://image.tmdb.org/t/p/w342/x4AdQgmt04QHcYhAfZ55i1WViBb.jpg,,,,,,,,
+season,90,Mayday,3,,90_S3,,Season 3,2005-09-14,,,,,,,,https://image.tmdb.org/t/p/w342/2xPqKfDRVlg2WsOPycmEGZiXnOC.jpg,,,,,,,,
+season,90,Mayday,4,,90_S4,,Season 4,2007-04-15,,,,,,,,https://image.tmdb.org/t/p/w342/jVecrv1JengYGW6cn8C06hMVymR.jpg,,,,,,,,
+season,90,Mayday,5,,90_S5,,Season 5,2008-04-09,,,,,,,,https://image.tmdb.org/t/p/w342/A9aBuBAcddz5Zdl8gBSGTtvkYq1.jpg,,,,,,,,
+season,90,Mayday,6,,90_S6,,Season 6,2007-12-16,,,,,,,,https://image.tmdb.org/t/p/w342/4NV9F8xIBsp1zC577FYuTlO58MD.jpg,,,,,,,,
+season,90,Mayday,7,,90_S7,,Season 7,2009-11-04,,,,,,,,https://image.tmdb.org/t/p/w342/4jcb73bLhuzVDtypz4Gz4Bf895f.jpg,,,,,,,,
+season,90,Mayday,8,,90_S8,,Season 8,2009-06-10,,,,,,,,https://image.tmdb.org/t/p/w342/3DBuW5Ak7yfdvxQZwQFvSmCz1cS.jpg,,,,,,,,
+season,90,Mayday,9,,90_S9,,Season 9,2010-09-08,,,,,,,,https://image.tmdb.org/t/p/w342/tLRNEYQQdGjgDjWAyzju3CjeOBh.jpg,,,,,,,,
+season,90,Mayday,10,,90_S10,,Season 10,2011-02-28,,,,,,,,https://image.tmdb.org/t/p/w342/1s1zGhEcrLs4fq2smVaUxymPas8.jpg,,,,,,,,
+season,90,Mayday,11,,90_S11,,Season 11,2011-08-12,,,,,,,,https://image.tmdb.org/t/p/w342/kVwTr7GOY1KBjcJJTYFwciRmrsE.jpg,,,,,,,,
+season,90,Mayday,12,,90_S12,,Season 12,2012-08-03,,,,,,,,https://image.tmdb.org/t/p/w342/fiFxbhv3jgik8nbptlf9yVNSYmg.jpg,,,,,,,,
+season,90,Mayday,13,,90_S13,,Season 13,2013-12-16,,,,,,,,https://image.tmdb.org/t/p/w342/1aR5lIS1IPrE1VlnhPiaUenMJGR.jpg,,,,,,,,
+season,90,Mayday,14,,90_S14,,Season 14,2015-01-05,,,,,,,,https://image.tmdb.org/t/p/w342/wfxI5mzChiy0DZoP78QlumwF02l.jpg,,,,,,,,
+season,90,Mayday,15,,90_S15,,Season 15,2016-01-02,,,,,,,,https://image.tmdb.org/t/p/w342/j5KMJCfjkOnfms9unnfji9CnHsT.jpg,,,,,,,,
+season,90,Mayday,16,,90_S16,,Season 16,2016-06-07,,,,,,,,https://image.tmdb.org/t/p/w342/rD84j6VpLpbNJXqqwcIYYEIlDB5.jpg,,,,,,,,
+season,90,Mayday,17,,90_S17,,Season 17,2017-02-20,,,,,,,,https://image.tmdb.org/t/p/w342/pf83ig0lJofd9rdRPjQnMqbiDGV.jpg,,,,,,,,
+season,90,Mayday,18,,90_S18,,Season 18,2018-02-13,,,,,,,,https://image.tmdb.org/t/p/w342/x5TwzsZhWKRSPE5qlZnBXo6FUjF.jpg,,,,,,,,
+season,90,Mayday,19,,90_S19,,Season 19,2019-01-02,,,,,,,,https://image.tmdb.org/t/p/w342/hySuBQWEGDwn84jlQTjMdy6Tnx.jpg,,,,,,,,
+season,90,Mayday,20,,90_S20,,Season 20,2020-01-09,,,,,,,,https://image.tmdb.org/t/p/w342/k4IEN0ycqBzkT6WvJtyjDdIiofJ.jpg,,,,,,,,
+season,90,Mayday,21,,90_S21,,Season 21,2021-04-04,,,,,,,,https://image.tmdb.org/t/p/w342/szgzRP2iOo45mN3mriE2UEoklAs.jpg,,,,,,,,
+season,90,Mayday,22,,90_S22,,Season 22,2022-01-10,,,,,,,,https://image.tmdb.org/t/p/w342/8lZQCLxeb8PoFw0N2vKiZayHT5w.jpg,,,,,,,,
+season,90,Mayday,23,,90_S23,,Season 23,2023-02-13,,,,,,,,https://image.tmdb.org/t/p/w342/jzoQKf9WWqwMK4CscDcRXQOEFNz.jpg,,,,,,,,
+season,90,Mayday,24,,90_S24,,Season 24,2024-02-18,,,,,,,,https://image.tmdb.org/t/p/w342/9UzyP0SuiNJ93KfIZQbMpc38InU.jpg,,,,,,,,
+season,90,Mayday,25,,90_S25,,Season 25,2025-02-03,,,,,,,,https://image.tmdb.org/t/p/w342/swenXyByfVdSv6uOUOZesHGeDGf.jpg,,,,,,,,
+episode,90,Mayday,25,1,5983150,,Pacific Ditching (Transair Flight 810),2025-02-03,44,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,2,5983153,,Running on Empty (Air Tahoma Flight 185),2025-02-10,44,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,3,5951354,,Power Struggle,2025-02-17,43,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,4,5983148,,Second Thoughts (Luxair Flight 9642),2025-02-24,44,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,5,5951356,,Powerless Plunge (Loganair Flight 670A),2025-03-03,44,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,6,5951353,,Cabin Chaos,2025-03-10,43,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,7,5983149,,Deadly Climb (Midwest Express Airlines Flight 105),2025-03-17,44,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,8,5951355,,Firebomber Down,2025-03-24,44,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,9,5983151,,Collision Catastrophe (2002 Überlingen mid-air collision),2025-03-31,44,,,10.0,1,,,,,,,,,,,
+episode,90,Mayday,25,10,5983152,,Fatal Test Flight (Airborne Express Flight 827),2025-04-07,42,,,0.0,0,,,,,,,,,,,
+episode,90,Mayday,25,11,6237187,,No Exit (US Air 1493),2025-05-26,44,,,0.0,0,,,,,,,,,,,
+show,249023,North of North,,,249023,,North of North,2025-01-07,,Returning Series,Comedy,6.793,29,2.3542,https://gem.cbc.ca/north-of-north,https://image.tmdb.org/t/p/w500/yAtcsq5ciJ6TBfGzM0b6BzVCaPA.jpg,https://image.tmdb.org/t/p/w780/w3mBUviE0R9jYHoPLP5IP8vAbJ8.jpg,tt30407364,Netflix|Netflix Standard with Ads,,Apple TV,CBC Gem,https://www.themoviedb.org/tv/249023-north-of-north/watch?locale=CA,
+season,249023,North of North,1,,249023_S1,,Season 1,2025-01-07,,,,,,,,https://image.tmdb.org/t/p/w342/yAtcsq5ciJ6TBfGzM0b6BzVCaPA.jpg,,,,,,,,
+season,249023,North of North,2,,249023_S2,,Season 2,,,,,,,,,,,,,,,,,
+show,246381,Prime Target,,,246381,,Prime Target,2025-01-22,,Returning Series,Drama|Action & Adventure,6.837,101,8.4612,https://tv.apple.com/show/umc.cmc.5hje8i3v25dzow2olljxetnus,https://image.tmdb.org/t/p/w500/bGYCimDXRL7cE3uETLZzMCFOdJo.jpg,https://image.tmdb.org/t/p/w780/bWZFMAEaO2Yfmy0ojRhsd39865U.jpg,tt31186958,Apple TV+|Apple TV Plus Amazon Channel,,,,https://www.themoviedb.org/tv/246381-prime-target/watch?locale=CA,
+season,246381,Prime Target,1,,246381_S1,,Season 1,2025-01-22,,,,,,,,https://image.tmdb.org/t/p/w342/hHzrYFAEDuno5oETqDtukwGbZJw.jpg,,,,,,,,
+episode,246381,Prime Target,1,1,5146358,,A New Pattern,2025-01-22,49,,,6.0,8,,,,,,,,,,,https://image.tmdb.org/t/p/w300/dk58HNXh5Rqv7HvTtzmF2KNf21u.jpg
+episode,246381,Prime Target,1,2,5146360,,Syracuse,2025-01-22,46,,,7.0,4,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ntnlJkliNebXbZYgP8r29PXyj03.jpg
+episode,246381,Prime Target,1,3,5146361,,The Sequence,2025-01-29,44,,,7.0,4,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ccCQLgmCrJPVmBSBzZNWotOAwZw.jpg
+episode,246381,Prime Target,1,4,5146362,,Kaplar,2025-02-05,43,,,5.8,5,,,,,,,,,,,https://image.tmdb.org/t/p/w300/5RypowbLfHNVVH77p11Gky0fsk8.jpg
+episode,246381,Prime Target,1,5,5146363,,House of Wisdom,2025-02-12,51,,,6.0,4,,,,,,,,,,,https://image.tmdb.org/t/p/w300/7TLO4rPtAd1uPjeA1CC42aUaEcp.jpg
+episode,246381,Prime Target,1,6,5146364,,The Last Link,2025-02-19,44,,,6.2,5,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rqD7lGZ2psavIdY1Pkr42OBgQX0.jpg
+episode,246381,Prime Target,1,7,5146365,,Prime Finder,2025-02-26,58,,,6.75,4,,,,,,,,,,,https://image.tmdb.org/t/p/w300/3MNy591CcZBlrVIxNuMkuIYcmMY.jpg
+episode,246381,Prime Target,1,8,5146366,,The Key,2025-03-05,52,,,5.3,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/cUcvx7KTBCXkS8yXk5Jp95nkV4S.jpg
+show,8514,RuPaul's Drag Race,,,8514,,RuPaul's Drag Race,2009-02-02,,Returning Series,Reality,7.5,256,28.3253,https://www.mtv.com/shows/rupauls-drag-race,https://image.tmdb.org/t/p/w500/lgJvUN66DXJZyZjfYzbkwMAi1iI.jpg,https://image.tmdb.org/t/p/w780/hEtBwhqAzHKihQ1H9QD2kj8bJ5.jpg,tt1353056,Netflix|Crave|WOW Presents Plus|OUTtv Amazon Channel|Netflix Standard with Ads|OUTtv Apple TV Channel,,,,https://www.themoviedb.org/tv/8514-rupaul-s-drag-race/watch?locale=CA,
+season,8514,RuPaul's Drag Race,0,,8514_S0,,Specials,2011-11-13,,,,,,,,https://image.tmdb.org/t/p/w342/2Gi31HSneDVeKF0Ot0mANWms6Kv.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,1,,8514_S1,,Season 1,2009-02-02,,,,,,,,https://image.tmdb.org/t/p/w342/cGDMm6qIujyvADyYDsbTtaRWJv.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,2,,8514_S2,,Season 2,2010-02-01,,,,,,,,https://image.tmdb.org/t/p/w342/ejy05NVupvoOm1YaaqJCK0TGVX8.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,3,,8514_S3,,Season 3,2011-01-24,,,,,,,,https://image.tmdb.org/t/p/w342/skuRDaRlOwVQhkfpVD0EJVaIPbK.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,4,,8514_S4,,Season 4,2012-01-30,,,,,,,,https://image.tmdb.org/t/p/w342/tE1NWQMBiUdl7EjvMRYxNXHg1G.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,5,,8514_S5,,Season 5,2013-01-28,,,,,,,,https://image.tmdb.org/t/p/w342/mRiKVOY6NMZlvxSTcYbarO7MJR8.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,6,,8514_S6,,Season 6,2014-02-24,,,,,,,,https://image.tmdb.org/t/p/w342/u8fN42R2sgxRGqNyBFj17GO3Hxa.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,7,,8514_S7,,Season 7,2015-03-02,,,,,,,,https://image.tmdb.org/t/p/w342/45OSv4nvaGliItfODO9JTMCtnRO.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,8,,8514_S8,,Season 8,2016-03-07,,,,,,,,https://image.tmdb.org/t/p/w342/ntBL9REggTUwg8m5lNLx4Pg4L3E.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,9,,8514_S9,,Season 9,2017-03-24,,,,,,,,https://image.tmdb.org/t/p/w342/sB5rCEjGDzKCcMRM1a3MhS9jL74.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,10,,8514_S10,,Season 10,2018-03-22,,,,,,,,https://image.tmdb.org/t/p/w342/aysMLBFqnOM6iL7HdCXwGdpR9Mi.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,11,,8514_S11,,Season 11,2019-02-28,,,,,,,,https://image.tmdb.org/t/p/w342/nuk2vcqVcuT0MDnBb1UkTjzYAjg.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,12,,8514_S12,,Season 12,2020-02-28,,,,,,,,https://image.tmdb.org/t/p/w342/e3Y1jNEJvqHcSNKI6iqO9DStPXm.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,13,,8514_S13,,Season 13,2021-01-01,,,,,,,,https://image.tmdb.org/t/p/w342/1a7nBLw0ajBkDHGUx9sV8AMDVqc.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,14,,8514_S14,,Season 14,2022-01-07,,,,,,,,https://image.tmdb.org/t/p/w342/dY2GdZfx71CaOj7HeW2nFg4akPF.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,15,,8514_S15,,Season 15,2023-01-06,,,,,,,,https://image.tmdb.org/t/p/w342/rM31D4ecYfpqUZ6s0o6yoxwK5UG.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,16,,8514_S16,,Season 16,2024-01-05,,,,,,,,https://image.tmdb.org/t/p/w342/6LThfVcGWSLswQaQh2vvk1Q2IoH.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,17,,8514_S17,,Season 17,2025-01-03,,,,,,,,https://image.tmdb.org/t/p/w342/zSuuQuxB3Xllbahy6krViT8BLqw.jpg,,,,,,,,
+season,8514,RuPaul's Drag Race,18,,8514_S18,,Season 18,,,,,,,,,,,,,,,,,
+show,67482,RuPaul's Drag Race All Stars,,,67482,,RuPaul's Drag Race All Stars,2012-10-22,,Returning Series,Reality,7.3,117,6.6104,https://www.paramountplus.com/shows/rupauls-drag-race-all-stars/,https://image.tmdb.org/t/p/w500/ArIu3xEo28LiKtiVWHNZdPFNZrM.jpg,https://image.tmdb.org/t/p/w780/emIR7nopXFsQILeBAFl49HJFoRq.jpg,tt2301351,Netflix|Crave|WOW Presents Plus|OUTtv Amazon Channel|Netflix Standard with Ads|OUTtv Apple TV Channel,,,,https://www.themoviedb.org/tv/67482-rupaul-s-drag-race-all-stars/watch?locale=CA,
+season,67482,RuPaul's Drag Race All Stars,1,,67482_S1,,Season 1,2012-10-22,,,,,,,,https://image.tmdb.org/t/p/w342/e7tjaCIsjPCzWXVkffEJloG8vSV.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,2,,67482_S2,,Season 2,2016-08-25,,,,,,,,https://image.tmdb.org/t/p/w342/kLOx9cUOwWAW73c9nD9H94LpQeI.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,3,,67482_S3,,Season 3,2018-01-25,,,,,,,,https://image.tmdb.org/t/p/w342/7vYA8aXFSP464lUndbPzvfJ8QjW.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,4,,67482_S4,,Season 4,2018-12-14,,,,,,,,https://image.tmdb.org/t/p/w342/nWTpsAEPHRkh5Kt8z7DMylbs04O.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,5,,67482_S5,,Season 5,2020-06-05,,,,,,,,https://image.tmdb.org/t/p/w342/dJcpW1Ilouv2bwSdWogDxgooK8j.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,6,,67482_S6,,Season 6,2021-06-24,,,,,,,,https://image.tmdb.org/t/p/w342/nQ6MjgKPujYPRQkwP7KoZe349GC.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,7,,67482_S7,,Season 7,2022-05-20,,,,,,,,https://image.tmdb.org/t/p/w342/eb1lTZUydEr4OIy624NrfXmTtvB.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,8,,67482_S8,,Season 8,2023-05-12,,,,,,,,https://image.tmdb.org/t/p/w342/zhG7A3KIJgCr8JNZQQvzmEiidzt.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,9,,67482_S9,,Season 9,2024-05-17,,,,,,,,https://image.tmdb.org/t/p/w342/h2eHSwM1wfZsCWn4Zv3esvwBJ3U.jpg,,,,,,,,
+season,67482,RuPaul's Drag Race All Stars,10,,67482_S10,,Season 10,2025-05-08,,,,,,,,https://image.tmdb.org/t/p/w342/KMN9xeNSrViVz78XoO3FHd9N08.jpg,,,,,,,,
+episode,67482,RuPaul's Drag Race All Stars,10,1,6129665,,"Winner Winner, Chicken Dinner",2025-05-09,69,,,6.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/2inVrgN0FGvdMCFKNfnW8y6xrvU.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,2,6130148,,Murder On The Dance Floor,2025-05-09,63,,,5.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/iQCAi57NjqHiiwKLesSZTyyY2wE.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,3,6143902,,Hoop Queens Makeover,2025-05-16,62,,,6.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/cFvfhzryEQYRLMoMvEfghP7sYN3.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,4,6143903,,Eight Ball,2025-05-23,65,,,6.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/z0oEKcnaQ8TlrudmQh4UUuLtXRa.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,5,6143904,,Rappin' Roast,2025-05-30,63,,,7.3,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rxEpb5oSq9ildNb6VFXiRJRyafs.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,6,6143905,,Starrbooty: The Rebooty,2025-06-06,,,,6.7,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rjwYyV7haFhCf8RV6qYNa7CZ6e7.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,7,6167141,,Wicked Good,2025-06-13,67,,,6.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/1mWB8GPZWBr1zb2eEcD5isQGpfT.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,8,6167142,,Stagecooch,2025-06-20,,,,5.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/d9CkIDLTtn9JRgdQUbFDgAlPLNG.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,9,6167143,,The Golden Bitchelor,2025-06-27,,,,4.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/eXbRMjc3IkvHlxcs8ZM8SKsutla.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,10,6167144,,Tournament of All Stars Snatch Game,2025-07-04,63,,,5.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/pCIXancx2Avx49tLNCwlWAmAG1C.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,11,6167145,,Tournament of All Stars Talent Invitational,2025-07-11,63,,,6.5,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/2tR029ddAsLrcXu4CqX2ODfFEHN.jpg
+episode,67482,RuPaul's Drag Race All Stars,10,12,6167146,,Tournament of All Stars Smackdown for the Crown,2025-07-18,63,,,7.0,3,,,,,,,,,,,https://image.tmdb.org/t/p/w300/7DjGi6NlXCERQQzPq0Gy0py5GMz.jpg
+show,67564,RuPaul's Drag Race All Stars: UNTUCKED,,,67564,,RuPaul's Drag Race All Stars: UNTUCKED,2012-10-23,,Returning Series,Reality,5.7,23,1.9341,https://www.paramountplus.com/shows/rupauls-drag-race-all-stars-untucked/,https://image.tmdb.org/t/p/w500/5LpE4jiIXtzt42I5NdE0blyeiwr.jpg,https://image.tmdb.org/t/p/w780/lq8W1Yax0rwkpQyiRgSwo8M3lUs.jpg,tt9646834,WOW Presents Plus,,,,https://www.themoviedb.org/tv/67564-rupaul-s-drag-race-all-stars-untucked/watch?locale=CA,
+season,67564,RuPaul's Drag Race All Stars: UNTUCKED,1,,67564_S1,,Season 1,2012-10-23,,,,,,,,https://image.tmdb.org/t/p/w342/1r49l1Wk8hqZVOxzGx87lfZNvEV.jpg,,,,,,,,
+season,67564,RuPaul's Drag Race All Stars: UNTUCKED,2,,67564_S2,,Season 2,2020-06-05,,,,,,,,https://image.tmdb.org/t/p/w342/kiWCYn6Uuhcf0YpP2JRXH9CTai6.jpg,,,,,,,,
+season,67564,RuPaul's Drag Race All Stars: UNTUCKED,3,,67564_S3,,Season 3,2021-06-24,,,,,,,,https://image.tmdb.org/t/p/w342/cZl4Bx7GlifYUema5qBqUpfrJJM.jpg,,,,,,,,
+season,67564,RuPaul's Drag Race All Stars: UNTUCKED,4,,67564_S4,,Season 4,2022-05-20,,,,,,,,https://image.tmdb.org/t/p/w342/tlOjdTndxslUXPTp2gdzsWlFb1P.jpg,,,,,,,,
+season,67564,RuPaul's Drag Race All Stars: UNTUCKED,5,,67564_S5,,Season 5,2023-05-12,,,,,,,,https://image.tmdb.org/t/p/w342/t3xTvkGxmscnccbeNbOQkREUzd3.jpg,,,,,,,,
+season,67564,RuPaul's Drag Race All Stars: UNTUCKED,6,,67564_S6,,Season 6,2024-05-17,,,,,,,,https://image.tmdb.org/t/p/w342/zUl6jP9W214XDKvm8dLXtKelTQz.jpg,,,,,,,,
+season,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,,67564_S7,,Season 7,2025-05-09,,,,,,,,https://image.tmdb.org/t/p/w342/yaZav4zejCvrel7GIbWm90LXiiv.jpg,,,,,,,,
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,1,6130165,,"Winner Winner, Chicken Dinner",2025-05-09,22,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ejnDqDIxWj7wp7jNVtNM2mD4gJ7.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,2,6130166,,Murder on the Dance Floor,2025-05-09,22,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/lV27h78qrMZK1ZFHadniqjAWgpc.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,3,6167149,,Hoop Queens Makeovers,2025-05-16,22,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/61nV38t93OQcX5FB9lki1i8BH24.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,4,6167151,,Eight Ball,2025-05-23,22,,,6.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/mabUo0CHnZWwVPE6qOaXDy4Nheb.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,5,6167152,,Rappin' Roast,2025-05-30,22,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/mfDeLfb7v5tkR3KJ9hwuiQI73Et.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,6,6167153,,Starrbooty: The Rebooty,2025-06-06,22,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/qQtJoEor0J7tj6zKmOgoDossGb.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,7,6167154,,Wicked Good,2025-06-13,22,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/7fVTtoKIyjLhWoLggwDsPeRUS5f.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,8,6167155,,Stagecooch,2025-06-20,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ehBeZcLCfy4Mu9xdbWAetOCHd6I.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,9,6167156,,The Golden Bitchelor,2025-06-27,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/bjBZWEA88gSe41rApgBCUzPyUHI.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,10,6167157,,Tournament of All Stars Snatch Game,2025-07-04,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/aXzYKCN30bcMxYUOmQXeZj2wf2n.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,11,6167158,,Tournament of All Stars Talent Invitational,2025-07-11,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/dfHuYu5EsfndhqMwLGacNcisska.jpg
+episode,67564,RuPaul's Drag Race All Stars: UNTUCKED,7,12,6167159,,Tournament of All Stars Smackdown for the Crown,2025-07-18,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/fWnTGNHiDBoRci9dsjAyD5334Gt.jpg
+show,122692,RuPaul's Drag Race Down Under,,,122692,,RuPaul's Drag Race Down Under,2021-05-01,,Returning Series,Reality,5.2,25,2.9872,https://www.stan.com.au/watch/rupauls-drag-race-down-under,https://image.tmdb.org/t/p/w500/uWZPjouQgLs1lMVL0lu8P5J1jBc.jpg,https://image.tmdb.org/t/p/w780/nV9VruLiUkiqOYuQoY70UCdweVG.jpg,tt14192040,WOW Presents Plus,,,,https://www.themoviedb.org/tv/122692-rupaul-s-drag-race-down-under/watch?locale=CA,
+season,122692,RuPaul's Drag Race Down Under,0,,122692_S0,,Specials,2021-03-05,,,,,,,,,,,,,,,,
+season,122692,RuPaul's Drag Race Down Under,1,,122692_S1,,Season 1,2021-04-30,,,,,,,,https://image.tmdb.org/t/p/w342/j4FPSAPRDkYKIb8XkIa9v5S2aV1.jpg,,,,,,,,
+season,122692,RuPaul's Drag Race Down Under,2,,122692_S2,,Season 2,2022-07-30,,,,,,,,https://image.tmdb.org/t/p/w342/7QkRBMWpoVTHiN3wQPdQ3H9rZzm.jpg,,,,,,,,
+season,122692,RuPaul's Drag Race Down Under,3,,122692_S3,,Season 3,2023-07-28,,,,,,,,https://image.tmdb.org/t/p/w342/nrmPPD0CCVE6sidhszx41utxvw9.jpg,,,,,,,,
+season,122692,RuPaul's Drag Race Down Under,4,,122692_S4,,Season 4,2024-11-01,,,,,,,,https://image.tmdb.org/t/p/w342/uWZPjouQgLs1lMVL0lu8P5J1jBc.jpg,,,,,,,,
+episode,122692,RuPaul's Drag Race Down Under,4,1,5660200,,Doubling Down,2024-11-01,58,,,7.0,2,,,,,,,,,,,https://image.tmdb.org/t/p/w300/vBr22UfhVrdHga7yyq03n3WRhq1.jpg
+episode,122692,RuPaul's Drag Race Down Under,4,2,5719571,,Mr. Right or Mr. Right Now?,2024-11-08,54,,,6.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/diNdGKjiNrwhX3rR40OWx3z1etR.jpg
+episode,122692,RuPaul's Drag Race Down Under,4,3,5720484,,Snatch Me Out Of Here,2024-11-15,56,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/1LVZUNBwHqod0yarCTewFjn51ZP.jpg
+episode,122692,RuPaul's Drag Race Down Under,4,4,5720486,,Fierce Fabulous Fashion,2024-11-22,57,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/fAK2Le9tc75DpJgcybYBlE0YaZW.jpg
+episode,122692,RuPaul's Drag Race Down Under,4,5,5720487,,Booked And Beautiful,2024-11-29,58,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/dkK3u6JT7mjNJXg23pEg0JtwpeM.jpg
+episode,122692,RuPaul's Drag Race Down Under,4,6,5720488,,Platy-Pussies On Fire,2024-12-06,56,,,6.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/3ZqJX3VTw9GSEgf5un7BbTZdehB.jpg
+episode,122692,RuPaul's Drag Race Down Under,4,7,5720489,,The Rhys Roast,2024-12-13,57,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8VtJyuZiOiNi93ARNfVfgJwp402.jpg
+episode,122692,RuPaul's Drag Race Down Under,4,8,5720491,,Grand Finale,2024-12-20,56,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/DtSSPRWSlcVNrfhYjlb6NdYDql.jpg
+show,232821,RuPaul's Drag Race Global All Stars,,,232821,,RuPaul's Drag Race Global All Stars,2024-08-16,,Returning Series,Reality,5.5,5,1.7053,https://www.paramountplus.com/shows/rupauls-drag-race-global-all-stars/,https://image.tmdb.org/t/p/w500/jbtW0zyr2fwo6SEOLK9jbq7ihZZ.jpg,https://image.tmdb.org/t/p/w780/dYhpvGjWCIuINjCqPtY83Z5K8BF.jpg,tt32919055,Crave,,,,https://www.themoviedb.org/tv/232821-rupaul-s-drag-race-global-all-stars/watch?locale=CA,
+season,232821,RuPaul's Drag Race Global All Stars,0,,232821_S0,,Specials,2024-07-15,,,,,,,,,,,,,,,,
+season,232821,RuPaul's Drag Race Global All Stars,1,,232821_S1,,Season 1,2024-08-16,,,,,,,,https://image.tmdb.org/t/p/w342/jbtW0zyr2fwo6SEOLK9jbq7ihZZ.jpg,,,,,,,,
+season,232821,RuPaul's Drag Race Global All Stars,2,,232821_S2,,Season 2,,,,,,,,,,,,,,,,,
+show,251306,RuPaul's Drag Race Live Untucked,,,251306,,RuPaul's Drag Race Live Untucked,2024-04-17,,Returning Series,Reality,0.0,0,0.8259,https://www.wowpresentsplus.com/rupaul-s-drag-race-live-untucked,https://image.tmdb.org/t/p/w500/2AOPwf6CLe37EdTx1wao9Le1NF7.jpg,https://image.tmdb.org/t/p/w780/eYLP1yo2L6bZKt3fm3bRYRlkGss.jpg,tt29464638,,,,,,
+season,251306,RuPaul's Drag Race Live Untucked,1,,251306_S1,,Season 1,2024-04-17,,,,,,,,https://image.tmdb.org/t/p/w342/tcRVTDVfRJ4eNiiDabrZXcP7SAU.jpg,,,,,,,,
+season,251306,RuPaul's Drag Race Live Untucked,2,,251306_S2,,Season 2,2025-04-16,,,,,,,,https://image.tmdb.org/t/p/w342/2AOPwf6CLe37EdTx1wao9Le1NF7.jpg,,,,,,,,
+episode,251306,RuPaul's Drag Race Live Untucked,2,1,6020974,,New Queen on the Strip,2025-04-16,24,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/N0cjh5LUDfFtWc8jXd0wpkWjXl.jpg
+episode,251306,RuPaul's Drag Race Live Untucked,2,2,6140552,,Not a Dress Rehearsal,2025-04-23,27,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/l2DMozmLIvRYm15HkDNGAMvBWuI.jpg
+episode,251306,RuPaul's Drag Race Live Untucked,2,3,6140553,,Season 16 Sisters,2025-04-30,23,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/FkI6sE7IceauUYRcJO2gw2soya.jpg
+episode,251306,RuPaul's Drag Race Live Untucked,2,4,6178922,,When You’re Here You’re Family,2025-05-07,25,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/oq9algLA8cItFX1OYVKRMEoOjmr.jpg
+episode,251306,RuPaul's Drag Race Live Untucked,2,5,6178923,,Hidden Talent,2025-05-14,23,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/6pNZT2JgMvK99yLGvPJyi8f5ow4.jpg
+episode,251306,RuPaul's Drag Race Live Untucked,2,6,6178924,,The Fly Girls,2025-05-21,23,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/hi1Tu8ULpfENTPxaZnxw5qUqych.jpg
+show,92611,RuPaul's Drag Race UK,,,92611,,RuPaul's Drag Race UK,2019-10-03,,Returning Series,Reality,7.2,55,8.901,https://www.bbc.co.uk/programmes/p07kt8b4,https://image.tmdb.org/t/p/w500/rffFiZHh5gWOefFZnJkuCr83qq5.jpg,https://image.tmdb.org/t/p/w780/AaJVYiHTFNeehKde1H4o57m4Gw8.jpg,tt9780442,Crave|WOW Presents Plus,,Apple TV,,https://www.themoviedb.org/tv/92611-rupaul-s-drag-race-uk/watch?locale=CA,
+season,92611,RuPaul's Drag Race UK,0,,92611_S0,,Specials,2019-09-03,,,,,,,,https://image.tmdb.org/t/p/w342/bpVEXgerXLRmKLX2mF3iqLnulVG.jpg,,,,,,,,
+season,92611,RuPaul's Drag Race UK,1,,92611_S1,,Series 1,2019-10-03,,,,,,,,https://image.tmdb.org/t/p/w342/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg,,,,,,,,
+season,92611,RuPaul's Drag Race UK,2,,92611_S2,,Series 2,2021-01-14,,,,,,,,https://image.tmdb.org/t/p/w342/56MjvYy6ioFXmGoLiyhLYZLjAcd.jpg,,,,,,,,
+season,92611,RuPaul's Drag Race UK,3,,92611_S3,,Series 3,2021-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/vfp8MyIE8DYRajF5ClMp5DXKGc1.jpg,,,,,,,,
+season,92611,RuPaul's Drag Race UK,4,,92611_S4,,Series 4,2022-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/lbnXbVXa7IDUyHVv7S7Sc9rdNiA.jpg,,,,,,,,
+season,92611,RuPaul's Drag Race UK,5,,92611_S5,,Series 5,2023-09-28,,,,,,,,https://image.tmdb.org/t/p/w342/eAo2DRFTf9KafUpUmg7noeg2PQI.jpg,,,,,,,,
+season,92611,RuPaul's Drag Race UK,6,,92611_S6,,Series 6,2024-09-26,,,,,,,,https://image.tmdb.org/t/p/w342/l1pPqCXYJi2CJE5S9c5fVBrygCT.jpg,,,,,,,,
+season,92611,RuPaul's Drag Race UK,7,,92611_S7,,Series 7,,,,,,,,,https://image.tmdb.org/t/p/w342/zfG7AAh2lGB5X0bykQQ4eEB6ASC.jpg,,,,,,,,
+episode,92611,RuPaul's Drag Race UK,7,1,6474364,,Episode 1,,,,,0.0,0,,,,,,,,,,,
+show,155431,RuPaul's Drag Race UK vs The World,,,155431,,RuPaul's Drag Race UK vs The World,2022-02-01,,Returning Series,Reality,6.1,17,1.0373,https://www.bbc.co.uk/programmes/p0bfgdvt,https://image.tmdb.org/t/p/w500/62tel7mkQN3n60W6UmDI6nsbkML.jpg,https://image.tmdb.org/t/p/w780/fsDaHL8Nz0Ao9EVZoTUOiYt78C0.jpg,tt16968320,Crave|WOW Presents Plus,,,,https://www.themoviedb.org/tv/155431-rupaul-s-drag-race-uk-vs-the-world/watch?locale=CA,
+season,155431,RuPaul's Drag Race UK vs The World,0,,155431_S0,,Specials,2022-01-18,,,,,,,,,,,,,,,,
+season,155431,RuPaul's Drag Race UK vs The World,1,,155431_S1,,Series 1,2022-02-01,,,,,,,,https://image.tmdb.org/t/p/w342/r1NhZD6npcpgd2BGEZWf8nfhF6I.jpg,,,,,,,,
+season,155431,RuPaul's Drag Race UK vs The World,2,,155431_S2,,Series 2,2024-02-08,,,,,,,,https://image.tmdb.org/t/p/w342/vkeHnXg10j4tDwC7fV2CUUet0Ko.jpg,,,,,,,,
+season,155431,RuPaul's Drag Race UK vs The World,3,,155431_S3,,Series 3,,,,,,,,,,,,,,,,,
+show,38409,RuPaul's Drag Race: Untucked,,,38409,,RuPaul's Drag Race: Untucked,2010-02-01,,Returning Series,Reality,6.2,48,8.3296,https://www.mtv.com/shows/rupauls-drag-race-untucked,https://image.tmdb.org/t/p/w500/35b9oBymLiEOUL9e3WRrJF6aDUK.jpg,https://image.tmdb.org/t/p/w780/xxgmphUJJOGwhKFKFU3aIKPv96O.jpg,tt1588754,Netflix|WOW Presents Plus|OUTtv Amazon Channel|Netflix Standard with Ads|OUTtv Apple TV Channel,,,,https://www.themoviedb.org/tv/38409-rupaul-s-drag-race-untucked/watch?locale=CA,
+season,38409,RuPaul's Drag Race: Untucked,1,,38409_S1,,Season 1,2010-02-01,,,,,,,,https://image.tmdb.org/t/p/w342/hsPkpIDLOQm6lX15ointkWwqhXJ.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,2,,38409_S2,,Season 2,2011-01-24,,,,,,,,https://image.tmdb.org/t/p/w342/7tZz1nAy8bDvaWCKyhM1h41LaaI.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,3,,38409_S3,,Season 3,2012-01-30,,,,,,,,https://image.tmdb.org/t/p/w342/zkhpp1OvYFlUj6AKseWqBhTjwtl.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,4,,38409_S4,,Season 4,2013-01-28,,,,,,,,https://image.tmdb.org/t/p/w342/rzDwNLbO1TTH3sORbGYj2vkBuWn.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,5,,38409_S5,,Season 5,2014-02-24,,,,,,,,https://image.tmdb.org/t/p/w342/hsC5IKwcAkYJFj1oSncAYchp470.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,6,,38409_S6,,Season 6,2015-03-02,,,,,,,,https://image.tmdb.org/t/p/w342/2qp9dH0rdYkwmm89ymLeozUzp8w.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,7,,38409_S7,,Season 7,2016-03-07,,,,,,,,https://image.tmdb.org/t/p/w342/yocxaM1pJ0a337xdlDHPIL2OYex.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,8,,38409_S8,,Season 8,2017-03-24,,,,,,,,https://image.tmdb.org/t/p/w342/cxkfDfiXQzQ2cPRqbCdzuqWPPaO.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,9,,38409_S9,,Season 9,2018-03-22,,,,,,,,https://image.tmdb.org/t/p/w342/nuCr52awyg3XDqN5hc4OgYXo8ZX.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,10,,38409_S10,,Season 10,2019-03-01,,,,,,,,https://image.tmdb.org/t/p/w342/8cYQ8NoRCeuhWJ41O4fVSN83qcX.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,11,,38409_S11,,Season 11,2020-02-28,,,,,,,,https://image.tmdb.org/t/p/w342/xORRiVnV4IH3yI2E1JYIxoKb3ef.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,12,,38409_S12,,Season 12,2021-01-01,,,,,,,,https://image.tmdb.org/t/p/w342/OHpeP4Ek3XD04mc8WjtMOPmft.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,13,,38409_S13,,Season 13,2022-01-07,,,,,,,,https://image.tmdb.org/t/p/w342/khbEjHijn96kOYkyX6bsZwnZLr9.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,14,,38409_S14,,Season 14,2023-01-06,,,,,,,,https://image.tmdb.org/t/p/w342/9palwm4RadB5FPaXUTbhAiBXZcu.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,15,,38409_S15,,Season 15,2024-01-05,,,,,,,,https://image.tmdb.org/t/p/w342/57D7AEiEGkVNQCxzYnKoxU0Ndhe.jpg,,,,,,,,
+season,38409,RuPaul's Drag Race: Untucked,16,,38409_S16,,Season 16,2025-01-03,,,,,,,,https://image.tmdb.org/t/p/w342/35b9oBymLiEOUL9e3WRrJF6aDUK.jpg,,,,,,,,
+episode,38409,RuPaul's Drag Race: Untucked,16,1,5813608,,Squirrel Games,2025-01-03,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/m4axWMz1rBCiyGibC7fy1l5gGA4.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,2,5859087,,Drag Queens Got Talent - Part 2,2025-01-10,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/njyCdvinEbuutImg0dYXTVtMZ40.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,3,5859088,,Monopulence!,2025-01-17,21,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/15seTDdtuRhE0CUDQLzFXT0KNlI.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,4,5859089,,"Bitch, I'm a Drag Queen!",2025-01-24,21,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/6AWqkbsI7fCn1MLfxvnPX9mTCBj.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,5,5859090,,RDR Live!,2025-01-31,21,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/3hb1xcS9NhF3Wbpah1HbCSjXpz5.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,6,5859091,,Let's Get Sea Sickening Ball,2025-02-07,21,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/uJSEVZqo0FxZv86msyvixfbOOAq.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,7,5859092,,Snatch Game,2025-02-14,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/nBOfQVgcQos0i7ppmVPqwuhgmRx.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,8,5859093,,The Wicked Wiz of Oz: The Rusical!,2025-02-21,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/1ZYajnIbeJ3zntwO1g0PdjiWJxJ.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,9,5859094,,Heavens To Betsey!,2025-02-28,21,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/wHSLnk0zRO3BmPci2uopq7SjvlR.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,10,5859095,,The Villains Roast,2025-03-07,21,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/uI35IdMgQJQ6uGmF21Ce7I9AUcf.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,11,5859096,,Ross Mathews vs. The Ducks,2025-03-14,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/dz7QdE87wGfMApGYWJYworYSI73.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,12,5859097,,"Charisma, Uniqueness, Nerve & Talent Monologues",2025-03-21,21,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/dw23z8aTJjfFZfVb8ZERBNNqaGd.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,13,5859098,,Drag Baby Mamas,2025-03-28,21,,,7.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8rXwI5PAq3CPI5uB55ntOAwEQoH.jpg
+episode,38409,RuPaul's Drag Race: Untucked,16,14,6067961,,How's Your Headliner?,2025-04-04,21,,,8.0,1,,,,,,,,,,,https://image.tmdb.org/t/p/w300/5NcG3pLcIHtNMDNtm0JXeNsykiy.jpg
+show,95396,Severance,,,95396,,Severance,2022-02-17,,Returning Series,Drama|Mystery|Sci-Fi & Fantasy,8.4,2146,34.9162,https://tv.apple.com/show/umc.cmc.1srk2goyh2q2zdxcx605w8vtx,https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg,https://image.tmdb.org/t/p/w780/ixgFmf1X59PUZam2qbAfskx2gQr.jpg,tt11280740,Apple TV+|Apple TV Plus Amazon Channel,,,,https://www.themoviedb.org/tv/95396-severance/watch?locale=CA,
+season,95396,Severance,0,,95396_S0,,Specials,2021-12-15,,,,,,,,https://image.tmdb.org/t/p/w342/f3E2o8DbW9QSzu31yY3Q1av5JO7.jpg,,,,,,,,
+season,95396,Severance,1,,95396_S1,,Season 1,2022-02-17,,,,,,,,https://image.tmdb.org/t/p/w342/lFf6LLrQjYldcZItzOkGmMMigP7.jpg,,,,,,,,
+season,95396,Severance,2,,95396_S2,,Season 2,2025-01-16,,,,,,,,https://image.tmdb.org/t/p/w342/Rb7sga832Cyqvafd7CqOzbwdK4.jpg,,,,,,,,
+season,95396,Severance,3,,95396_S3,,Season 3,,,,,,,,,,,,,,,,,
+show,260471,Shifting Gears,,,260471,,Shifting Gears,2025-01-08,,Returning Series,Comedy,6.1,45,3.7676,https://abc.com/show/0b64a2a5-a111-450a-a3c3-b0f8e69a2124,https://image.tmdb.org/t/p/w500/qQeNdPJ6QDvKCBtGHbTT4DvtuZR.jpg,https://image.tmdb.org/t/p/w780/x3dyx5hVfjTgfiRB24vf28Jagxr.jpg,tt31614348,Disney Plus,,Apple TV,,https://www.themoviedb.org/tv/260471-shifting-gears/watch?locale=CA,
+season,260471,Shifting Gears,1,,260471_S1,,Season 1,2025-01-08,,,,,,,,https://image.tmdb.org/t/p/w342/qQeNdPJ6QDvKCBtGHbTT4DvtuZR.jpg,,,,,,,,
+season,260471,Shifting Gears,2,,260471_S2,,Season 2,2025-10-01,,,,,,,,https://image.tmdb.org/t/p/w342/aUtch1uVgHiOkf1PTUk1EV22ZYx.jpg,,,,,,,,
+episode,260471,Shifting Gears,2,1,6388508,,Episode 1,2025-10-01,,,,0.0,0,,,,,,,,,,,
+episode,260471,Shifting Gears,2,2,6388509,,Episode 2,2025-10-08,,,,0.0,0,,,,,,,,,,,
+episode,260471,Shifting Gears,2,3,6388510,,Episode 3,2025-10-15,,,,0.0,0,,,,,,,,,,,
+show,251941,St. Denis Medical,,,251941,,St. Denis Medical,2024-11-12,,Returning Series,Comedy,6.9,29,3.0652,https://www.nbc.com/st-denis-medical,https://image.tmdb.org/t/p/w500/2LVXrQVsEzLlekzNmxZqKa06CV3.jpg,https://image.tmdb.org/t/p/w780/kIqHPqHOZ2awhZzdiWnXyFER20W.jpg,tt21433690,Crave,,Apple TV,,https://www.themoviedb.org/tv/251941-st-denis-medical/watch?locale=CA,
+season,251941,St. Denis Medical,1,,251941_S1,,Season 1,2024-11-12,,,,,,,,https://image.tmdb.org/t/p/w342/2LVXrQVsEzLlekzNmxZqKa06CV3.jpg,,,,,,,,
+season,251941,St. Denis Medical,2,,251941_S2,,Season 2,2025-11-03,,,,,,,,,,,,,,,,
+episode,251941,St. Denis Medical,2,1,6414036,,Episode 1,2025-11-03,,,,0.0,0,,,,,,,,,,,
+episode,251941,St. Denis Medical,2,2,6414037,,Episode 2,2025-11-03,,,,0.0,0,,,,,,,,,,,
+show,66732,Stranger Things,,,66732,,Stranger Things,2016-07-15,,Returning Series,Drama|Sci-Fi & Fantasy|Mystery,8.596,18673,70.7513,https://www.netflix.com/title/80057281,https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg,https://image.tmdb.org/t/p/w780/56v2KjBlU4XaOv9rVYEQypROD7P.jpg,tt4574334,Netflix|Netflix Standard with Ads,,,,https://www.themoviedb.org/tv/66732-stranger-things/watch?locale=CA,
+season,66732,Stranger Things,1,,66732_S1,,Season 1,2016-07-15,,,,,,,,https://image.tmdb.org/t/p/w342/hb4KmdA4F1XMnf0vVjevPKKBEjV.jpg,,,,,,,,
+season,66732,Stranger Things,2,,66732_S2,,Stranger Things 2,2017-10-27,,,,,,,,https://image.tmdb.org/t/p/w342/74nFJmiapxKuUBXRbSu6VqGGcuo.jpg,,,,,,,,
+season,66732,Stranger Things,3,,66732_S3,,Stranger Things 3,2019-07-04,,,,,,,,https://image.tmdb.org/t/p/w342/sDms9g40ZBhjMIfX9YqqaqId8sK.jpg,,,,,,,,
+season,66732,Stranger Things,4,,66732_S4,,Stranger Things 4,2022-05-27,,,,,,,,https://image.tmdb.org/t/p/w342/5xiUqrCFgT6wU2KzynZMu5CXkM6.jpg,,,,,,,,
+season,66732,Stranger Things,5,,66732_S5,,Stranger Things 5,2025-11-26,,,,,,,,https://image.tmdb.org/t/p/w342/gPQRpAwN1yzGL1CqSVDdLH7DoG4.jpg,,,,,,,,
+episode,66732,Stranger Things,5,1,5477828,,Chapter One: The Crawl,2025-11-26,,,,0.0,0,,,,,,,,,,,
+episode,66732,Stranger Things,5,2,5607045,,Chapter Two: The Vanishing of ...,2025-11-26,,,,0.0,0,,,,,,,,,,,
+episode,66732,Stranger Things,5,3,5607046,,Chapter Three: The Turnbow Trap,2025-11-26,,,,0.0,0,,,,,,,,,,,
+episode,66732,Stranger Things,5,4,5607047,,Chapter Four: Sorcerer,2025-11-26,,,,0.0,0,,,,,,,,,,,
+episode,66732,Stranger Things,5,5,5607048,,Chapter Five: Shock Jock,2025-12-25,,,,0.0,0,,,,,,,,,,,
+episode,66732,Stranger Things,5,6,5607049,,Chapter Six: Escape from Camazotz,2025-12-25,,,,0.0,0,,,,,,,,,,,
+episode,66732,Stranger Things,5,7,5607050,,Chapter Seven: The Bridge,2025-12-25,,,,0.0,0,,,,,,,,,,,
+episode,66732,Stranger Things,5,8,5607051,,Chapter Eight: The Rightside Up,2025-12-31,150,,,0.0,0,,,,,,,,,,,
+show,28172,The Boys,,,28172,,The Boys,1993-08-20,,Ended,Comedy,0.0,0,0.7173,,,,tt0105959,,,,,,
+season,28172,The Boys,1,,28172_S1,,Season 1,1993-08-20,,,,,,,,,,,,,,,,
+episode,28172,The Boys,1,1,703728,,Don't Call Me Ed,1993-08-20,30,,,0.0,0,,,,,,,,,,,
+episode,28172,The Boys,1,2,703729,,Ladies' Night,1993-08-27,30,,,0.0,0,,,,,,,,,,,
+episode,28172,The Boys,1,3,703730,,"Strike One, You're Out",1993-09-03,30,,,0.0,0,,,,,,,,,,,
+episode,28172,The Boys,1,4,703731,,The Writing Class,1993-09-10,30,,,0.0,0,,,,,,,,,,,
+episode,28172,The Boys,1,5,703732,,Ninety-Five in the Shade,1993-09-17,30,,,0.0,0,,,,,,,,,,,
+episode,28172,The Boys,1,6,703733,,The Wicker Moosehead,1993-09-17,30,,,0.0,0,,,,,,,,,,,
+episode,28172,The Boys,1,7,703734,,The Wicker Moosehead,,30,,,0.0,0,,,,,,,,,,,
+show,60603,The Curse of Oak Island,,,60603,,The Curse of Oak Island,2014-01-05,,Returning Series,Mystery|Action & Adventure|Reality|Documentary,7.283,145,11.08,https://www.history.com/shows/the-curse-of-oak-island/,https://image.tmdb.org/t/p/w500/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg,https://image.tmdb.org/t/p/w780/5pN8ouV9pWL5M7pSbz22IEXtNO8.jpg,tt3455408,Crave|StackTV Amazon Channel|fuboTV,,Apple TV,Global TV,https://www.themoviedb.org/tv/60603-the-curse-of-oak-island/watch?locale=CA,
+season,60603,The Curse of Oak Island,0,,60603_S0,,Specials,2015-11-10,,,,,,,,,,,,,,,,
+season,60603,The Curse of Oak Island,1,,60603_S1,,Season 1,2014-01-05,,,,,,,,https://image.tmdb.org/t/p/w342/8i5JvPZWkqOvpWG4BIfXdt4hY2k.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,2,,60603_S2,,Season 2,2014-11-04,,,,,,,,https://image.tmdb.org/t/p/w342/loTRt4yNp9JVXc7lwvtIBpyJilW.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,3,,60603_S3,,Season 3,2015-11-10,,,,,,,,https://image.tmdb.org/t/p/w342/gmCBiA8x8S5PY2hMKnpq2xflCn5.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,4,,60603_S4,,Season 4,2016-11-15,,,,,,,,https://image.tmdb.org/t/p/w342/y7x5OmZunb57kynTB4nDPFMDx6E.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,5,,60603_S5,,Season 5,2017-11-06,,,,,,,,https://image.tmdb.org/t/p/w342/5j6BVmHbW3qZRc2YHO2VJJsatGw.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,6,,60603_S6,,Season 6,2018-11-12,,,,,,,,https://image.tmdb.org/t/p/w342/o3HXPVdkDxnWHzYjb9eTaBKznVo.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,7,,60603_S7,,Season 7,2019-11-04,,,,,,,,https://image.tmdb.org/t/p/w342/5N71fLFWRsC186nMr02j0MQwMOE.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,8,,60603_S8,,Season 8,2020-11-10,,,,,,,,https://image.tmdb.org/t/p/w342/AvaGrTElZI6uGZZHrUYYlkB7ltl.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,9,,60603_S9,,Season 9,2021-11-02,,,,,,,,https://image.tmdb.org/t/p/w342/gtkxUUmHDF31iDUOlxQqUXmiU71.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,10,,60603_S10,,Season 10,2022-11-15,,,,,,,,https://image.tmdb.org/t/p/w342/ioxqD0epe046x4WfOJ37KyhKxJ3.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,11,,60603_S11,,Season 11,2023-11-07,,,,,,,,https://image.tmdb.org/t/p/w342/5ErS3M9I9mlNabWnXOyrR0HmRQB.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,12,,60603_S12,,Season 12,2024-11-12,,,,,,,,https://image.tmdb.org/t/p/w342/bqiQdnwL9iBh7A4TM0EW24Ps8I3.jpg,,,,,,,,
+season,60603,The Curse of Oak Island,13,,60603_S13,,Season 13,,,,,,,,,,,,,,,,,
+season,60603,The Curse of Oak Island,14,,60603_S14,,Season 14,,,,,,,,,,,,,,,,,
+show,222766,The Day of the Jackal,,,222766,,The Day of the Jackal,2024-11-07,,Returning Series,Drama|Action & Adventure|Mystery,8.168,743,31.2465,https://www.sky.com/watch/the-day-of-the-jackal,https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg,https://image.tmdb.org/t/p/w780/enVrO8TRkdT8dmYXTfI4sEjR5Kp.jpg,tt24053860,StackTV Amazon Channel|fuboTV,,,Global TV,https://www.themoviedb.org/tv/222766-the-day-of-the-jackal/watch?locale=CA,
+season,222766,The Day of the Jackal,1,,222766_S1,,Series 1,2024-11-07,,,,,,,,https://image.tmdb.org/t/p/w342/7JXRPUz9cavaouE92L5ksrwClL2.jpg,,,,,,,,
+episode,222766,The Day of the Jackal,1,1,4311888,,Episode 1,2024-11-07,57,,,8.354,99,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rdGGo715ODZCbQaZDHmp6bdcPs.jpg
+episode,222766,The Day of the Jackal,1,2,5665231,,Episode 2,2024-11-07,53,,,7.12,50,,,,,,,,,,,https://image.tmdb.org/t/p/w300/6Kdz5Lqdo1tqsooY2GfqUXWm8ya.jpg
+episode,222766,The Day of the Jackal,1,3,5665232,,Episode 3,2024-11-07,50,,,6.786,42,,,,,,,,,,,https://image.tmdb.org/t/p/w300/33YJ3WckO3gKoSltkCCuNiy6YDW.jpg
+episode,222766,The Day of the Jackal,1,4,5665233,,Episode 4,2024-11-08,49,,,6.886,44,,,,,,,,,,,https://image.tmdb.org/t/p/w300/d637d1TXhf3E2nD7yIvpaxrgW5W.jpg
+episode,222766,The Day of the Jackal,1,5,5665234,,Episode 5,2024-11-08,49,,,7.143,42,,,,,,,,,,,https://image.tmdb.org/t/p/w300/45AMT1PhQl9gLLG6wieNKDZKgir.jpg
+episode,222766,The Day of the Jackal,1,6,5665235,,Episode 6,2024-11-14,49,,,6.902,41,,,,,,,,,,,https://image.tmdb.org/t/p/w300/kChxZzHUeIO14bAMhMkKwkDSxUx.jpg
+episode,222766,The Day of the Jackal,1,7,5665236,,Episode 7,2024-11-21,45,,,6.553,38,,,,,,,,,,,https://image.tmdb.org/t/p/w300/tn3tjgJROysrUJcoJQMT1QwOrXU.jpg
+episode,222766,The Day of the Jackal,1,8,5665237,,Episode 8,2024-11-28,47,,,6.949,39,,,,,,,,,,,https://image.tmdb.org/t/p/w300/thpACk713j0JMoyljCEf8HMKkYo.jpg
+episode,222766,The Day of the Jackal,1,9,5665238,,Episode 9,2024-12-05,47,,,7.35,40,,,,,,,,,,,https://image.tmdb.org/t/p/w300/hN34C0fu0qFh2nk7nxLRPiFaztT.jpg
+episode,222766,The Day of the Jackal,1,10,5665239,,Episode 10,2024-12-12,62,,,7.054,37,,,,,,,,,,,https://image.tmdb.org/t/p/w300/bXISBSN4w7HLTj6lOy5NWHHk8Rr.jpg
+show,253372,The Institute,,,253372,,The Institute,2025-07-13,,Returning Series,Mystery|Sci-Fi & Fantasy,7.807,83,24.7212,https://www.mgmplus.com/series/the-institute,https://image.tmdb.org/t/p/w500/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg,https://image.tmdb.org/t/p/w780/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg,tt10946316,,,,,,
+season,253372,The Institute,1,,253372_S1,,Season 1,2025-07-13,,,,,,,,https://image.tmdb.org/t/p/w342/7JXZdWifaa6wL0XLRi0GJOlOA8y.jpg,,,,,,,,
+season,253372,The Institute,2,,253372_S2,,Season 2,,,,,,,,,,,,,,,,,
+episode,253372,The Institute,2,1,6485999,,Episode 1,,,,,0.0,0,,,,,,,,,,,
+episode,253372,The Institute,2,2,6488874,,Episode 2,,,,,0.0,0,,,,,,,,,,,
+episode,253372,The Institute,2,3,6491080,,Episode 3,,,,,0.0,0,,,,,,,,,,,
+show,84773,The Lord of the Rings: The Rings of Power,,,84773,,The Lord of the Rings: The Rings of Power,2022-09-01,,Returning Series,Action & Adventure|Sci-Fi & Fantasy|Drama,7.3,3407,43.4186,https://www.amazon.com/dp/B09QHC2LZM,https://image.tmdb.org/t/p/w500/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg,https://image.tmdb.org/t/p/w780/ukewRnKD05Si7DkED2tSKBTXeEd.jpg,tt7631058,Amazon Prime Video|Amazon Prime Video with Ads,,,,https://www.themoviedb.org/tv/84773-the-lord-of-the-rings-the-rings-of-power/watch?locale=CA,
+season,84773,The Lord of the Rings: The Rings of Power,0,,84773_S0,,Specials,2022-09-03,,,,,,,,https://image.tmdb.org/t/p/w342/friNlTnLbsg38DRnUYLfKLdLBJE.jpg,,,,,,,,
+season,84773,The Lord of the Rings: The Rings of Power,1,,84773_S1,,Season 1,2022-09-01,,,,,,,,https://image.tmdb.org/t/p/w342/umRaUV2ku9MMtEunMQt3uCO1OgE.jpg,,,,,,,,
+season,84773,The Lord of the Rings: The Rings of Power,2,,84773_S2,,Season 2,2024-08-29,,,,,,,,https://image.tmdb.org/t/p/w342/m93DIqlwcHWiepTl6WXPiOlw4E9.jpg,,,,,,,,
+season,84773,The Lord of the Rings: The Rings of Power,3,,84773_S3,,Season 3,,,,,,,,,,,,,,,,,
+show,84910,The Masked Singer,,,84910,,The Masked Singer,2019-01-02,,Returning Series,Reality,7.6,117,12.4823,https://www.fox.com/the-masked-singer/,https://image.tmdb.org/t/p/w500/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg,https://image.tmdb.org/t/p/w780/fvL8uPX0j3PF8FXHqGpJTfq0Qzu.jpg,tt7670568,Crave,,,Tubi TV,https://www.themoviedb.org/tv/84910-the-masked-singer/watch?locale=CA,
+season,84910,The Masked Singer,0,,84910_S0,,Specials,2019-09-14,,,,,,,,,,,,,,,,
+season,84910,The Masked Singer,1,,84910_S1,,Season 1,2019-01-02,,,,,,,,https://image.tmdb.org/t/p/w342/3hCRiuZRUd4uytBafTejtHQ90zJ.jpg,,,,,,,,
+season,84910,The Masked Singer,2,,84910_S2,,Season 2,2019-09-25,,,,,,,,https://image.tmdb.org/t/p/w342/58XRTZSKu9beFoLd8cCTZRa7NGs.jpg,,,,,,,,
+season,84910,The Masked Singer,3,,84910_S3,,Season 3,2020-02-02,,,,,,,,https://image.tmdb.org/t/p/w342/AmbHki0cYU6tVOLiT51mumr4VT4.jpg,,,,,,,,
+season,84910,The Masked Singer,4,,84910_S4,,Season 4,2020-09-23,,,,,,,,https://image.tmdb.org/t/p/w342/y90vIG3LY7okHfF444hK1IgHnvg.jpg,,,,,,,,
+season,84910,The Masked Singer,5,,84910_S5,,Season 5,2021-03-10,,,,,,,,https://image.tmdb.org/t/p/w342/uyYpPPIV3iNPBkgdtGtSmempBeZ.jpg,,,,,,,,
+season,84910,The Masked Singer,6,,84910_S6,,Season 6,2021-09-22,,,,,,,,https://image.tmdb.org/t/p/w342/wxzZUSr09FgS8Vyz56qSVR2jh0w.jpg,,,,,,,,
+season,84910,The Masked Singer,7,,84910_S7,,Season 7,2022-03-09,,,,,,,,https://image.tmdb.org/t/p/w342/4zhML13LMnDrdWsKlFCX69106tS.jpg,,,,,,,,
+season,84910,The Masked Singer,8,,84910_S8,,Season 8,2022-09-21,,,,,,,,https://image.tmdb.org/t/p/w342/oDRyaEl0OfSfoX1yVQSi75un1Wq.jpg,,,,,,,,
+season,84910,The Masked Singer,9,,84910_S9,,Season 9,2023-02-15,,,,,,,,https://image.tmdb.org/t/p/w342/yMMcPD8z8e1UQr4UlxDeVNopYDM.jpg,,,,,,,,
+season,84910,The Masked Singer,10,,84910_S10,,Season 10,2023-09-10,,,,,,,,https://image.tmdb.org/t/p/w342/g2y2duCEYzCsfG4vbnTKKhUST5w.jpg,,,,,,,,
+season,84910,The Masked Singer,11,,84910_S11,,Season 11,2024-03-06,,,,,,,,https://image.tmdb.org/t/p/w342/9bNDi2DuqEvsP1RuNKPjO9aLVKs.jpg,,,,,,,,
+season,84910,The Masked Singer,12,,84910_S12,,Season 12,2024-09-25,,,,,,,,https://image.tmdb.org/t/p/w342/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg,,,,,,,,
+season,84910,The Masked Singer,13,,84910_S13,,Season 13,2025-02-12,,,,,,,,https://image.tmdb.org/t/p/w342/sIqGAS5o1WsuCaZ1q5Qnuj4Z4Q5.jpg,,,,,,,,
+season,84910,The Masked Singer,14,,84910_S14,,Season 14,,,,,,,,,,,,,,,,,
+show,129552,The Night Agent,,,129552,,The Night Agent,2023-03-23,,Returning Series,Action & Adventure|Drama|Mystery,7.8,971,14.6982,https://www.netflix.com/title/81450827,https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg,https://image.tmdb.org/t/p/w780/gklrevVndG98GHGDwfm8y8kxESo.jpg,tt13918776,Netflix|Netflix Standard with Ads,,,,https://www.themoviedb.org/tv/129552-the-night-agent/watch?locale=CA,
+season,129552,The Night Agent,1,,129552_S1,,Season 1,2023-03-22,,,,,,,,https://image.tmdb.org/t/p/w342/dlCEYPkgKl3WHrn8bYkkzJVPlTZ.jpg,,,,,,,,
+season,129552,The Night Agent,2,,129552_S2,,Season 2,2025-01-23,,,,,,,,https://image.tmdb.org/t/p/w342/4c5yUNcaff4W4aPrkXE6zr7papX.jpg,,,,,,,,
+season,129552,The Night Agent,3,,129552_S3,,Season 3,,,,,,,,,,,,,,,,,
+show,101359,The Secret of Skinwalker Ranch,,,101359,,The Secret of Skinwalker Ranch,2020-03-31,,Returning Series,Reality|Documentary,8.0,52,7.817,https://www.history.com/shows/the-secret-of-skinwalker-ranch,https://image.tmdb.org/t/p/w500/j8PpovebgIhrt89AQVvkogcX34v.jpg,https://image.tmdb.org/t/p/w780/6gdTUejzzULZFcPWVdITyHmN88X.jpg,tt10589968,StackTV Amazon Channel|fuboTV,,Apple TV,Global TV,https://www.themoviedb.org/tv/101359-the-secret-of-skinwalker-ranch/watch?locale=CA,
+season,101359,The Secret of Skinwalker Ranch,0,,101359_S0,,Specials,2024-05-07,,,,,,,,,,,,,,,,
+season,101359,The Secret of Skinwalker Ranch,1,,101359_S1,,Season 1,2020-03-31,,,,,,,,https://image.tmdb.org/t/p/w342/uprdlpNGDhZDOzWghLt7hSRSVUa.jpg,,,,,,,,
+season,101359,The Secret of Skinwalker Ranch,2,,101359_S2,,Season 2,2021-05-04,,,,,,,,https://image.tmdb.org/t/p/w342/hZAThwU0Z1QQIryfrzXWxyj80Xe.jpg,,,,,,,,
+season,101359,The Secret of Skinwalker Ranch,3,,101359_S3,,Season 3,2022-05-03,,,,,,,,https://image.tmdb.org/t/p/w342/j8PpovebgIhrt89AQVvkogcX34v.jpg,,,,,,,,
+season,101359,The Secret of Skinwalker Ranch,4,,101359_S4,,Season 4,2023-04-18,,,,,,,,https://image.tmdb.org/t/p/w342/8LAqGpzAOyrAgLDPOq5vdoHUYl4.jpg,,,,,,,,
+season,101359,The Secret of Skinwalker Ranch,5,,101359_S5,,Season 5,2024-04-23,,,,,,,,https://image.tmdb.org/t/p/w342/6EuUEYIQHowJja65qex4psgoTbP.jpg,,,,,,,,
+season,101359,The Secret of Skinwalker Ranch,6,,101359_S6,,Season 6,2025-06-03,,,,,,,,https://image.tmdb.org/t/p/w342/eedT1SrOsv9PVrTWXjfkvOKq0jd.jpg,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,1,5899201,,Bubble Trouble,2025-06-03,,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/9D7QbvV1R3WnAIvhhgaVrlhDQ4L.jpg
+episode,101359,The Secret of Skinwalker Ranch,6,2,6251622,,The Drone Zone,2025-06-10,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,3,6251623,,Smoke It Out,2025-06-17,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,4,6251624,,Bursting the Bubble,2025-06-24,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,5,6341748,,Pushing Boundaries,2025-07-01,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,6,6341749,,Posting Up,2025-07-08,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,7,6363067,,Lights Out,2025-07-15,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,8,6363068,,Swarm Weather,2025-07-22,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,9,6388324,,Darting Around,2025-07-29,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,10,6388326,,Hard Target,2025-08-05,,,,0.0,1,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,11,6388331,,Hard to Handle,2025-08-12,,,,0.0,0,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,12,6388334,,Hard Boiled,2025-08-19,,,,8.0,1,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,13,6388339,,Fire in the Holes,2025-08-26,,,,7.0,1,,,,,,,,,,,
+episode,101359,The Secret of Skinwalker Ranch,6,14,6470893,,Meeting of the Minds,2025-09-02,,,,0.0,0,,,,,,,,,,,
+show,70,This Hour Has 22 Minutes,,,70,,This Hour Has 22 Minutes,1993-10-11,,Returning Series,News|Comedy,6.608,51,3.8104,http://www.cbc.ca/22minutes,https://image.tmdb.org/t/p/w500/shWjVJtL7NBLcGiylwWwXLm9nlR.jpg,https://image.tmdb.org/t/p/w780/2z85pmHUqfkktqDuqaxksGSW8S8.jpg,tt0163963,,,Apple TV,CBC Gem,https://www.themoviedb.org/tv/70-this-hour-has-22-minutes/watch?locale=CA,
+season,70,This Hour Has 22 Minutes,0,,70_S0,,Specials,1997-01-01,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,1,,70_S1,,Season 1,1993-10-11,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,2,,70_S2,,Season 2,,,,,,,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,1,4225415,,Episode 21,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,2,4225416,,Episode 22,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,3,4225417,,Episode 23,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,4,4225418,,Episode 24,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,5,4225419,,Episode 25,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,6,4225420,,Episode 26,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,7,4225421,,Episode 27,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,8,4225422,,Episode 28,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,9,4225423,,Episode 29,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,10,4225424,,Episode 30,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,11,4225425,,Episode 31,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,12,4225426,,Episode 32,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,13,4225427,,Episode 33,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,14,4225428,,Episode 34,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,15,4225429,,Episode 35,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,16,4225430,,Episode 36,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,17,4225431,,Episode 37,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,18,4225432,,Episode 38,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,19,4225433,,Episode 39,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,20,4225434,,Episode 40,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,2,21,4225435,,Episode 41,,,,,0.0,0,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,3,,70_S3,,Season 3,1995-11-06,,,,,,,,https://image.tmdb.org/t/p/w342/3EpMdQApD4ild2tguDwrxkPmtb.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,4,,70_S4,,Season 4,1996-09-30,,,,,,,,https://image.tmdb.org/t/p/w342/6QbWWDp1sthR0O0NP9tuC53OXXv.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,5,,70_S5,,Season 5,,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,6,,70_S6,,season 6,,,,,,,,,https://image.tmdb.org/t/p/w342/7YiFvAEQuj09qHtyu4rudWrUPyJ.jpg,,,,,,,,
+episode,70,This Hour Has 22 Minutes,6,1,2386,,Episode 123,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,6,2,2387,,Episode 124,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,6,3,2385,,Episode 125,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,6,4,2384,,Episode 126,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,6,5,2390,,Episode 127,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,6,6,2388,,Episode 128,,,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,6,7,2389,,Episode 129,,,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/A6EzbUI5cRWBG7hJ7Ev1hDGoldm.jpg
+season,70,This Hour Has 22 Minutes,7,,70_S7,,Season 7,1999-10-11,,,,,,,,https://image.tmdb.org/t/p/w342/roBNpKP88xtiqFghNqpRZ1TOqg6.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,8,,70_S8,,Season 8,2000-10-16,,,,,,,,https://image.tmdb.org/t/p/w342/otxu275QfAbixPpxSJPqGGdEhu0.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,9,,70_S9,,Season 9,2002-03-22,,,,,,,,https://image.tmdb.org/t/p/w342/lRWMesM1cggI4AruCa2MP5id8i4.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,10,,70_S10,,Season 10,2002-10-08,,,,,,,,https://image.tmdb.org/t/p/w342/3gHYl4FpzFqJsqtd0uIx6CezZ0q.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,11,,70_S11,,Season 11,2003-10-10,,,,,,,,https://image.tmdb.org/t/p/w342/6YnZaVODNTHyA3yMxsndQADPQ4B.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,12,,70_S12,,Season 12,2004-09-24,,,,,,,,https://image.tmdb.org/t/p/w342/usHU2GtLcRUXaO9mM8LA0MizO2L.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,13,,70_S13,,Season 13,,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,14,,70_S14,,Season 14,2006-10-03,,,,,,,,https://image.tmdb.org/t/p/w342/5Hi8MrWvKEh5iPWNZ2udxOok9dz.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,15,,70_S15,,Season 15,2007-10-02,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,16,,70_S16,,Season 16,2008-09-30,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,17,,70_S17,,Season 17,2009-09-28,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,18,,70_S18,,Season 18,2010-09-21,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,19,,70_S19,,Season 19,2011-09-13,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,20,,70_S20,,Season 20,2012-09-18,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,21,,70_S21,,Season 21,2013-10-08,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,22,,70_S22,,Season 22,,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,23,,70_S23,,Season 23,2015-10-06,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,24,,70_S24,,Season 24,,,,,,,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,1,4521218,,"October 4, 2016",2016-10-04,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,2,4521220,,"October 11, 2016",2016-10-11,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,3,4521221,,"October 18, 2016",2016-10-18,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,4,4521222,,"October 25, 2016",2016-10-25,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,5,4521223,,"November 1, 2016",2016-11-01,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,6,4521224,,The 22 Minutes Election Night Special,2016-11-08,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,7,4521225,,"November 15, 2016",2016-11-15,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,8,4521226,,"November 22, 2016",2016-11-22,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,9,4521227,,"November 29, 2016",2016-11-29,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,10,4521228,,"December 6, 2016",2016-12-06,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,11,4521229,,"January 10, 2017",2017-01-10,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,12,4521230,,"January 17, 2017",2017-01-17,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,13,4521231,,"January 24, 2017",2017-01-24,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,14,4521232,,"January 31, 2017",2017-01-31,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,15,4521233,,"February 7, 2017",2017-02-07,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,16,4521234,,"February 14, 2017",2017-02-14,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,17,4521235,,"February 28, 2017",2017-02-28,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,18,4521236,,"March 7, 2017",2017-03-07,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,19,4521237,,"March 14, 2017",2017-03-14,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,20,4521238,,"March 21, 2017",2017-03-21,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,21,4521239,,"March 28, 2017",2017-03-28,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,24,22,4521240,,Canada's 150th Special,2017-04-04,22,,,0.0,0,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,25,,70_S25,,Season 25,2017-09-26,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,26,,70_S26,,Season 26,,,,,,,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,1,4225592,,Notwithstanding Ford,2018-09-18,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,2,4225593,,Party of One,2018-09-25,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,3,4225594,,Call Me Jay-Pay,2018-10-02,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,4,4225595,,In A Pinch,2018-10-09,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,5,4225596,,Winter Is Coming (To NB),2018-10-16,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,6,4225597,,Carbon Query,2018-10-30,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,7,4225598,,Hot Canadian Nights,2018-11-06,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,8,4225599,,From Statscan to Skynet,2018-11-13,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,9,4225600,,Brison & The Budget,2018-11-27,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,10,4225601,,Hudson's Baywatch,2018-12-04,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,11,4225602,,Holiday Special,2018-12-11,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,12,4225603,,You Keep on Knocking,2019-01-08,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,13,4225604,,Use Responsibly,2019-01-15,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,14,4225605,,What's Your Sign?,2019-01-22,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,15,4520639,,Temptation Island PEI,2019-01-29,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,16,4520644,,Welcome To Canada,2019-02-05,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,17,4520649,,Scheer Ambush,2019-02-19,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,18,4520651,,"Thank U, Next",2019-02-26,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,19,4520652,,Singh's Strategy,2019-03-05,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,26,20,4520653,,Border Bud,2019-03-12,22,,,0.0,0,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,27,,70_S27,,Season 27,,,,,,,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,1,4225564,,Election Fever,2019-09-17,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,2,4225565,,Heating Up,2019-09-24,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,3,4225568,,How Dare You,2019-10-01,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,4,4225573,,Undecided Voter,2019-10-08,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,5,4225574,,Cut The Wire,2019-10-15,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,6,4225576,,The Results Are In,2019-10-22,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,7,4225577,,Follow The Leaders,2019-10-29,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,8,4225578,,Coup d'Etat,2019-11-05,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,9,4225579,,Back To Business,2019-11-12,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,10,4225580,,Hitting The Ice,2019-11-19,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,11,4225582,,Hindsight Is 20-19,2020-01-07,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,12,4225583,,Dry January,2020-01-14,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,13,4225584,,A Part of Our Heritage,2020-01-21,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,14,4225585,,Eastern Hospitality,2020-01-28,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,15,4225586,,Party Rules,2020-02-04,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,16,4225587,,Yes B'y,2020-02-11,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,17,4225588,,You Should Go To Emergency,2020-02-18,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,18,4225589,,Plategate,2020-02-25,22,,,0.0,0,,,,,,,,,,,
+episode,70,This Hour Has 22 Minutes,27,19,4225590,,"Canada, The Board Game (Season Finale)",2020-03-03,22,,,0.0,0,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,28,,70_S28,,Season 28,2020-10-06,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,29,,70_S29,,Season 29,2021-09-14,,,,,,,,,,,,,,,,
+season,70,This Hour Has 22 Minutes,30,,70_S30,,Season 30,2022-09-13,,,,,,,,https://image.tmdb.org/t/p/w342/shWjVJtL7NBLcGiylwWwXLm9nlR.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,31,,70_S31,,Season 31,2023-09-19,,,,,,,,https://image.tmdb.org/t/p/w342/shWjVJtL7NBLcGiylwWwXLm9nlR.jpg,,,,,,,,
+season,70,This Hour Has 22 Minutes,32,,70_S32,,Season 32,2024-09-17,,,,,,,,https://image.tmdb.org/t/p/w342/shWjVJtL7NBLcGiylwWwXLm9nlR.jpg,,,,,,,,
+episode,70,This Hour Has 22 Minutes,32,1,5589014,,WE’RE BAAACK,2024-09-17,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/nHiJkBTH54GX5gSDM6Kl5HkHcLN.jpg
+episode,70,This Hour Has 22 Minutes,32,2,5607158,,Every Day is Hump Day,2024-09-24,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8R7Li3HRoknzPtoB8pWCp54V11Y.jpg
+episode,70,This Hour Has 22 Minutes,32,3,5607159,,Hijinx in The House,2024-10-01,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/7lxNCFeS5pcVQBGbmfkDs7i8pbb.jpg
+episode,70,This Hour Has 22 Minutes,32,4,5628108,,Talkin' Turkey,2024-10-08,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/vUWO9kgv9AEdwVBCGxahNiQrjOy.jpg
+episode,70,This Hour Has 22 Minutes,32,5,5655929,,High Hopes,2024-10-22,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/xwuJ0svkYb7tWIfjkMGAjPl4mrB.jpg
+episode,70,This Hour Has 22 Minutes,32,6,5684963,,Monster Bash,2024-10-29,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/cQTznGQz5EEegueR5heWn0YK9bd.jpg
+episode,70,This Hour Has 22 Minutes,32,7,5716889,,This Hour has 22 Minutes has 44 Minutes - A U.S. Election Special,2024-11-04,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/sdAJuBtdGZbffSTii1isohu88P.jpg
+episode,70,This Hour Has 22 Minutes,32,8,5716890,,Booze Clues,2024-11-12,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/wcHtjwee05AqX2fcfhNTJvJCPcO.jpg
+episode,70,This Hour Has 22 Minutes,32,9,5732019,,Fight of the Century,2024-11-19,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/16xImh6jm0LGLOocIJV5N4WdmJE.jpg
+episode,70,This Hour Has 22 Minutes,32,10,5748502,,Striking Out,2024-11-26,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/ptX8EZJX9SAnaJnhEOx9dfePDt.jpg
+episode,70,This Hour Has 22 Minutes,32,11,5804157,,Vocal Fry Christmas,2024-12-03,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/qWs32bEHSTRaFnUB216TdE70W4I.jpg
+episode,70,This Hour Has 22 Minutes,32,12,5816763,,This Hour Has 22 Minutes Has 44 Minutes - A NYE Pregame Special,2024-12-31,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/sQaA8MOi4mAioSJBFkPMPdKSV5g.jpg
+episode,70,This Hour Has 22 Minutes,32,13,5885300,,Downfall,2025-01-07,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/8QTS0cIzYlGYiNcO1TeD0RRqA8s.jpg
+episode,70,This Hour Has 22 Minutes,32,14,5899181,,Risk!,2025-01-14,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/p0DNYhqsnCclgowSb8hsUH8McJb.jpg
+episode,70,This Hour Has 22 Minutes,32,15,5899182,,Chrystia's Time,2025-01-21,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rVjWDbZkY9G6eRocet8HhmNd0cN.jpg
+episode,70,This Hour Has 22 Minutes,32,16,5929322,,Trade War,2025-01-28,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/xZy73zAHWwXsLy2GsrYP1N0NENE.jpg
+episode,70,This Hour Has 22 Minutes,32,17,5929323,,Tarrifying,2025-02-04,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/lSfi5tLJv1TAL0ghcuF9JkMTrj3.jpg
+episode,70,This Hour Has 22 Minutes,32,18,5962697,,Border Crisis?,2025-02-11,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/fd5QmkT8pEZyIhdCl9RQPPlYLXc.jpg
+episode,70,This Hour Has 22 Minutes,32,19,5973198,,Going Viral (Compilation Episode),2025-02-18,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/56VzAwhH8JAatvVVCY4g0JRVTdR.jpg
+episode,70,This Hour Has 22 Minutes,32,20,5975680,,Which Way Is Up?,2025-02-25,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/oUsCMes3r6knvk4kMD3vjRqFGWD.jpg
+episode,70,This Hour Has 22 Minutes,32,21,5991698,,Oval Office Showdown,2025-03-04,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/jmufEbNQ79UHnnSfInGbUzRxbWw.jpg
+episode,70,This Hour Has 22 Minutes,32,22,6005964,,Elbows Up,2025-03-11,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/gOdugZ91OfjFSb661E2zVEL2rTs.jpg
+episode,70,This Hour Has 22 Minutes,32,23,6073077,,A Message from the King,2025-03-25,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/rlv5bn69sKJljhq9SO18EUdt0Qk.jpg
+episode,70,This Hour Has 22 Minutes,32,24,6073078,,Canadienne!,2025-04-01,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/1X1d5RJYYHsgGsQRKGzBeTQU8hX.jpg
+episode,70,This Hour Has 22 Minutes,32,25,6085610,,Liberation Day,2025-04-08,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/65rOPtkqailhUuB66cL8dggOrMv.jpg
+episode,70,This Hour Has 22 Minutes,32,26,6139708,,Electile Dysfunction,2025-04-15,22,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/6Ws8b27DA6ou5lEStYIAg7taxrc.jpg
+episode,70,This Hour Has 22 Minutes,32,27,6181426,,Vote Canadian: 22 Minutes Election Special,2025-04-26,44,,,0.0,0,,,,,,,,,,,https://image.tmdb.org/t/p/w300/pKYSQ2IxGpSMB9dadMc1yj9uEPM.jpg
+show,211288,Tracker,,,211288,,Tracker,2024-02-11,,Returning Series,Drama|Crime,7.5,209,20.452,https://www.cbs.com/shows/tracker/,https://image.tmdb.org/t/p/w500/nU9zGHC1GRHVoTSTaKiRy1RljNd.jpg,https://image.tmdb.org/t/p/w780/uVnGusAwehV4WdxgKwFg0UJql1R.jpg,tt13875494,Disney Plus|Crave|Paramount Plus,,Apple TV,,https://www.themoviedb.org/tv/211288-tracker/watch?locale=CA,
+season,211288,Tracker,1,,211288_S1,,Season 1,2024-02-11,,,,,,,,https://image.tmdb.org/t/p/w342/ivhqGQa4ndqDatKiASIfSMJIJuh.jpg,,,,,,,,
+season,211288,Tracker,2,,211288_S2,,Season 2,2024-10-13,,,,,,,,https://image.tmdb.org/t/p/w342/jbvxqU4lwt6ZjvFROoKaLRyJbxC.jpg,,,,,,,,
+season,211288,Tracker,3,,211288_S3,,Season 3,2025-10-19,,,,,,,,,,,,,,,,
+episode,211288,Tracker,3,1,6390335,,The Process,2025-10-19,,,,0.0,0,,,,,,,,,,,
+episode,211288,Tracker,3,2,6480723,,Leverage,2025-10-26,,,,0.0,0,,,,,,,,,,,
+show,117488,Yellowjackets,,,117488,,Yellowjackets,2021-11-14,,Returning Series,Drama|Mystery,7.5,855,9.836,https://www.paramountplus.com/shows/yellowjackets/,https://image.tmdb.org/t/p/w500/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg,https://image.tmdb.org/t/p/w780/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg,tt11041332,Crave,,Apple TV|Amazon Video,,https://www.themoviedb.org/tv/117488-yellowjackets/watch?locale=CA,
+season,117488,Yellowjackets,0,,117488_S0,,Specials,2022-07-19,,,,,,,,https://image.tmdb.org/t/p/w342/boCY37Jx5w5EqyqKzCcLn6C90lN.jpg,,,,,,,,
+season,117488,Yellowjackets,1,,117488_S1,,Season 1,2021-11-14,,,,,,,,https://image.tmdb.org/t/p/w342/XtnjzjjFAnmTEiDk4xu7diCvMF.jpg,,,,,,,,
+season,117488,Yellowjackets,2,,117488_S2,,Season 2,2023-03-26,,,,,,,,https://image.tmdb.org/t/p/w342/o4Ql7oU2W3U8RyeDoSREDdKvTlq.jpg,,,,,,,,
+season,117488,Yellowjackets,3,,117488_S3,,Season 3,2025-02-16,,,,,,,,https://image.tmdb.org/t/p/w342/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg,,,,,,,,
+season,117488,Yellowjackets,4,,117488_S4,,Season 4,,,,,,,,,,,,,,,,,

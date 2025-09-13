@@ -1,0 +1,1 @@
+﻿param([string]\, [string]\='outputs\playlists\curated.m3u'); if(-not \){ Write-Error 'Provide -In CSV'; exit 1 }; \=Join-Path .venv 'Scripts\python.exe'; if(-not(Test-Path \)){ \='python' }; & \ 'src\build_playlist.py' --in \ --out \

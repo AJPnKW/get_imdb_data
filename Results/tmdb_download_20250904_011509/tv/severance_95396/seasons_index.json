@@ -1,0 +1,42 @@
+[
+  {
+    "air_date": "2021-12-15",
+    "episode_count": 1,
+    "id": 443382,
+    "name": "Specials",
+    "overview": "",
+    "poster_path": "/f3E2o8DbW9QSzu31yY3Q1av5JO7.jpg",
+    "season_number": 0,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2022-02-17",
+    "episode_count": 9,
+    "id": 135726,
+    "name": "Season 1",
+    "overview": "At Lumon Industries, employees undergo \"severance,\" a procedure dividing their work and personal memories. Mark, a grieving team leader, begins to uncover the dark secrets of the company, forcing him and his coworkers to confront questions of identity, free will, and corporate control.",
+    "poster_path": "/lFf6LLrQjYldcZItzOkGmMMigP7.jpg",
+    "season_number": 1,
+    "vote_average": 8.5
+  },
+  {
+    "air_date": "2025-01-16",
+    "episode_count": 10,
+    "id": 401674,
+    "name": "Season 2",
+    "overview": "Mark and his friends learn the dire consequences of trifling with the severance barrier, leading them further down a path of woe.",
+    "poster_path": "/Rb7sga832Cyqvafd7CqOzbwdK4.jpg",
+    "season_number": 2,
+    "vote_average": 8.3
+  },
+  {
+    "air_date": null,
+    "episode_count": 0,
+    "id": 447475,
+    "name": "Season 3",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 3,
+    "vote_average": 0.0
+  }
+]

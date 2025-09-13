@@ -1,0 +1,650 @@
+{
+  "run_started": "2025-09-02T23:03:53",
+  "project_root": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data",
+  "run_dir": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353",
+  "lists": [
+    {
+      "list_id": 8511658,
+      "count": 11
+    },
+    {
+      "list_id": 8511657,
+      "count": 42
+    }
+  ],
+  "movies": [
+    {
+      "type": "movie",
+      "id": 1078605,
+      "title": "Weapons",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\movies\\w_e_a_p_o_n_s_1078605.json"
+    },
+    {
+      "type": "movie",
+      "id": 1125257,
+      "title": "Freakier Friday",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\movies\\f_r_e_a_k_i_e_r_f_r_i_d_a_y_1125257.json"
+    },
+    {
+      "type": "movie",
+      "id": 83533,
+      "title": "Avatar: Fire and Ash",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\movies\\a_v_a_t_a_r_f_i_r_e_a_n_d_a_s_h_83533.json"
+    },
+    {
+      "type": "movie",
+      "id": 1159559,
+      "title": "Scream 7",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\movies\\s_c_r_e_a_m_7_1159559.json"
+    }
+  ],
+  "tv": [
+    {
+      "type": "tv",
+      "id": 1399,
+      "name": "Game of Thrones",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\g_a_m_e_o_f_t_h_r_o_n_e_s_1399\\show_g_a_m_e_o_f_t_h_r_o_n_e_s_1399.json",
+      "seasons_saved": [
+        8
+      ],
+      "last_season_number": 8,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 60603,
+      "name": "The Curse of Oak Island",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_e_c_u_r_s_e_o_f_o_a_k_i_s_l_a_n_d_60603\\show_t_h_e_c_u_r_s_e_o_f_o_a_k_i_s_l_a_n_d_60603.json",
+      "seasons_saved": [
+        13,
+        14
+      ],
+      "last_season_number": 14,
+      "future_or_undated": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 80748,
+      "name": "FBI",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\f_b_i_80748\\show_f_b_i_80748.json",
+      "seasons_saved": [
+        8
+      ],
+      "last_season_number": 8,
+      "future_or_undated": [
+        8
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 94372,
+      "name": "FBI: Most Wanted",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\f_b_i_m_o_s_t_w_a_n_t_e_d_94372\\show_f_b_i_m_o_s_t_w_a_n_t_e_d_94372.json",
+      "seasons_saved": [
+        6
+      ],
+      "last_season_number": 6,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 101359,
+      "name": "The Secret of Skinwalker Ranch",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_e_s_e_c_r_e_t_o_f_s_k_i_n_w_a_l_k_e_r_r_a_n_c_h_101359\\show_t_h_e_s_e_c_r_e_t_o_f_s_k_i_n_w_a_l_k_e_r_r_a_n_c_h_101359.json",
+      "seasons_saved": [
+        6
+      ],
+      "last_season_number": 6,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 121658,
+      "name": "FBI: International",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\f_b_i_i_n_t_e_r_n_a_t_i_o_n_a_l_121658\\show_f_b_i_i_n_t_e_r_n_a_t_i_o_n_a_l_121658.json",
+      "seasons_saved": [
+        4
+      ],
+      "last_season_number": 4,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 95396,
+      "name": "Severance",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\s_e_v_e_r_a_n_c_e_95396\\show_s_e_v_e_r_a_n_c_e_95396.json",
+      "seasons_saved": [
+        3
+      ],
+      "last_season_number": 3,
+      "future_or_undated": [
+        3
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 84773,
+      "name": "The Lord of the Rings: The Rings of Power",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_e_l_o_r_d_o_f_t_h_e_r_i_n_g_s_t_h_e_r_i_n_g_s_o_f_p_o_w_e_r_84773\\show_t_h_e_l_o_r_d_o_f_t_h_e_r_i_n_g_s_t_h_e_r_i_n_g_s_o_f_p_o_w_e_r_84773.json",
+      "seasons_saved": [
+        3
+      ],
+      "last_season_number": 3,
+      "future_or_undated": [
+        3
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 211288,
+      "name": "Tracker",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_r_a_c_k_e_r_211288\\show_t_r_a_c_k_e_r_211288.json",
+      "seasons_saved": [
+        3
+      ],
+      "last_season_number": 3,
+      "future_or_undated": [
+        3
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 246381,
+      "name": "Prime Target",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\p_r_i_m_e_t_a_r_g_e_t_246381\\show_p_r_i_m_e_t_a_r_g_e_t_246381.json",
+      "seasons_saved": [
+        1
+      ],
+      "last_season_number": 1,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 253372,
+      "name": "The Institute",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_e_i_n_s_t_i_t_u_t_e_253372\\show_t_h_e_i_n_s_t_i_t_u_t_e_253372.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": [
+        2
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 549,
+      "name": "Law & Order",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\l_a_w_o_r_d_e_r_549\\show_l_a_w_o_r_d_e_r_549.json",
+      "seasons_saved": [
+        0,
+        25
+      ],
+      "last_season_number": 25,
+      "future_or_undated": [
+        0,
+        25
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 28172,
+      "name": "The Boys",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_e_b_o_y_s_28172\\show_t_h_e_b_o_y_s_28172.json",
+      "seasons_saved": [
+        1
+      ],
+      "last_season_number": 1,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 70,
+      "name": "This Hour Has 22 Minutes",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_i_s_h_o_u_r_h_a_s_2_2_m_i_n_u_t_e_s_70\\show_t_h_i_s_h_o_u_r_h_a_s_2_2_m_i_n_u_t_e_s_70.json",
+      "seasons_saved": [
+        2,
+        5,
+        6,
+        13,
+        22,
+        24,
+        26,
+        27,
+        32
+      ],
+      "last_season_number": 32,
+      "future_or_undated": [
+        2,
+        5,
+        6,
+        13,
+        22,
+        24,
+        26,
+        27
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 1431,
+      "name": "CSI: Crime Scene Investigation",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\c_s_i_c_r_i_m_e_s_c_e_n_e_i_n_v_e_s_t_i_g_a_t_i_o_n_1431\\show_c_s_i_c_r_i_m_e_s_c_e_n_e_i_n_v_e_s_t_i_g_a_t_i_o_n_1431.json",
+      "seasons_saved": [
+        15
+      ],
+      "last_season_number": 15,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 90,
+      "name": "Mayday",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\m_a_y_d_a_y_90\\show_m_a_y_d_a_y_90.json",
+      "seasons_saved": [
+        25
+      ],
+      "last_season_number": 25,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 57243,
+      "name": "Doctor Who",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\d_o_c_t_o_r_w_h_o_57243\\show_d_o_c_t_o_r_w_h_o_57243.json",
+      "seasons_saved": [
+        13
+      ],
+      "last_season_number": 13,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 4057,
+      "name": "Criminal Minds",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\c_r_i_m_i_n_a_l_m_i_n_d_s_4057\\show_c_r_i_m_i_n_a_l_m_i_n_d_s_4057.json",
+      "seasons_saved": [
+        18
+      ],
+      "last_season_number": 18,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 1405,
+      "name": "Dexter",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\d_e_x_t_e_r_1405\\show_d_e_x_t_e_r_1405.json",
+      "seasons_saved": [
+        8
+      ],
+      "last_season_number": 8,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 8514,
+      "name": "RuPaul's Drag Race",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_8514\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_8514.json",
+      "seasons_saved": [
+        18
+      ],
+      "last_season_number": 18,
+      "future_or_undated": [
+        18
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 1419,
+      "name": "Castle",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\c_a_s_t_l_e_1419\\show_c_a_s_t_l_e_1419.json",
+      "seasons_saved": [
+        8
+      ],
+      "last_season_number": 8,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 38409,
+      "name": "RuPaul's Drag Race: Untucked",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_u_n_t_u_c_k_e_d_38409\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_u_n_t_u_c_k_e_d_38409.json",
+      "seasons_saved": [
+        16
+      ],
+      "last_season_number": 16,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 39416,
+      "name": "Geordie Shore",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\g_e_o_r_d_i_e_s_h_o_r_e_39416\\show_g_e_o_r_d_i_e_s_h_o_r_e_39416.json",
+      "seasons_saved": [
+        25
+      ],
+      "last_season_number": 25,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 67482,
+      "name": "RuPaul's Drag Race All Stars",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_a_l_l_s_t_a_r_s_67482\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_a_l_l_s_t_a_r_s_67482.json",
+      "seasons_saved": [
+        10
+      ],
+      "last_season_number": 10,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 67564,
+      "name": "RuPaul's Drag Race All Stars: UNTUCKED",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_a_l_l_s_t_a_r_s_u_n_t_u_c_k_e_d_67564\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_a_l_l_s_t_a_r_s_u_n_t_u_c_k_e_d_67564.json",
+      "seasons_saved": [
+        7
+      ],
+      "last_season_number": 7,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 66732,
+      "name": "Stranger Things",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\s_t_r_a_n_g_e_r_t_h_i_n_g_s_66732\\show_s_t_r_a_n_g_e_r_t_h_i_n_g_s_66732.json",
+      "seasons_saved": [
+        5
+      ],
+      "last_season_number": 5,
+      "future_or_undated": [
+        5
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 84910,
+      "name": "The Masked Singer",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_e_m_a_s_k_e_d_s_i_n_g_e_r_84910\\show_t_h_e_m_a_s_k_e_d_s_i_n_g_e_r_84910.json",
+      "seasons_saved": [
+        14
+      ],
+      "last_season_number": 14,
+      "future_or_undated": [
+        14
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 92611,
+      "name": "RuPaul's Drag Race UK",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_u_k_92611\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_u_k_92611.json",
+      "seasons_saved": [
+        7
+      ],
+      "last_season_number": 7,
+      "future_or_undated": [
+        7
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 94038,
+      "name": "Canada's Drag Race",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\c_a_n_a_d_a_s_d_r_a_g_r_a_c_e_94038\\show_c_a_n_a_d_a_s_d_r_a_g_r_a_c_e_94038.json",
+      "seasons_saved": [
+        5
+      ],
+      "last_season_number": 5,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 122692,
+      "name": "RuPaul's Drag Race Down Under",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_d_o_w_n_u_n_d_e_r_122692\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_d_o_w_n_u_n_d_e_r_122692.json",
+      "seasons_saved": [
+        4
+      ],
+      "last_season_number": 4,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 131927,
+      "name": "Dexter: New Blood",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\d_e_x_t_e_r_n_e_w_b_l_o_o_d_131927\\show_d_e_x_t_e_r_n_e_w_b_l_o_o_d_131927.json",
+      "seasons_saved": [
+        1
+      ],
+      "last_season_number": 1,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 117488,
+      "name": "Yellowjackets",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\y_e_l_l_o_w_j_a_c_k_e_t_s_117488\\show_y_e_l_l_o_w_j_a_c_k_e_t_s_117488.json",
+      "seasons_saved": [
+        4
+      ],
+      "last_season_number": 4,
+      "future_or_undated": [
+        4
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 125935,
+      "name": "Abbott Elementary",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\a_b_b_o_t_t_e_l_e_m_e_n_t_a_r_y_125935\\show_a_b_b_o_t_t_e_l_e_m_e_n_t_a_r_y_125935.json",
+      "seasons_saved": [
+        5
+      ],
+      "last_season_number": 5,
+      "future_or_undated": [
+        5
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 155431,
+      "name": "RuPaul's Drag Race UK vs The World",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_u_k_v_s_t_h_e_w_o_r_l_d_155431\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_u_k_v_s_t_h_e_w_o_r_l_d_155431.json",
+      "seasons_saved": [
+        3
+      ],
+      "last_season_number": 3,
+      "future_or_undated": [
+        3
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 124364,
+      "name": "FROM",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\f_r_o_m_124364\\show_f_r_o_m_124364.json",
+      "seasons_saved": [
+        4
+      ],
+      "last_season_number": 4,
+      "future_or_undated": [
+        4
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 124834,
+      "name": "Heartstopper",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\h_e_a_r_t_s_t_o_p_p_e_r_124834\\show_h_e_a_r_t_s_t_o_p_p_e_r_124834.json",
+      "seasons_saved": [
+        3
+      ],
+      "last_season_number": 3,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 203734,
+      "name": "Canada's Drag Race: Canada vs The World",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\c_a_n_a_d_a_s_d_r_a_g_r_a_c_e_c_a_n_a_d_a_v_s_t_h_e_w_o_r_l_d_203734\\show_c_a_n_a_d_a_s_d_r_a_g_r_a_c_e_c_a_n_a_d_a_v_s_t_h_e_w_o_r_l_d_203734.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 129552,
+      "name": "The Night Agent",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_e_n_i_g_h_t_a_g_e_n_t_129552\\show_t_h_e_n_i_g_h_t_a_g_e_n_t_129552.json",
+      "seasons_saved": [
+        3
+      ],
+      "last_season_number": 3,
+      "future_or_undated": [
+        3
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 251306,
+      "name": "RuPaul's Drag Race Live Untucked",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_l_i_v_e_u_n_t_u_c_k_e_d_251306\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_l_i_v_e_u_n_t_u_c_k_e_d_251306.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 232821,
+      "name": "RuPaul's Drag Race Global All Stars",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_g_l_o_b_a_l_a_l_l_s_t_a_r_s_232821\\show_r_u_p_a_u_l_s_d_r_a_g_r_a_c_e_g_l_o_b_a_l_a_l_l_s_t_a_r_s_232821.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": [
+        2
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 226637,
+      "name": "High Potential",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\h_i_g_h_p_o_t_e_n_t_i_a_l_226637\\show_h_i_g_h_p_o_t_e_n_t_i_a_l_226637.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": [
+        2
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 253896,
+      "name": "Happy's Place",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\h_a_p_p_y_s_p_l_a_c_e_253896\\show_h_a_p_p_y_s_p_l_a_c_e_253896.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": [
+        2
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 222766,
+      "name": "The Day of the Jackal",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\t_h_e_d_a_y_o_f_t_h_e_j_a_c_k_a_l_222766\\show_t_h_e_d_a_y_o_f_t_h_e_j_a_c_k_a_l_222766.json",
+      "seasons_saved": [
+        1
+      ],
+      "last_season_number": 1,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 251941,
+      "name": "St. Denis Medical",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\s_t_d_e_n_i_s_m_e_d_i_c_a_l_251941\\show_s_t_d_e_n_i_s_m_e_d_i_c_a_l_251941.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": [
+        2
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 219937,
+      "name": "Dexter: Original Sin",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\d_e_x_t_e_r_o_r_i_g_i_n_a_l_s_i_n_219937\\show_d_e_x_t_e_r_o_r_i_g_i_n_a_l_s_i_n_219937.json",
+      "seasons_saved": [
+        1
+      ],
+      "last_season_number": 1,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 249023,
+      "name": "North of North",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\n_o_r_t_h_o_f_n_o_r_t_h_249023\\show_n_o_r_t_h_o_f_n_o_r_t_h_249023.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": [
+        2
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 260471,
+      "name": "Shifting Gears",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\s_h_i_f_t_i_n_g_g_e_a_r_s_260471\\show_s_h_i_f_t_i_n_g_g_e_a_r_s_260471.json",
+      "seasons_saved": [
+        2
+      ],
+      "last_season_number": 2,
+      "future_or_undated": [
+        2
+      ]
+    },
+    {
+      "type": "tv",
+      "id": 259909,
+      "name": "Dexter: Resurrection",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\d_e_x_t_e_r_r_e_s_u_r_r_e_c_t_i_o_n_259909\\show_d_e_x_t_e_r_r_e_s_u_r_r_e_c_t_i_o_n_259909.json",
+      "seasons_saved": [
+        1
+      ],
+      "last_season_number": 1,
+      "future_or_undated": []
+    },
+    {
+      "type": "tv",
+      "id": 157239,
+      "name": "Alien: Earth",
+      "path": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Results\\tmdb_download_20250902_230353\\tv\\a_l_i_e_n_e_a_r_t_h_157239\\show_a_l_i_e_n_e_a_r_t_h_157239.json",
+      "seasons_saved": [
+        1
+      ],
+      "last_season_number": 1,
+      "future_or_undated": []
+    }
+  ],
+  "notes": "For TV shows, episodes saved only for last & future/undated seasons. Full seasons metadata in seasons_index.json",
+  "log_file": "C:\\Users\\Lenovo\\PROJECTS\\get_imdb_data\\Logs\\run_20250902_230353.log",
+  "run_finished": "2025-09-02T23:04:08"
+}

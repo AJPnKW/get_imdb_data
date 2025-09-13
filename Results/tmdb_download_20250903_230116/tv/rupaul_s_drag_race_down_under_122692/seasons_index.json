@@ -1,0 +1,52 @@
+[
+  {
+    "air_date": "2021-03-05",
+    "episode_count": 6,
+    "id": 461388,
+    "name": "Specials",
+    "overview": "Meet the Queens",
+    "poster_path": null,
+    "season_number": 0,
+    "vote_average": 0.0
+  },
+  {
+    "air_date": "2021-04-30",
+    "episode_count": 8,
+    "id": 189613,
+    "name": "Season 1",
+    "overview": "Shantay, g’day! RuPaul hosts the first-ever season of RuPaul’s Drag Race Down Under, where Australia and New Zealand's most sick'ning drag queens compete to prove that they’ve got what it takes to be Down Under's First Drag Superstar!",
+    "poster_path": "/j4FPSAPRDkYKIb8XkIa9v5S2aV1.jpg",
+    "season_number": 1,
+    "vote_average": 3.9
+  },
+  {
+    "air_date": "2022-07-30",
+    "episode_count": 8,
+    "id": 298186,
+    "name": "Season 2",
+    "overview": "RuPaul is seeking out the very best in Australasian drag as the brightest in Aussie and Kiwi talent compete for the title of the Down Under’s Next Drag Superstar. Each week the queens are given outrageous challenges that test their fashion, acting, dancing, singing, and comedy skills.",
+    "poster_path": "/7QkRBMWpoVTHiN3wQPdQ3H9rZzm.jpg",
+    "season_number": 2,
+    "vote_average": 7.9
+  },
+  {
+    "air_date": "2023-07-28",
+    "episode_count": 8,
+    "id": 346920,
+    "name": "Season 3",
+    "overview": "This electrifying competition series brings together the most dazzling drag queens from Australia and New Zealand for a no-holds-barred battle to be crowned the next drag superstar. This season promises to be an absolute riot of outrageous fashion, jaw-dropping performances, and plenty of drama and laughs along the way. From the wild and wonderful challenges to the larger-than-life personalities of the contestants, you won't be able to tear your eyes away from the screen.",
+    "poster_path": "/nrmPPD0CCVE6sidhszx41utxvw9.jpg",
+    "season_number": 3,
+    "vote_average": 5.8
+  },
+  {
+    "air_date": "2024-11-01",
+    "episode_count": 8,
+    "id": 383161,
+    "name": "Season 4",
+    "overview": "This electrifying competition series brings together the most dazzling drag queens from Australia and New Zealand for a no-holds-barred battle to be crowned the next drag superstar. This season promises to be an absolute riot of outrageous fashion, jaw-dropping performances, and plenty of drama and laughs along the way. From the wild and wonderful challenges to the larger-than-life personalities of the contestants, you won't be able to tear your eyes away from the screen.",
+    "poster_path": "/uWZPjouQgLs1lMVL0lu8P5J1jBc.jpg",
+    "season_number": 4,
+    "vote_average": 7.1
+  }
+]

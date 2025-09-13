@@ -1,0 +1,558 @@
+{
+  "adult": false,
+  "backdrop_path": "/8JtKCIBzf3AYbsxBFSL74NoGH2u.jpg",
+  "created_by": [
+    {
+      "id": 117443,
+      "credit_id": "615495ee9f5dfb0062f30825",
+      "name": "Dick Wolf",
+      "original_name": "Dick Wolf",
+      "gender": 2,
+      "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg"
+    },
+    {
+      "id": 8161,
+      "credit_id": "615495e4dcb6a3004349bcd3",
+      "name": "Derek Haas",
+      "original_name": "Derek Haas",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2021-09-21",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/fbi-international",
+  "id": 121658,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-20",
+  "last_episode_to_air": {
+    "id": 6063057,
+    "name": "Gaijin (2)",
+    "overview": "The Fly Team discovers they’re on the trail of a serial killer, taking the investigation, and Mitchell, to Japan to put an end to the international killing spree.",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "air_date": "2025-05-20",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 4,
+    "show_id": 121658,
+    "still_path": "/wnOGddDQToBXuq69z45aaK4Nmc5.jpg"
+  },
+  "name": "FBI: International",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "FBI: International",
+  "overview": "Follows the elite agents of the FBI's International Fly Team headquartered in Budapest as they travel the world with the mission of protecting Americans wherever they may be.",
+  "popularity": 14.9412,
+  "poster_path": "/1Ublm6D8zmqMroqrXkn3Fgd353q.jpg",
+  "production_companies": [
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-09-20",
+      "episode_count": 21,
+      "id": 187629,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aAJsTMDPuGITCq0CC1JqfXjIDam.jpg",
+      "season_number": 1,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2022-09-19",
+      "episode_count": 22,
+      "id": 298429,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/o8udJ5s6lHbP6B22Eu4R9WwsDpL.jpg",
+      "season_number": 2,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2024-02-13",
+      "episode_count": 13,
+      "id": 365560,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/smHB9FDqxdJePYwE2aUyIkrNdcA.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2024-10-14",
+      "episode_count": 22,
+      "id": 400143,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/zRLTK78fOZc5Wfsc4YAjPnPdzch.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 215,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1011102,
+        "known_for_department": "Acting",
+        "name": "Jesse Lee Soffer",
+        "original_name": "Jesse Lee Soffer",
+        "popularity": 0.5811,
+        "profile_path": "/gVEaHfRNwChrtdGdgPLcFg6MLFI.jpg",
+        "character": "Wesley Mitchell",
+        "credit_id": "667dcf1310903261bebbebe4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1614892,
+        "known_for_department": "Acting",
+        "name": "Carter Redwood",
+        "original_name": "Carter Redwood",
+        "popularity": 0.464,
+        "profile_path": "/ut0pctwERQre5tpGoStcVgcqBN2.jpg",
+        "character": "Andre Raines",
+        "credit_id": "60f9c62e97fdec004590ed19",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2308574,
+        "known_for_department": "Acting",
+        "name": "Vinessa Vidotto",
+        "original_name": "Vinessa Vidotto",
+        "popularity": 0.6915,
+        "profile_path": "/cU3X2gZk2Wjs8WQDjqpcR8CTVbW.jpg",
+        "character": "Cameron Vo",
+        "credit_id": "60e717a2b7d3520075bae0a4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1595252,
+        "known_for_department": "Acting",
+        "name": "Eva Jane Willis",
+        "original_name": "Eva Jane Willis",
+        "popularity": 0.302,
+        "profile_path": "/7j2AAysEgclnHownLOC02bNmMMA.jpg",
+        "character": "Megan 'Smitty' Garretson",
+        "credit_id": "633d79303344c6007d859ee6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1332029,
+        "known_for_department": "Acting",
+        "name": "Christina Wolfe",
+        "original_name": "Christina Wolfe",
+        "popularity": 0.5227,
+        "profile_path": "/v7wLZC5KFiLtdzL7Pxq5oSOAi5q.jpg",
+        "character": "Amanda Tate",
+        "credit_id": "6578c968bbe1dd00e15efe06",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2579152,
+        "known_for_department": "Production",
+        "name": "Alec Chorches",
+        "original_name": "Alec Chorches",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "671a5b6fa4ac8a432c5c0cdb",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3963913,
+        "known_for_department": "Production",
+        "name": "Ash Steele",
+        "original_name": "Ash Steele",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "671a5b57769107d77b479384",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2123917,
+        "known_for_department": "Production",
+        "name": "Ernesto Alcalde",
+        "original_name": "Ernesto Alcalde",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "65f849c7ae3843017d4c7eff",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1867142,
+        "known_for_department": "Production",
+        "name": "Roxanne Paredes",
+        "original_name": "Roxanne Paredes",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "credit_id": "65f849505907de0149e5d4e1",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2579200,
+        "known_for_department": "Production",
+        "name": "Anastasia Puglisi",
+        "original_name": "Anastasia Puglisi",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "65f84915594c9401633864cf",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62996,
+        "known_for_department": "Art",
+        "name": "Michael Fleischer",
+        "original_name": "Michael Fleischer",
+        "popularity": 0.0281,
+        "profile_path": null,
+        "credit_id": "6412259b6a344800cfbc12af",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214477,
+        "known_for_department": "Writing",
+        "name": "Matt Olmstead",
+        "original_name": "Matt Olmstead",
+        "popularity": 0.2059,
+        "profile_path": "/3tK3c9pZlGFBJaOxwH00svHtu8U.jpg",
+        "credit_id": "641210486a344800f5211e39",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 35971,
+        "known_for_department": "Directing",
+        "name": "Michael Katleman",
+        "original_name": "Michael Katleman",
+        "popularity": 0.1193,
+        "profile_path": "/p6AJsa5dT8GIGVu068yDvIiQD7T.jpg",
+        "credit_id": "64121025a6c104009aff5085",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 582617,
+        "known_for_department": "Writing",
+        "name": "Wade McIntyre",
+        "original_name": "Wade McIntyre",
+        "popularity": 0.0748,
+        "profile_path": null,
+        "credit_id": "64120fbba6c10400c0c637a6",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457688,
+        "known_for_department": "Production",
+        "name": "Jonathan Strauss",
+        "original_name": "Jonathan Strauss",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "credit_id": "64120f02e18e3f07ac5358e7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2579200,
+        "known_for_department": "Production",
+        "name": "Anastasia Puglisi",
+        "original_name": "Anastasia Puglisi",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "64120f5db42242008a2f3ff6",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2924564,
+        "known_for_department": "Production",
+        "name": "Rikki Gimelstob",
+        "original_name": "Rikki Gimelstob",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "641209756a344800bab0d869",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1457688,
+        "known_for_department": "Production",
+        "name": "Jonathan Strauss",
+        "original_name": "Jonathan Strauss",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "credit_id": "64120959fe6c180084e90ac1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3356483,
+        "known_for_department": "Production",
+        "name": "Rebecca McGill",
+        "original_name": "Rebecca McGill",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "credit_id": "621ab2b7002134001b984b59",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72268,
+        "known_for_department": "Sound",
+        "name": "Atli Örvarsson",
+        "original_name": "Atli Örvarsson",
+        "popularity": 0.1375,
+        "profile_path": "/fmg2HsSMUWAR2QYhOTFtPdqumIw.jpg",
+        "credit_id": "61569c78904f6d008c94b754",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218026,
+        "known_for_department": "Production",
+        "name": "Arthur W. Forney",
+        "original_name": "Arthur W. Forney",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "605ba18ba2d2e900559201e8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218298,
+        "known_for_department": "Production",
+        "name": "Peter Jankowski",
+        "original_name": "Peter Jankowski",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "credit_id": "605ba180a2d2e9003fa6a846",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8161,
+        "known_for_department": "Writing",
+        "name": "Derek Haas",
+        "original_name": "Derek Haas",
+        "popularity": 0.1843,
+        "profile_path": null,
+        "credit_id": "605ba175e4c9eb003d1d8e38",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224405,
+        "known_for_department": "Production",
+        "name": "Rick Eid",
+        "original_name": "Rick Eid",
+        "popularity": 0.0725,
+        "profile_path": null,
+        "credit_id": "605ba164ac617c0069432465",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117443,
+        "known_for_department": "Creator",
+        "name": "Dick Wolf",
+        "original_name": "Dick Wolf",
+        "popularity": 0.9283,
+        "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg",
+        "credit_id": "605ba15b988afd006ad25c3d",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "12AP"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "13+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "A"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "16+"
+      }
+    ]
+  }
+}

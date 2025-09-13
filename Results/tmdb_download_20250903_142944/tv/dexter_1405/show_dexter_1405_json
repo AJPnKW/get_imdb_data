@@ -1,0 +1,728 @@
+{
+  "adult": false,
+  "backdrop_path": "/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+  "created_by": [
+    {
+      "id": 1223737,
+      "credit_id": "5256cbd719c2956ff60696a0",
+      "name": "James Manos Jr.",
+      "original_name": "James Manos Jr.",
+      "gender": 2,
+      "profile_path": "/iFPjg94U6LFZnp6oaN1Twift0Hn.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2006-10-01",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/shows/dexter",
+  "id": 1405,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2013-09-22",
+  "last_episode_to_air": {
+    "id": 953321,
+    "name": "Remember the Monsters?",
+    "overview": "Dexter is faced with impossible odds as a brewing hurricane makes its way towards Miami.",
+    "vote_average": 5.27,
+    "vote_count": 87,
+    "air_date": "2013-09-22",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 8,
+    "show_id": 1405,
+    "still_path": "/eej5sOpA2A73O6SudZxFsw2oB5n.jpg"
+  },
+  "name": "Dexter",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 67,
+      "logo_path": "/Allse9kbjiP6ExaQrnSpIhkurEi.png",
+      "name": "Showtime",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 96,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dexter",
+  "overview": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+  "popularity": 235.97,
+  "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+  "production_companies": [
+    {
+      "id": 4343,
+      "logo_path": "/rXq1B1Hnkdnw6soz1zoGcslK3wb.png",
+      "name": "Showtime Networks",
+      "origin_country": "US"
+    },
+    {
+      "id": 17594,
+      "logo_path": null,
+      "name": "John Goldwyn Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12261,
+      "logo_path": null,
+      "name": "The Colleton Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 17595,
+      "logo_path": null,
+      "name": "Clyde Phillips Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 17596,
+      "logo_path": null,
+      "name": "Devilina Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-10-25",
+      "episode_count": 42,
+      "id": 59533,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/Ast1fRXfgqMPskoKVEQYPlCNA3w.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2006-10-01",
+      "episode_count": 12,
+      "id": 59499,
+      "name": "Season 1",
+      "overview": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
+      "poster_path": "/rmhoMEHK3ZP2EAXX2VpxuKpW3Bf.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2007-09-30",
+      "episode_count": 12,
+      "id": 59500,
+      "name": "Season 2",
+      "overview": "In season two, the bodies of Dexter's victims are uncovered and an investigation is launched in Dexter's own department to find the killer, dubbed the \"Bay Harbor Butcher.\" Debra struggles to recover, and Rita sends Dexter to Narcotics Anonymous meetings when she suspects that he has an addiction. Sergeant James Doakes, stalks Dexter, suspecting that he is connected with the \"Ice Truck Killer\" killings.",
+      "poster_path": "/t8o6P0pTsnfgsUo6AXSuaiw9fgG.jpg",
+      "season_number": 2,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2008-09-28",
+      "episode_count": 12,
+      "id": 59502,
+      "name": "Season 3",
+      "overview": "After a runin with a man, Dexter initiates a friendship with his brother, Assistant District Attorney Miguel Prado. In the meantime, Rita discovers that she is pregnant, and Debra investigates the murders of a new serial killer, called \"The Skinner,\" hoping to gain a promotion to detective.",
+      "poster_path": "/8zyoh0AtArOyTq0F2USckRGzZEU.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2009-09-27",
+      "episode_count": 12,
+      "id": 59504,
+      "name": "Season 4",
+      "overview": "Dexter as a father and husband struggles to figure out how to survive for years to come. He seeks to learn from Arthur Mitchell, a serial killer and family man, who has murdered for over thirty years without being discovered.",
+      "poster_path": "/1Oh0QmXVTnyV9QqpDcEpvxtKYFw.jpg",
+      "season_number": 4,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2010-09-26",
+      "episode_count": 12,
+      "id": 59506,
+      "name": "Season 5",
+      "overview": "In season five, Dexter comes to terms with the aftermath of the Season 4 finale, stopping a group of serial rapists and avoiding a corrupt cop who learns his deadly secret.",
+      "poster_path": "/sKDHRvdaHfhiYzCFCXQoo1TuHhb.jpg",
+      "season_number": 5,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2011-10-02",
+      "episode_count": 12,
+      "id": 59509,
+      "name": "Season 6",
+      "overview": "Season six follows Dexter's and Miami Metro's investigations into a string of bizarre ritualistic killings featuring overtly religious apocalyptic symbolism.",
+      "poster_path": "/yxylCqF28NttybWJvQtHztTdDKr.jpg",
+      "season_number": 6,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2012-09-30",
+      "episode_count": 12,
+      "id": 59510,
+      "name": "Season 7",
+      "overview": "Season seven follows Dexter's tangles with a Ukrainian mob boss and introduces Hannah McKay, a mysterious widow with a green thumb and a checkered past.",
+      "poster_path": "/lM4EY2L324exlZ1hF2YpBM0a97J.jpg",
+      "season_number": 7,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2013-06-30",
+      "episode_count": 12,
+      "id": 59512,
+      "name": "Season 8",
+      "overview": "As Deb struggles to deal with the consequences of her actions, a mysterious woman comes to work with Miami Metro, offering first-hand information on Dexter's past.",
+      "poster_path": "/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+      "season_number": 8,
+      "vote_average": 7.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "A serial killer with a heart..... just pray it's not yours.",
+  "type": "Scripted",
+  "vote_average": 8.213,
+  "vote_count": 4859,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53820,
+        "known_for_department": "Acting",
+        "name": "Michael C. Hall",
+        "original_name": "Michael C. Hall",
+        "popularity": 3.348,
+        "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg",
+        "character": "Dexter Morgan",
+        "credit_id": "526e8737760ee3201c00c428",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53828,
+        "known_for_department": "Acting",
+        "name": "Jennifer Carpenter",
+        "original_name": "Jennifer Carpenter",
+        "popularity": 2.939,
+        "profile_path": "/haxhKRJoWl71dAUWMLlDIaSd5bN.jpg",
+        "character": "Debra Morgan",
+        "credit_id": "526e8737760ee3201c00c492",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25879,
+        "known_for_department": "Acting",
+        "name": "Geoff Pierson",
+        "original_name": "Geoff Pierson",
+        "popularity": 0.6787,
+        "profile_path": "/vIhxKBwqV19CwHdPuycmkchYOba.jpg",
+        "character": "Thomas Matthews",
+        "credit_id": "526e871b760ee3201c006e3f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22821,
+        "known_for_department": "Acting",
+        "name": "David Zayas",
+        "original_name": "David Zayas",
+        "popularity": 2.1007,
+        "profile_path": "/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg",
+        "character": "Angel Batista",
+        "credit_id": "526e8738760ee3201c00c68a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1736,
+        "known_for_department": "Acting",
+        "name": "James Remar",
+        "original_name": "James Remar",
+        "popularity": 2.3146,
+        "profile_path": "/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg",
+        "character": "Harry Morgan",
+        "credit_id": "526e8737760ee3201c00c61e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56457,
+        "known_for_department": "Acting",
+        "name": "Aimee Garcia",
+        "original_name": "Aimee Garcia",
+        "popularity": 1.7926,
+        "profile_path": "/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg",
+        "character": "Jamie Batista",
+        "credit_id": "53064df2925141275f0000b4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6365,
+        "known_for_department": "Acting",
+        "name": "Desmond Harrington",
+        "original_name": "Desmond Harrington",
+        "popularity": 3.0271,
+        "profile_path": "/toJbvangSsh9MQHFU9MxQi3S6h6.jpg",
+        "character": "Joseph Quinn",
+        "credit_id": "526e8738760ee3201c00c754",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 164380,
+        "known_for_department": "Acting",
+        "name": "C.S. Lee",
+        "original_name": "C.S. Lee",
+        "popularity": 0.9899,
+        "profile_path": "/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg",
+        "character": "Vince Masuka",
+        "credit_id": "526e8737760ee3201c00c564",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53820,
+        "known_for_department": "Acting",
+        "name": "Michael C. Hall",
+        "original_name": "Michael C. Hall",
+        "popularity": 3.348,
+        "profile_path": "/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg",
+        "credit_id": "526e873d760ee3201c00d714",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 154623,
+        "known_for_department": "Writing",
+        "name": "Daniel Cerone",
+        "original_name": "Daniel Cerone",
+        "popularity": 0.0994,
+        "profile_path": "/7tULL0DKkjknISvEd63b4RR263V.jpg",
+        "credit_id": "526e873b760ee3201c00d394",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 949179,
+        "known_for_department": "Production",
+        "name": "Sara Colleton",
+        "original_name": "Sara Colleton",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "credit_id": "526e873c760ee3201c00d450",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 42106,
+        "known_for_department": "Writing",
+        "name": "Chip Johannessen",
+        "original_name": "Chip Johannessen",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "credit_id": "526e873c760ee3201c00d640",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41795,
+        "known_for_department": "Writing",
+        "name": "Manny Coto",
+        "original_name": "Manny Coto",
+        "popularity": 0.3552,
+        "profile_path": "/6myC77o5oGEWE8PzP1sUw3uPcxD.jpg",
+        "credit_id": "526e873c760ee3201c00d6ac",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212409,
+        "known_for_department": "Writing",
+        "name": "Clyde Phillips",
+        "original_name": "Clyde Phillips",
+        "popularity": 0.2808,
+        "profile_path": "/ue6gnd9FRbl5wKZ9yHVtWp6ra4y.jpg",
+        "credit_id": "526e873c760ee3201c00d4ae",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1175362,
+        "known_for_department": "Writing",
+        "name": "Tim Schlattmann",
+        "original_name": "Tim Schlattmann",
+        "popularity": 0.068,
+        "profile_path": "/mmNzMpaB6Xqx38cI3VTUTcvicbX.jpg",
+        "credit_id": "526e873d760ee3201c00d772",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52160,
+        "known_for_department": "Production",
+        "name": "John Goldwyn",
+        "original_name": "John Goldwyn",
+        "popularity": 0.1406,
+        "profile_path": "/sKcukctjmlltKGujIBDrIZ4zPf9.jpg",
+        "credit_id": "526e873c760ee3201c00d516",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223919,
+        "known_for_department": "Production",
+        "name": "Robert Lloyd Lewis",
+        "original_name": "Robert Lloyd Lewis",
+        "popularity": 0.1306,
+        "profile_path": null,
+        "credit_id": "526e873c760ee3201c00d3f2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 56855,
+        "known_for_department": "Writing",
+        "name": "Melissa Rosenberg",
+        "original_name": "Melissa Rosenberg",
+        "popularity": 0.4073,
+        "profile_path": "/yxNMR5vKQoqDwnu3SXykTTZQTJJ.jpg",
+        "credit_id": "526e873c760ee3201c00d580",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67352,
+        "known_for_department": "Writing",
+        "name": "Scott Buck",
+        "original_name": "Scott Buck",
+        "popularity": 0.3098,
+        "profile_path": null,
+        "credit_id": "526e873c760ee3201c00d5e0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223910,
+        "known_for_department": "Writing",
+        "name": "Lauren Gussis",
+        "original_name": "Lauren Gussis",
+        "popularity": 0.0536,
+        "profile_path": "/hA9eRqCYG0T7rAJLyzXJYKoU5Vm.jpg",
+        "credit_id": "526e873d760ee3201c00d82c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1218786,
+        "known_for_department": "Writing",
+        "name": "Wendy West",
+        "original_name": "Wendy West",
+        "popularity": 0.0817,
+        "profile_path": null,
+        "credit_id": "526e873d760ee3201c00d7ce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 172666,
+        "known_for_department": "Writing",
+        "name": "Charles H. Eglee",
+        "original_name": "Charles H. Eglee",
+        "popularity": 0.2308,
+        "profile_path": "/kcPQBNXLWkjHbKSbuYr22fhSw5f.jpg",
+        "credit_id": "526e873d760ee3201c00d88a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223918,
+        "known_for_department": "Writing",
+        "name": "Jeff Lindsay",
+        "original_name": "Jeff Lindsay",
+        "popularity": 0.0445,
+        "profile_path": "/eKe6NuZfCqik9AyMvjdedE1skz4.jpg",
+        "credit_id": "61844bf1c5c1ef0061e9aa17",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 46353,
+        "known_for_department": "Sound",
+        "name": "Daniel Licht",
+        "original_name": "Daniel Licht",
+        "popularity": 0.1478,
+        "profile_path": "/i6hSKUXNwH8wOnxTNDXB9rCFEsQ.jpg",
+        "credit_id": "61844c751c6aa7002c9e6a88",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "HU",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "R21"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PH",
+        "rating": "PG"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "C"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DK",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SE",
+        "rating": "Från 15 år"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "19"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AT",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CH",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "HU",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CZ",
+        "rating": "15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "AP"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TW",
+        "rating": "15+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AR",
+        "rating": "SAM 16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FI",
+        "rating": "K16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IL",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IT",
+        "rating": "VM14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NZ",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NO",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ZA",
+        "rating": "18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TH",
+        "rating": "ฉ 20-"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "UA",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IN",
+        "rating": "A"
+      }
+    ]
+  }
+}

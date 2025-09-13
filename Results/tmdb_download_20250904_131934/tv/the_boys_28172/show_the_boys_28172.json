@@ -1,0 +1,210 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 160428,
+      "credit_id": "5701770392514114b90001cd",
+      "name": "Dan O'Shannon",
+      "original_name": "Dan O'Shannon",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1993-08-20",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 28172,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1993-09-17",
+  "last_episode_to_air": {
+    "id": 703733,
+    "name": "The Wicker Moosehead",
+    "overview": "On one of the hottest days of the summer, Bert gets all fired up about his neighbor who, among other things, still has his Christmas lights up.",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "1993-09-17",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 28172,
+    "still_path": null
+  },
+  "name": "The Boys",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 7,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Boys",
+  "overview": "The Boys is an American sitcom television series that aired from August 20 until September 17, 1993.",
+  "popularity": 0.7173,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 2161,
+      "logo_path": "/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png",
+      "name": "CBS Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1993-08-20",
+      "episode_count": 7,
+      "id": 39328,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 13726,
+        "known_for_department": "Acting",
+        "name": "Ned Beatty",
+        "original_name": "Ned Beatty",
+        "popularity": 1.0247,
+        "profile_path": "/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg",
+        "character": "Herbert Francis 'Bert' Greenblatt",
+        "credit_id": "52588d62760ee346614cc207",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68897,
+        "known_for_department": "Acting",
+        "name": "John Harkins",
+        "original_name": "John Harkins",
+        "popularity": 0.2094,
+        "profile_path": "/omV6h5EvyTUQdnNNfbNSifiumFp.jpg",
+        "character": "Harlan Cooper",
+        "credit_id": "52588d62760ee346614cc217",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88748,
+        "known_for_department": "Acting",
+        "name": "Richard Venture",
+        "original_name": "Richard Venture",
+        "popularity": 0.1739,
+        "profile_path": "/nbzvaA5m43DRpDhObWp2vX3H9Hg.jpg",
+        "character": "Al Kozarian",
+        "credit_id": "52588d62760ee346614cc227",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22227,
+        "known_for_department": "Acting",
+        "name": "Christopher Meloni",
+        "original_name": "Christopher Meloni",
+        "popularity": 1.0644,
+        "profile_path": "/nHlFFbRTh85vkohBBtRQjYnWEtb.jpg",
+        "character": "Doug Kirkfield",
+        "credit_id": "52588d62760ee346614cc237",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 108213,
+        "known_for_department": "Acting",
+        "name": "Isabella Hofmann",
+        "original_name": "Isabella Hofmann",
+        "popularity": 0.4927,
+        "profile_path": "/vPRXu2u0vewF6dRJLZ2p8rhrIou.jpg",
+        "character": "Molly Rich",
+        "credit_id": "52588d62760ee346614cc247",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45863,
+        "known_for_department": "Acting",
+        "name": "Doris Roberts",
+        "original_name": "Doris Roberts",
+        "popularity": 0.7164,
+        "profile_path": "/bfJjsAKKRqUhm1lh2QC8u2atrov.jpg",
+        "character": "Doris Greenblatt",
+        "credit_id": "52588d62760ee346614cc257",
+        "order": 5
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": []
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt0105959",
+    "freebase_mid": "/m/07ch2t9",
+    "freebase_id": null,
+    "tvdb_id": 77590,
+    "tvrage_id": null,
+    "wikidata_id": "Q7719730",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "_poster_url": "",
+  "_backdrop_url": "",
+  "_providers": {
+    "providers_flatrate_CA": "",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "",
+    "providers_ads_CA": "",
+    "providers_link_CA": ""
+  }
+}

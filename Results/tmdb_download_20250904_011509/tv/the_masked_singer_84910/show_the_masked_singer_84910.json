@@ -1,0 +1,438 @@
+{
+  "adult": false,
+  "backdrop_path": "/fvL8uPX0j3PF8FXHqGpJTfq0Qzu.jpg",
+  "created_by": [
+    {
+      "id": 1258897,
+      "credit_id": "6333f7466082eb00883e7b6d",
+      "name": "Craig Plestis",
+      "original_name": "Craig Plestis",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2019-01-02",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.fox.com/the-masked-singer/",
+  "id": 84910,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-07",
+  "last_episode_to_air": {
+    "id": 6170529,
+    "name": "The Two-Hour Lucky Season 13 Finale",
+    "overview": "In the grand culmination of Lucky Season 13, it is time for the final four to battle it out to be crowned the Season 13 Winner of The Masked Singer!",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-07",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 87,
+    "season_number": 13,
+    "show_id": 84910,
+    "still_path": "/wOcZ1QGMfXRQgVMyDZx1Poqu6Od.jpg"
+  },
+  "name": "The Masked Singer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 173,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Masked Singer",
+  "overview": "Celebrities compete in a singing competition with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. One singer will be eliminated each week, ultimately revealing his or her true identity.",
+  "popularity": 12.4823,
+  "poster_path": "/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg",
+  "production_companies": [
+    {
+      "id": 35587,
+      "logo_path": "/k9a0975MfqCXRuGKCsOw8Kei2nt.png",
+      "name": "Endemol Shine North America",
+      "origin_country": "US"
+    },
+    {
+      "id": 65117,
+      "logo_path": null,
+      "name": "Smart Dog Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-14",
+      "episode_count": 2,
+      "id": 131211,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 10,
+      "id": 114262,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/3hCRiuZRUd4uytBafTejtHQ90zJ.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 13,
+      "id": 127063,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/58XRTZSKu9beFoLd8cCTZRa7NGs.jpg",
+      "season_number": 2,
+      "vote_average": 7.0
+    },
+    {
+      "air_date": "2020-02-02",
+      "episode_count": 22,
+      "id": 134984,
+      "name": "Season 3",
+      "overview": "This season, the 18 fully disguised celebrity singers will be split into three groups of six: Group A, Group B and Group C. Group A will kick off the first three episodes as they are whittled down to three singers, taking off masks as they go. Then Group B will take the stage as they go from six to three, then Group C. The final nine masked contestants from all three groups will then come together as they continue to battle for the Golden Mask Trophy. Season Three will introduce all-new custom-made costumes for the celebrity singers to wear, including The Robot, The Frog, The Banana, The Mouse, Miss Monster and The Llama, among others.",
+      "poster_path": "/AmbHki0cYU6tVOLiT51mumr4VT4.jpg",
+      "season_number": 3,
+      "vote_average": 1.0
+    },
+    {
+      "air_date": "2020-09-23",
+      "episode_count": 13,
+      "id": 157664,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/y90vIG3LY7okHfF444hK1IgHnvg.jpg",
+      "season_number": 4,
+      "vote_average": 8.0
+    },
+    {
+      "air_date": "2021-03-10",
+      "episode_count": 12,
+      "id": 180564,
+      "name": "Season 5",
+      "overview": "The Season Five contestants boast a combined 26 Grammy Award nominations, nine multi-Platinum singles, four Academy Award nominations, three Super Bowl appearances, six gold medals and two world records! All will be unmasked, but only one will win the coveted Golden Mask Trophy.",
+      "poster_path": "/uyYpPPIV3iNPBkgdtGtSmempBeZ.jpg",
+      "season_number": 5,
+      "vote_average": 10.0
+    },
+    {
+      "air_date": "2021-09-22",
+      "episode_count": 15,
+      "id": 203677,
+      "name": "Season 6",
+      "overview": "The Season Six contestants boast a combined 85 Grammy Nominations and 27 wins, three Academy Award nominations, 12 Emmy Nominations, 12 Razzie Award Nominations, two Super Bowl appearances and two Lifetime Achievement Awards.",
+      "poster_path": "/wxzZUSr09FgS8Vyz56qSVR2jh0w.jpg",
+      "season_number": 6,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-03-09",
+      "episode_count": 11,
+      "id": 241596,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/4zhML13LMnDrdWsKlFCX69106tS.jpg",
+      "season_number": 7,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-21",
+      "episode_count": 12,
+      "id": 297015,
+      "name": "Season 8",
+      "overview": "The formatting for the season sees three contestants battle in each episode, with one eliminated mid-show while the other two battle out. A king/queen is crowned at the end of each episode who then moves on to the following episode, while the other in the top two gets eliminated. The season also includes themed nights for the first time.",
+      "poster_path": "/oDRyaEl0OfSfoX1yVQSi75un1Wq.jpg",
+      "season_number": 8,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-02-15",
+      "episode_count": 14,
+      "id": 324560,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/yMMcPD8z8e1UQr4UlxDeVNopYDM.jpg",
+      "season_number": 9,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2023-09-10",
+      "episode_count": 13,
+      "id": 350544,
+      "name": "Season 10",
+      "overview": "In honor of its milestone 10th season, \"The Masked Singer\" celebrates with the biggest and boldest costumes in the show's history -- with the buzziest and brightest celebrities underneath. The season features the return of special theme nights.",
+      "poster_path": "/g2y2duCEYzCsfG4vbnTKKhUST5w.jpg",
+      "season_number": 10,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-03-06",
+      "episode_count": 13,
+      "id": 367867,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/9bNDi2DuqEvsP1RuNKPjO9aLVKs.jpg",
+      "season_number": 11,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2024-09-25",
+      "episode_count": 12,
+      "id": 406943,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg",
+      "season_number": 12,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-02-12",
+      "episode_count": 13,
+      "id": 435162,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/sIqGAS5o1WsuCaZ1q5Qnuj4Z4Q5.jpg",
+      "season_number": 13,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 467430,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "You'll never guess who...",
+  "type": "Reality",
+  "vote_average": 7.6,
+  "vote_count": 117,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36811,
+        "known_for_department": "Acting",
+        "name": "Nick Cannon",
+        "original_name": "Nick Cannon",
+        "popularity": 0.5229,
+        "profile_path": "/u8b5uinYCwdlCu6P3qcKZqeCgQe.jpg",
+        "character": "Self - Host",
+        "credit_id": "5c11466d92514167ab0162c0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 175493,
+        "known_for_department": "Acting",
+        "name": "Robin Thicke",
+        "original_name": "Robin Thicke",
+        "popularity": 0.3112,
+        "profile_path": "/jOUBUrUFq16pknCkMUTTJ6CdFAY.jpg",
+        "character": "Self - Panelist",
+        "credit_id": "5c11468cc3a36825230f72c2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35597,
+        "known_for_department": "Acting",
+        "name": "Jenny McCarthy-Wahlberg",
+        "original_name": "Jenny McCarthy-Wahlberg",
+        "popularity": 0.8877,
+        "profile_path": "/snwpjJJ0bZ7zRS1Fn0avgNb8su7.jpg",
+        "character": "Self - Panelist",
+        "credit_id": "5c1146b492514147aa0ed8ce",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83586,
+        "known_for_department": "Acting",
+        "name": "Ken Jeong",
+        "original_name": "Ken Jeong",
+        "popularity": 1.6848,
+        "profile_path": "/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg",
+        "character": "Self - Panelist",
+        "credit_id": "5c114699c3a36825230f730c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 151246,
+        "known_for_department": "Acting",
+        "name": "Nicole Scherzinger",
+        "original_name": "Nicole Scherzinger",
+        "popularity": 0.7325,
+        "profile_path": "/kKG7zJvVReTipBYDD3aqHj4uPBe.jpg",
+        "character": "Self - Panelist",
+        "credit_id": "5c1146a50e0a2638af10a1f4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1089873,
+        "known_for_department": "Acting",
+        "name": "Rita Ora",
+        "original_name": "Rita Ora",
+        "popularity": 0.6662,
+        "profile_path": "/o1DMrW8vsTYnCcvVTZy6hEvlk4f.jpg",
+        "character": "Self - Panelist",
+        "credit_id": "65686400680be800e2e41b75",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1258897,
+        "known_for_department": "Acting",
+        "name": "Craig Plestis",
+        "original_name": "Craig Plestis",
+        "popularity": 0.0722,
+        "profile_path": null,
+        "credit_id": "5c1146f2c3a36825230f73a5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1225185,
+        "known_for_department": "Production",
+        "name": "Izzie Pick Ibarra",
+        "original_name": "Izzie Pick Ibarra",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "credit_id": "5c114726925141479e0e96c5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1384516,
+        "known_for_department": "Directing",
+        "name": "Alex Rudzinski",
+        "original_name": "Alex Rudzinski",
+        "popularity": 0.1027,
+        "profile_path": "/kjtHsJPQO9BRwdTque8dnReFzqH.jpg",
+        "credit_id": "5c1147390e0a2638af10a2d4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3718629,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Grainne O'Sullivan",
+        "original_name": "Grainne O'Sullivan",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "6333d28f41eee10081352595",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2852267,
+        "known_for_department": "Acting",
+        "name": "Josh Munnell",
+        "original_name": "Josh Munnell",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "6765e186f926be03cc74b04a",
+        "department": "Sound",
+        "job": "Assistant Music Supervisor"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-PG"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "L"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "13+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "AL"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "12"
+      }
+    ]
+  }
+}

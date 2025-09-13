@@ -1,0 +1,233 @@
+{
+  "adult": false,
+  "backdrop_path": "/eYLP1yo2L6bZKt3fm3bRYRlkGss.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "663194e2813cb60124861b06",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "id": 16957,
+      "credit_id": "68677e99c559f24e3c79e1df",
+      "name": "Fenton Bailey",
+      "original_name": "Fenton Bailey",
+      "gender": 2,
+      "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg"
+    },
+    {
+      "id": 16958,
+      "credit_id": "68677e9d0f4748f130eeb3fd",
+      "name": "Randy Barbato",
+      "original_name": "Randy Barbato",
+      "gender": 2,
+      "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-04-17",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.wowpresentsplus.com/rupaul-s-drag-race-live-untucked",
+  "id": 251306,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-21",
+  "last_episode_to_air": {
+    "id": 6178924,
+    "name": "The Fly Girls",
+    "overview": "The cast bids farewell to one queen and decides to send her off with a bang.",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-05-21",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 2,
+    "show_id": 251306,
+    "still_path": "/hi1Tu8ULpfENTPxaZnxw5qUqych.jpg"
+  },
+  "name": "RuPaul's Drag Race Live Untucked",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2806,
+      "logo_path": "/29fbulsOz7d9JDJLjiNkxq0jS3Y.png",
+      "name": "WOW Presents Plus",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race Live Untucked",
+  "overview": "Welcome to Vegas, baby! Capturing what really happens behind the curtain of the hottest show on the Las Vegas Strip.",
+  "popularity": 0.7891,
+  "poster_path": "/2AOPwf6CLe37EdTx1wao9Le1NF7.jpg",
+  "production_companies": [
+    {
+      "id": 1421,
+      "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+      "name": "World of Wonder",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-04-17",
+      "episode_count": 6,
+      "id": 387390,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tcRVTDVfRJ4eNiiDabrZXcP7SAU.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2025-04-16",
+      "episode_count": 6,
+      "id": 444929,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/2AOPwf6CLe37EdTx1wao9Le1NF7.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3361673,
+        "known_for_department": "Acting",
+        "name": "Bosco",
+        "original_name": "Bosco",
+        "popularity": 0.0453,
+        "profile_path": "/qN33pbaGGfQU7lsos4Im7xCH2jW.jpg",
+        "character": "Self",
+        "credit_id": "6612e228ac617c014ab028fd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1736792,
+        "known_for_department": "Acting",
+        "name": "Derrick Barry",
+        "original_name": "Derrick Barry",
+        "popularity": 0.1025,
+        "profile_path": "/ahSWLZ64Mgz54JQBzibl67pNH9A.jpg",
+        "character": "Self",
+        "credit_id": "6612e2006c84920162fbef95",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2329033,
+        "known_for_department": "Acting",
+        "name": "Kennedy Davenport",
+        "original_name": "Kennedy Davenport",
+        "popularity": 0.08,
+        "profile_path": "/yaZATfNRUwO4Xm3CZzxySC4AkUN.jpg",
+        "character": "Self",
+        "credit_id": "6612e217a6a4c10186bc1cfd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1682600,
+        "known_for_department": "Acting",
+        "name": "Latrice Royale",
+        "original_name": "Latrice Royale",
+        "popularity": 0.0714,
+        "profile_path": "/j1Wgqla14xUk4NmQXtKluxLDOgv.jpg",
+        "character": "Self",
+        "credit_id": "6612e20659008601627c2fa7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2288379,
+        "known_for_department": "Acting",
+        "name": "Lawrence Chaney",
+        "original_name": "Lawrence Chaney",
+        "popularity": 0.0678,
+        "profile_path": "/vD66Y7cvG0XL2mpfn1Is5dpg67q.jpg",
+        "character": "Self",
+        "credit_id": "6612e20cd6819b017cd6ee02",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4431880,
+        "known_for_department": "Acting",
+        "name": "Nymphia Wind",
+        "original_name": "Nymphia Wind",
+        "popularity": 0.0736,
+        "profile_path": "/qCDVNUyUjAS0v4yPy3NK7wzwOxA.jpg",
+        "character": "Self",
+        "credit_id": "67c5fec648ee9015ab7a9a64",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4431878,
+        "known_for_department": "Acting",
+        "name": "Mirage",
+        "original_name": "Mirage",
+        "popularity": 0.0143,
+        "profile_path": "/1yLbMlNdfHfVlzL7bLVusj1g8J6.jpg",
+        "character": "Self",
+        "credit_id": "67c5fed36ca9035a6a7a8b83",
+        "order": 9
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      }
+    ]
+  }
+}

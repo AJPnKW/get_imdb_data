@@ -1,0 +1,1216 @@
+{
+  "adult": false,
+  "backdrop_path": "/ukewRnKD05Si7DkED2tSKBTXeEd.jpg",
+  "created_by": [
+    {
+      "id": 1276960,
+      "credit_id": "5c0aa9469251414795047604",
+      "name": "Patrick McKay",
+      "original_name": "Patrick McKay",
+      "gender": 2,
+      "profile_path": "/mzPLmSrqMQkQc0n8Kft07Han3zu.jpg"
+    },
+    {
+      "id": 1276959,
+      "credit_id": "5c0aa95c0e0a2638bc04bb53",
+      "name": "John D. Payne",
+      "original_name": "John D. Payne",
+      "gender": 2,
+      "profile_path": "/tcZE30s0wA9H85598aGFaXgvoqA.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-09-01",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B09QHC2LZM",
+  "id": 84773,
+  "in_production": true,
+  "languages": [
+    "am",
+    "en"
+  ],
+  "last_air_date": "2024-10-03",
+  "last_episode_to_air": {
+    "id": 5348411,
+    "name": "Shadow and Flame",
+    "overview": "The free peoples of Middle-earth struggle against the forces of darkness.",
+    "vote_average": 6.6,
+    "vote_count": 40,
+    "air_date": "2024-10-03",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 74,
+    "season_number": 2,
+    "show_id": 84773,
+    "still_path": "/y8QZyos5Xck90iztghsWcIr7yUd.jpg"
+  },
+  "name": "The Lord of the Rings: The Rings of Power",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1024,
+      "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+      "name": "Prime Video",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Lord of the Rings: The Rings of Power",
+  "overview": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+  "popularity": 44.2693,
+  "poster_path": "/kf5Hz70tjNAHg4swGDzOr9BfoZ1.jpg",
+  "production_companies": [
+    {
+      "id": 20580,
+      "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+      "name": "Amazon Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-09-03",
+      "episode_count": 36,
+      "id": 311036,
+      "name": "Specials",
+      "overview": "Specials",
+      "poster_path": "/friNlTnLbsg38DRnUYLfKLdLBJE.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2022-09-01",
+      "episode_count": 8,
+      "id": 114041,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/umRaUV2ku9MMtEunMQt3uCO1OgE.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2024-08-29",
+      "episode_count": 8,
+      "id": 382474,
+      "name": "Season 2",
+      "overview": "Sauron has returned. Cast out by Galadriel, the Dark Lord must now rely on his own cunning to rebuild his strength and forge the legendary Rings of Power, threatening to bind all peoples of Middle-earth to his sinister will. Season 2 plunges its most beloved characters into a rising tide of darkness, challenging each to find his or her place in a world on the brink of calamity.",
+      "poster_path": "/m93DIqlwcHWiepTl6WXPiOlw4E9.jpg",
+      "season_number": 2,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 467821,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Amharic",
+      "iso_639_1": "am",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Evil has had many names.",
+  "type": "Scripted",
+  "vote_average": 7.286,
+  "vote_count": 3404,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2309879,
+        "known_for_department": "Acting",
+        "name": "Charlie Vickers",
+        "original_name": "Charlie Vickers",
+        "popularity": 0.4217,
+        "profile_path": "/g84gcSMCNdzQgORPSGerRabEgh.jpg",
+        "character": "Sauron",
+        "credit_id": "66439027f33ff64dcdcb5863",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1321628,
+        "known_for_department": "Acting",
+        "name": "Morfydd Clark",
+        "original_name": "Morfydd Clark",
+        "popularity": 0.5151,
+        "profile_path": "/kG1Xg85F9yAggCMquo4XouAOjdo.jpg",
+        "character": "Galadriel",
+        "credit_id": "5e1e8a5d5c071b001163231d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1648346,
+        "known_for_department": "Acting",
+        "name": "Robert Aramayo",
+        "original_name": "Robert Aramayo",
+        "popularity": 0.9024,
+        "profile_path": "/1wqSZVvB018H2mZbemMSn6gH4zq.jpg",
+        "character": "Elrond",
+        "credit_id": "5e14c3fc6c449c0016315c77",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 281527,
+        "known_for_department": "Acting",
+        "name": "Charles Edwards",
+        "original_name": "Charles Edwards",
+        "popularity": 0.5686,
+        "profile_path": "/zyzow44jiPve8nU9O1F1X9wnrtU.jpg",
+        "character": "Lord Celebrimbor",
+        "credit_id": "60dde28f5690b5007faafe80",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1274938,
+        "known_for_department": "Acting",
+        "name": "Owain Arthur",
+        "original_name": "Owain Arthur",
+        "popularity": 0.2642,
+        "profile_path": "/ljqVjVzp9pgcfTTU3oJbKtnd6im.jpg",
+        "character": "Durin IV",
+        "credit_id": "5e1e8a475c071b001362df39",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2056333,
+        "known_for_department": "Acting",
+        "name": "Sophia Nomvete",
+        "original_name": "Sophia Nomvete",
+        "popularity": 0.8693,
+        "profile_path": "/fRglwdtHHjLGAMIoCkqXwQ9bIfd.jpg",
+        "character": "Disa",
+        "credit_id": "5e1e8f05d9f4a600179a510f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1220087,
+        "known_for_department": "Acting",
+        "name": "Daniel Weyman",
+        "original_name": "Daniel Weyman",
+        "popularity": 0.1927,
+        "profile_path": "/6DjebVe6uHAt5RpZOQGt67Eryeb.jpg",
+        "character": "The Stranger",
+        "credit_id": "5fb15c71e24e3a0040e85bb1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2138256,
+        "known_for_department": "Acting",
+        "name": "Markella Kavenagh",
+        "original_name": "Markella Kavenagh",
+        "popularity": 0.621,
+        "profile_path": "/gHBoS2Ql0ywj6kfkxixqPPryqTQ.jpg",
+        "character": "Elanor 'Nori' Brandyfoot",
+        "credit_id": "5d70f9aa77c01f0c1a5a485f",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2145794,
+        "known_for_department": "Acting",
+        "name": "Megan Richards",
+        "original_name": "Megan Richards",
+        "popularity": 0.3311,
+        "profile_path": "/q66cIEIlt4ylFXVlgdLbYHuuUOw.jpg",
+        "character": "Poppy Proudfellow",
+        "credit_id": "5e1e8f14511d090014827590",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1100144,
+        "known_for_department": "Acting",
+        "name": "Ismael Cruz Cordova",
+        "original_name": "Ismael Cruz Cordova",
+        "popularity": 0.8067,
+        "profile_path": "/oXcrsQGndk60iFkNB8qFnMHlNzL.jpg",
+        "character": "Arondir",
+        "credit_id": "5e1e8e60511d090014827426",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 563559,
+        "known_for_department": "Acting",
+        "name": "Sam Hazeldine",
+        "original_name": "Sam Hazeldine",
+        "popularity": 0.5192,
+        "profile_path": "/lzxuRO9hkI2LWGUCXssemiIUgeX.jpg",
+        "character": "Adar",
+        "credit_id": "66d27f87de9e844993c0d073",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 239996,
+        "known_for_department": "Acting",
+        "name": "Benjamin Walker",
+        "original_name": "Benjamin Walker",
+        "popularity": 0.6278,
+        "profile_path": "/xFsDf4v6WYtz07huJvIwJVD05t6.jpg",
+        "character": "High King Gil-Galad",
+        "credit_id": "67039363508dfa7ba37949f7",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1457306,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Flora Moody",
+        "original_name": "Flora Moody",
+        "popularity": 0.1182,
+        "profile_path": "/f7NBaNHErev8dijQWYUkEDTsTpD.jpg",
+        "credit_id": "66d2034d6417bf2a6f0037f8",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1457306,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Flora Moody",
+        "original_name": "Flora Moody",
+        "popularity": 0.1182,
+        "profile_path": "/f7NBaNHErev8dijQWYUkEDTsTpD.jpg",
+        "credit_id": "66d20358a77fa59df46a576e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4913847,
+        "known_for_department": "Production",
+        "name": "Andrew Lee",
+        "original_name": "Andrew Lee",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66d204c1cb3ed9ca8dc0bf54",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1454530,
+        "known_for_department": "Art",
+        "name": "Tim Lyall",
+        "original_name": "Tim Lyall",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "66d20676adae92a955c0bde0",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1821633,
+        "known_for_department": "Production",
+        "name": "Lulu Morgan",
+        "original_name": "Lulu Morgan",
+        "popularity": 1.0367,
+        "profile_path": null,
+        "credit_id": "66d206a2df4f4133ee811f95",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1801113,
+        "known_for_department": "Production",
+        "name": "Andy Surry",
+        "original_name": "Andy Surry",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "66d206bdcae259a34278b59a",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15358,
+        "known_for_department": "Crew",
+        "name": "Vic Armstrong",
+        "original_name": "Vic Armstrong",
+        "popularity": 0.2417,
+        "profile_path": "/n5QucsPxuYcsvq9Te00lkWhsYUx.jpg",
+        "credit_id": "66d208a19b26114fe101bd18",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1300064,
+        "known_for_department": "Production",
+        "name": "Theo Park",
+        "original_name": "Theo Park",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "66d20b1d45fd225553964717",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3709369,
+        "known_for_department": "Production",
+        "name": "Ally O'Leary",
+        "original_name": "Ally O'Leary",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66d20b52adae92a955c0be11",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3709369,
+        "known_for_department": "Production",
+        "name": "Ally O'Leary",
+        "original_name": "Ally O'Leary",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66d20b77ea22ad562c94409a",
+        "department": "Production",
+        "job": "Controller"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425488,
+        "known_for_department": "Visual Effects",
+        "name": "Tim Keene",
+        "original_name": "Tim Keene",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "credit_id": "66d20bb94c2f4ec787c0be0d",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1413116,
+        "known_for_department": "Visual Effects",
+        "name": "Ann Podlozny",
+        "original_name": "Ann Podlozny",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "66d20c1fdc7be8f3850fd9c6",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622443,
+        "known_for_department": "Sound",
+        "name": "Michael Baber",
+        "original_name": "Michael Baber",
+        "popularity": 0.0311,
+        "profile_path": null,
+        "credit_id": "66d20c4b36c272646b0038ed",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4757102,
+        "known_for_department": "Crew",
+        "name": "Jayne Trotman",
+        "original_name": "Jayne Trotman",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66d20cdee782a58e4c0c28d5",
+        "department": "Crew",
+        "job": "Unit Publicist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1388899,
+        "known_for_department": "Camera",
+        "name": "Gary Spratling",
+        "original_name": "Gary Spratling",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "66d20d2b38e23d8bfb0c2a5d",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1487710,
+        "known_for_department": "Art",
+        "name": "Martin Foley",
+        "original_name": "Martin Foley",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "66d2766a41fb6ff11a9b9eac",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1568120,
+        "known_for_department": "Art",
+        "name": "Oliver Benson",
+        "original_name": "Oliver Benson",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "credit_id": "66d276860c0059006d0c3566",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1918597,
+        "known_for_department": "Art",
+        "name": "Ian Bunting",
+        "original_name": "Ian Bunting",
+        "popularity": 0.0239,
+        "profile_path": null,
+        "credit_id": "66d276aa7b5524fd9f0fe3bb",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3548737,
+        "known_for_department": "Art",
+        "name": "Tim Dutton",
+        "original_name": "Tim Dutton",
+        "popularity": 0.0261,
+        "profile_path": null,
+        "credit_id": "66d276c040190671b1b1680c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388851,
+        "known_for_department": "Art",
+        "name": "Oliver Goodier",
+        "original_name": "Oliver Goodier",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "66d276dd797a6356eb6a67cc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1918598,
+        "known_for_department": "Art",
+        "name": "Charlotte Malynn",
+        "original_name": "Charlotte Malynn",
+        "popularity": 0.0492,
+        "profile_path": null,
+        "credit_id": "66d276f274234fead3c8030d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3593647,
+        "known_for_department": "Art",
+        "name": "Gareth Sprey",
+        "original_name": "Gareth Sprey",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66d2770999001d751eb07ace",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1089410,
+        "known_for_department": "Art",
+        "name": "Rebecca White",
+        "original_name": "Rebecca White",
+        "popularity": 0.0445,
+        "profile_path": null,
+        "credit_id": "66d2771f14e121d1d50fe77d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4914547,
+        "known_for_department": "Art",
+        "name": "Kristina Zimmermann",
+        "original_name": "Kristina Zimmermann",
+        "popularity": 0.0071,
+        "profile_path": null,
+        "credit_id": "66d2779c4a779d2a5cb15e9a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2030701,
+        "known_for_department": "Visual Effects",
+        "name": "Daniele Bigi",
+        "original_name": "Daniele Bigi",
+        "popularity": 0.0362,
+        "profile_path": "/r5grrWLtYwA0gozoCRsS9WjCcNk.jpg",
+        "credit_id": "6876e2ee61ecf37fb277977e",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11354,
+        "known_for_department": "Crew",
+        "name": "Ben Cooke",
+        "original_name": "Ben Cooke",
+        "popularity": 0.1479,
+        "profile_path": "/tuMetGw8QNRbWEEtMP3SITwBFc2.jpg",
+        "credit_id": "68122d55e515dd52d40551e3",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1405198,
+        "known_for_department": "Lighting",
+        "name": "David Sinfield",
+        "original_name": "David Sinfield",
+        "popularity": 1.1072,
+        "profile_path": "/uqBCfBqD8BEHHJTEjKZKZq8MSaZ.jpg",
+        "credit_id": "6802f77be506a8e3a0ad61e8",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4671122,
+        "known_for_department": "Crew",
+        "name": "Nicol Shaw",
+        "original_name": "Nicol Shaw",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "67d962f81bb4b5c58bc6ac62",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1466997,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Duncan Jarman",
+        "original_name": "Duncan Jarman",
+        "popularity": 0.067,
+        "profile_path": "/wGQQ76UZtrDCeP42cHXhbBYpnkq.jpg",
+        "credit_id": "67c0887ee4a5b8bf00c8e3df",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3076199,
+        "known_for_department": "Directing",
+        "name": "James Manning",
+        "original_name": "James Manning",
+        "popularity": 0.1238,
+        "profile_path": null,
+        "credit_id": "678922902ba9fb7c5ead375e",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2651736,
+        "known_for_department": "Production",
+        "name": "Caterina Boselli",
+        "original_name": "Caterina Boselli",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "674f4e0a0e80c6d98593191e",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2180983,
+        "known_for_department": "Crew",
+        "name": "Luke Tumber",
+        "original_name": "Luke Tumber",
+        "popularity": 1.1214,
+        "profile_path": "/2aS2iTfX1bM47E8B3hYgeDVXp7.jpg",
+        "credit_id": "673d2711264107d8b7f1a600",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4212806,
+        "known_for_department": "Art",
+        "name": "Charlie McDonnell",
+        "original_name": "Charlie McDonnell",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "66d2786a0909699461b60221",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3735501,
+        "known_for_department": "Art",
+        "name": "Vicky Ralph",
+        "original_name": "Vicky Ralph",
+        "popularity": 0.094,
+        "profile_path": null,
+        "credit_id": "66d2783247e7115c66812fa3",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4204644,
+        "known_for_department": "Directing",
+        "name": "Eva Rogelj",
+        "original_name": "Eva Rogelj",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66d277e83f78a81e7601c9d4",
+        "department": "Art",
+        "job": "Art Department Trainee"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 138756,
+        "known_for_department": "Directing",
+        "name": "Charlotte Brändström",
+        "original_name": "Charlotte Brändström",
+        "popularity": 0.9395,
+        "profile_path": "/z315PrTslmi0UxsOOKuBoqf1kjk.jpg",
+        "credit_id": "66438d3bb1f3a3153a961c1c",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1865914,
+        "known_for_department": "Production",
+        "name": "Kate Hazell",
+        "original_name": "Kate Hazell",
+        "popularity": 0.0327,
+        "profile_path": null,
+        "credit_id": "66438d4fd088e74113b8a434",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1667201,
+        "known_for_department": "Writing",
+        "name": "Helen Shang",
+        "original_name": "Helen Shang",
+        "popularity": 0.0486,
+        "profile_path": null,
+        "credit_id": "66438d7357b2d87ac06ab074",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2091571,
+        "known_for_department": "Crew",
+        "name": "Clare Buxton",
+        "original_name": "Clare Buxton",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "66438d9269499ddb4d961c08",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3295447,
+        "known_for_department": "Writing",
+        "name": "Glenise Mullins",
+        "original_name": "Glenise Mullins",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "credit_id": "66438dc8c444a9b7282a4d1f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1767889,
+        "known_for_department": "Directing",
+        "name": "Matthew Penry-Davey",
+        "original_name": "Matthew Penry-Davey",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "66438dd98995b0e685cb5f79",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23457,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barrie Gower",
+        "original_name": "Barrie Gower",
+        "popularity": 0.1987,
+        "profile_path": "/w4aurjKq2sIGPHZSpjLDp6BIHV2.jpg",
+        "credit_id": "669802b77620265bc624d6e3",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19770,
+        "known_for_department": "Production",
+        "name": "Callum Greene",
+        "original_name": "Callum Greene",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "66d2019ebbec4ed29aa7f179",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 560182,
+        "known_for_department": "Art",
+        "name": "Kristian Milsted",
+        "original_name": "Kristian Milsted",
+        "popularity": 0.1008,
+        "profile_path": null,
+        "credit_id": "66d202bfbf9c4462cc9b8f5f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52682,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luca Mosca",
+        "original_name": "Luca Mosca",
+        "popularity": 0.0902,
+        "profile_path": "/adtSrjn37EhoTSHFPfqxDmBTw6z.jpg",
+        "credit_id": "66d202e7bf9c4462cc9b8f66",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428470,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christine Blundell",
+        "original_name": "Christine Blundell",
+        "popularity": 1.0535,
+        "profile_path": null,
+        "credit_id": "66d203339192cfbf71003792",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428470,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christine Blundell",
+        "original_name": "Christine Blundell",
+        "popularity": 1.0535,
+        "profile_path": null,
+        "credit_id": "66d2033d797a6356eb6a579d",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1462852,
+        "known_for_department": "Visual Effects",
+        "name": "Ara Khanikian",
+        "original_name": "Ara Khanikian",
+        "popularity": 0.0527,
+        "profile_path": "/dSfz8jM5VaHpOMd8eLAMlRGnawc.jpg",
+        "credit_id": "68b7256abc91fd85441589d4",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59811,
+        "known_for_department": "Sound",
+        "name": "Bear McCreary",
+        "original_name": "Bear McCreary",
+        "popularity": 0.2924,
+        "profile_path": "/t4Rr2p9Q5ewMgagChxK2JmrcvKx.jpg",
+        "credit_id": "62d9a95bdb7058012e403822",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117,
+        "known_for_department": "Sound",
+        "name": "Howard Shore",
+        "original_name": "Howard Shore",
+        "popularity": 0.511,
+        "profile_path": "/nJ606tXnL8vDVHi7qavrV292ljt.jpg",
+        "credit_id": "62d9a95309dda40070faabe7",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276960,
+        "known_for_department": "Writing",
+        "name": "Patrick McKay",
+        "original_name": "Patrick McKay",
+        "popularity": 0.1923,
+        "profile_path": "/mzPLmSrqMQkQc0n8Kft07Han3zu.jpg",
+        "credit_id": "605b9f41d3719700561082b4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1276959,
+        "known_for_department": "Writing",
+        "name": "John D. Payne",
+        "original_name": "John D. Payne",
+        "popularity": 0.0357,
+        "profile_path": "/tcZE30s0wA9H85598aGFaXgvoqA.jpg",
+        "credit_id": "605b9f35091e62003edbabd2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223203,
+        "known_for_department": "Writing",
+        "name": "Gennifer Hutchison",
+        "original_name": "Gennifer Hutchison",
+        "popularity": 0.0648,
+        "profile_path": "/b9aW3OIGhVOv7m8QdIzX87Bs4hl.jpg",
+        "credit_id": "605b9eeedd47e10028fef929",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223734,
+        "known_for_department": "Writing",
+        "name": "Jason Cahill",
+        "original_name": "Jason Cahill",
+        "popularity": 0.0456,
+        "profile_path": null,
+        "credit_id": "605b9ee07dfda600544319b4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1301304,
+        "known_for_department": "Writing",
+        "name": "Justin Doble",
+        "original_name": "Justin Doble",
+        "popularity": 0.2138,
+        "profile_path": "/7bTwDKXb8BsvI5b1b4UeKQhBCCN.jpg",
+        "credit_id": "605b9ed6a34911006b6e8a92",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19770,
+        "known_for_department": "Production",
+        "name": "Callum Greene",
+        "original_name": "Callum Greene",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "605b9ec270b4440054577059",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1621772,
+        "known_for_department": "Visual Effects",
+        "name": "Jason Smith",
+        "original_name": "Jason Smith",
+        "popularity": 0.0634,
+        "profile_path": null,
+        "credit_id": "5d3db679a1d332000f0f079f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1636657,
+        "known_for_department": "Production",
+        "name": "Lindsey Weber",
+        "original_name": "Lindsey Weber",
+        "popularity": 0.0935,
+        "profile_path": "/9aN6x2W7DlPAMX8MZxcqB1Hyf8v.jpg",
+        "credit_id": "5d3db57421621b706aee008a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2776198,
+        "known_for_department": "Production",
+        "name": "Sharon Tal Yguado",
+        "original_name": "Sharon Tal Yguado",
+        "popularity": 0.0143,
+        "profile_path": null,
+        "credit_id": "605b9f72cf4a640076bba3bc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129,
+        "known_for_department": "Writing",
+        "name": "J. R. R. Tolkien",
+        "original_name": "J. R. R. Tolkien",
+        "popularity": 0.3376,
+        "profile_path": "/8AYNNfNuhpzPHxki7cBISG9JpGx.jpg",
+        "credit_id": "5d1eab5aa1353300110bbaba",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "M"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FR",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "16+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "GB",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NL",
+        "rating": "12"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PT",
+        "rating": "12AP"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "PG13"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PR",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DK",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SE",
+        "rating": "Från 15 år"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "FI",
+        "rating": "K16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "NO",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BE",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "PG"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "TR",
+        "rating": "13+"
+      }
+    ]
+  }
+}

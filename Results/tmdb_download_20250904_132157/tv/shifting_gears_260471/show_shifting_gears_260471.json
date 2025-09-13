@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": "/x3dyx5hVfjTgfiRB24vf28Jagxr.jpg",
+  "created_by": [
+    {
+      "id": 1216643,
+      "credit_id": "677fe3847732209e17bb31da",
+      "name": "Julie Thacker",
+      "original_name": "Julie Thacker",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 165810,
+      "credit_id": "677fe38d044b6ca6764e91f3",
+      "name": "Mike Scully",
+      "original_name": "Mike Scully",
+      "gender": 2,
+      "profile_path": "/pW3fS1MHC3nNAMXIDTWsYSeTc8X.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://abc.com/show/0b64a2a5-a111-450a-a3c3-b0f8e69a2124",
+  "id": 260471,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-19",
+  "last_episode_to_air": {
+    "id": 5828004,
+    "name": "Kiss",
+    "overview": "Riley is torn between her past and her future.",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2025-03-19",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 260471,
+    "still_path": "/8irATGph34oCghT7Idfrz5eZp7.jpg"
+  },
+  "name": "Shifting Gears",
+  "next_episode_to_air": {
+    "id": 6388508,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-10-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 260471,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/ndAvF4JLsliGreX87jAc9GdjmJY.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Shifting Gears",
+  "overview": "Matt is a stubborn, widowed owner of a classic car restoration shop. When Matt's estranged daughter Riley and her teenage kids move into his house, the real restoration begins.",
+  "popularity": 3.7676,
+  "poster_path": "/qQeNdPJ6QDvKCBtGHbTT4DvtuZR.jpg",
+  "production_companies": [
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 249678,
+      "logo_path": null,
+      "name": "Shaky Gun Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 249680,
+      "logo_path": null,
+      "name": "Lost Marbles",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-08",
+      "episode_count": 10,
+      "id": 404578,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qQeNdPJ6QDvKCBtGHbTT4DvtuZR.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2025-10-01",
+      "episode_count": 3,
+      "id": 465874,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/aUtch1uVgHiOkf1PTUk1EV22ZYx.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "His daughter's moving in... and the wheels are coming off.",
+  "type": "Scripted",
+  "vote_average": 6.1,
+  "vote_count": 45,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-PG"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "NC16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "7"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt31614348",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 447183,
+    "tvrage_id": null,
+    "wikidata_id": "Q130749227",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "_poster_url": "https://image.tmdb.org/t/p/w500/qQeNdPJ6QDvKCBtGHbTT4DvtuZR.jpg",
+  "_backdrop_url": "https://image.tmdb.org/t/p/w780/x3dyx5hVfjTgfiRB24vf28Jagxr.jpg",
+  "_providers": {
+    "providers_flatrate_CA": "Disney Plus",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "Apple TV",
+    "providers_ads_CA": "",
+    "providers_link_CA": "https://www.themoviedb.org/tv/260471-shifting-gears/watch?locale=CA"
+  }
+}

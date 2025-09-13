@@ -1,0 +1,361 @@
+{
+  "adult": false,
+  "backdrop_path": "/ijRiyqrXUzrF77INhtzvSS6V6qG.jpg",
+  "created_by": [
+    {
+      "id": 47506,
+      "credit_id": "6729c07406dc88596323ff4b",
+      "name": "Drew Goddard",
+      "original_name": "Drew Goddard",
+      "gender": 2,
+      "profile_path": "/rcxxyIGDgPkXVgAQb9LLXfR89pv.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-09-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://abc.com/show/a9a37c58-9d88-452f-9ac6-0a95e5a4176e",
+  "id": 226637,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-11",
+  "last_episode_to_air": {
+    "id": 5899515,
+    "name": "Let's Play",
+    "overview": "An anonymous tip to the LAPD sparks an unusual multiple-victim kidnapping investigation, forcing the team to rely on board games and puzzles to track down their suspect.",
+    "vote_average": 7.8,
+    "vote_count": 10,
+    "air_date": "2025-02-11",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 226637,
+    "still_path": "/qsLQhCvq6mYWRS3k3bdTlJ7D9uq.jpg"
+  },
+  "name": "High Potential",
+  "next_episode_to_air": {
+    "id": 6388491,
+    "name": "Pawns",
+    "overview": "While working tirelessly to shield her family from the Game Maker’s threats, another crime drags Morgan back into his game and the LAPD must decide whether to trust her instincts before the next move turns fatal.",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-09-16",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 226637,
+    "still_path": "/kzG9nLSep09shftYHV2JzjiWunA.jpg"
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/ndAvF4JLsliGreX87jAc9GdjmJY.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 17,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "High Potential",
+  "overview": "Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.",
+  "popularity": 27.0401,
+  "poster_path": "/lMYflruVeOfnWiX4LwoQuOJNLHz.jpg",
+  "production_companies": [
+    {
+      "id": 51964,
+      "logo_path": null,
+      "name": "Goddard Textiles",
+      "origin_country": "US"
+    },
+    {
+      "id": 160908,
+      "logo_path": "/llVFyu0XedaUI4RroWsFN4WIJSC.png",
+      "name": "Itinéraire Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6300,
+      "logo_path": "/5TBU2ucl0rZqP417gF5GZ7LTyF8.png",
+      "name": "Septembre Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19378,
+      "logo_path": "/AzOBqtpa9m4JAO0m6VzllQFt7g.png",
+      "name": "Spondoolie Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 236613,
+      "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-09-17",
+      "episode_count": 13,
+      "id": 341174,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ylTZ6bfmPrwUz01A0VpvluGFWsv.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2025-09-16",
+      "episode_count": 4,
+      "id": 465872,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lMYflruVeOfnWiX4LwoQuOJNLHz.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The new face of investigation.",
+  "type": "Scripted",
+  "vote_average": 8.02,
+  "vote_count": 298,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 95102,
+        "known_for_department": "Acting",
+        "name": "Kaitlin Olson",
+        "original_name": "Kaitlin Olson",
+        "popularity": 1.4423,
+        "profile_path": "/z84SKRCVl9zPhP9AINVS8Bx8dRO.jpg",
+        "character": "Morgan Gillory",
+        "credit_id": "6463f98fef8b3218235bd3b8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10582,
+        "known_for_department": "Acting",
+        "name": "Daniel Sunjata",
+        "original_name": "Daniel Sunjata",
+        "popularity": 1.1831,
+        "profile_path": "/tyhz6ABcGao9r98sb94bsYWYz4M.jpg",
+        "character": "Adam Karadec",
+        "credit_id": "6463f9a0880c92011b6a922f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 159657,
+        "known_for_department": "Acting",
+        "name": "Judy Reyes",
+        "original_name": "Judy Reyes",
+        "popularity": 0.9907,
+        "profile_path": "/DQ8kIRHru9Zzy6CftVryHmIOJs.jpg",
+        "character": "Selena Soto",
+        "credit_id": "6463f999880c9201397d81dc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81388,
+        "known_for_department": "Acting",
+        "name": "Steve Howey",
+        "original_name": "Steve Howey",
+        "popularity": 1.4114,
+        "profile_path": "/dOGLFDM7Blmk5nlPltgXh44z9WG.jpg",
+        "character": "Jesse Wagner",
+        "credit_id": "689d35d92dcdbf1f246d7c71",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1697199,
+        "known_for_department": "Acting",
+        "name": "Javicia Leslie",
+        "original_name": "Javicia Leslie",
+        "popularity": 0.2561,
+        "profile_path": "/yBnVBKY64KU1ZBYdq8dsBcVLG2a.jpg",
+        "character": "Daphne Forrester",
+        "credit_id": "6463f9aa880c920156c28fad",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145246,
+        "known_for_department": "Acting",
+        "name": "Deniz Akdeniz",
+        "original_name": "Deniz Akdeniz",
+        "popularity": 0.4976,
+        "profile_path": "/oDM0t1nWnGkl8ZpUTSq1rYrHLQu.jpg",
+        "character": "Lev 'Oz' Osman",
+        "credit_id": "6463f9b28c44b978071f47be",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3046586,
+        "known_for_department": "Acting",
+        "name": "Amirah J",
+        "original_name": "Amirah J",
+        "popularity": 1.3728,
+        "profile_path": "/ywkWIPb8n56t4B746BqBBZ6RSOV.jpg",
+        "character": "Ava",
+        "credit_id": "6463f9bd7e348300e36a06df",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3598148,
+        "known_for_department": "Acting",
+        "name": "Matthew Lamb",
+        "original_name": "Matthew Lamb",
+        "popularity": 0.2916,
+        "profile_path": "/ebWptEAvCAzaD6QL4vEaY3GA80S.jpg",
+        "character": "Elliot Radovic",
+        "credit_id": "6463f9c5ef8b321824ca12c6",
+        "order": 7
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "BR",
+        "rating": "14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "MX",
+        "rating": "B"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "M18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "ES",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "DE",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "PL",
+        "rating": "16"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "IE",
+        "rating": "15"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RU",
+        "rating": "18+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "RO",
+        "rating": "15"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt22091076",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 434988,
+    "tvrage_id": null,
+    "wikidata_id": "Q129206932",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "_poster_url": "https://image.tmdb.org/t/p/w500/lMYflruVeOfnWiX4LwoQuOJNLHz.jpg",
+  "_backdrop_url": "https://image.tmdb.org/t/p/w780/ijRiyqrXUzrF77INhtzvSS6V6qG.jpg",
+  "_providers": {
+    "providers_flatrate_CA": "Disney Plus",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "Apple TV",
+    "providers_ads_CA": "",
+    "providers_link_CA": "https://www.themoviedb.org/tv/226637-high-potential/watch?locale=CA"
+  }
+}

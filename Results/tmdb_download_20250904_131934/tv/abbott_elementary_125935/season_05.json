@@ -1,0 +1,48 @@
+{
+  "_id": "67f7b75ede5e4dec62ad2efb",
+  "air_date": "2025-10-01",
+  "episodes": [
+    {
+      "air_date": "2025-10-01",
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 6388496,
+      "name": "Episode 1",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 5,
+      "show_id": 125935,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": [],
+      "_still_url": ""
+    },
+    {
+      "air_date": "2025-10-08",
+      "episode_number": 2,
+      "episode_type": "standard",
+      "id": 6388538,
+      "name": "Episode 2",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 5,
+      "show_id": 125935,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": [],
+      "_still_url": ""
+    }
+  ],
+  "name": "Season 5",
+  "overview": "",
+  "id": 450836,
+  "poster_path": null,
+  "season_number": 5,
+  "vote_average": 0.0
+}

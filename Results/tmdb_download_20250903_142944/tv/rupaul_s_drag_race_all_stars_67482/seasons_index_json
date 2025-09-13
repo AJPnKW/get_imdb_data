@@ -1,0 +1,102 @@
+[
+  {
+    "air_date": "2012-10-22",
+    "episode_count": 6,
+    "id": 79371,
+    "name": "Season 1",
+    "overview": "They come armed with stilettos, feathers, and sequins, prepared for a battle where one false move-or eyelash-could spell doom. They are the best of the best, the top queens from Drag Race seasons 1-4, and they're ready to lip-synch for their lives to determine which of these all-stars will claim the ultimate title and be declared Queen amongst queens.",
+    "poster_path": "/e7tjaCIsjPCzWXVkffEJloG8vSV.jpg",
+    "season_number": 1,
+    "vote_average": 7.6
+  },
+  {
+    "air_date": "2016-08-25",
+    "episode_count": 9,
+    "id": 79372,
+    "name": "Season 2",
+    "overview": "A twist on the mega-hit RuPaul's Drag Race as queens from previous seasons are pitted against each other in a wig-to-wig drag battle royale.",
+    "poster_path": "/kLOx9cUOwWAW73c9nD9H94LpQeI.jpg",
+    "season_number": 2,
+    "vote_average": 8.7
+  },
+  {
+    "air_date": "2018-01-25",
+    "episode_count": 8,
+    "id": 95930,
+    "name": "Season 3",
+    "overview": "All Stars compete for $100,000 and a chance to be inducted into RuPaul's Drag Race Hall of Fame.",
+    "poster_path": "/7vYA8aXFSP464lUndbPzvfJ8QjW.jpg",
+    "season_number": 3,
+    "vote_average": 6.2
+  },
+  {
+    "air_date": "2018-12-14",
+    "episode_count": 10,
+    "id": 113346,
+    "name": "Season 4",
+    "overview": "Unforgettable queens and Drag Race royalty take another shot at capturing the crown on RuPaul's Drag Race All Stars. The competitions will be as fierce as the runways, but only one queen can cement her legacy in The Drag Race Hall of Fame.",
+    "poster_path": "/nWTpsAEPHRkh5Kt8z7DMylbs04O.jpg",
+    "season_number": 4,
+    "vote_average": 7.5
+  },
+  {
+    "air_date": "2020-06-05",
+    "episode_count": 8,
+    "id": 130298,
+    "name": "Season 5",
+    "overview": "Drag Race royalty Alexis Mateo, Blair St. Clair, Derrick Barry, India Ferrah, Jujubee, Mariah Paris Balenciaga, Mayhem Miller, Miz Cracker, Ongina and Shea Coulee sashay back onto the runway for a chance at snatching the All Stars crown and nabbing a spot in the Drag Race Hall of Fame.",
+    "poster_path": "/dJcpW1Ilouv2bwSdWogDxgooK8j.jpg",
+    "season_number": 5,
+    "vote_average": 6.5
+  },
+  {
+    "air_date": "2021-06-24",
+    "episode_count": 12,
+    "id": 200183,
+    "name": "Season 6",
+    "overview": "Thirteen legendary queens return to RuPaul's Drag Race All Stars to claim a spot in the Drag Race Hall of Fame! With more gag-worthy talents, jaw-dropping looks and epic performances, this is the biggest season of All Stars ever!",
+    "poster_path": "/nQ6MjgKPujYPRQkwP7KoZe349GC.jpg",
+    "season_number": 6,
+    "vote_average": 8.4
+  },
+  {
+    "air_date": "2022-05-20",
+    "episode_count": 12,
+    "id": 287514,
+    "name": "Season 7",
+    "overview": "For the first time ever in the herstory of RuPaul's Drag Race, the series will feature a cast of all former winners returning to compete for the title \"Queen of All Queens\" and a cash prize of $200,000.",
+    "poster_path": "/eb1lTZUydEr4OIy624NrfXmTtvB.jpg",
+    "season_number": 7,
+    "vote_average": 7.5
+  },
+  {
+    "air_date": "2023-05-12",
+    "episode_count": 12,
+    "id": 338872,
+    "name": "Season 8",
+    "overview": "RuPaul's Drag Race All Stars brings back 12 of your favorite queens from across the Ru-niverse to compete for a coveted spot in the Drag Race Hall of Fame! Plus, a new \"Fame Games\" twist means there's more than one way to win!",
+    "poster_path": "/zhG7A3KIJgCr8JNZQQvzmEiidzt.jpg",
+    "season_number": 8,
+    "vote_average": 6.2
+  },
+  {
+    "air_date": "2024-05-17",
+    "episode_count": 12,
+    "id": 390384,
+    "name": "Season 9",
+    "overview": "Who will save the world? Drag Queens! RuPaul brings together eight of her most powerful All Stars to slay it forward in the name of charity. All season long, the queens will battle as they raise thousands of dollars for their favorite causes. But in the end, only one will win a coveted spot in the prestigious Drag Race Hall of Fame.",
+    "poster_path": "/h2eHSwM1wfZsCWn4Zv3esvwBJ3U.jpg",
+    "season_number": 9,
+    "vote_average": 8.4
+  },
+  {
+    "air_date": "2025-05-08",
+    "episode_count": 12,
+    "id": 451410,
+    "name": "Season 10",
+    "overview": "Let the games begin! 18 returning queens compete in the first-ever Tournament of All Stars, battling through brackets to test their charisma, uniqueness, nerve & talent! But only one queen will claim $200,000 and a spot in the Drag Race Hall of Fame.",
+    "poster_path": "/KMN9xeNSrViVz78XoO3FHd9N08.jpg",
+    "season_number": 10,
+    "vote_average": 6.1
+  }
+]

@@ -1,0 +1,1 @@
+﻿param([string]\=''); \ = Join-Path .venv 'Scripts\python.exe'; if(-not(Test-Path \)){ \='python' }; & \ 'src\harvest_channel_ids.py' --out (\ -ne '' ? \ : ('data\processed\registry\channel_registry_'+(Get-Date -Format yyyyMMdd_HHmm)+'.csv'))

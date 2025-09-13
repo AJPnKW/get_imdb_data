@@ -1,0 +1,29 @@
+{
+  "_id": "688804e3e517610e93f794f0",
+  "air_date": "2025-09-25",
+  "episodes": [
+    {
+      "air_date": "2025-09-25",
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 6414038,
+      "name": "Episode 1",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 25,
+      "show_id": 549,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    }
+  ],
+  "name": "Season 25",
+  "overview": "",
+  "id": 467359,
+  "poster_path": null,
+  "season_number": 25,
+  "vote_average": 0.0
+}

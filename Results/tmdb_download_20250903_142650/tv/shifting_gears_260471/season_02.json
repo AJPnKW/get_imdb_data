@@ -1,0 +1,63 @@
+{
+  "_id": "6879590c096d25b3e45faf0c",
+  "air_date": "2025-10-01",
+  "episodes": [
+    {
+      "air_date": "2025-10-01",
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 6388508,
+      "name": "Episode 1",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 2,
+      "show_id": 260471,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2025-10-08",
+      "episode_number": 2,
+      "episode_type": "standard",
+      "id": 6388509,
+      "name": "Episode 2",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 2,
+      "show_id": 260471,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    },
+    {
+      "air_date": "2025-10-15",
+      "episode_number": 3,
+      "episode_type": "standard",
+      "id": 6388510,
+      "name": "Episode 3",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 2,
+      "show_id": 260471,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": []
+    }
+  ],
+  "name": "Season 2",
+  "overview": "",
+  "id": 465874,
+  "poster_path": "/aUtch1uVgHiOkf1PTUk1EV22ZYx.jpg",
+  "season_number": 2,
+  "vote_average": 0.0
+}

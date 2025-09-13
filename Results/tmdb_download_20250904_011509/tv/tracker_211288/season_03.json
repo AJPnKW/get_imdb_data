@@ -1,0 +1,74 @@
+{
+  "_id": "687af90a48ea55973355c56d",
+  "air_date": "2025-10-19",
+  "episodes": [
+    {
+      "air_date": "2025-10-19",
+      "episode_number": 1,
+      "episode_type": "standard",
+      "id": 6390335,
+      "name": "The Process",
+      "overview": "As Colter grapples with the shocking truth surrounding his father’s death, Russell joins forces with his brother to help track down the missing wife and daughter of one of Reenie’s clients. Their reunion finds them mixed up in a chain of events involving a sinister underground operation known as ‘The Process.’",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 3,
+      "show_id": 211288,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": [
+        {
+          "character": "Russell Shaw",
+          "credit_id": "662b9f1acae6320121528b64",
+          "order": 604,
+          "adult": false,
+          "gender": 2,
+          "id": 49624,
+          "known_for_department": "Acting",
+          "name": "Jensen Ackles",
+          "original_name": "Jensen Ackles",
+          "popularity": 3.9876,
+          "profile_path": "/vFegIjLLQGwPn6af4SE9LAbnGNE.jpg"
+        }
+      ]
+    },
+    {
+      "air_date": "2025-10-26",
+      "episode_number": 2,
+      "episode_type": "standard",
+      "id": 6480723,
+      "name": "Leverage",
+      "overview": "",
+      "production_code": "",
+      "runtime": null,
+      "season_number": 3,
+      "show_id": 211288,
+      "still_path": null,
+      "vote_average": 0.0,
+      "vote_count": 0,
+      "crew": [],
+      "guest_stars": [
+        {
+          "character": "Russell Shaw",
+          "credit_id": "662b9f1acae6320121528b64",
+          "order": 604,
+          "adult": false,
+          "gender": 2,
+          "id": 49624,
+          "known_for_department": "Acting",
+          "name": "Jensen Ackles",
+          "original_name": "Jensen Ackles",
+          "popularity": 3.9876,
+          "profile_path": "/vFegIjLLQGwPn6af4SE9LAbnGNE.jpg"
+        }
+      ]
+    }
+  ],
+  "name": "Season 3",
+  "overview": "",
+  "id": 466011,
+  "poster_path": null,
+  "season_number": 3,
+  "vote_average": 0.0
+}

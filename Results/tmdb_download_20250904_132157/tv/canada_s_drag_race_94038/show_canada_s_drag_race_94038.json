@@ -1,0 +1,272 @@
+{
+  "adult": false,
+  "backdrop_path": "/1vmRCkeLKlQee4CXeyah9qcN3pE.jpg",
+  "created_by": [
+    {
+      "id": 78589,
+      "credit_id": "6082b6da2da846006e39d1e4",
+      "name": "RuPaul",
+      "original_name": "RuPaul",
+      "gender": 2,
+      "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg"
+    },
+    {
+      "id": 16957,
+      "credit_id": "68677bd2f3e46a07d97ab878",
+      "name": "Fenton Bailey",
+      "original_name": "Fenton Bailey",
+      "gender": 2,
+      "profile_path": "/5detVCFF3yJrt3CWIcoWDLVNbyi.jpg"
+    },
+    {
+      "id": 16958,
+      "credit_id": "68677bd8e3d312e58b677270",
+      "name": "Randy Barbato",
+      "original_name": "Randy Barbato",
+      "gender": 2,
+      "profile_path": "/gTVRxHiqHBdiSvx8iyWcILCXXEK.jpg"
+    }
+  ],
+  "episode_run_time": [
+    59
+  ],
+  "first_air_date": "2020-07-02",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.crave.ca/en/tv-shows/canadas-drag-race",
+  "id": 94038,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-01-16",
+  "last_episode_to_air": {
+    "id": 5696917,
+    "name": "Grand Finale",
+    "overview": "The queens write, record, and perform their debut singles in hopes of being crowned Canada’s Next Drag Superstar.",
+    "vote_average": 8.0,
+    "vote_count": 1,
+    "air_date": "2025-01-16",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 5,
+    "show_id": 94038,
+    "still_path": "/rvxuDx96oGV6vjYbbBIbTSu9FfP.jpg"
+  },
+  "name": "Canada's Drag Race",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1344,
+      "logo_path": "/xlVkcuR2NqruUHh8gPaAw9BvOCT.png",
+      "name": "Crave",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 47,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Canada's Drag Race",
+  "overview": "Drag queens showcase their Canadian charisma, uniqueness, nerve, and talent to become Canada's Next Drag Superstar and to win the $100,000 grand prize.",
+  "popularity": 3.1555,
+  "poster_path": "/r8G6fGecnYoW5ARqwl3a8hr8djl.jpg",
+  "production_companies": [
+    {
+      "id": 123442,
+      "logo_path": "/lfEuVSDvjQCejdRyZaIORZzoxIn.png",
+      "name": "Blue Ant Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 1421,
+      "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+      "name": "World of Wonder",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-05-14",
+      "episode_count": 6,
+      "id": 209710,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/8EjTeNQbKOfLl3kaKRlyx8VcB9o.jpg",
+      "season_number": 0,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-07-01",
+      "episode_count": 10,
+      "id": 133143,
+      "name": "Season 1",
+      "overview": "The first season of Canada's Drag Race was officially announced via World of Wonder's Instagram on June 27, 2019. The show aired on CraveCanada, OutTV, and select territories on WOW Presents Plus.\n\nThis season features contestants competing for the title of \"Canada’s First Drag Superstar\", a cash prize of $100,000 CAD, a crown and sceptre from Amped Accessories and a year's worth of holiday stays with Hilton.",
+      "poster_path": "/6xw892pAFUs0xdQY3wYFcKcXilS.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2021-10-14",
+      "episode_count": 10,
+      "id": 211711,
+      "name": "Season 2",
+      "overview": "The second season of Canada's Drag Race was unofficially announced on January 6, 2021 via Crave's French Facebook. The post was soon deleted. On January 7, 2021 it was announced that casting for Season 2 was officially open, with deadline of February 8, 2021. On September 14, 2021, the cast was officially announced via social media.\n\nThis season features contestants competing for the title of \"Canada’s Next Drag Superstar\", a cash prize of $100,000 CAD, a crown and sceptre from Amped Accessories and a supply of beauty products from Shoppers Drug Mart.",
+      "poster_path": "/dBfHSMJXjLHsMdxK9C3xgOgbCwm.jpg",
+      "season_number": 2,
+      "vote_average": 5.0
+    },
+    {
+      "air_date": "2022-07-14",
+      "episode_count": 9,
+      "id": 297568,
+      "name": "Season 3",
+      "overview": "The third season of Canada's Drag Race was officially announced on November 10, 2021 via Canada's Drag Race's social media. Casting opened the same day, with deadline of December 5, 2021. The cast of Canada's Drag Race Season 3 was officially announced on June 15, 2022.\n\nThis season features contestants competing for the title of \"Canada’s Next Drag Superstar\", a cash prize of $100,000 CAD powered by Trojan,  a crown and sceptre from Amped Accessories and a supply of beauty products from Shoppers Drug Mart.",
+      "poster_path": "/dP4Z0D32XAbQ5YORSE7k5a79AfG.jpg",
+      "season_number": 3,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2023-11-16",
+      "episode_count": 9,
+      "id": 357815,
+      "name": "Season 4",
+      "overview": "The fourth season of Canada's Drag Race was unofficially announced on October 19, 2022, when its casting website opened for auditions. However, the website was deactivated shortly after. On November 1, 2022, it was announced by Canada's Drag Race via social media that casting was officially open, with a deadline of November 21, 2022. The cast of Season 4 was officially announced on October 18, 2023, along with a premiere date of November 16, 2023 for the nine episode season.\n\nThis season features contestants competing for the title of \"Canada’s Next Drag Superstar\", a cash prize of $100,000 CAD, a crown and sceptre from Amped Accessories and a supply of beauty products from Shoppers Drug Mart.",
+      "poster_path": "/39zGuG2Tym4bqIvmxcIg6A0herS.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2024-11-21",
+      "episode_count": 9,
+      "id": 401616,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/bTSVutatNt7AIhUS6v4VPEIsQTX.jpg",
+      "season_number": 5,
+      "vote_average": 7.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.7,
+  "vote_count": 26,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2419358,
+        "known_for_department": "Acting",
+        "name": "Brooke Lynn Hytes",
+        "original_name": "Brooke Lynn Hytes",
+        "popularity": 0.1697,
+        "profile_path": "/KR9wsbvgZ3w3lBWbtkrqA2vSVo.jpg",
+        "character": "Self - Host / Judge",
+        "credit_id": "5d8d3c585b370d000f8c50ab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239491,
+        "known_for_department": "Acting",
+        "name": "Brad Goreski",
+        "original_name": "Brad Goreski",
+        "popularity": 0.0796,
+        "profile_path": "/9MAj1K83VohZ7hedxj1NBONAuIN.jpg",
+        "character": "Self - Judge",
+        "credit_id": "614bbf5dd2c0c100453d7365",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2419360,
+        "known_for_department": "Acting",
+        "name": "Traci Melchor",
+        "original_name": "Traci Melchor",
+        "popularity": 0.0286,
+        "profile_path": "/rSCNB5rl4EfucY0dgTFbr41wCyu.jpg",
+        "character": "Self - Judge",
+        "credit_id": "614bbef3cf4b8b002c74685e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.6701,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - RuMail",
+        "credit_id": "61d11852f9a3fb0099ce0636",
+        "order": 5
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt11382554",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 366049,
+    "tvrage_id": null,
+    "wikidata_id": "Q65051879",
+    "facebook_id": "CanadasDragRace",
+    "instagram_id": "canadasdragrace",
+    "twitter_id": "canadasdragrace"
+  },
+  "_poster_url": "https://image.tmdb.org/t/p/w500/r8G6fGecnYoW5ARqwl3a8hr8djl.jpg",
+  "_backdrop_url": "https://image.tmdb.org/t/p/w780/1vmRCkeLKlQee4CXeyah9qcN3pE.jpg",
+  "_providers": {
+    "providers_flatrate_CA": "Crave|WOW Presents Plus|OUTtv Amazon Channel|OUTtv Apple TV Channel",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "Apple TV",
+    "providers_ads_CA": "",
+    "providers_link_CA": "https://www.themoviedb.org/tv/94038-canada-s-drag-race/watch?locale=CA"
+  }
+}

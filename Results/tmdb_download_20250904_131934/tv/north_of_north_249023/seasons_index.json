@@ -1,0 +1,24 @@
+[
+  {
+    "air_date": "2025-01-07",
+    "episode_count": 8,
+    "id": 383646,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/yAtcsq5ciJ6TBfGzM0b6BzVCaPA.jpg",
+    "season_number": 1,
+    "vote_average": 7.3,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/yAtcsq5ciJ6TBfGzM0b6BzVCaPA.jpg"
+  },
+  {
+    "air_date": null,
+    "episode_count": 0,
+    "id": 454050,
+    "name": "Season 2",
+    "overview": "",
+    "poster_path": null,
+    "season_number": 2,
+    "vote_average": 0.0,
+    "_season_poster_url": ""
+  }
+]

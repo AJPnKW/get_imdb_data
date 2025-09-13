@@ -1,0 +1,379 @@
+show_id,show_name,season_number,name,air_date,episode_count
+125935,Abbott Elementary,1,Season 1,2021-12-07,13
+125935,Abbott Elementary,2,Season 2,2022-09-21,22
+125935,Abbott Elementary,3,Season 3,2024-02-07,13
+125935,Abbott Elementary,4,Season 4,2024-10-09,22
+125935,Abbott Elementary,5,Season 5,2025-10-01,2
+157239,Alien: Earth,1,Season 1,2025-08-12,8
+94038,Canada's Drag Race,0,Specials,2020-05-14,6
+94038,Canada's Drag Race,1,Season 1,2020-07-01,10
+94038,Canada's Drag Race,2,Season 2,2021-10-14,10
+94038,Canada's Drag Race,3,Season 3,2022-07-14,9
+94038,Canada's Drag Race,4,Season 4,2023-11-16,9
+94038,Canada's Drag Race,5,Season 5,2024-11-21,9
+203734,Canada's Drag Race: Canada vs The World,0,Specials,2022-10-17,2
+203734,Canada's Drag Race: Canada vs The World,1,Season 1,2022-11-18,6
+203734,Canada's Drag Race: Canada vs The World,2,Season 2,2024-07-19,6
+1419,Castle,1,Season 1,2009-03-09,10
+1419,Castle,2,Season 2,2009-09-21,24
+1419,Castle,3,Season 3,2010-09-20,24
+1419,Castle,4,Season 4,2011-09-19,23
+1419,Castle,5,Season 5,2012-09-24,24
+1419,Castle,6,Season 6,2013-09-23,23
+1419,Castle,7,Season 7,2014-09-29,23
+1419,Castle,8,Season 8,2015-09-21,22
+4057,Criminal Minds,1,Season 1,2005-09-22,22
+4057,Criminal Minds,2,Season 2,2006-09-20,23
+4057,Criminal Minds,3,Season 3,2007-09-26,20
+4057,Criminal Minds,4,Season 4,2008-09-24,26
+4057,Criminal Minds,5,Season 5,2009-09-23,23
+4057,Criminal Minds,6,Season 6,2010-09-22,24
+4057,Criminal Minds,7,Season 7,2011-09-21,24
+4057,Criminal Minds,8,Season 8,2012-09-26,24
+4057,Criminal Minds,9,Season 9,2013-09-25,24
+4057,Criminal Minds,10,Season 10,2014-10-01,23
+4057,Criminal Minds,11,Season 11,2015-09-30,22
+4057,Criminal Minds,12,Season 12,2016-09-28,22
+4057,Criminal Minds,13,Season 13,2017-09-27,22
+4057,Criminal Minds,14,Season 14,2018-10-03,15
+4057,Criminal Minds,15,Season 15,2020-01-08,10
+4057,Criminal Minds,16,Season 16: Evolution,2022-11-24,10
+4057,Criminal Minds,17,Season 17: Evolution Season 2,2024-06-06,10
+4057,Criminal Minds,18,Season 18: Evolution Season 3,2025-05-08,10
+1431,CSI: Crime Scene Investigation,0,Specials,2015-09-27,1
+1431,CSI: Crime Scene Investigation,1,Season 1,2000-10-06,23
+1431,CSI: Crime Scene Investigation,2,Season 2,2001-09-27,23
+1431,CSI: Crime Scene Investigation,3,Season 3,2002-09-25,23
+1431,CSI: Crime Scene Investigation,4,Season 4,2003-09-24,23
+1431,CSI: Crime Scene Investigation,5,Season 5,2004-09-23,25
+1431,CSI: Crime Scene Investigation,6,Season 6,2005-09-22,24
+1431,CSI: Crime Scene Investigation,7,Season 7,2006-09-21,24
+1431,CSI: Crime Scene Investigation,8,Season 8,2007-09-27,17
+1431,CSI: Crime Scene Investigation,9,Season 9,2008-10-09,24
+1431,CSI: Crime Scene Investigation,10,Season 10,2009-09-24,23
+1431,CSI: Crime Scene Investigation,11,Season 11,2010-09-23,22
+1431,CSI: Crime Scene Investigation,12,Season 12,2011-09-21,22
+1431,CSI: Crime Scene Investigation,13,Season 13,2012-09-26,22
+1431,CSI: Crime Scene Investigation,14,Season 14,2013-09-25,22
+1431,CSI: Crime Scene Investigation,15,Season 15,2014-09-28,18
+1405,Dexter,0,Specials,2009-10-25,42
+1405,Dexter,1,Season 1,2006-10-01,12
+1405,Dexter,2,Season 2,2007-09-30,12
+1405,Dexter,3,Season 3,2008-09-28,12
+1405,Dexter,4,Season 4,2009-09-27,12
+1405,Dexter,5,Season 5,2010-09-26,12
+1405,Dexter,6,Season 6,2011-10-02,12
+1405,Dexter,7,Season 7,2012-09-30,12
+1405,Dexter,8,Season 8,2013-06-30,12
+131927,Dexter: New Blood,1,Season 1,2021-11-07,10
+219937,Dexter: Original Sin,1,Season 1,2024-12-14,10
+259909,Dexter: Resurrection,1,Season 1,2025-07-13,10
+57243,Doctor Who,0,Specials,2005-11-18,199
+57243,Doctor Who,1,Series 1,2005-03-26,13
+57243,Doctor Who,2,Series 2,2006-04-15,13
+57243,Doctor Who,3,Series 3,2007-04-01,13
+57243,Doctor Who,4,Series 4,2008-04-05,13
+57243,Doctor Who,5,Series 5,2010-04-03,13
+57243,Doctor Who,6,Series 6,2011-04-23,13
+57243,Doctor Who,7,Series 7,2012-09-01,13
+57243,Doctor Who,8,Series 8,2014-08-23,12
+57243,Doctor Who,9,Series 9,2015-09-19,12
+57243,Doctor Who,10,Series 10,2017-04-15,12
+57243,Doctor Who,11,Series 11,2018-10-07,10
+57243,Doctor Who,12,Series 12,2020-01-01,10
+57243,Doctor Who,13,Flux,2021-10-31,6
+80748,FBI,1,Season 1,2018-09-24,22
+80748,FBI,2,Season 2,2019-09-23,19
+80748,FBI,3,Season 3,2020-11-16,15
+80748,FBI,4,Season 4,2021-09-20,21
+80748,FBI,5,Season 5,2022-09-20,23
+80748,FBI,6,Season 6,2024-02-13,13
+80748,FBI,7,Season 7,2024-10-15,22
+80748,FBI,8,Season 8,2025-10-13,2
+121658,FBI: International,1,Season 1,2021-09-20,21
+121658,FBI: International,2,Season 2,2022-09-19,22
+121658,FBI: International,3,Season 3,2024-02-13,13
+121658,FBI: International,4,Season 4,2024-10-14,22
+94372,FBI: Most Wanted,1,Season 1,2020-01-06,14
+94372,FBI: Most Wanted,2,Season 2,2020-11-16,15
+94372,FBI: Most Wanted,3,Season 3,2021-09-20,22
+94372,FBI: Most Wanted,4,Season 4,2022-09-19,22
+94372,FBI: Most Wanted,5,Season 5,2024-02-12,13
+94372,FBI: Most Wanted,6,Season 6,2024-10-15,22
+124364,FROM,1,Season 1,2022-02-20,10
+124364,FROM,2,Season 2,2023-04-23,10
+124364,FROM,3,Season 3,2024-09-22,10
+124364,FROM,4,Season 4,,0
+1399,Game of Thrones,0,Specials,2010-12-05,286
+1399,Game of Thrones,1,Season 1,2011-04-17,10
+1399,Game of Thrones,2,Season 2,2012-04-01,10
+1399,Game of Thrones,3,Season 3,2013-03-31,10
+1399,Game of Thrones,4,Season 4,2014-04-06,10
+1399,Game of Thrones,5,Season 5,2015-04-12,10
+1399,Game of Thrones,6,Season 6,2016-04-24,10
+1399,Game of Thrones,7,Season 7,2017-07-16,7
+1399,Game of Thrones,8,Season 8,2019-04-14,6
+39416,Geordie Shore,0,Specials,2011-08-23,8
+39416,Geordie Shore,1,Season 1,2011-05-24,10
+39416,Geordie Shore,2,Season 2,2012-01-31,10
+39416,Geordie Shore,3,Season 3,2012-06-26,8
+39416,Geordie Shore,4,Season 4,2012-11-06,8
+39416,Geordie Shore,5,Season 5,2013-02-19,9
+39416,Geordie Shore,6,Season 6,2013-07-09,8
+39416,Geordie Shore,7,Season 7,2013-09-17,6
+39416,Geordie Shore,8,Season 8,2014-07-22,8
+39416,Geordie Shore,9,Season 9,2014-10-28,8
+39416,Geordie Shore,10,Season 10,2015-04-07,8
+39416,Geordie Shore,11,Season 11,2015-10-20,10
+39416,Geordie Shore,12,Season 12,2016-03-15,8
+39416,Geordie Shore,13,Season 13,2016-10-25,10
+39416,Geordie Shore,14,Season 14,2017-03-28,12
+39416,Geordie Shore,15,Season 15,2017-08-29,9
+39416,Geordie Shore,16,Season 16,2018-01-09,10
+39416,Geordie Shore,17,Season 17,2018-05-15,12
+39416,Geordie Shore,18,Season 18,2018-10-16,10
+39416,Geordie Shore,19,Season 19,2019-04-09,10
+39416,Geordie Shore,20,Season 20,2019-10-29,10
+39416,Geordie Shore,21,Season 21,2020-07-28,8
+39416,Geordie Shore,22,Hot Single Summer,2021-10-04,10
+39416,Geordie Shore,23,The Reunion Series,2022-09-20,10
+39416,Geordie Shore,24,Season 24,2024-01-09,10
+39416,Geordie Shore,25,Season 25,2025-01-07,10
+253896,Happy's Place,1,Season 1,2024-10-18,18
+253896,Happy's Place,2,Season 2,2025-11-07,2
+124834,Heartstopper,1,Season 1,2022-04-22,8
+124834,Heartstopper,2,Season 2,2023-08-03,8
+124834,Heartstopper,3,Season 3,2024-10-03,8
+226637,High Potential,1,Season 1,2024-09-17,13
+226637,High Potential,2,Season 2,2025-09-16,4
+549,Law & Order,0,Specials,,7
+549,Law & Order,1,Season 1,1990-09-13,22
+549,Law & Order,2,Season 2,1991-09-16,22
+549,Law & Order,3,Season 3,1992-09-22,22
+549,Law & Order,4,Season 4,1993-09-15,22
+549,Law & Order,5,Season 5,1994-09-21,23
+549,Law & Order,6,Season 6,1995-09-20,23
+549,Law & Order,7,Season 7,1996-09-18,23
+549,Law & Order,8,Season 8,1997-09-24,24
+549,Law & Order,9,Season 9,1998-09-23,24
+549,Law & Order,10,Season 10,1999-09-22,24
+549,Law & Order,11,Season 11,2000-10-17,24
+549,Law & Order,12,Season 12,2001-09-25,24
+549,Law & Order,13,Season 13,2002-10-01,24
+549,Law & Order,14,Season 14,2003-09-23,24
+549,Law & Order,15,Season 15,2004-09-21,24
+549,Law & Order,16,Season 16,2005-09-20,22
+549,Law & Order,17,Season 17,2006-09-21,22
+549,Law & Order,18,Season 18,2008-01-01,18
+549,Law & Order,19,Season 19,2008-11-04,22
+549,Law & Order,20,Season 20,2009-09-24,23
+549,Law & Order,21,Season 21,2022-02-23,10
+549,Law & Order,22,Season 22,2022-09-22,22
+549,Law & Order,23,Season 23,2024-01-17,13
+549,Law & Order,24,Season 24,2024-10-03,22
+549,Law & Order,25,Season 25,2025-09-25,1
+90,Mayday,0,Specials,2004-06-26,59
+90,Mayday,1,Season 1,2003-09-03,6
+90,Mayday,2,Season 2,2005-01-23,6
+90,Mayday,3,Season 3,2005-09-14,13
+90,Mayday,4,Season 4,2007-04-15,10
+90,Mayday,5,Season 5,2008-04-09,10
+90,Mayday,6,Season 6,2007-12-16,3
+90,Mayday,7,Season 7,2009-11-04,8
+90,Mayday,8,Season 8,2009-06-10,2
+90,Mayday,9,Season 9,2010-09-08,8
+90,Mayday,10,Season 10,2011-02-28,6
+90,Mayday,11,Season 11,2011-08-12,13
+90,Mayday,12,Season 12,2012-08-03,13
+90,Mayday,13,Season 13,2013-12-16,10
+90,Mayday,14,Season 14,2015-01-05,11
+90,Mayday,15,Season 15,2016-01-02,10
+90,Mayday,16,Season 16,2016-06-07,10
+90,Mayday,17,Season 17,2017-02-20,10
+90,Mayday,18,Season 18,2018-02-13,10
+90,Mayday,19,Season 19,2019-01-02,10
+90,Mayday,20,Season 20,2020-01-09,10
+90,Mayday,21,Season 21,2021-04-04,10
+90,Mayday,22,Season 22,2022-01-10,10
+90,Mayday,23,Season 23,2023-02-13,10
+90,Mayday,24,Season 24,2024-02-18,10
+90,Mayday,25,Season 25,2025-02-03,11
+249023,North of North,1,Season 1,2025-01-07,8
+249023,North of North,2,Season 2,,0
+246381,Prime Target,1,Season 1,2025-01-22,8
+8514,RuPaul's Drag Race,0,Specials,2011-11-13,39
+8514,RuPaul's Drag Race,1,Season 1,2009-02-02,9
+8514,RuPaul's Drag Race,2,Season 2,2010-02-01,12
+8514,RuPaul's Drag Race,3,Season 3,2011-01-24,16
+8514,RuPaul's Drag Race,4,Season 4,2012-01-30,14
+8514,RuPaul's Drag Race,5,Season 5,2013-01-28,14
+8514,RuPaul's Drag Race,6,Season 6,2014-02-24,14
+8514,RuPaul's Drag Race,7,Season 7,2015-03-02,14
+8514,RuPaul's Drag Race,8,Season 8,2016-03-07,10
+8514,RuPaul's Drag Race,9,Season 9,2017-03-24,14
+8514,RuPaul's Drag Race,10,Season 10,2018-03-22,14
+8514,RuPaul's Drag Race,11,Season 11,2019-02-28,14
+8514,RuPaul's Drag Race,12,Season 12,2020-02-28,14
+8514,RuPaul's Drag Race,13,Season 13,2021-01-01,16
+8514,RuPaul's Drag Race,14,Season 14,2022-01-07,16
+8514,RuPaul's Drag Race,15,Season 15,2023-01-06,16
+8514,RuPaul's Drag Race,16,Season 16,2024-01-05,16
+8514,RuPaul's Drag Race,17,Season 17,2025-01-03,16
+8514,RuPaul's Drag Race,18,Season 18,,0
+67482,RuPaul's Drag Race All Stars,1,Season 1,2012-10-22,6
+67482,RuPaul's Drag Race All Stars,2,Season 2,2016-08-25,9
+67482,RuPaul's Drag Race All Stars,3,Season 3,2018-01-25,8
+67482,RuPaul's Drag Race All Stars,4,Season 4,2018-12-14,10
+67482,RuPaul's Drag Race All Stars,5,Season 5,2020-06-05,8
+67482,RuPaul's Drag Race All Stars,6,Season 6,2021-06-24,12
+67482,RuPaul's Drag Race All Stars,7,Season 7,2022-05-20,12
+67482,RuPaul's Drag Race All Stars,8,Season 8,2023-05-12,12
+67482,RuPaul's Drag Race All Stars,9,Season 9,2024-05-17,12
+67482,RuPaul's Drag Race All Stars,10,Season 10,2025-05-08,12
+67564,RuPaul's Drag Race All Stars: UNTUCKED,1,Season 1,2012-10-23,6
+67564,RuPaul's Drag Race All Stars: UNTUCKED,2,Season 2,2020-06-05,8
+67564,RuPaul's Drag Race All Stars: UNTUCKED,3,Season 3,2021-06-24,12
+67564,RuPaul's Drag Race All Stars: UNTUCKED,4,Season 4,2022-05-20,12
+67564,RuPaul's Drag Race All Stars: UNTUCKED,5,Season 5,2023-05-12,12
+67564,RuPaul's Drag Race All Stars: UNTUCKED,6,Season 6,2024-05-17,12
+67564,RuPaul's Drag Race All Stars: UNTUCKED,7,Season 7,2025-05-09,12
+122692,RuPaul's Drag Race Down Under,0,Specials,2021-03-05,6
+122692,RuPaul's Drag Race Down Under,1,Season 1,2021-04-30,8
+122692,RuPaul's Drag Race Down Under,2,Season 2,2022-07-30,8
+122692,RuPaul's Drag Race Down Under,3,Season 3,2023-07-28,8
+122692,RuPaul's Drag Race Down Under,4,Season 4,2024-11-01,8
+232821,RuPaul's Drag Race Global All Stars,0,Specials,2024-07-15,1
+232821,RuPaul's Drag Race Global All Stars,1,Season 1,2024-08-16,12
+232821,RuPaul's Drag Race Global All Stars,2,Season 2,,0
+251306,RuPaul's Drag Race Live Untucked,1,Season 1,2024-04-17,6
+251306,RuPaul's Drag Race Live Untucked,2,Season 2,2025-04-16,6
+92611,RuPaul's Drag Race UK,0,Specials,2019-09-03,9
+92611,RuPaul's Drag Race UK,1,Series 1,2019-10-03,8
+92611,RuPaul's Drag Race UK,2,Series 2,2021-01-14,10
+92611,RuPaul's Drag Race UK,3,Series 3,2021-09-22,10
+92611,RuPaul's Drag Race UK,4,Series 4,2022-09-22,10
+92611,RuPaul's Drag Race UK,5,Series 5,2023-09-28,10
+92611,RuPaul's Drag Race UK,6,Series 6,2024-09-26,10
+92611,RuPaul's Drag Race UK,7,Series 7,,1
+155431,RuPaul's Drag Race UK vs The World,0,Specials,2022-01-18,2
+155431,RuPaul's Drag Race UK vs The World,1,Series 1,2022-02-01,6
+155431,RuPaul's Drag Race UK vs The World,2,Series 2,2024-02-08,8
+155431,RuPaul's Drag Race UK vs The World,3,Series 3,,0
+38409,RuPaul's Drag Race: Untucked,1,Season 1,2010-02-01,10
+38409,RuPaul's Drag Race: Untucked,2,Season 2,2011-01-24,13
+38409,RuPaul's Drag Race: Untucked,3,Season 3,2012-01-30,11
+38409,RuPaul's Drag Race: Untucked,4,Season 4,2013-01-28,11
+38409,RuPaul's Drag Race: Untucked,5,Season 5,2014-02-24,12
+38409,RuPaul's Drag Race: Untucked,6,Season 6,2015-03-02,12
+38409,RuPaul's Drag Race: Untucked,7,Season 7,2016-03-07,9
+38409,RuPaul's Drag Race: Untucked,8,Season 8,2017-03-24,12
+38409,RuPaul's Drag Race: Untucked,9,Season 9,2018-03-22,12
+38409,RuPaul's Drag Race: Untucked,10,Season 10,2019-03-01,12
+38409,RuPaul's Drag Race: Untucked,11,Season 11,2020-02-28,12
+38409,RuPaul's Drag Race: Untucked,12,Season 12,2021-01-01,14
+38409,RuPaul's Drag Race: Untucked,13,Season 13,2022-01-07,14
+38409,RuPaul's Drag Race: Untucked,14,Season 14,2023-01-06,14
+38409,RuPaul's Drag Race: Untucked,15,Season 15,2024-01-05,14
+38409,RuPaul's Drag Race: Untucked,16,Season 16,2025-01-03,14
+95396,Severance,0,Specials,2021-12-15,1
+95396,Severance,1,Season 1,2022-02-17,9
+95396,Severance,2,Season 2,2025-01-16,10
+95396,Severance,3,Season 3,,0
+260471,Shifting Gears,1,Season 1,2025-01-08,10
+260471,Shifting Gears,2,Season 2,2025-10-01,3
+251941,St. Denis Medical,1,Season 1,2024-11-12,18
+251941,St. Denis Medical,2,Season 2,2025-11-03,2
+66732,Stranger Things,1,Season 1,2016-07-15,8
+66732,Stranger Things,2,Stranger Things 2,2017-10-27,9
+66732,Stranger Things,3,Stranger Things 3,2019-07-04,8
+66732,Stranger Things,4,Stranger Things 4,2022-05-27,9
+66732,Stranger Things,5,Stranger Things 5,2025-11-26,8
+28172,The Boys,1,Season 1,1993-08-20,7
+60603,The Curse of Oak Island,0,Specials,2015-11-10,47
+60603,The Curse of Oak Island,1,Season 1,2014-01-05,5
+60603,The Curse of Oak Island,2,Season 2,2014-11-04,10
+60603,The Curse of Oak Island,3,Season 3,2015-11-10,13
+60603,The Curse of Oak Island,4,Season 4,2016-11-15,16
+60603,The Curse of Oak Island,5,Season 5,2017-11-06,18
+60603,The Curse of Oak Island,6,Season 6,2018-11-12,22
+60603,The Curse of Oak Island,7,Season 7,2019-11-04,23
+60603,The Curse of Oak Island,8,Season 8,2020-11-10,25
+60603,The Curse of Oak Island,9,Season 9,2021-11-02,25
+60603,The Curse of Oak Island,10,Season 10,2022-11-15,25
+60603,The Curse of Oak Island,11,Season 11,2023-11-07,25
+60603,The Curse of Oak Island,12,Season 12,2024-11-12,25
+60603,The Curse of Oak Island,13,Season 13,,0
+60603,The Curse of Oak Island,14,Season 14,,0
+222766,The Day of the Jackal,1,Series 1,2024-11-07,10
+253372,The Institute,1,Season 1,2025-07-13,8
+253372,The Institute,2,Season 2,,3
+84773,The Lord of the Rings: The Rings of Power,0,Specials,2022-09-03,36
+84773,The Lord of the Rings: The Rings of Power,1,Season 1,2022-09-01,8
+84773,The Lord of the Rings: The Rings of Power,2,Season 2,2024-08-29,8
+84773,The Lord of the Rings: The Rings of Power,3,Season 3,,0
+84910,The Masked Singer,0,Specials,2019-09-14,2
+84910,The Masked Singer,1,Season 1,2019-01-02,10
+84910,The Masked Singer,2,Season 2,2019-09-25,13
+84910,The Masked Singer,3,Season 3,2020-02-02,22
+84910,The Masked Singer,4,Season 4,2020-09-23,13
+84910,The Masked Singer,5,Season 5,2021-03-10,12
+84910,The Masked Singer,6,Season 6,2021-09-22,15
+84910,The Masked Singer,7,Season 7,2022-03-09,11
+84910,The Masked Singer,8,Season 8,2022-09-21,12
+84910,The Masked Singer,9,Season 9,2023-02-15,14
+84910,The Masked Singer,10,Season 10,2023-09-10,13
+84910,The Masked Singer,11,Season 11,2024-03-06,13
+84910,The Masked Singer,12,Season 12,2024-09-25,12
+84910,The Masked Singer,13,Season 13,2025-02-12,13
+84910,The Masked Singer,14,Season 14,,0
+129552,The Night Agent,1,Season 1,2023-03-22,10
+129552,The Night Agent,2,Season 2,2025-01-23,10
+129552,The Night Agent,3,Season 3,,0
+101359,The Secret of Skinwalker Ranch,0,Specials,2024-05-07,19
+101359,The Secret of Skinwalker Ranch,1,Season 1,2020-03-31,8
+101359,The Secret of Skinwalker Ranch,2,Season 2,2021-05-04,10
+101359,The Secret of Skinwalker Ranch,3,Season 3,2022-05-03,11
+101359,The Secret of Skinwalker Ranch,4,Season 4,2023-04-18,15
+101359,The Secret of Skinwalker Ranch,5,Season 5,2024-04-23,14
+101359,The Secret of Skinwalker Ranch,6,Season 6,2025-06-03,14
+70,This Hour Has 22 Minutes,0,Specials,1997-01-01,14
+70,This Hour Has 22 Minutes,1,Season 1,1993-10-11,20
+70,This Hour Has 22 Minutes,2,Season 2,,21
+70,This Hour Has 22 Minutes,3,Season 3,1995-11-06,2
+70,This Hour Has 22 Minutes,4,Season 4,1996-09-30,17
+70,This Hour Has 22 Minutes,5,Season 5,,0
+70,This Hour Has 22 Minutes,6,season 6,,7
+70,This Hour Has 22 Minutes,7,Season 7,1999-10-11,10
+70,This Hour Has 22 Minutes,8,Season 8,2000-10-16,13
+70,This Hour Has 22 Minutes,9,Season 9,2002-03-22,4
+70,This Hour Has 22 Minutes,10,Season 10,2002-10-08,21
+70,This Hour Has 22 Minutes,11,Season 11,2003-10-10,18
+70,This Hour Has 22 Minutes,12,Season 12,2004-09-24,11
+70,This Hour Has 22 Minutes,13,Season 13,,0
+70,This Hour Has 22 Minutes,14,Season 14,2006-10-03,18
+70,This Hour Has 22 Minutes,15,Season 15,2007-10-02,1
+70,This Hour Has 22 Minutes,16,Season 16,2008-09-30,19
+70,This Hour Has 22 Minutes,17,Season 17,2009-09-28,14
+70,This Hour Has 22 Minutes,18,Season 18,2010-09-21,10
+70,This Hour Has 22 Minutes,19,Season 19,2011-09-13,21
+70,This Hour Has 22 Minutes,20,Season 20,2012-09-18,22
+70,This Hour Has 22 Minutes,21,Season 21,2013-10-08,20
+70,This Hour Has 22 Minutes,22,Season 22,,0
+70,This Hour Has 22 Minutes,23,Season 23,2015-10-06,23
+70,This Hour Has 22 Minutes,24,Season 24,,22
+70,This Hour Has 22 Minutes,25,Season 25,2017-09-26,22
+70,This Hour Has 22 Minutes,26,Season 26,,20
+70,This Hour Has 22 Minutes,27,Season 27,,19
+70,This Hour Has 22 Minutes,28,Season 28,2020-10-06,19
+70,This Hour Has 22 Minutes,29,Season 29,2021-09-14,24
+70,This Hour Has 22 Minutes,30,Season 30,2022-09-13,24
+70,This Hour Has 22 Minutes,31,Season 31,2023-09-19,24
+70,This Hour Has 22 Minutes,32,Season 32,2024-09-17,27
+211288,Tracker,1,Season 1,2024-02-11,13
+211288,Tracker,2,Season 2,2024-10-13,20
+211288,Tracker,3,Season 3,2025-10-19,2
+117488,Yellowjackets,0,Specials,2022-07-19,3
+117488,Yellowjackets,1,Season 1,2021-11-14,10
+117488,Yellowjackets,2,Season 2,2023-03-26,9
+117488,Yellowjackets,3,Season 3,2025-02-16,10
+117488,Yellowjackets,4,Season 4,,0

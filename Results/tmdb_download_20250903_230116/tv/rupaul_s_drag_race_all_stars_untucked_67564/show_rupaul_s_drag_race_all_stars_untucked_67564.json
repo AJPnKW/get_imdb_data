@@ -1,0 +1,208 @@
+{
+  "adult": false,
+  "backdrop_path": "/lq8W1Yax0rwkpQyiRgSwo8M3lUs.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    21
+  ],
+  "first_air_date": "2012-10-23",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/shows/rupauls-drag-race-all-stars-untucked/",
+  "id": 67564,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-07-04",
+  "last_episode_to_air": {
+    "id": 6167159,
+    "name": "Tournament of All Stars Smackdown for the Crown",
+    "overview": "Excitement and nerves fill the werkroom as the Queens prep for the Lip Sync Smackdown for the Crown. After each elimination, the Queens dish and kiki as they wait to see who will take home the Crown.",
+    "vote_average": 7.0,
+    "vote_count": 1,
+    "air_date": "2025-07-18",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 7,
+    "show_id": 67564,
+    "still_path": "/fWnTGNHiDBoRci9dsjAyD5334Gt.jpg"
+  },
+  "name": "RuPaul's Drag Race All Stars: UNTUCKED",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 62,
+      "logo_path": "/ztSNqnJ8W1GOYfa3525xFBDb3NY.png",
+      "name": "Logo",
+      "origin_country": "US"
+    },
+    {
+      "id": 158,
+      "logo_path": "/w9oUxxUiXTC1O1MzJSvsMjQbgft.png",
+      "name": "VH1",
+      "origin_country": "US"
+    },
+    {
+      "id": 4330,
+      "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+      "name": "Paramount+",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 74,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "RuPaul's Drag Race All Stars: UNTUCKED",
+  "overview": "An access-all-areas pass to the drama that you didn't see on the runway. See what happens behind the scenes when the queens let their tucks breathe... and let their emotions flow.",
+  "popularity": 2.2582,
+  "poster_path": "/5LpE4jiIXtzt42I5NdE0blyeiwr.jpg",
+  "production_companies": [
+    {
+      "id": 1421,
+      "logo_path": "/uWCPDzKkQnOxQ5spgKpD8wzSIP1.png",
+      "name": "World of Wonder",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-10-23",
+      "episode_count": 6,
+      "id": 79531,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1r49l1Wk8hqZVOxzGx87lfZNvEV.jpg",
+      "season_number": 1,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2020-06-05",
+      "episode_count": 8,
+      "id": 152850,
+      "name": "Season 2",
+      "overview": "This season of Untucked featured the queens' backstage deliberation, a segment with the Lip Sync Assassin, their votes for the next eliminated queen, and a little interview of Michelle Visage and the eliminated queen.",
+      "poster_path": "/kiWCYn6Uuhcf0YpP2JRXH9CTai6.jpg",
+      "season_number": 2,
+      "vote_average": 0.0
+    },
+    {
+      "air_date": "2021-06-24",
+      "episode_count": 12,
+      "id": 201073,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/cZl4Bx7GlifYUema5qBqUpfrJJM.jpg",
+      "season_number": 3,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2022-05-20",
+      "episode_count": 12,
+      "id": 287515,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/tlOjdTndxslUXPTp2gdzsWlFb1P.jpg",
+      "season_number": 4,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2023-05-12",
+      "episode_count": 12,
+      "id": 340801,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/t3xTvkGxmscnccbeNbOQkREUzd3.jpg",
+      "season_number": 5,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2024-05-17",
+      "episode_count": 12,
+      "id": 391726,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/zUl6jP9W214XDKvm8dLXtKelTQz.jpg",
+      "season_number": 6,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2025-05-09",
+      "episode_count": 12,
+      "id": 451445,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/yaZav4zejCvrel7GIbWm90LXiiv.jpg",
+      "season_number": 7,
+      "vote_average": 7.1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.7,
+  "vote_count": 23,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78589,
+        "known_for_department": "Acting",
+        "name": "RuPaul",
+        "original_name": "RuPaul",
+        "popularity": 0.5045,
+        "profile_path": "/aqmub88LK5Cic8yZwwfcDqIQQqk.jpg",
+        "character": "Self - Narrator",
+        "credit_id": "6572445735c30a014ecadd86",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-MA"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "CA",
+        "rating": "14+"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "AU",
+        "rating": "MA 15+"
+      }
+    ]
+  }
+}

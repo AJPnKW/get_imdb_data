@@ -1,0 +1,79 @@
+[
+  {
+    "air_date": "2012-10-23",
+    "episode_count": 6,
+    "id": 79531,
+    "name": "Season 1",
+    "overview": "",
+    "poster_path": "/1r49l1Wk8hqZVOxzGx87lfZNvEV.jpg",
+    "season_number": 1,
+    "vote_average": 0.0,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/1r49l1Wk8hqZVOxzGx87lfZNvEV.jpg"
+  },
+  {
+    "air_date": "2020-06-05",
+    "episode_count": 8,
+    "id": 152850,
+    "name": "Season 2",
+    "overview": "This season of Untucked featured the queens' backstage deliberation, a segment with the Lip Sync Assassin, their votes for the next eliminated queen, and a little interview of Michelle Visage and the eliminated queen.",
+    "poster_path": "/kiWCYn6Uuhcf0YpP2JRXH9CTai6.jpg",
+    "season_number": 2,
+    "vote_average": 0.0,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/kiWCYn6Uuhcf0YpP2JRXH9CTai6.jpg"
+  },
+  {
+    "air_date": "2021-06-24",
+    "episode_count": 12,
+    "id": 201073,
+    "name": "Season 3",
+    "overview": "",
+    "poster_path": "/cZl4Bx7GlifYUema5qBqUpfrJJM.jpg",
+    "season_number": 3,
+    "vote_average": 7.3,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/cZl4Bx7GlifYUema5qBqUpfrJJM.jpg"
+  },
+  {
+    "air_date": "2022-05-20",
+    "episode_count": 12,
+    "id": 287515,
+    "name": "Season 4",
+    "overview": "",
+    "poster_path": "/tlOjdTndxslUXPTp2gdzsWlFb1P.jpg",
+    "season_number": 4,
+    "vote_average": 7.3,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/tlOjdTndxslUXPTp2gdzsWlFb1P.jpg"
+  },
+  {
+    "air_date": "2023-05-12",
+    "episode_count": 12,
+    "id": 340801,
+    "name": "Season 5",
+    "overview": "",
+    "poster_path": "/t3xTvkGxmscnccbeNbOQkREUzd3.jpg",
+    "season_number": 5,
+    "vote_average": 7.2,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/t3xTvkGxmscnccbeNbOQkREUzd3.jpg"
+  },
+  {
+    "air_date": "2024-05-17",
+    "episode_count": 12,
+    "id": 391726,
+    "name": "Season 6",
+    "overview": "",
+    "poster_path": "/zUl6jP9W214XDKvm8dLXtKelTQz.jpg",
+    "season_number": 6,
+    "vote_average": 6.9,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/zUl6jP9W214XDKvm8dLXtKelTQz.jpg"
+  },
+  {
+    "air_date": "2025-05-09",
+    "episode_count": 12,
+    "id": 451445,
+    "name": "Season 7",
+    "overview": "",
+    "poster_path": "/yaZav4zejCvrel7GIbWm90LXiiv.jpg",
+    "season_number": 7,
+    "vote_average": 7.1,
+    "_season_poster_url": "https://image.tmdb.org/t/p/w342/yaZav4zejCvrel7GIbWm90LXiiv.jpg"
+  }
+]

@@ -1,0 +1,230 @@
+{
+  "adult": false,
+  "backdrop_path": "/kIqHPqHOZ2awhZzdiWnXyFER20W.jpg",
+  "created_by": [
+    {
+      "id": 1230847,
+      "credit_id": "661e0f250816c70149ed7309",
+      "name": "Justin Spitzer",
+      "original_name": "Justin Spitzer",
+      "gender": 2,
+      "profile_path": "/7LiIHJLBv6Li1lmASD6mrigtKPo.jpg"
+    },
+    {
+      "id": 1241333,
+      "credit_id": "661e0f31ecaef5017cf8eb2b",
+      "name": "Eric Ledgin",
+      "original_name": "Eric Ledgin",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2024-11-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.nbc.com/st-denis-medical",
+  "id": 251941,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-29",
+  "last_episode_to_air": {
+    "id": 6014390,
+    "name": "This Place Is Our Everything",
+    "overview": "A storm causes chaos in the Emergency Department; Alex is torn between an obligation to her husband and her co-workers' needs; Joyce goes on a spending spree with found money.",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-04-29",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 1,
+    "show_id": 251941,
+    "still_path": "/3J3ghSoNn7eiYk0Ce4keTjYW2B8.jpg"
+  },
+  "name": "St. Denis Medical",
+  "next_episode_to_air": {
+    "id": 6414036,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "air_date": "2025-11-03",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 251941,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "St. Denis Medical",
+  "overview": "An eclectic group of underfunded yet dedicated doctors and nurses navigates caring for patients — and each other — while keeping it all together at an Oregon hospital.",
+  "popularity": 3.0652,
+  "poster_path": "/2LVXrQVsEzLlekzNmxZqKa06CV3.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 161301,
+      "logo_path": null,
+      "name": "Spitzer Holding Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-11-12",
+      "episode_count": 18,
+      "id": 388746,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2LVXrQVsEzLlekzNmxZqKa06CV3.jpg",
+      "season_number": 1,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2025-11-03",
+      "episode_count": 2,
+      "id": 454051,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.9,
+  "vote_count": 29,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1241333,
+        "known_for_department": "Writing",
+        "name": "Eric Ledgin",
+        "original_name": "Eric Ledgin",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "66b419e4f32dc1fe47363f32",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1230847,
+        "known_for_department": "Writing",
+        "name": "Justin Spitzer",
+        "original_name": "Justin Spitzer",
+        "popularity": 0.2688,
+        "profile_path": "/7LiIHJLBv6Li1lmASD6mrigtKPo.jpg",
+        "credit_id": "66b419ebb62be2e3f05438a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4873239,
+        "known_for_department": "Production",
+        "name": "Simon Heuer",
+        "original_name": "Simon Heuer",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "66b419f8615315bff76f1b05",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "content_ratings": {
+    "results": [
+      {
+        "descriptors": [],
+        "iso_3166_1": "US",
+        "rating": "TV-14"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "SG",
+        "rating": "M18"
+      },
+      {
+        "descriptors": [],
+        "iso_3166_1": "KR",
+        "rating": "12"
+      }
+    ]
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "external_ids": {
+    "imdb_id": "tt21433690",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 435916,
+    "tvrage_id": null,
+    "wikidata_id": "Q126082811",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "_poster_url": "https://image.tmdb.org/t/p/w500/2LVXrQVsEzLlekzNmxZqKa06CV3.jpg",
+  "_backdrop_url": "https://image.tmdb.org/t/p/w780/kIqHPqHOZ2awhZzdiWnXyFER20W.jpg",
+  "_providers": {
+    "providers_flatrate_CA": "Crave",
+    "providers_rent_CA": "",
+    "providers_buy_CA": "Apple TV",
+    "providers_ads_CA": "",
+    "providers_link_CA": "https://www.themoviedb.org/tv/251941-st-denis-medical/watch?locale=CA"
+  }
+}
